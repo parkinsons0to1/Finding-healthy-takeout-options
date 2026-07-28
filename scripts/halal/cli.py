@@ -23,36 +23,29 @@ import json
 import pathlib
 import sys
 
+from ..chains import store_index
+from ..geo.location import find_outlets, resolve_location
 from ..scrapers.base import session
 from ..scrapers.store import get_sink
 from .evidence import Status
 from .resolver import resolve
 from .sources import kfc_store_pages
 
+
+def cmd_build_index(args) -> int:
+    idx = store_index.BUILDERS[args.chain](session(), **(
+        {"limit": args.limit} if args.chain == "kfc" else {}))
+    path = store_index.save(idx)
+    halal = sum(1 for r in idx["stores"].values() if r.get("halal"))
+    print(f"{args.chain}: {idx['store_count']} stores ({halal} halal) -> {path}")
+    return 0
+
 DATA = pathlib.Path(__file__).resolve().parents[2] / "data"
 
-#: FHRS business names -> our chain ids, plus the KFC store slug where known.
-OUTLET_HINTS = {
-    "kfc": {"chain_id": "kfc", "store_slug": "sutton-high-street"},
-    "nando": {"chain_id": "nandos", "store_slug": "sutton-high-street"},
-    "mcdonalds": {"chain_id": "mcdonalds"},
-    "popeyes": {"chain_id": "popeyes"},
-    "german doner kebab": {"chain_id": "gdk"},
-    "burger king": {"chain_id": "burger_king"},
-    "nando's": {"chain_id": "nandos"},
-    "subway": {"chain_id": "subway"},
-    "taco bell": {"chain_id": "taco_bell"},
-    "greggs": {"chain_id": "greggs"},
-    "pret a manger": {"chain_id": "pret"},
-}
-
-
-def _hint(business_name: str) -> dict | None:
-    low = business_name.lower()
-    for key, hint in OUTLET_HINTS.items():
-        if key in low:
-            return hint
-    return None
+# Chain identification and branch matching are location-general: chains are
+# recognised by name (geo.location.identify_chain) and the specific branch is
+# matched from the outlet's coordinates against that chain's national store
+# index. Nothing here is tied to a particular town.
 
 
 def cmd_verify(args) -> int:
@@ -84,30 +77,45 @@ def cmd_resolve(args) -> int:
 
 
 def cmd_batch(args) -> int:
+    """Resolve every chain outlet near ANY postcode the user gives."""
     s = session()
     ok, _ = kfc_store_pages.verify_marker_discriminates(s)
     if not ok:
         print("KFC marker controls FAILED — aborting batch.", file=sys.stderr)
         return 1
 
-    with open(DATA / "phase0" / "outlets.csv", newline="") as f:
-        outlets = list(csv.DictReader(f))
+    loc = resolve_location(postcode=args.postcode, lat=args.lat, lng=args.lng, s=s)
+    if not loc:
+        print(f"could not resolve location: {args.postcode or (args.lat, args.lng)}",
+              file=sys.stderr)
+        return 1
+    print(f"location: {loc.get('postcode') or ''} "
+          f"({loc.get('district') or '?'}) {loc['lat']:.5f},{loc['lng']:.5f}")
+
+    outlets = find_outlets(loc["lat"], loc["lng"], args.radius, s)
+    chains = [o for o in outlets if o["kind"] == "chain"]
+    print(f"{len(outlets)} outlets within {args.radius}mi, {len(chains)} chain outlets\n")
 
     rows = []
-    for o in outlets:
-        hint = _hint(o["business_name"])
-        if not hint:
-            continue
-        outlet = {"name": o["business_name"], "lat": float(o["lat"]) if o["lat"] else None,
-                  "lng": float(o["lng"]) if o["lng"] else None, **hint}
+    for o in chains:
+        outlet = {"name": o["business_name"], "chain_id": o["chain_id"],
+                  "lat": o["lat"], "lng": o["lng"], "postcode": o["postcode"],
+                  "address": o["address"]}
         res = resolve(s, outlet)
         row = res.to_row()
-        row["address"] = o["address"]
-        row["distance_miles"] = o["distance_miles"]
+        row.update(address=o["address"], distance_miles=o["distance_miles"],
+                   postcode=o["postcode"])
         rows.append(row)
-        print(f"  {o['business_name'][:30]:30s} -> {res.status:11s} ({res.tier.name.lower()})")
+        print(f"  {o['business_name'][:32]:32s} {o['distance_miles']:>5}mi -> "
+              f"{res.status:11s} ({res.tier.name.lower()})")
 
-    out = DATA / "phase0" / "halal_status.csv"
+    if not rows:
+        print("no chain outlets to resolve here")
+        return 0
+
+    out = pathlib.Path(args.out) if args.out else (
+        DATA / "halal" / f"{(loc.get('postcode') or 'location').replace(' ', '')}.csv")
+    out.parent.mkdir(parents=True, exist_ok=True)
     with open(out, "w", newline="") as f:
         w = csv.DictWriter(f, fieldnames=list(rows[0].keys()))
         w.writeheader()
@@ -174,7 +182,18 @@ def main() -> int:
     r.add_argument("--lng", type=float)
     r.set_defaults(fn=cmd_resolve)
 
-    sub.add_parser("batch").set_defaults(fn=cmd_batch)
+    b = sub.add_parser("batch", help="resolve every chain outlet near a location")
+    b.add_argument("--postcode", help="any UK postcode")
+    b.add_argument("--lat", type=float, help="or coordinates from the browser")
+    b.add_argument("--lng", type=float)
+    b.add_argument("--radius", type=float, default=1.0, help="miles (default 1)")
+    b.add_argument("--out", help="output CSV path")
+    b.set_defaults(fn=cmd_batch)
+
+    i = sub.add_parser("build-index", help="build a chain's national store index")
+    i.add_argument("chain", choices=sorted(store_index.BUILDERS))
+    i.add_argument("--limit", type=int, default=0)
+    i.set_defaults(fn=cmd_build_index)
 
     k = sub.add_parser("kfc-registry")
     k.add_argument("--limit", type=int, default=0)

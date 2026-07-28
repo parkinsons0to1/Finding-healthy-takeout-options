@@ -23,8 +23,10 @@ from __future__ import annotations
 
 import dataclasses
 
+from ..chains import store_index
 from .evidence import Evidence, Status, Tier
-from .sources import chain_policy, hmc_registry, kfc_store_pages, nandos_halal_list
+from .sources import (chain_policy, hmc_registry, just_eat, kfc_store_pages,
+                      nandos_halal_list)
 
 
 @dataclasses.dataclass
@@ -56,11 +58,33 @@ class Resolution:
 
 
 #: chain_id -> callable(session, outlet) -> Evidence, for per-outlet sources.
+def _resolve_slug(chain_id: str, outlet: dict) -> str | None:
+    """Find this chain's own branch record for wherever the outlet actually is.
+
+    Never hardcode a slug: the user could be anywhere in the country, so the
+    branch is matched from the outlet's coordinates (or postcode) against the
+    chain's national store index.
+    """
+    if outlet.get("store_slug"):
+        return outlet["store_slug"]
+    lat, lng = outlet.get("lat"), outlet.get("lng")
+    if lat is not None and lng is not None:
+        rec = store_index.nearest_store(chain_id, float(lat), float(lng))
+        if rec:
+            return rec["slug"]
+    if outlet.get("postcode"):
+        rec = store_index.find_by_postcode(chain_id, outlet["postcode"])
+        if rec:
+            return rec["slug"]
+    return None
+
+
 PER_OUTLET_SOURCES = {
-    "kfc": lambda s, o: kfc_store_pages.check_slug(s, o["store_slug"])
-    if o.get("store_slug") else None,
+    "kfc": lambda s, o: (
+        kfc_store_pages.check_slug(s, slug)
+        if (slug := _resolve_slug("kfc", o)) else None),
     "nandos": lambda s, o: nandos_halal_list.check_outlet(
-        s, o.get("name", ""), o.get("address", ""), o.get("store_slug")),
+        s, o.get("name", ""), o.get("address", ""), _resolve_slug("nandos", o)),
 }
 
 
@@ -79,6 +103,10 @@ def resolve(session, outlet: dict) -> Resolution:
     if outlet.get("lat") is not None and outlet.get("lng") is not None:
         evidence.append(hmc_registry.check_outlet(
             session, name, outlet["lat"], outlet["lng"]))
+
+    if outlet.get("postcode"):
+        evidence.append(just_eat.check_outlet(
+            session, name, outlet["postcode"], outlet.get("address", "")))
 
     evidence.append(chain_policy.check_chain(chain_id))
 
