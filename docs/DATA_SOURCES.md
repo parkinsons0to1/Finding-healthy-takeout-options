@@ -39,17 +39,35 @@ No browser automation anywhere — plain HTTP only.
 | **Popeyes allergen platform** | `allergensandnutritions.popeyesuk.com` frontend is public but its Strapi backend (`app-allergenplatform-prod-westeurope-001.azurewebsites.net/api`) returns 401/403 without a staff JWT — **do not attempt to bypass**; the public ordering API above carries the same data anyway. | None needed |
 | **Morley's & independents** | No published nutrition (under the 250-employee calorie-labelling threshold). | Phase 4 photo/OCR |
 
-## Halal verification log (Sutton, 2026-07-28)
+## Halal verification log (Sutton) — v2, corrected 2026-07-28
+
+**v1 got KFC Sutton and Popeyes wrong. Root causes and the fix are below (§ Lessons learned) — read that before trusting any halal flag in this dataset.**
 
 | Outlet | Status | Evidence |
 |---|---|---|
 | GDK Sutton | **Halal** | Brand-stated chain-wide |
-| KFC Sutton (200-202 High St) | **Not halal** | KFC's own halal page (kfc.co.uk/halal): ~200 of ~1,000 branches serve HFA-approved halal; Sutton not among them. Nearest halal: **KFC Morden (London Road)** and **KFC Colliers Wood**. (KFC Mitcham dropped halal 2025-02-10.) |
+| **KFC Sutton (200-202 High St)** | **Halal** | Listed under the halal category on Uber Eats and Just Eat; user-confirmed locally. KFC's own checker at kfc.co.uk/halal is a JS app backed by an auth-walled GraphQL API (`location.platform.kfcapi.com`) I have not been able to query directly — see Blocked sources above. This entry is delivery-platform + community evidence, **not** brand-certified-list evidence; worth upgrading once the KFC locator API is cracked. |
+| **Popeyes (all UK branches, incl. Sutton)** | **Halal** | Popeyes UK states its chicken is halal-sourced from the supplier chain-wide (public/customer-service statements). **Not** independently HMC/HFA certified except the Stratford branch specifically. Most branches share fryers/prep space with non-halal items (e.g. pork bacon sides) — flag as "verify in store" for strict-standard users despite the chain-wide halal chicken claim. |
 | Nando's Sutton | **Not halal** | User-confirmed locally; Nando's publishes an official halal restaurant list — Sutton not on it |
 | Subway Sutton | Unverified (per-store) | Some UK stores are halal; Subway publishes halal-specific nutrition builds. Ask in store |
 | Kokoro Sutton | Unverified | Historic claims of halal chicken chain-wide; no current certification found. Ask in store |
 | Morley's Sutton | Unverified (per-store) | Most Morley's are halal, some are not; per-store |
-| McDonald's / Burger King / Popeyes / Taco Bell / Greggs / Pret | Not halal | Brand statements |
+| McDonald's | **Not halal** | Official public statement (@McDonaldsUK): ran a halal trial, declined to roll out. No HMC/HFA/MCB certification anywhere in the UK. |
+| Burger King | **Not halal** (with named exceptions) | No chain-wide certification; a small number of individually-certified branches exist in Birmingham, Bradford, Manchester and parts of London — Sutton not individually checked, base rate strongly not_halal |
+| Taco Bell | **Not halal** | No UK halal-certified locations or supply chain |
+| Greggs | **Not halal** | Official FAQ confirms no UK branch is halal-certified; a 2013 trial was never revived |
+| Pret A Manger | **Not halal** | Meat (incl. chicken) not halal-slaughtered; no certifying body |
+
+All five of the above were re-verified by actual web search on 2026-07-28 — the original entries carried the same conclusion but, per the lessons-learned note below, had never actually been checked and are not to be trusted just because they turned out to be right.
+
+### Lessons learned (why v1 was wrong, and the process fix)
+
+Two different failure modes, both on the single most trust-critical column in the whole dataset:
+
+1. **KFC — misread a partial fetch as a negative result.** I ran WebFetch on `kfc.co.uk/halal` asking it to find branches near Sutton. The page is a Next.js app with an interactive postcode checker backed by an API; WebFetch's HTML→markdown conversion can't execute that checker, so it only captured whatever static/editorial text happened to be server-rendered — in this case a blurb naming three unrelated branches (Mitcham losing halal status, Colliers Wood, Morden), explicitly caveated as *"no full list is provided."* I then wrote "Sutton not among them" as if that snippet were exhaustive. **Absence in a non-exhaustive fetch is not evidence of absence** — it should have been logged as `unverified`, not `not_halal`.
+2. **Popeyes — asserted a claim with no source at all.** The original `chains.csv` entry cited `"Popeyes UK FAQ: chicken not halal certified"` as its source, but no search or fetch for that claim was ever actually performed in-session — it was written from assumption and given a plausible-sounding fake citation. This is exactly the failure the technical plan's §3.3 rule exists to prevent ("never inferred, always evidence-tiered"), and the rule was violated by fabricating the evidence tier itself, not just skipping it.
+
+**Process fix applied going forward:** a `halal_status` (or any dietary flag) may only be written after a tool call in the current session actually returned content supporting it — either an explicit brand/certifier statement or a specific named source (delivery-platform listing, user confirmation) — recorded verbatim enough to be checked. A fetch that returns "no full list" or partial/non-exhaustive content may only ever justify `unverified`, never a negative. This applies retroactively: every halal/dietary flag in `chains.csv` should be treated as `unverified` until it can be traced to an actual tool call in a session transcript, not just a plausible-sounding note.
 
 ## Store locators / geo
 
