@@ -1,13 +1,13 @@
 chain_id,name,halal_status,evidence_tier,halal_source
 gdk,German Doner Kebab,halal,brand-stated (chain-wide),GDK states all meat is halal chain-wide — verify on gdk.com FAQ
-kfc,KFC,unverified,none for Sutton,KFC publishes an official halal branch list at kfc.co.uk — Sutton High St NOT confirmed on it; check before relying
-nandos,Nando's,unverified,none for Sutton,Nando's publishes official halal restaurant list — Sutton not known to be on it
+kfc,KFC,not_halal,brand-page (kfc.co.uk/halal),Sutton not a halal branch per KFC halal page; nearest halal: KFC Morden (London Road) & Colliers Wood. ~200/1000 branches are HFA-approved.
+nandos,Nando's,not_halal,user-confirmed + brand list,Sutton not on Nando's official halal restaurant list (user-confirmed locally 2026-07)
 mcdonalds,McDonald's,not_halal,brand-stated,McDonald’s UK FAQ: no halal-certified food in UK restaurants
 burger_king,Burger King,not_halal,brand-stated,BK UK: not halal certified
 popeyes,Popeyes UK,not_halal,brand-stated,Popeyes UK FAQ: chicken not halal certified
-subway,Subway,unverified,store-dependent,Some UK Subway stores are halal — status is per-store; ask in store
+subway,Subway,unverified,store-dependent,Some UK stores halal; Subway publishes separate HALAL nutrition builds in its official PDF. Ask in store
 taco_bell,Taco Bell,not_halal,brand-stated,Taco Bell UK: not halal
 greggs,Greggs,not_halal,brand-stated,Greggs: not halal certified
 morleys,Morley's,unverified,store-dependent,"Many Morley's branches serve halal chicken; per-store, ask in store. NOTE: no published nutrition (chain under 250 employees — calorie-labelling law does not apply). Phase 4 photo/OCR candidate."
-kokoro,Kokoro,unverified,store-dependent,Some Kokoro sites state halal chicken; verify in store
+kokoro,Kokoro,unverified,community (conflicting),Historic claims of chain-wide halal chicken; no current certification found — ask in store
 pret,Pret A Manger,not_halal,brand-stated,Pret: not halal certified
