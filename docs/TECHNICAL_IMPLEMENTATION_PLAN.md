@@ -219,4 +219,25 @@ The search space is tiny — enumerate, don't optimise cleverly. Tesco: ~400 mai
 
 ---
 
-*Next step after this plan: Phase 0 — pick the postcode and the first three chains, and build the hand-rolled dataset that proves the ranking.*
+---
+
+## 9. Build status (2026-07-28)
+
+Phases 0–4 are implemented and running. What changed against the plan as written:
+
+| Phase | Status | Notes |
+|---|---|---|
+| **0** — prove the metric | ✅ | Built for SM1 4FR, then rebased on scraped data. Two lessons: hand estimates are wrong at the filter boundary (KFC tenders actually pass at 42%), and a halal flag written without a real source shipped a wrong answer. See [Phase 0 results](PHASE0_SM1_4FR_RESULTS.md). |
+| **1** — chain adapters | ✅ nutrition / ⏳ prices | Five chains scraped over plain HTTP, no Playwright — the plan assumed a browser would be needed; only Popeyes required bundle inspection to find the API. Per-outlet **prices** remain the real gap: chain ordering APIs need sessions or app auth. |
+| **2** — supermarket meal deals | ✅ optimiser / ⏳ eligibility | Bundle optimiser is exact (enumeration over top-N per slot). Open Food Facts supplies nutrition but not deal eligibility. |
+| **3** — query + scoring | ✅ | `score_version 1.0`, with near-miss surfacing and per-branch dedupe. |
+| **4** — web app | ✅ | Stdlib server + vanilla front end rather than Next.js/Vercel: the pipeline was the risk, not the framework. The JSON contract is unchanged, so the production front end can swap in. |
+| **5** — long tail (photo/OCR) | ⏳ | Unstarted. Independents publish nothing, and near SM1 4FR they outnumber chains ~12:1. |
+
+**Two design decisions the plan didn't anticipate:**
+
+1. **Halal needed its own subsystem**, not a column. There is no halal API to call, and the authoritative data is per-outlet on brand store pages. The resolver and its `can_prove_negative` rule are documented in [halal verification design](HALAL_VERIFICATION_DESIGN.md) — that rule is the direct fix for the Phase 0 error and makes the same class of mistake structurally impossible.
+
+2. **National store indexes are load-bearing.** §3.5 treated store locators as a way to find shops; they're also how a *user anywhere* gets matched to the right branch for halal and pricing. Hardcoding a branch slug (which happened briefly during Phase 1) would have shown a user in Manchester the Sutton KFC's halal status.
+
+*Next: per-outlet price adapters — the last estimated column, and the one that moves the ranking most.*
