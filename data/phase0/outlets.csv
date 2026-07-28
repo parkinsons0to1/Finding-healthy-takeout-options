@@ -1,0 +1,25 @@
+chain_id,business_name,kind,address,lat,lng,distance_miles,fhrs_rating,fhrs_id,source,fetched_at
+nandos,Nando's,chain,"9 - 11 High Street, Sutton, SM1 1DF",51.360122,-0.191756,0.05,5,20795,FSA FHRS API,2026-07-28
+burger_king,Burger King,chain,"17 High Street, Sutton, SM1 1DF",51.360074,-0.191981,0.06,5,1544011,FSA FHRS API,2026-07-28
+subway,Subway,chain,"42 High Street, Sutton, SM1 1HF",51.360844,-0.191707,0.07,5,842019,FSA FHRS API,2026-07-28
+gdk,German Doner Kebab,chain,"58 High Street, Sutton, SM1 1EZ",51.3616194,-0.1919548,0.12,4,1265944,FSA FHRS API,2026-07-28
+greggs,Greggs PLC,chain,"74 High Street, Sutton, SM1 1EZ",51.3619721,-0.1920846,0.14,5,1863253,FSA FHRS API,2026-07-28
+pret,Pret A Manger,chain,"86 High Street, Sutton, SM1 1EX",51.362463,-0.192361,0.18,5,1721303,FSA FHRS API,2026-07-28
+popeyes,Popeyes,chain,"137 - 143 High Street, Sutton, SM1 1JH",51.3641749,-0.1938079,0.31,5,1784881,FSA FHRS API,2026-07-28
+kokoro,Kokoro,chain,"162 High Street, Sutton, SM1 1LX",51.364422,-0.193362,0.32,5,739807,FSA FHRS API,2026-07-28
+mcdonalds,McDonalds,chain,"168 - 172 High Street, Sutton, SM1 1NL",51.3651343,-0.1936265,0.37,5,1658796,FSA FHRS API,2026-07-28
+kfc,KFC,chain,"200-202 High Street, Sutton, SM1 1NR",51.365914,-0.193921,0.42,5,20807,FSA FHRS API,2026-07-28
+greggs,Greggs,chain,"194 - 196 High Street, Sutton, SM1 1NR",51.365831,-0.1939007,0.42,5,1035451,FSA FHRS API,2026-07-28
+taco_bell,Taco Bell,chain,"211 High Street, Sutton, SM1 1JU",51.3660749,-0.194552,0.44,5,1196313,FSA FHRS API,2026-07-28
+morleys,Morley's,chain,"362 High Street, Sutton, SM1 1QE",51.370887,-0.194558,0.76,5,877464,FSA FHRS API,2026-07-28
+marks,Marks And Spencer Simply Foods,supermarket,"Platform 1 Cafe, Sutton Railway Station, SM1 1JA",51.3594923,-0.1910619,0.05,5,730587,FSA FHRS API,2026-07-28
+sainsburys,Sainsburys,supermarket,"1 High Street, Sutton, SM1 1DF",51.3595007,-0.1916074,0.06,5,1961531,FSA FHRS API,2026-07-28
+lidl,Lidl,supermarket,"78 - 82 High Street, Sutton, SM1 1EZ",51.361829,-0.192027,0.13,5,1917348,FSA FHRS API,2026-07-28
+tesco,Tesco,supermarket,"14 - 17 Regent Parade, Brighton Road, SM2 5BQ",51.3581744,-0.1913292,0.14,5,898526,FSA FHRS API,2026-07-28
+boots,Boots UK Ltd,supermarket,"105-111 High Street, Sutton, SM1 1JG",51.3633079528809,-0.193507999181747,0.25,5,898574,FSA FHRS API,2026-07-28
+marks,Marks And Spencer,supermarket,"144 - 146 High Street, Sutton, SM1 1NQ",51.3641763,-0.1932568,0.3,5,745039,FSA FHRS API,2026-07-28
+tesco,Tesco,supermarket,"10 Lower Road, Sutton, SM1 4QW",51.365515,-0.185,0.45,5,781592,FSA FHRS API,2026-07-28
+asda,Asda,supermarket,"229 High Street, Sutton, SM1 1LD",51.367859,-0.195252,0.57,5,570869,FSA FHRS API,2026-07-28
+lidl,Lidl,supermarket,"262-270 High Street, Sutton, SM1 1PG",51.3680304,-0.1946276,0.57,5,1389518,FSA FHRS API,2026-07-28
+sainsburys,Sainsbury's,supermarket,"287A High Street, Sutton, SM1 1LD",51.367858,-0.195251,0.57,5,928736,FSA FHRS API,2026-07-28
+coop,The Co-Operative,supermarket,"89-91 Banstead Road, Carshalton, SM5 3NP",51.3567736,-0.1735027,0.78,5,877449,FSA FHRS API,2026-07-28

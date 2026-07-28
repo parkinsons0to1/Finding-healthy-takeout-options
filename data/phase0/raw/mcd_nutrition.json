@@ -1,0 +1,407 @@
+[
+ {
+  "id": "200024",
+  "name": "Crispy BBQ & Bacon Wrap",
+  "kcal": "477",
+  "protein_g": "23",
+  "carbs_g": "54",
+  "fat_g": "18",
+  "salt_g": "2.1"
+ },
+ {
+  "id": "200025",
+  "name": "Breakfast Wrap with Brown Sauce",
+  "kcal": "666",
+  "protein_g": "35",
+  "carbs_g": "53",
+  "fat_g": "34",
+  "salt_g": "2.3"
+ },
+ {
+  "id": "200049",
+  "name": "Filet-O-Fish",
+  "kcal": "316",
+  "protein_g": "14",
+  "carbs_g": "36",
+  "fat_g": "13",
+  "salt_g": "1.4"
+ },
+ {
+  "id": "200078",
+  "name": "Crispy Sweet Chilli Chicken Wrap",
+  "kcal": "453",
+  "protein_g": "21",
+  "carbs_g": "53",
+  "fat_g": "16",
+  "salt_g": "1.9"
+ },
+ {
+  "id": "200080",
+  "name": "Breakfast Wrap with Ketchup",
+  "kcal": "661",
+  "protein_g": "35",
+  "carbs_g": "52",
+  "fat_g": "34",
+  "salt_g": "2.6"
+ },
+ {
+  "id": "200124",
+  "name": "Bacon & Egg McMuffin",
+  "kcal": "336",
+  "protein_g": "20",
+  "carbs_g": "27",
+  "fat_g": "16",
+  "salt_g": "1.4"
+ },
+ {
+  "id": "200125",
+  "name": "Double Bacon & Egg McMuffin",
+  "kcal": "377",
+  "protein_g": "24",
+  "carbs_g": "27",
+  "fat_g": "19",
+  "salt_g": "1.8"
+ },
+ {
+  "id": "200127",
+  "name": "Double Sausage & Egg McMuffin",
+  "kcal": "552",
+  "protein_g": "36",
+  "carbs_g": "28",
+  "fat_g": "33",
+  "salt_g": "2.3"
+ },
+ {
+  "id": "200131",
+  "name": "Pancakes & Sausage with Syrup",
+  "kcal": "592",
+  "protein_g": "19",
+  "carbs_g": "99",
+  "fat_g": "12",
+  "salt_g": "2.1"
+ },
+ {
+  "id": "200132",
+  "name": "Pancakes & Syrup",
+  "kcal": "464",
+  "protein_g": "9.0",
+  "carbs_g": "98",
+  "fat_g": "3.2",
+  "salt_g": "1.4"
+ },
+ {
+  "id": "200148",
+  "name": "Melon Chunks",
+  "kcal": "17",
+  "protein_g": "0.5",
+  "carbs_g": "3.4",
+  "fat_g": "0.1",
+  "salt_g": "0.02"
+ },
+ {
+  "id": "200151",
+  "name": "Shaker Side Salad",
+  "kcal": "58",
+  "protein_g": "1.2",
+  "carbs_g": "3.8",
+  "fat_g": "4.0",
+  "salt_g": "0.14"
+ },
+ {
+  "id": "200153",
+  "name": "Hash Brown",
+  "kcal": "127",
+  "protein_g": "1.1",
+  "carbs_g": "13",
+  "fat_g": "7.4",
+  "salt_g": "0.64"
+ },
+ {
+  "id": "200159",
+  "name": "Flahavan's Quick Oats",
+  "kcal": "194",
+  "protein_g": "9.0",
+  "carbs_g": "28",
+  "fat_g": "4.3",
+  "salt_g": "0.26"
+ },
+ {
+  "id": "200161",
+  "name": "Cheesy Bacon Flatbread",
+  "kcal": "280",
+  "protein_g": "14",
+  "carbs_g": "28",
+  "fat_g": "12",
+  "salt_g": "1.5"
+ },
+ {
+  "id": "200169",
+  "name": "Egg & Cheese McMuffin",
+  "kcal": "296",
+  "protein_g": "15",
+  "carbs_g": "27",
+  "fat_g": "14",
+  "salt_g": "0.96"
+ },
+ {
+  "id": "200170",
+  "name": "Sausage & Egg McMuffin",
+  "kcal": "424",
+  "protein_g": "25",
+  "carbs_g": "27",
+  "fat_g": "23",
+  "salt_g": "1.6"
+ },
+ {
+  "id": "200172",
+  "name": "Mayo Chicken",
+  "kcal": "282",
+  "protein_g": "12",
+  "carbs_g": "36",
+  "fat_g": "9.4",
+  "salt_g": "0.92"
+ },
+ {
+  "id": "200211",
+  "name": "Big Mac",
+  "kcal": "509",
+  "protein_g": "27",
+  "carbs_g": "41",
+  "fat_g": "25",
+  "salt_g": "2.0"
+ },
+ {
+  "id": "200212",
+  "name": "Quarter Pounder with Cheese",
+  "kcal": "514",
+  "protein_g": "31",
+  "carbs_g": "36",
+  "fat_g": "27",
+  "salt_g": "2.3"
+ },
+ {
+  "id": "200216",
+  "name": "Double Cheeseburger",
+  "kcal": "452",
+  "protein_g": "27",
+  "carbs_g": "31",
+  "fat_g": "24",
+  "salt_g": "2.1"
+ },
+ {
+  "id": "200219",
+  "name": "McChicken Sandwich",
+  "kcal": "371",
+  "protein_g": "17",
+  "carbs_g": "41",
+  "fat_g": "15",
+  "salt_g": "1.2"
+ },
+ {
+  "id": "200225",
+  "name": "Crispy Chicken & Bacon Salad",
+  "kcal": "401",
+  "protein_g": "26",
+  "carbs_g": "25",
+  "fat_g": "21",
+  "salt_g": "1.7"
+ },
+ {
+  "id": "200226",
+  "name": "Crispy Chicken Salad",
+  "kcal": "355",
+  "protein_g": "21",
+  "carbs_g": "24",
+  "fat_g": "18",
+  "salt_g": "1.3"
+ },
+ {
+  "id": "200230",
+  "name": "Hamburger",
+  "kcal": "255",
+  "protein_g": "13",
+  "carbs_g": "29",
+  "fat_g": "9.2",
+  "salt_g": "1.1"
+ },
+ {
+  "id": "200235",
+  "name": "Cheeseburger",
+  "kcal": "303",
+  "protein_g": "16",
+  "carbs_g": "30",
+  "fat_g": "13",
+  "salt_g": "1.4"
+ },
+ {
+  "id": "200318",
+  "name": "Porridge with Sugar",
+  "kcal": "166",
+  "protein_g": "7.8",
+  "carbs_g": "26",
+  "fat_g": "3.0",
+  "salt_g": "0.17"
+ },
+ {
+  "id": "200320",
+  "name": "Porridge with Strawberry Jam",
+  "kcal": "233",
+  "protein_g": "9.0",
+  "carbs_g": "37",
+  "fat_g": "4.3",
+  "salt_g": "0.26"
+ },
+ {
+  "id": "200324",
+  "name": "Porridge with Golden Syrup",
+  "kcal": "326",
+  "protein_g": "9.0",
+  "carbs_g": "61",
+  "fat_g": "4.3",
+  "salt_g": "0.26"
+ },
+ {
+  "id": "200344",
+  "name": "Double Quarter Pounder with Cheese",
+  "kcal": "749",
+  "protein_g": "50",
+  "carbs_g": "36",
+  "fat_g": "44",
+  "salt_g": "2.8"
+ },
+ {
+  "id": "200425",
+  "name": "Muffin & Jam",
+  "kcal": "214",
+  "protein_g": "5.5",
+  "carbs_g": "35",
+  "fat_g": "5.6",
+  "salt_g": "0.44"
+ },
+ {
+  "id": "200473",
+  "name": "McPlant",
+  "kcal": "426",
+  "protein_g": "19",
+  "carbs_g": "40",
+  "fat_g": "20",
+  "salt_g": "2.1"
+ },
+ {
+  "id": "200488",
+  "name": "Porridge",
+  "kcal": "154",
+  "protein_g": "7.8",
+  "carbs_g": "23",
+  "fat_g": "3.0",
+  "salt_g": "0.17"
+ },
+ {
+  "id": "200490",
+  "name": "McCrispy\u00ae",
+  "kcal": "484",
+  "protein_g": "26",
+  "carbs_g": "53",
+  "fat_g": "18",
+  "salt_g": "1.9"
+ },
+ {
+  "id": "200659",
+  "name": "Sausage Sandwich with Ketchup",
+  "kcal": "327",
+  "protein_g": "18",
+  "carbs_g": "30",
+  "fat_g": "15",
+  "salt_g": "1.7"
+ },
+ {
+  "id": "200660",
+  "name": "Sausage Sandwich with Brown Sauce",
+  "kcal": "330",
+  "protein_g": "17",
+  "carbs_g": "31",
+  "fat_g": "15",
+  "salt_g": "1.6"
+ },
+ {
+  "id": "200663",
+  "name": "Double Filet-O-Fish\u00ae",
+  "kcal": "453",
+  "protein_g": "24",
+  "carbs_g": "45",
+  "fat_g": "19",
+  "salt_g": "2.1"
+ },
+ {
+  "id": "200665",
+  "name": "Big Arch",
+  "kcal": "1057",
+  "protein_g": "57",
+  "carbs_g": "54",
+  "fat_g": "67",
+  "salt_g": "4.1"
+ },
+ {
+  "id": "200737",
+  "name": "The Tikka Chicken One - Crispy",
+  "kcal": "455",
+  "protein_g": "21",
+  "carbs_g": "50",
+  "fat_g": "18",
+  "salt_g": "1.8"
+ },
+ {
+  "id": "200781",
+  "name": "Cheese & Bacon McCrispy\u00ae",
+  "kcal": "578",
+  "protein_g": "33",
+  "carbs_g": "55",
+  "fat_g": "24",
+  "salt_g": "2.7"
+ },
+ {
+  "id": "200783",
+  "name": "Spicy McCrispy\u00ae",
+  "kcal": "486",
+  "protein_g": "26",
+  "carbs_g": "53",
+  "fat_g": "18",
+  "salt_g": "2.0"
+ },
+ {
+  "id": "200811",
+  "name": "Big Arch\u00ae with Bacon",
+  "kcal": "1103",
+  "protein_g": "62",
+  "carbs_g": "54",
+  "fat_g": "70",
+  "salt_g": "4.5"
+ },
+ {
+  "id": "200812",
+  "name": "Hot Honey McCrispy\u00ae",
+  "kcal": "624",
+  "protein_g": "36",
+  "carbs_g": "66",
+  "fat_g": "23",
+  "salt_g": "2.9"
+ },
+ {
+  "id": "200821",
+  "name": "Hot Honey Sausage & Egg McMuffin\u00ae",
+  "kcal": "412",
+  "protein_g": "25",
+  "carbs_g": "35",
+  "fat_g": "19",
+  "salt_g": "1.7"
+ },
+ {
+  "id": "200822",
+  "name": "Hot Honey Double Sausage & Egg McMuffin\u00ae",
+  "kcal": "540",
+  "protein_g": "36",
+  "carbs_g": "35",
+  "fat_g": "28",
+  "salt_g": "2.4"
+ }
+]

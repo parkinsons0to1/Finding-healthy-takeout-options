@@ -1,0 +1,7 @@
+rule_id,chain_id,scope,item_matcher,type,value,conditions,source,last_verified
+gdk_app_first,gdk,item,The Original German Doner Kebab,percent,50,first_order;requires_app,GDK app promo (user-reported 2026-07),2026-07-28 user-reported — verify in app
+popeyes_app_first,popeyes,order,*,percent,20,first_order;requires_app,Popeyes UK app promo (user-reported 2026-07),2026-07-28 user-reported — verify in app
+subway_sb_student,subway,order,*,percent,10,student_platform:studentbeans,Student Beans listing (rotates),needs verification
+kfc_app_deals,kfc,order,rotating,various,,requires_app,KFC app rotating deals (e.g. bucket bundles) — often the cheapest protein/£ in town,needs verification
+mcd_app_deals,mcdonalds,order,rotating,various,,requires_app,McDonald's app daily deals + Rewards points,needs verification
+greggs_app_signup,greggs,item,hot drink,percent,100,first_order;requires_app,Greggs app free hot drink on signup,needs verification
