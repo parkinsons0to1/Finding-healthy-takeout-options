@@ -3,3 +3,5 @@ pdfplumber>=0.11
 cffi>=1.16
 # optional, for the Firestore sink:
 # firebase-admin>=6.5
+# dev only, for screenshots:
+# playwright>=1.40
