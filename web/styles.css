@@ -118,3 +118,10 @@ output { color: var(--text); font-weight: 600; }
   .card { grid-template-columns: 30px 1fr; }
   .score { grid-column: 2; text-align: left; margin-top: 6px; }
 }
+
+/* Place disambiguation ("St Ives" matches three towns) */
+.btn.place { display: block; width: 100%; text-align: left; margin-bottom: 8px; }
+.btn.place:hover { border-color: var(--accent); background: var(--panel-2); }
+.empty strong { color: var(--text); }
+.empty p { margin: 8px 0; }
+.empty .btn { margin-top: 6px; }

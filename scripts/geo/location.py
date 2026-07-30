@@ -18,6 +18,10 @@ from ..scrapers.base import session
 
 POSTCODES_API = "https://api.postcodes.io/postcodes/{postcode}"
 POSTCODES_REVERSE = "https://api.postcodes.io/postcodes"
+PLACES_API = "https://api.postcodes.io/places"
+
+#: A UK postcode, loosely — enough to tell "SM1 4FR" from "St Ives Cornwall".
+_POSTCODE_RE = re.compile(r"^[A-Z]{1,2}\d[A-Z\d]?\s*\d[A-Z]{2}$", re.I)
 FHRS_API = "https://api.ratings.food.gov.uk/Establishments"
 FHRS_HEADERS = {"x-api-version": "2", "Accept": "application/json"}
 
@@ -101,6 +105,61 @@ def reverse_geocode(lat: float, lng: float, s=None) -> dict | None:
             "lng": res.get("longitude"), "district": res.get("admin_district")}
 
 
+def looks_like_postcode(text: str) -> bool:
+    return bool(_POSTCODE_RE.match(text.strip()))
+
+
+def search_places(query: str, s=None, limit: int = 8) -> list[dict]:
+    """Place-name lookup, e.g. "St Ives" or "St Ives Cornwall".
+
+    Place names are genuinely ambiguous — there are three St Ives (Cornwall,
+    Cambridgeshire, Dorset) — so this returns all candidates and lets the
+    caller disambiguate rather than silently picking one. A user sent to the
+    wrong St Ives gets a confidently wrong answer about food 300 miles away.
+
+    A trailing county in the query ("St Ives Cornwall") is used to rank, since
+    postcodes.io matches on the place name alone.
+    """
+    s = s or session()
+    text = query.strip()
+    try:
+        r = s.get(PLACES_API, params={"q": text, "limit": 20}, timeout=25)
+        results = (r.json() or {}).get("result") or []
+    except Exception:
+        return []
+    if not results:
+        # Retry on the leading words alone, so "St Ives Cornwall" still matches
+        # the place "St Ives".
+        words = text.split()
+        if len(words) > 1:
+            try:
+                r = s.get(PLACES_API, params={"q": " ".join(words[:-1]), "limit": 20},
+                          timeout=25)
+                results = (r.json() or {}).get("result") or []
+            except Exception:
+                return []
+    if not results:
+        return []
+
+    qualifier = text.lower()
+    places = [{
+        "name": p.get("name_1"),
+        "county": p.get("county_unitary") or p.get("region"),
+        "region": p.get("region"),
+        "lat": p.get("latitude"), "lng": p.get("longitude"),
+    } for p in results]
+    for p in places:
+        p.pop("challenge_placeholder", None)
+        county = (p["county"] or "").lower()
+        p["label"] = f"{p['name']}, {p['county']}" if p["county"] else p["name"]
+        # Rank a place higher when its county was named in the query.
+        p["_score"] = 1 if county and county.split(",")[0] in qualifier else 0
+    places.sort(key=lambda p: p["_score"], reverse=True)
+    for p in places:
+        p.pop("_score", None)
+    return places[:limit]
+
+
 def find_outlets(lat: float, lng: float, radius_miles: float = 1.0,
                  s=None, types: list[str] | None = None) -> list[dict]:
     """Every food outlet near a point, from the national FHRS register."""
@@ -151,10 +210,18 @@ def find_outlets(lat: float, lng: float, radius_miles: float = 1.0,
 
 def resolve_location(postcode: str | None = None, lat: float | None = None,
                      lng: float | None = None, s=None) -> dict | None:
-    """Accept either input the UI can produce, return a common shape."""
+    """Accept either input the UI can produce, return a common shape.
+
+    When the caller supplies coordinates, those coordinates *are* the search
+    centre. Reverse geocoding is used only to put a human-readable postcode and
+    district on screen — substituting the postcode's centroid would silently
+    move the search by up to a few hundred metres and change which outlets fall
+    inside the radius.
+    """
     if postcode:
         return geocode_postcode(postcode, s)
     if lat is not None and lng is not None:
-        got = reverse_geocode(lat, lng, s)
-        return got or {"postcode": None, "lat": lat, "lng": lng, "district": None}
+        label = reverse_geocode(lat, lng, s) or {}
+        return {"postcode": label.get("postcode"), "lat": lat, "lng": lng,
+                "district": label.get("district")}
     return None

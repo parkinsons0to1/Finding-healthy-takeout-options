@@ -39,7 +39,19 @@ SLOT_CATEGORIES = {
 #: pounders under "sandwiches" and 300 g biscuit multipacks under "biscuits",
 #: none of which any shop will sell you inside a meal deal. Pack sizes outside
 #: these ranges are rejected rather than corrected.
-PLAUSIBLE_PACK_G = {"main": (120, 330), "snack": (18, 175), "drink": (200, 750)}
+PLAUSIBLE_PACK_G = {"main": (120, 330), "snack": (18, 100), "drink": (200, 600)}
+
+#: Sanity bounds on energy density (kcal per 100 g). Open Food Facts contains
+#: per-serving figures mistakenly entered as per-100g, which produce nonsense
+#: like a 300 g salad at 1155 kcal — and that nonsense wins the optimiser,
+#: because the optimiser is looking for exactly the extreme values.
+MAX_KCAL_PER_100G = {"main": 320, "snack": 650, "drink": 120}
+#: Likewise for protein: nothing sold in a meal deal is 40 g protein per 100 g.
+MAX_PROTEIN_PER_100G = 35.0
+#: Per-pack protein ceilings. A squash listed at 19 g protein per bottle is an
+#: OFF per-100g/per-serving mix-up; the ceiling keeps such rows from winning
+#: the optimiser, which by design hunts for the highest-protein candidate.
+MAX_PROTEIN_PER_PACK = {"main": 60.0, "snack": 30.0, "drink": 12.0}
 
 #: Categories that appear under a slot's tags but are never meal-deal stock.
 EXCLUDE_CATEGORIES = {
@@ -51,7 +63,8 @@ EXCLUDE_CATEGORIES = {
 
 #: Bulk/ingredient formats that slip through category tags.
 _NOT_SINGLE_SERVE = re.compile(
-    r"\b(wraps|tortillas|rolls|baps|buns|loaf|bag|sharing|family|bulk)\b", re.I)
+    r"\b(wraps|tortillas|rolls|baps|buns|loaf|bag|sharing|family|bulk|"
+    r"in\s+shell|shells|burgers|patties|grills|fillets|steaks|pain)\b", re.I)
 
 #: Multipack giveaways in the product name — "6 pack", "x4", "multipack".
 _MULTIPACK = re.compile(r"\b(\d+\s*(pack|pk)|multipack|x\s?\d+\b|sharing)\b", re.I)
@@ -75,13 +88,21 @@ def _per_pack(p: dict, slot: str) -> dict | None:
     prot100 = n.get("proteins_100g")
     if kcal100 is None or prot100 is None:
         return None
+    try:
+        if float(kcal100) > MAX_KCAL_PER_100G[slot] or float(prot100) > MAX_PROTEIN_PER_100G:
+            return None
+    except (TypeError, ValueError):
+        return None
     grams = _pack_grams(p, slot)
     if grams is None:
         return None
     f = grams / 100.0
+    protein_pack = round(float(prot100) * f, 1)
+    if protein_pack > MAX_PROTEIN_PER_PACK[slot]:
+        return None
     return {
         "kcal": round(float(kcal100) * f, 1),
-        "protein_g": round(float(prot100) * f, 1),
+        "protein_g": protein_pack,
         "carbs_g": round(float(n.get("carbohydrates_100g") or 0) * f, 1),
         "fat_g": round(float(n.get("fat_100g") or 0) * f, 1),
         "pack_g": grams,

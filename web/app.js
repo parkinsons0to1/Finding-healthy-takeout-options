@@ -132,10 +132,32 @@ function render(data) {
   tabsEl.hidden = false;
 
   if (!data.results.length) {
+    // Distinguish "no chains here at all" (rural/coastal towns) from "chains
+    // are here but nothing clears your filters" — they need different advice.
+    const noChains = data.outlet_counts.chains === 0;
+    const radius = Number($('radius').value);
     resultsEl.innerHTML = `<div class="empty">
-      Nothing here clears that protein bar. Try lowering the slider or widening the radius —
-      or check the Meal deals tab, which is often the best value.
+      ${noChains
+        ? `<strong>No chain outlets within ${radius} mile${radius === 1 ? '' : 's'}.</strong>
+           <p>We found ${data.outlet_counts.independents} independent places and
+           ${data.outlet_counts.supermarkets} supermarket(s) here, but independents
+           don't publish nutrition data — they're under the UK calorie-labelling
+           threshold — so we can't rank them yet.</p>
+           <p>Your best bets: check the <strong>Meal deals</strong> tab
+           ${data.outlet_counts.supermarkets ? '(there are supermarkets nearby)' : ''},
+           or widen the radius to reach the nearest chains.</p>
+           ${radius < 5 ? '<button class="btn" id="widen">Search 5 miles instead</button>' : ''}`
+        : `Nothing here clears that protein bar. Try lowering the protein slider
+           or widening the radius — or check the Meal deals tab.`}
     </div>`;
+    const widen = $('widen');
+    if (widen) {
+      widen.addEventListener('click', () => {
+        $('radius').value = 5;
+        $('radiusOut').textContent = '5 miles';
+        if (lastQuery) runSearch(lastQuery);
+      });
+    }
   } else {
     resultsEl.innerHTML = data.results.map((r, i) => itemCard(r, i + 1)).join('');
   }
@@ -172,11 +194,43 @@ async function loadMealDeals() {
   }
 }
 
-$('go').addEventListener('click', () => {
-  const pc = $('postcode').value.trim();
-  if (!pc) return setStatus('Enter a postcode, or use your location.', true);
-  runSearch({ postcode: pc });
-});
+function showPlaceChoices(places, query) {
+  resultsEl.innerHTML =
+    `<h2 class="section-head">Which ${escapeHtml(query)}?</h2>` +
+    places.map((p) => `<button class="btn place" data-lat="${p.lat}" data-lng="${p.lng}">
+        ${escapeHtml(p.label)}
+      </button>`).join('');
+  setStatus(`"${query}" matches ${places.length} places — pick one.`);
+  resultsEl.querySelectorAll('.place').forEach((btn) =>
+    btn.addEventListener('click', () =>
+      runSearch({ lat: btn.dataset.lat, lng: btn.dataset.lng })));
+}
+
+async function submitQuery() {
+  const text = $('postcode').value.trim();
+  if (!text) return setStatus('Enter a postcode or place, or use your location.', true);
+
+  // A postcode is unambiguous; a place name often isn't ("St Ives" matches
+  // Cornwall, Cambridgeshire and Dorset), so ask rather than guess.
+  try {
+    const res = await fetch(`/api/places?q=${encodeURIComponent(text)}`);
+    const data = await res.json();
+    if (data.is_postcode) return runSearch({ postcode: text });
+    if (!data.places.length) {
+      return setStatus(`Couldn't find "${text}". Try a postcode instead.`, true);
+    }
+    if (data.places.length === 1) {
+      const p = data.places[0];
+      return runSearch({ lat: p.lat, lng: p.lng });
+    }
+    tabsEl.hidden = true;
+    return showPlaceChoices(data.places, text);
+  } catch {
+    return runSearch({ postcode: text });
+  }
+}
+
+$('go').addEventListener('click', submitQuery);
 
 $('postcode').addEventListener('keydown', (e) => {
   if (e.key === 'Enter') $('go').click();

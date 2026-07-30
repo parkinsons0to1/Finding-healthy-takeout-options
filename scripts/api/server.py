@@ -23,6 +23,7 @@ import traceback
 import urllib.parse
 from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 
+from ..geo.location import looks_like_postcode, search_places
 from ..mealdeals.cli import load_products
 from ..mealdeals.deals import DEALS
 from ..mealdeals.optimiser import optimise_all
@@ -99,6 +100,14 @@ class Handler(BaseHTTPRequestHandler):
                 return self._json({"ok": True, "service": "macrometer"})
             if route == "/api/mealdeals":
                 return self._json(_mealdeal_payload(q))
+            if route == "/api/places":
+                query = (q.get("q", [""])[0] or "").strip()
+                if not query:
+                    return self._json({"places": []})
+                if looks_like_postcode(query):
+                    return self._json({"is_postcode": True, "places": []})
+                return self._json({"is_postcode": False,
+                                   "places": search_places(query)})
             if route == "/api/search":
                 postcode = (q.get("postcode", [None])[0] or None)
                 lat = q.get("lat", [None])[0]
