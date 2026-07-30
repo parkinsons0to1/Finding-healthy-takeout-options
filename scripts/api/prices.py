@@ -73,6 +73,22 @@ ESTIMATED_PRICES: dict[str, dict[str, float]] = {
         "baguette chicken club": 3.95, "hard boiled egg (2 pack)": 1.20,
         "overnight oats": 2.05,
     },
+    # Papa John's prices vary hugely by size and by their near-permanent
+    # promotions; these are typical medium/large collection prices.
+    "papa_johns": {
+        "cheese tomato authentic thin crust medium": 15.99,
+        "cheese tomato authentic thin crust large": 18.99,
+        "all the meats authentic thin crust medium": 19.99,
+        "all the meats authentic thin crust large": 22.99,
+        "chicken sweetcorn authentic thin crust medium": 19.99,
+        "chicken sweetcorn authentic thin crust large": 22.99,
+        "tandoori spice authentic thin crust medium": 19.99,
+        "tandoori spice authentic thin crust large": 22.99,
+        "double pepperoni authentic thin crust medium": 18.99,
+        "double pepperoni authentic thin crust large": 21.99,
+        "bbq chicken classic authentic thin crust medium": 19.99,
+        "chicken club authentic thin crust medium": 19.99,
+    },
     "subway": {
         "chicken breast": 4.99, "chicken tikka": 4.79,
         "rotisserie style chicken": 4.99, "steak & cheese": 5.29,

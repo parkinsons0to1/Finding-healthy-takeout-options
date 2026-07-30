@@ -1,0 +1,13 @@
+{
+ "ttl_seconds": 1209600,
+ "entries": {
+  "mcdonalds|TR275DG|mcdonald's": {
+   "status": "not_halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1785434950.592837,
+   "chain_id": "mcdonalds",
+   "postcode": "TR27 5DG",
+   "name": "McDonald's"
+  }
+ }
+}

@@ -18,6 +18,7 @@ import json
 import pathlib
 
 from ..geo.location import find_outlets, resolve_location
+from ..halal.cache import HalalCache
 from ..halal.resolver import resolve as resolve_halal
 from ..scrapers.base import session
 from .discounts import DISCOUNTS, best_discount
@@ -25,6 +26,9 @@ from .prices import price_for
 from .scoring import ScoredItem, rank
 
 DB = pathlib.Path(__file__).resolve().parents[2] / "data" / "db"
+
+#: Shared across requests so a search is a lookup, not a crawl.
+_DISK_CACHE = HalalCache()
 
 
 @functools.lru_cache(maxsize=32)
@@ -99,8 +103,13 @@ def search(postcode: str | None = None, lat: float | None = None,
             continue
 
         cache_key = (chain_id, outlet.get("postcode"), outlet["business_name"])
+        persisted = _DISK_CACHE.get(chain_id, outlet.get("postcode"),
+                                    outlet["business_name"])
         if cache_key in halal_cache:
             halal_status, halal_tier = halal_cache[cache_key]
+        elif persisted:
+            halal_status, halal_tier = persisted
+            halal_cache[cache_key] = persisted
         elif resolve_halal_live:
             res = resolve_halal(s, {
                 "name": outlet["business_name"], "chain_id": chain_id,
@@ -108,6 +117,8 @@ def search(postcode: str | None = None, lat: float | None = None,
                 "postcode": outlet["postcode"], "address": outlet["address"]})
             halal_status, halal_tier = str(res.status), res.tier.name.lower()
             halal_cache[cache_key] = (halal_status, halal_tier)
+            _DISK_CACHE.put(chain_id, outlet.get("postcode"),
+                            outlet["business_name"], halal_status, halal_tier)
         else:
             halal_status, halal_tier = "unverified", "none"
 
@@ -149,4 +160,5 @@ def search(postcode: str | None = None, lat: float | None = None,
     payload["unranked_chains"] = sorted(unranked_chains.values(),
                                         key=lambda c: c["distance_miles"])
     payload["discount_rules_applied"] = len(DISCOUNTS)
+    _DISK_CACHE.save()
     return payload

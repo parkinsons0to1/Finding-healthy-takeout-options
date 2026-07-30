@@ -15,7 +15,7 @@ import argparse
 import sys
 import traceback
 
-from . import greggs, kfc, mcdonalds, popeyes, subway
+from . import greggs, kfc, mcdonalds, papajohns, popeyes, subway
 from .base import protein_share
 from .store import get_sink
 
@@ -25,6 +25,7 @@ ADAPTERS = {
     "greggs": greggs,
     "kfc": kfc,
     "subway": subway,
+    "papa_johns": papajohns,
 }
 
 

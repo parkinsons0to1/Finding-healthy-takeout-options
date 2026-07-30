@@ -1,0 +1,133 @@
+"""Regression tests for defects that reached a user.
+
+Every test here corresponds to a real bug that shipped and was caught in the
+field rather than by us. They are deliberately written against the specific
+failing input, so a reintroduction fails loudly.
+
+    python3 -m pytest tests/ -q      (or: python3 tests/test_regressions.py)
+
+No network: these exercise pure logic. Adapter/live-source health belongs in
+freshness monitoring, not here.
+"""
+from __future__ import annotations
+
+import sys
+import pathlib
+
+sys.path.insert(0, str(pathlib.Path(__file__).resolve().parents[1]))
+
+from scripts.api.prices import price_for                       # noqa: E402
+from scripts.api.scoring import ScoredItem, rank               # noqa: E402
+from scripts.api.search import _is_orderable                   # noqa: E402
+from scripts.geo.location import identify_chain, looks_like_postcode  # noqa: E402
+from scripts.halal.evidence import Status                      # noqa: E402
+from scripts.halal.sources import hmc_registry, just_eat       # noqa: E402
+
+
+def test_price_lookup_does_not_substring_match_portions():
+    """'2 Hot Wings' was matching the '12 Hot Wings' price (£8.79 for a
+    2-piece), badly distorting protein-per-pound."""
+    twelve = price_for("popeyes", "12 Hot Wings")
+    assert twelve and twelve.price_gbp == 10.99
+    two = price_for("popeyes", "2 Hot Wings")
+    assert two is None, f"'2 Hot Wings' wrongly priced at {two.price_gbp}"
+
+
+def test_price_lookup_still_matches_exact_names():
+    for chain, name in [("popeyes", "6 Hot Wings"), ("kfc", "Fillet Burger"),
+                        ("greggs", "Sausage Roll")]:
+        assert price_for(chain, name) is not None, f"{chain}/{name} lost its price"
+
+
+def test_ingredient_rows_are_not_orderable():
+    """Subway's PDF lists fillings alongside subs; scoring them put 29-kcal
+    turkey slices on the leaderboard."""
+    for name in ["Ham (2 slices)", "HALAL Turkey Ham (3 slices)",
+                 "Roast Chicken Breast Strips"]:
+        assert not _is_orderable(
+            {"name": name, "kcal": 62, "protein_g": 10,
+             "chain_id": "subway", "category": "Fillings"}), name
+
+    assert _is_orderable({"name": "Chicken Breast", "kcal": 340,
+                          "protein_g": 26, "chain_id": "subway",
+                          "category": "Subs"})
+
+
+def test_items_with_missing_macros_are_excluded_not_imputed():
+    items = [
+        ScoredItem("Real", "kfc", "KFC", 0.1, 300, 30, 3.0, 3.0, None,
+                   "halal", "brand_per_outlet", False, False, "", "high", "estimated"),
+        ScoredItem("NoProtein", "kfc", "KFC", 0.1, 300, 0, 3.0, 3.0, None,
+                   "halal", "brand_per_outlet", False, False, "", "high", "estimated"),
+    ]
+    out = rank(items, min_protein_share=0.3)
+    assert [r["name"] for r in out["results"]] == ["Real"]
+
+
+def test_known_chains_are_recognised():
+    """An unrecognised chain is silently filed as an independent — it vanishes
+    from results AND from the 'chains nearby' count. A Papa John's inside a
+    holiday park was reported as an independent."""
+    expected = {
+        "Papa Johns": "papa_johns", "Domino's Pizza": "dominos",
+        "Costa Coffee": "costa", "McDonald's": "mcdonalds",
+        "KFC Sutton Rst": "kfc", "Greggs PLC": "greggs",
+        "Spar": "spar", "Pepe's Piri Piri": "pepes_piri_piri",
+        "German Doner Kebab": "gdk", "Subway® Sutton High Street": "subway",
+    }
+    for name, chain_id in expected.items():
+        assert identify_chain(name) == chain_id, f"{name} -> {identify_chain(name)}"
+
+
+def test_genuine_independents_are_not_misread_as_chains():
+    for name in ["Suleymans Kebab House", "Curry Garden", "Harveys Butchers"]:
+        assert identify_chain(name) is None, name
+
+
+def test_sources_that_cannot_prove_a_negative_never_return_not_halal():
+    """The original wrong KFC Sutton call came from reading 'absent from a
+    partial listing' as 'not halal'. These sources must be structurally
+    incapable of that."""
+    assert hmc_registry.can_prove_negative is False
+    assert just_eat.can_prove_negative is False
+
+    class _Blank:
+        status_code = 200
+        text = "<html></html>"
+
+        def json(self):
+            return {"restaurants": []}
+
+    class _Session:
+        def get(self, *a, **k):
+            return _Blank()
+
+    s = _Session()
+    assert hmc_registry.check_outlet(s, "KFC", 51.36, -0.19).status is Status.UNVERIFIED
+    assert just_eat.check_outlet(s, "KFC", "SM1 4FR").status is Status.UNVERIFIED
+
+
+def test_postcode_vs_place_detection():
+    for pc in ["SM1 4FR", "sm14fr", "TR27 5AF", "M1 1AE"]:
+        assert looks_like_postcode(pc), pc
+    for place in ["St Ives Cornwall", "Haven Riviera Sands", "Manchester"]:
+        assert not looks_like_postcode(place), place
+
+
+def _run_all() -> int:
+    failures = 0
+    for name, fn in sorted(globals().items()):
+        if not name.startswith("test_") or not callable(fn):
+            continue
+        try:
+            fn()
+            print(f"  PASS  {name}")
+        except AssertionError as e:
+            failures += 1
+            print(f"  FAIL  {name}: {e}")
+    print(f"\n{failures} failure(s)")
+    return 1 if failures else 0
+
+
+if __name__ == "__main__":
+    sys.exit(_run_all())

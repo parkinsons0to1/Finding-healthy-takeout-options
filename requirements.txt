@@ -5,3 +5,4 @@ cffi>=1.16
 # firebase-admin>=6.5
 # dev only, for screenshots:
 # playwright>=1.40
+curl_cffi>=0.7    # browser TLS handshake for Cloudflare-protected chains
