@@ -23,7 +23,7 @@ import traceback
 import urllib.parse
 from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 
-from ..geo.location import looks_like_postcode, search_places
+from ..geo.location import looks_like_postcode, search_places, search_pois
 from ..mealdeals.cli import load_products
 from ..mealdeals.deals import DEALS
 from ..mealdeals.optimiser import optimise_all
@@ -106,8 +106,13 @@ class Handler(BaseHTTPRequestHandler):
                     return self._json({"places": []})
                 if looks_like_postcode(query):
                     return self._json({"is_postcode": True, "places": []})
+                places = search_places(query)
+                if places:
+                    return self._json({"is_postcode": False, "places": places,
+                                       "kind": "place"})
+                # Not a town — try named venues (holiday parks, hotels, pubs).
                 return self._json({"is_postcode": False,
-                                   "places": search_places(query)})
+                                   "places": search_pois(query), "kind": "venue"})
             if route == "/api/search":
                 postcode = (q.get("postcode", [None])[0] or None)
                 lat = q.get("lat", [None])[0]

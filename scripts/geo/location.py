@@ -160,6 +160,87 @@ def search_places(query: str, s=None, limit: int = 8) -> list[dict]:
     return places[:limit]
 
 
+def search_pois(query: str, s=None, limit: int = 6) -> list[dict]:
+    """Find a named venue — holiday park, hotel, pub, campus — by name.
+
+    postcodes.io only knows settlements, so "Haven Riviere Sands" returns
+    nothing there. But almost every such venue runs a food business (a site
+    shop, bar or café) that is registered with the FSA, so the same national
+    hygiene register we already use for outlet discovery doubles as a POI
+    locator. Searching "Haven Holiday" finds "Haven Holiday Park Mini Market"
+    at TR27 5AF — the Riviere Sands site shop — with coordinates attached.
+
+    This matters because a holiday park is exactly where someone opens this
+    app: away from home, unsure what's nearby.
+    """
+    s = s or session()
+    text = query.strip()
+    words = [w for w in text.split() if w]
+    candidates: list[dict] = []
+    seen: set[str] = set()
+
+    # A trailing county or town is a *filter*, not part of the venue's name:
+    # searching the name "Haven" alone finds a hotel in Rye, but name="Haven"
+    # with address="Hayle" finds the Riviere Sands site shop exactly. FHRS
+    # matches registered trading names, which rarely equal marketing names
+    # ("Haven Riviere Sands" is registered as "Haven Holiday Park Mini
+    # Market"), so try the full phrase then individual significant words.
+    qualifiers = [w for w in words[-2:] if len(w) > 3]
+    name_words = [w for w in words if w not in qualifiers and len(w) > 2]
+
+    attempts: list[dict] = [{"name": text}]
+    for qualifier in qualifiers:
+        attempts.append({"name": " ".join(name_words), "address": qualifier})
+        for word in name_words:
+            attempts.append({"name": word, "address": qualifier})
+    for word in name_words:
+        attempts.append({"name": word})
+
+    for attempt in attempts:
+        if not attempt.get("name"):
+            continue
+        try:
+            r = s.get(FHRS_API, headers=FHRS_HEADERS,
+                      params={**attempt, "pageSize": 50}, timeout=30)
+            r.raise_for_status()
+            establishments = r.json().get("establishments", [])
+        except Exception:
+            continue
+        for e in establishments:
+            geo = e.get("geocode") or {}
+            lat, lng = geo.get("latitude"), geo.get("longitude")
+            if lat is None or lng is None:
+                continue
+            name = (e.get("BusinessName") or "").strip()
+            key = f"{name}|{e.get('PostCode')}"
+            if key in seen:
+                continue
+            seen.add(key)
+            address = ", ".join(filter(None, [
+                e.get("AddressLine1"), e.get("AddressLine2"),
+                e.get("AddressLine3"), e.get("PostCode")]))
+            candidates.append({
+                "name": name, "address": address,
+                "postcode": e.get("PostCode"),
+                "lat": float(lat), "lng": float(lng),
+                "label": f"{name} — {address}" if address else name,
+            })
+        if candidates:
+            break
+
+    # Rank by how much of the query the venue actually accounts for, so a
+    # same-named venue in the wrong county loses to the one the user meant.
+    hints = {w.lower() for w in words if len(w) > 3}
+    for c in candidates:
+        haystack = f"{c['name']} {c['address']}".lower()
+        c["_score"] = sum(1 for h in hints if h in haystack)
+    candidates = [c for c in candidates if c["_score"] > 0] or candidates
+    candidates.sort(key=lambda c: c["_score"], reverse=True)
+    for c in candidates:
+        c.pop("_score", None)
+    return candidates[:limit]
+
+
 def find_outlets(lat: float, lng: float, radius_miles: float = 1.0,
                  s=None, types: list[str] | None = None) -> list[dict]:
     """Every food outlet near a point, from the national FHRS register."""
