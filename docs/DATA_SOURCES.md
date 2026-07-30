@@ -37,7 +37,25 @@ No browser automation anywhere — plain HTTP only.
 | **German Doner Kebab** | `gdk.com` is behind Cloudflare (403 to non-browser clients). No official nutrition PDF found on their domain; venue partners host GDK menu PDFs with macros (e.g. The O2's asset PDF listing a "Doner Gym Box"). GDK is halal chain-wide (brand-stated). | Try Cloudflare-tolerant fetch of their allergen page; ingest venue PDF as interim medium-confidence source |
 | **Taco Bell UK** | `/nutrition` redirects to home; API not yet located. | Bundle inspection pass like Popeyes |
 | **Popeyes allergen platform** | `allergensandnutritions.popeyesuk.com` frontend is public but its Strapi backend (`app-allergenplatform-prod-westeurope-001.azurewebsites.net/api`) returns 401/403 without a staff JWT — **do not attempt to bypass**; the public ordering API above carries the same data anyway. | None needed |
-| **Morley's & independents** | No published nutrition (under the 250-employee calorie-labelling threshold). | Phase 4 photo/OCR |
+| **Papa John's UK** | Cloudflare returns 403 to non-browser clients on the whole domain, including the official nutrition PDF at `papajohns.co.uk/static/assets/pdfs/nutritional-information.pdf` — the URL is correct and is the right source, only the fetch path is blocked. | Cloudflare-tolerant fetch, same fix as GDK |
+| **Domino's / Costa / Pizza Hut** | Recognised as chains but not yet scraped. All publish UK nutrition. | Straightforward adapters, unblocked |
+| **Morley's & independents** | No published nutrition (under the 250-employee calorie-labelling threshold). | Phase 5 photo/OCR |
+
+### Chain recognition is itself a data-quality surface
+
+An outlet whose name isn't in `geo.location.CHAIN_PATTERNS` is silently
+classified as an independent — it disappears from results *and* from the
+"chains nearby" count, so the app under-reports what's actually around the
+user. This was found in the field: a Papa John's **inside** a Cornwall holiday
+park was being counted as an independent, and the app reported "1 chain
+nearby" when there were four (Papa John's 0.0mi, Domino's 0.78mi, Costa
+1.22mi, McDonald's 1.3mi).
+
+Two changes followed: the pattern list was expanded to ~60 UK chains, and the
+search response now separates `chains_ranked` from `chains_unranked` and names
+the unranked ones. "We can see Papa John's but haven't scraped its menu" is
+useful; silence looks like the shop isn't there, which the user can disprove by
+looking out of the window.
 
 ## Halal verification log (Sutton) — v2, corrected 2026-07-28
 

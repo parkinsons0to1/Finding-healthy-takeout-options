@@ -169,13 +169,20 @@ function render(data) {
   }
 
   const unverified = data.outlets.filter((o) => o.halal_status === 'unverified').length;
+  const c2 = data.outlet_counts;
+  // Naming the chains we can see but can't rank is more honest than a count
+  // that quietly omits them — the user can see the shop from where they stand.
+  const unranked = (data.unranked_chains || [])
+    .map((c) => `${escapeHtml(c.name)} (${c.distance_miles} mi)`).join(', ');
   contextEl.hidden = false;
   contextEl.innerHTML =
-    `Searched ${data.outlet_counts.total} food businesses within your radius: ` +
-    `${data.outlet_counts.chains} chains with published nutrition, ` +
-    `${data.outlet_counts.independents} independents (no published macros yet), ` +
-    `${data.outlet_counts.supermarkets} supermarkets.` +
-    (unverified ? ` ${unverified} outlet(s) have unverified halal status.` : '');
+    `Searched ${c2.total} food businesses within your radius: ` +
+    `${c2.chains} chain outlets, ${c2.supermarkets} supermarkets, ` +
+    `${c2.independents} independents (no published macros yet).` +
+    (unranked
+      ? `<br><strong>Chains here we can't rank yet</strong> (menu not scraped): ${unranked}.`
+      : '') +
+    (unverified ? `<br>${unverified} outlet(s) have unverified halal status.` : '');
 }
 
 async function loadMealDeals() {

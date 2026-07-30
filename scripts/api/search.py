@@ -81,10 +81,21 @@ def search(postcode: str | None = None, lat: float | None = None,
     scored: list[ScoredItem] = []
     outlets_used: list[dict] = []
 
+    unranked_chains: dict[str, dict] = {}
+
     for outlet in chain_outlets:
         chain_id = outlet["chain_id"]
         menu = [i for i in load_menu(chain_id) if _is_orderable(i)]
         if not menu:
+            # A chain we recognise but haven't scraped yet (Papa John's,
+            # Domino's, Costa…). Say so rather than dropping it: "we know it's
+            # there, we can't rank it" is useful; silence looks like the shop
+            # doesn't exist.
+            existing = unranked_chains.get(chain_id)
+            if not existing or outlet["distance_miles"] < existing["distance_miles"]:
+                unranked_chains[chain_id] = {
+                    "chain_id": chain_id, "name": outlet["business_name"],
+                    "distance_miles": outlet["distance_miles"]}
             continue
 
         cache_key = (chain_id, outlet.get("postcode"), outlet["business_name"])
@@ -130,8 +141,12 @@ def search(postcode: str | None = None, lat: float | None = None,
     payload["outlets"] = sorted(outlets_used, key=lambda o: o["distance_miles"])
     payload["outlet_counts"] = {
         "total": len(outlets), "chains": len(chain_outlets),
+        "chains_ranked": len({o["chain_id"] for o in outlets_used}),
+        "chains_unranked": len(unranked_chains),
         "independents": sum(1 for o in outlets if o["kind"] == "independent"),
         "supermarkets": sum(1 for o in outlets if o["kind"] == "supermarket"),
     }
+    payload["unranked_chains"] = sorted(unranked_chains.values(),
+                                        key=lambda c: c["distance_miles"])
     payload["discount_rules_applied"] = len(DISCOUNTS)
     return payload

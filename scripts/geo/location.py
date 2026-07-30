@@ -36,19 +36,71 @@ FHRS_TYPES = {
 }
 
 #: Name fragment -> our chain id. Ordered so longer/more specific wins.
+#:
+#: Recall matters more than it looks: an unrecognised chain is silently
+#: classified as an independent and vanishes from the results *and* from the
+#: "chains nearby" count. A short list under-reports what's actually around
+#: the user — a Papa John's inside a holiday park was being counted as an
+#: independent purely because the name wasn't listed here.
 CHAIN_PATTERNS: list[tuple[str, str]] = [
+    # Burgers / chicken / fast food
     (r"german doner|gdk\b", "gdk"),
     (r"burger king", "burger_king"),
     (r"taco bell", "taco_bell"),
-    (r"pret a manger", "pret"),
+    (r"five guys", "five_guys"),
     (r"nando", "nandos"),
     (r"mcdonald", "mcdonalds"),
     (r"popeyes", "popeyes"),
     (r"\bkfc\b|kentucky fried", "kfc"),
+    (r"morley", "morleys"),
+    (r"chicken cottage", "chicken_cottage"),
+    (r"chicken shop|dixy", "dixy_chicken"),
+    (r"wingstop", "wingstop"),
+    (r"slim chicken", "slim_chickens"),
+    (r"shake shack", "shake_shack"),
+    (r"wimpy", "wimpy"),
+    # Pizza
+    (r"papa john", "papa_johns"),
+    (r"domino", "dominos"),
+    (r"pizza hut", "pizza_hut"),
+    (r"pizza express|pizzaexpress", "pizza_express"),
+    (r"papa murphy", "papa_murphys"),
+    (r"franco manca", "franco_manca"),
+    (r"\bzizzi\b", "zizzi"),
+    (r"\bask italian\b", "ask_italian"),
+    # Sandwiches / bakery / coffee
     (r"subway", "subway"),
     (r"greggs", "greggs"),
-    (r"morley", "morleys"),
+    (r"pret a manger", "pret"),
+    (r"\bitsu\b", "itsu"),
+    (r"\bleon\b", "leon"),
+    (r"costa coffee|\bcosta\b", "costa"),
+    (r"starbucks", "starbucks"),
+    (r"caffe nero|caff[eè] nero", "caffe_nero"),
+    (r"tim hortons", "tim_hortons"),
+    (r"gail'?s", "gails"),
+    (r"warrens bakery", "warrens"),
+    (r"\bpaul\b bakery", "paul"),
+    # Asian / other
     (r"kokoro", "kokoro"),
+    (r"wagamama", "wagamama"),
+    (r"yo!? sushi", "yo_sushi"),
+    (r"wasabi", "wasabi"),
+    (r"chopstix", "chopstix"),
+    (r"tortilla", "tortilla"),
+    (r"chipotle", "chipotle"),
+    (r"\bwok\b.*\bbox\b|wok to walk", "wok_to_walk"),
+    # Pubs / casual dining that publish nutrition
+    (r"wetherspoon|\bj ?d ?wetherspoon", "wetherspoons"),
+    (r"harvester", "harvester"),
+    (r"toby carvery", "toby_carvery"),
+    (r"beefeater", "beefeater"),
+    (r"brewers fayre", "brewers_fayre"),
+    (r"hungry horse", "hungry_horse"),
+    (r"\bmiller ?& ?carter", "miller_carter"),
+    (r"frankie ?& ?benny", "frankie_bennys"),
+    (r"\btgi\b|t\.?g\.?i\.? friday", "tgi_fridays"),
+    # Supermarkets / convenience
     (r"\btesco\b", "tesco"),
     (r"sainsbury", "sainsburys"),
     (r"\basda\b", "asda"),
@@ -59,10 +111,20 @@ CHAIN_PATTERNS: list[tuple[str, str]] = [
     (r"co-?operative|co-?op\b", "coop"),
     (r"morrison", "morrisons"),
     (r"waitrose", "waitrose"),
+    (r"\bspar\b", "spar"),
+    (r"premier stores|\bpremier\b convenience", "premier"),
+    (r"\bnisa\b", "nisa"),
+    (r"londis", "londis"),
+    (r"budgens", "budgens"),
+    (r"one ?stop", "one_stop"),
+    (r"iceland", "iceland"),
+    (r"\bwhsmith|w h smith", "whsmith"),
 ]
 
 SUPERMARKET_CHAINS = {"tesco", "sainsburys", "asda", "lidl", "aldi",
-                      "marks_spencer", "boots", "coop", "morrisons", "waitrose"}
+                      "marks_spencer", "boots", "coop", "morrisons", "waitrose",
+                      "spar", "premier", "nisa", "londis", "budgens",
+                      "one_stop", "iceland", "whsmith"}
 
 
 def identify_chain(business_name: str) -> str | None:
