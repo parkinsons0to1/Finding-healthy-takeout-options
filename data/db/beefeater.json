@@ -1,7 +1,7 @@
 {
  "chain_id": "beefeater",
  "item_count": 297,
- "fetched_at": "2026-08-06T14:54:47Z",
+ "fetched_at": "2026-08-06T15:03:59Z",
  "items": {
   "add-hoisin-sauce": {
    "chain_id": "beefeater",
@@ -19,7 +19,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "add-honey-mustard-sauce": {
@@ -38,7 +38,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "add-honey-sriracha-sauce": {
@@ -57,7 +57,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "add-mango-peach-habanero-sauce": {
@@ -76,7 +76,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "add-signature-bbq-sauce": {
@@ -95,7 +95,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "add-smokehouse-tomato": {
@@ -114,7 +114,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "add-spicy-mayo": {
@@ -133,7 +133,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "add-steak-sauce": {
@@ -152,7 +152,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "74-bbq-crispy-beef": {
@@ -171,7 +171,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "74-bbq-seasoned-corn-ribs-without-sauce": {
@@ -190,7 +190,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "74-bbq-seasoned-potato-wedges-without-sauce": {
@@ -209,7 +209,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "chicken-goujons-without-sauce": {
@@ -228,7 +228,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "crispy-calamari-without-sauce": {
@@ -247,7 +247,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "double-crunch-king-prawns-without-sauce": {
@@ -266,7 +266,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "garlic-and-grana-padano-wings": {
@@ -285,7 +285,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "garlic-breaded-mushrooms-without-sauce": {
@@ -304,7 +304,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "garlic-cheese-flatbread": {
@@ -323,7 +323,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "halloumi-fries-without-sauce": {
@@ -342,7 +342,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "harissa-and-feta-flatbread": {
@@ -361,7 +361,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "honey-sriracha-loaded-wings": {
@@ -380,7 +380,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "loaded-nachos": {
@@ -399,7 +399,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "mango-peach-and-habanero-wings": {
@@ -418,7 +418,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "pesto-tomato-grana-padano-flatbread": {
@@ -437,7 +437,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "vegan-loaded-nachos": {
@@ -456,7 +456,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "7oz-gammon-steak-with-chips-egg-pineapple": {
@@ -475,7 +475,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "beefeater-sharing-feast-without-sauce-option": {
@@ -494,7 +494,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "chargrilled-seabass-with-crushed-potatoes": {
@@ -513,7 +513,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "harissa-and-red-pepper-salmon-with-crushed-potatoes": {
@@ -532,7 +532,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "mixed-grill-with-chips-choose-your-steak-option": {
@@ -551,7 +551,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "short-rib-of-beef-with-chips": {
@@ -570,7 +570,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "chargrilled-chicken-skewer-with-flatbread-fries": {
@@ -589,7 +589,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "halloumi-skewer-with-flatbread-fries": {
@@ -608,7 +608,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "vegetable-skewer-with-flatbread-fries": {
@@ -627,7 +627,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "house-salad-without-dressing-or-topping": {
@@ -646,7 +646,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "mediterranean-salad-bowl": {
@@ -665,7 +665,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "vegan-house-salad-without-dressing-or-topping": {
@@ -684,7 +684,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "10oz-ribeye-without-sides-sauce": {
@@ -703,7 +703,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "8oz-fillet-without-sides-sauce": {
@@ -722,7 +722,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "8oz-rump-without-sides-sauce": {
@@ -741,7 +741,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "8oz-sirloin-without-sides-sauce": {
@@ -760,7 +760,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "steak-sampler-without-sides-sauce": {
@@ -779,7 +779,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "chopped-house-salad": {
@@ -798,7 +798,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "skin-on-chips": {
@@ -817,7 +817,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "triple-cooked-chips": {
@@ -836,7 +836,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "add-basil-pesto": {
@@ -855,7 +855,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "add-diane-sauce": {
@@ -874,7 +874,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "add-peppercorn-sauce": {
@@ -893,7 +893,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "add-smoky-hollandaise": {
@@ -912,7 +912,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "74-burger-base-chips-without-chicken-bun": {
@@ -931,7 +931,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "74-baconeater-burger-chips-without-bun": {
@@ -950,7 +950,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "74-beefeater-stack-burger-chips-without-bun": {
@@ -969,7 +969,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "grilled-halloumi-and-mushroom-chips-without-bun": {
@@ -988,7 +988,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "plant-burger-chips-without-bun": {
@@ -1007,7 +1007,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "surf-and-turf-burger-chips-without-bun": {
@@ -1026,7 +1026,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "74-chicken-ribs-chips-combo-without-sauce": {
@@ -1045,7 +1045,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "74-hoisin-pork-rib-stack": {
@@ -1064,7 +1064,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "74-honey-sriracha-pork-rib-stack": {
@@ -1083,7 +1083,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "74-rack-of-ribs-without-sauce": {
@@ -1102,7 +1102,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "beef-and-ale-pie-with-chips": {
@@ -1121,7 +1121,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "beef-lasagne-with-flatbread": {
@@ -1140,7 +1140,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "beer-battered-fish-with-chips-tartare-sauce": {
@@ -1159,7 +1159,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "butternut-squash-spinach-ricotta-lasagne-with-flatbread": {
@@ -1178,7 +1178,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "smothered-chicken-melt-with-fries": {
@@ -1197,7 +1197,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "smothered-vegan-chicken-melt-chips-without-sauces": {
@@ -1216,7 +1216,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "74-seasoned-corn-ribs": {
@@ -1235,7 +1235,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "74-seasoned-loaded-cheesy-chips-without-sauce": {
@@ -1254,7 +1254,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "beefeater-74-extra-without-sauce-option": {
@@ -1273,7 +1273,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "beer-battered-onion-rings": {
@@ -1292,7 +1292,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "crushed-roasted-potatoes": {
@@ -1311,7 +1311,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "garlic-grana-padano-chips": {
@@ -1330,7 +1330,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "grilled-garlic-flat-mushrooms": {
@@ -1349,7 +1349,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "grilled-veg": {
@@ -1368,7 +1368,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "honey-sriracha-loaded-chips": {
@@ -1387,7 +1387,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "rocket-cheese-tomato-salad": {
@@ -1406,7 +1406,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "skin-on-chips-sharer-serves-2-per-portion": {
@@ -1425,7 +1425,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "triple-cooked-chips-sharer-serves-2-per-portion": {
@@ -1444,7 +1444,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "apple-blackberry-crumble-sundae": {
@@ -1463,7 +1463,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "banoffee-cheesecake-with-vanilla-dairy-ice-cream": {
@@ -1482,7 +1482,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "biscoff-sundae": {
@@ -1501,7 +1501,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "biscoff-vegan-sundae": {
@@ -1520,7 +1520,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "chocolate-fudge-cake-vegan-with-vegan-ice-cream": {
@@ -1539,7 +1539,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "chocolate-fudge-cake-with-ice-cream": {
@@ -1558,7 +1558,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "chocolate-orange-bread-butter-pudding": {
@@ -1577,7 +1577,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "lemon-and-raspberry-semifreddo": {
@@ -1596,7 +1596,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "millionaires-choc-brownie-sundae": {
@@ -1615,7 +1615,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "sticky-toffee-pudding-without-topping": {
@@ -1634,7 +1634,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "vanilla-dairy-ice-cream-without-topping": {
@@ -1653,7 +1653,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "vegan-ice-cream-without-sauce": {
@@ -1672,7 +1672,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "breaded-mushrooms-with-bbq-sauce": {
@@ -1691,7 +1691,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "chicken-goujons-with-bbq-sauce": {
@@ -1710,7 +1710,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "tomato-soup-with-croutons": {
@@ -1729,7 +1729,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "chicken-caesar-flatbread": {
@@ -1748,7 +1748,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "chicken-makhani-curry-with-rice-and-poppadom": {
@@ -1767,7 +1767,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "flatbread-base-add-your-steak": {
@@ -1786,7 +1786,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "house-salad-base-without-topping-or-dressing": {
@@ -1805,7 +1805,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "house-salad-vegan-without-dressing-or-topping": {
@@ -1824,7 +1824,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "lunch-5oz-gammon-steak-with-peas-chips": {
@@ -1843,7 +1843,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "lunch-74-classic-beef-burger-without-bun": {
@@ -1862,7 +1862,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "lunch-battered-fish-with-sauce-and-peas-choose-your-fish": {
@@ -1881,7 +1881,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "lunch-beef-lasagne-with-salad": {
@@ -1900,7 +1900,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "lunch-butternut-squash-spinach-ricotta-lasagne-with-salad": {
@@ -1919,7 +1919,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "lunch-classic-plant-burger-without-bun": {
@@ -1938,7 +1938,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "lunch-smothered-chicken-melt-with-fries": {
@@ -1957,7 +1957,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "lunch-steak-base-with-chips-peas-add-your-choice-of-steak": {
@@ -1976,7 +1976,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "steak-egg-and-chips": {
@@ -1995,7 +1995,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "4-beer-battered-onion-rings": {
@@ -2014,7 +2014,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "caramel-apple-betty-without-topping": {
@@ -2033,7 +2033,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "mini-biscoff-sundae": {
@@ -2052,7 +2052,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "mini-biscoff-vegan-sundae": {
@@ -2071,7 +2071,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "mini-millionaires-choc-brownie-sundae": {
@@ -2090,7 +2090,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "warm-chocolate-brownie": {
@@ -2109,7 +2109,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "sunday-roast-gammon": {
@@ -2128,7 +2128,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "sunday-roast-sirloin-of-beef": {
@@ -2147,7 +2147,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "sunday-roast-turkey": {
@@ -2166,7 +2166,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "sunday-vegan-roast": {
@@ -2185,7 +2185,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "sunday-vegetarian-roast": {
@@ -2204,7 +2204,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "ultimate-sunday-roast": {
@@ -2223,7 +2223,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "cauliflower-cheese": {
@@ -2242,7 +2242,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "roast-add-on-1-yorkshire-portion-of-potatoes-and-gravy": {
@@ -2261,7 +2261,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "kids-sunday-roast-beef": {
@@ -2280,7 +2280,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "kids-sunday-roast-chicken": {
@@ -2299,7 +2299,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "condiments": {
@@ -2318,7 +2318,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "sunday-condiments": {
@@ -2337,7 +2337,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "kids-garlic-bread": {
@@ -2356,7 +2356,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "kids-tortilla-chips-with-dip": {
@@ -2375,7 +2375,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "kids-vegan-tortilla-chips-with-tomato": {
@@ -2394,7 +2394,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "kids-veggie-sticks-with-dip": {
@@ -2413,7 +2413,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "kids-grilled-chicken-breast": {
@@ -2432,7 +2432,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "kids-oven-baked-chicken-bites": {
@@ -2451,7 +2451,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "kids-oven-baked-fish-bites-small": {
@@ -2470,7 +2470,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "kids-pork-sausages-with-gravy": {
@@ -2489,7 +2489,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "kids-ten-veg-tomato-pasta": {
@@ -2508,7 +2508,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "kids-veggie-sausages-with-gravy": {
@@ -2527,7 +2527,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "kids-beef-burger-with-bun": {
@@ -2546,7 +2546,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "kids-grilled-chicken-breast-burger-with-bun": {
@@ -2565,7 +2565,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "kids-margherita-pizza": {
@@ -2584,7 +2584,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "kids-oven-baked-fish-bites-large": {
@@ -2603,7 +2603,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "kids-rump-steak": {
@@ -2622,7 +2622,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "kids-spaghetti-bolognese": {
@@ -2641,7 +2641,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "add-baked-beans": {
@@ -2660,7 +2660,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "add-corn-ribs": {
@@ -2679,7 +2679,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "add-mashed-potato": {
@@ -2698,7 +2698,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "add-mini-salad": {
@@ -2717,7 +2717,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "add-peas": {
@@ -2736,7 +2736,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "kids-berry-blast-sundae": {
@@ -2755,7 +2755,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "kids-chocolate-brownie-with-vanilla-dairy-ice-cream": {
@@ -2774,7 +2774,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "kids-fruit-salad": {
@@ -2793,7 +2793,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "kids-pancakes-with-cream-banana-chocolatey-sauce": {
@@ -2812,7 +2812,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "kids-vanilla-dairy-ice-cream": {
@@ -2831,7 +2831,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "pip-organic-berry-ice-lolly": {
@@ -2850,7 +2850,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "pip-organic-rainbow-ice-lolly": {
@@ -2869,7 +2869,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "add-1-slice-of-beef": {
@@ -2888,7 +2888,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "add-1-slice-of-gammon": {
@@ -2907,7 +2907,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "add-1-turkey-slice": {
@@ -2926,7 +2926,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "add-2-garlic-prawns": {
@@ -2945,7 +2945,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "add-2-rashers-of-vegan-bacon": {
@@ -2964,7 +2964,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "add-3-double-crunch-chicken-wings": {
@@ -2983,7 +2983,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "add-4-garlic-prawns": {
@@ -3002,7 +3002,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "add-4oz-sirloin": {
@@ -3021,7 +3021,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "add-a-beef-burger": {
@@ -3040,7 +3040,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "add-a-fried-egg": {
@@ -3059,7 +3059,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "add-a-garden-gourmet-burger": {
@@ -3078,7 +3078,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "add-a-grilled-chicken-breast": {
@@ -3097,7 +3097,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "add-beefeater-74-extra-without-sauce-option": {
@@ -3116,7 +3116,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "add-crispy-beef-to-nachos": {
@@ -3135,7 +3135,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "add-grilled-halloumi": {
@@ -3154,7 +3154,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "add-half-rack-of-ribs": {
@@ -3173,7 +3173,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "add-vegan-cheeze-slice": {
@@ -3192,7 +3192,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "add-vegan-chicken-breast": {
@@ -3211,7 +3211,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "add-2-rashers-of-streaky-bacon": {
@@ -3230,7 +3230,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "add-5oz-gammon-steak": {
@@ -3249,7 +3249,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "add-7oz-gammon-steak": {
@@ -3268,7 +3268,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "add-double-smothered-chicken": {
@@ -3287,7 +3287,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "add-flatbread": {
@@ -3306,7 +3306,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "add-garlic-flatbread-for-lasagne": {
@@ -3325,7 +3325,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "add-honey-mustard-glaze": {
@@ -3344,7 +3344,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "add-naan-bread": {
@@ -3363,7 +3363,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "add-skin-on-chips-175g": {
@@ -3382,7 +3382,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "add-white-bread-butter": {
@@ -3401,7 +3401,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "add-a-cheese-slice": {
@@ -3420,7 +3420,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
-   "fetched_at": "2026-08-06T14:54:47Z",
+   "fetched_at": "2026-08-06T15:03:59Z",
    "quality_flags": null
   },
   "74-seasoned-corn-ribs-without-sauce": {
@@ -3439,7 +3439,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482427-web",
-   "fetched_at": "2026-08-06T14:55:02Z",
+   "fetched_at": "2026-08-06T15:04:15Z",
    "quality_flags": null
   },
   "bbq-seasoned-potato-wedges-without-sauce": {
@@ -3458,7 +3458,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482427-web",
-   "fetched_at": "2026-08-06T14:55:02Z",
+   "fetched_at": "2026-08-06T15:04:15Z",
    "quality_flags": null
   },
   "tomato-soup": {
@@ -3477,7 +3477,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482427-web",
-   "fetched_at": "2026-08-06T14:55:02Z",
+   "fetched_at": "2026-08-06T15:04:15Z",
    "quality_flags": null
   },
   "side-salad": {
@@ -3496,7 +3496,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482427-web",
-   "fetched_at": "2026-08-06T14:55:02Z",
+   "fetched_at": "2026-08-06T15:04:15Z",
    "quality_flags": null
   },
   "chargrilled-7oz-gammon-steak-with-chips-peas-pineapple-and-egg": {
@@ -3515,7 +3515,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482427-web",
-   "fetched_at": "2026-08-06T14:55:02Z",
+   "fetched_at": "2026-08-06T15:04:15Z",
    "quality_flags": null
   },
   "chargrilled-chicken-skewer-with-chips": {
@@ -3534,7 +3534,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482427-web",
-   "fetched_at": "2026-08-06T14:55:02Z",
+   "fetched_at": "2026-08-06T15:04:15Z",
    "quality_flags": null
   },
   "halloumi-skewer-with-chips": {
@@ -3553,7 +3553,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482427-web",
-   "fetched_at": "2026-08-06T14:55:02Z",
+   "fetched_at": "2026-08-06T15:04:15Z",
    "quality_flags": null
   },
   "hoisin-pork-rib-stack-with-chips": {
@@ -3572,7 +3572,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482427-web",
-   "fetched_at": "2026-08-06T14:55:02Z",
+   "fetched_at": "2026-08-06T15:04:15Z",
    "quality_flags": null
   },
   "honey-sriracha-pork-rib-stack-with-chips": {
@@ -3591,7 +3591,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482427-web",
-   "fetched_at": "2026-08-06T14:55:02Z",
+   "fetched_at": "2026-08-06T15:04:15Z",
    "quality_flags": null
   },
   "house-salad-base-with-no-topping-or-dressing": {
@@ -3610,7 +3610,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482427-web",
-   "fetched_at": "2026-08-06T14:55:02Z",
+   "fetched_at": "2026-08-06T15:04:15Z",
    "quality_flags": null
   },
   "veg-skewer-with-fries": {
@@ -3629,7 +3629,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482427-web",
-   "fetched_at": "2026-08-06T14:55:02Z",
+   "fetched_at": "2026-08-06T15:04:15Z",
    "quality_flags": null
   },
   "74-baconeater-burger-with-non-gluten-containing-ingredient-bun": {
@@ -3648,7 +3648,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482427-web",
-   "fetched_at": "2026-08-06T14:55:02Z",
+   "fetched_at": "2026-08-06T15:04:15Z",
    "quality_flags": null
   },
   "74-beefeater-stack-burger-with-non-gluten-containing-ingredient-bun": {
@@ -3667,7 +3667,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482427-web",
-   "fetched_at": "2026-08-06T14:55:02Z",
+   "fetched_at": "2026-08-06T15:04:15Z",
    "quality_flags": null
   },
   "hallo-me-burger-with-non-gluten-containing-ingredient-bun": {
@@ -3686,7 +3686,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482427-web",
-   "fetched_at": "2026-08-06T14:55:02Z",
+   "fetched_at": "2026-08-06T15:04:15Z",
    "quality_flags": null
   },
   "fruit-salad": {
@@ -3705,7 +3705,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482427-web",
-   "fetched_at": "2026-08-06T14:55:02Z",
+   "fetched_at": "2026-08-06T15:04:15Z",
    "quality_flags": null
   },
   "seasoned-loaded-cheesy-chips-without-sauce": {
@@ -3724,7 +3724,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482427-web",
-   "fetched_at": "2026-08-06T14:55:02Z",
+   "fetched_at": "2026-08-06T15:04:15Z",
    "quality_flags": null
   },
   "roast-gammon": {
@@ -3743,7 +3743,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482427-web",
-   "fetched_at": "2026-08-06T14:55:02Z",
+   "fetched_at": "2026-08-06T15:04:15Z",
    "quality_flags": null
   },
   "roast-sirloin-of-beef": {
@@ -3762,7 +3762,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482427-web",
-   "fetched_at": "2026-08-06T14:55:02Z",
+   "fetched_at": "2026-08-06T15:04:15Z",
    "quality_flags": null
   },
   "turkey-breast-roast": {
@@ -3781,7 +3781,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482427-web",
-   "fetched_at": "2026-08-06T14:55:02Z",
+   "fetched_at": "2026-08-06T15:04:15Z",
    "quality_flags": null
   },
   "beef-burger-with-chips-non-gluten-containing-ingredient-bun": {
@@ -3800,7 +3800,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482427-web",
-   "fetched_at": "2026-08-06T14:55:02Z",
+   "fetched_at": "2026-08-06T15:04:15Z",
    "quality_flags": null
   },
   "chicken-makhani-curry": {
@@ -3819,7 +3819,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482427-web",
-   "fetched_at": "2026-08-06T14:55:02Z",
+   "fetched_at": "2026-08-06T15:04:15Z",
    "quality_flags": null
   },
   "house-salad-with-no-dressing-or-topping": {
@@ -3838,7 +3838,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482427-web",
-   "fetched_at": "2026-08-06T14:55:02Z",
+   "fetched_at": "2026-08-06T15:04:15Z",
    "quality_flags": null
   },
   "value-gammon-steak-with-chips-peas": {
@@ -3857,7 +3857,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482427-web",
-   "fetched_at": "2026-08-06T14:55:02Z",
+   "fetched_at": "2026-08-06T15:04:15Z",
    "quality_flags": null
   },
   "kids-grilled-chicken-burger-with-bun": {
@@ -3876,7 +3876,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482427-web",
-   "fetched_at": "2026-08-06T14:55:02Z",
+   "fetched_at": "2026-08-06T15:04:15Z",
    "quality_flags": null
   },
   "beer-battered-onion-rings-per-3-rings": {
@@ -3895,7 +3895,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482454-web",
-   "fetched_at": "2026-08-06T14:55:20Z",
+   "fetched_at": "2026-08-06T15:04:30Z",
    "quality_flags": null
   },
   "breaded-mushrooms-with-dip-per-3-pieces": {
@@ -3914,7 +3914,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482454-web",
-   "fetched_at": "2026-08-06T14:55:20Z",
+   "fetched_at": "2026-08-06T15:04:30Z",
    "quality_flags": null
   },
   "chicken-goujons-with-dip-per-2-pieces": {
@@ -3933,7 +3933,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482454-web",
-   "fetched_at": "2026-08-06T14:55:20Z",
+   "fetched_at": "2026-08-06T15:04:30Z",
    "quality_flags": null
   },
   "chopped-house-salad-per-portion": {
@@ -3952,7 +3952,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482454-web",
-   "fetched_at": "2026-08-06T14:55:20Z",
+   "fetched_at": "2026-08-06T15:04:30Z",
    "quality_flags": null
   },
   "coleslaw-per-portion": {
@@ -3971,7 +3971,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482454-web",
-   "fetched_at": "2026-08-06T14:55:20Z",
+   "fetched_at": "2026-08-06T15:04:30Z",
    "quality_flags": null
   },
   "nachos-per-portion": {
@@ -3990,7 +3990,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482454-web",
-   "fetched_at": "2026-08-06T14:55:20Z",
+   "fetched_at": "2026-08-06T15:04:30Z",
    "quality_flags": null
   },
   "pollock-bites-with-dip-per-3-bites": {
@@ -4009,7 +4009,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482454-web",
-   "fetched_at": "2026-08-06T14:55:20Z",
+   "fetched_at": "2026-08-06T15:04:30Z",
    "quality_flags": null
   },
   "potato-salad-per-portion": {
@@ -4028,7 +4028,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482454-web",
-   "fetched_at": "2026-08-06T14:55:20Z",
+   "fetched_at": "2026-08-06T15:04:30Z",
    "quality_flags": null
   },
   "skin-on-chips-per-100g": {
@@ -4047,7 +4047,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482454-web",
-   "fetched_at": "2026-08-06T14:55:20Z",
+   "fetched_at": "2026-08-06T15:04:30Z",
    "quality_flags": null
   },
   "beef-crisps-per-pack": {
@@ -4066,7 +4066,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482454-web",
-   "fetched_at": "2026-08-06T14:55:20Z",
+   "fetched_at": "2026-08-06T15:04:30Z",
    "quality_flags": null
   },
   "cheddar-onion-crisps-per-pack": {
@@ -4085,7 +4085,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482454-web",
-   "fetched_at": "2026-08-06T14:55:20Z",
+   "fetched_at": "2026-08-06T15:04:30Z",
    "quality_flags": null
   },
   "chorizo-crisps-per-pack": {
@@ -4104,7 +4104,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482454-web",
-   "fetched_at": "2026-08-06T14:55:20Z",
+   "fetched_at": "2026-08-06T15:04:30Z",
    "quality_flags": null
   },
   "sea-salt-crisps-per-pack": {
@@ -4123,7 +4123,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482454-web",
-   "fetched_at": "2026-08-06T14:55:20Z",
+   "fetched_at": "2026-08-06T15:04:30Z",
    "quality_flags": null
   },
   "sweet-chilli-crisps": {
@@ -4142,7 +4142,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482454-web",
-   "fetched_at": "2026-08-06T14:55:20Z",
+   "fetched_at": "2026-08-06T15:04:30Z",
    "quality_flags": null
   },
   "vinegar-sea-salt-crisps-per-pack": {
@@ -4161,7 +4161,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482454-web",
-   "fetched_at": "2026-08-06T14:55:20Z",
+   "fetched_at": "2026-08-06T15:04:30Z",
    "quality_flags": null
   },
   "cheesy-garlic-flatbread": {
@@ -4180,7 +4180,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482454-web",
-   "fetched_at": "2026-08-06T14:55:20Z",
+   "fetched_at": "2026-08-06T15:04:30Z",
    "quality_flags": null
   },
   "create-your-own-pizza-pizza-base": {
@@ -4199,7 +4199,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482454-web",
-   "fetched_at": "2026-08-06T14:55:20Z",
+   "fetched_at": "2026-08-06T15:04:30Z",
    "quality_flags": null
   },
   "garlic-flatbread-pizza": {
@@ -4218,7 +4218,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482454-web",
-   "fetched_at": "2026-08-06T14:55:20Z",
+   "fetched_at": "2026-08-06T15:04:30Z",
    "quality_flags": null
   },
   "margherita-pizza": {
@@ -4237,7 +4237,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482454-web",
-   "fetched_at": "2026-08-06T14:55:20Z",
+   "fetched_at": "2026-08-06T15:04:30Z",
    "quality_flags": null
   },
   "mixed-vegetable-pizza": {
@@ -4256,7 +4256,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482454-web",
-   "fetched_at": "2026-08-06T14:55:20Z",
+   "fetched_at": "2026-08-06T15:04:30Z",
    "quality_flags": null
   },
   "pepperoni-pizza": {
@@ -4275,7 +4275,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482454-web",
-   "fetched_at": "2026-08-06T14:55:20Z",
+   "fetched_at": "2026-08-06T15:04:30Z",
    "quality_flags": null
   },
   "spicy-sausage-pizza": {
@@ -4294,7 +4294,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482454-web",
-   "fetched_at": "2026-08-06T14:55:20Z",
+   "fetched_at": "2026-08-06T15:04:30Z",
    "quality_flags": null
   },
   "blt-sandwich": {
@@ -4313,7 +4313,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482454-web",
-   "fetched_at": "2026-08-06T14:55:20Z",
+   "fetched_at": "2026-08-06T15:04:30Z",
    "quality_flags": null
   },
   "cheese-tomato-sandwich": {
@@ -4332,7 +4332,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482454-web",
-   "fetched_at": "2026-08-06T14:55:20Z",
+   "fetched_at": "2026-08-06T15:04:30Z",
    "quality_flags": null
   },
   "egg-mayo-sandwich": {
@@ -4351,7 +4351,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482454-web",
-   "fetched_at": "2026-08-06T14:55:20Z",
+   "fetched_at": "2026-08-06T15:04:30Z",
    "quality_flags": null
   },
   "grilled-chicken-mayo-sandwich": {
@@ -4370,7 +4370,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482454-web",
-   "fetched_at": "2026-08-06T14:55:20Z",
+   "fetched_at": "2026-08-06T15:04:30Z",
    "quality_flags": null
   },
   "ham-tomato-sandwich": {
@@ -4389,7 +4389,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482454-web",
-   "fetched_at": "2026-08-06T14:55:20Z",
+   "fetched_at": "2026-08-06T15:04:30Z",
    "quality_flags": null
   },
   "blueberry-muffin-per-piece": {
@@ -4408,7 +4408,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482454-web",
-   "fetched_at": "2026-08-06T14:55:20Z",
+   "fetched_at": "2026-08-06T15:04:30Z",
    "quality_flags": null
   },
   "brownie-per-2-pieces": {
@@ -4427,7 +4427,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482454-web",
-   "fetched_at": "2026-08-06T14:55:20Z",
+   "fetched_at": "2026-08-06T15:04:30Z",
    "quality_flags": null
   },
   "lemon-and-raspberry-semifreddo-per-2-pieces": {
@@ -4446,7 +4446,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482454-web",
-   "fetched_at": "2026-08-06T14:55:20Z",
+   "fetched_at": "2026-08-06T15:04:30Z",
    "quality_flags": null
   },
   "banana-per-fruit": {
@@ -4465,7 +4465,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482454-web",
-   "fetched_at": "2026-08-06T14:55:20Z",
+   "fetched_at": "2026-08-06T15:04:30Z",
    "quality_flags": null
   },
   "clementine-per-fruit": {
@@ -4484,7 +4484,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482454-web",
-   "fetched_at": "2026-08-06T14:55:20Z",
+   "fetched_at": "2026-08-06T15:04:30Z",
    "quality_flags": null
   },
   "green-apple-per-fruit": {
@@ -4503,7 +4503,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482454-web",
-   "fetched_at": "2026-08-06T14:55:20Z",
+   "fetched_at": "2026-08-06T15:04:30Z",
    "quality_flags": null
   },
   "chicken-liver-brandy-pate": {
@@ -4522,7 +4522,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482474-web",
-   "fetched_at": "2026-08-06T14:55:23Z",
+   "fetched_at": "2026-08-06T15:04:34Z",
    "quality_flags": null
   },
   "festive-cranberry-thyme-flatbread": {
@@ -4541,7 +4541,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482474-web",
-   "fetched_at": "2026-08-06T14:55:23Z",
+   "fetched_at": "2026-08-06T15:04:34Z",
    "quality_flags": null
   },
   "festive-double-crunch-chicken-wings": {
@@ -4560,7 +4560,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482474-web",
-   "fetched_at": "2026-08-06T14:55:23Z",
+   "fetched_at": "2026-08-06T15:04:34Z",
    "quality_flags": null
   },
   "pigs-in-blankets": {
@@ -4579,7 +4579,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482474-web",
-   "fetched_at": "2026-08-06T14:55:23Z",
+   "fetched_at": "2026-08-06T15:04:34Z",
    "quality_flags": null
   },
   "prawn-cocktail": {
@@ -4598,7 +4598,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482474-web",
-   "fetched_at": "2026-08-06T14:55:23Z",
+   "fetched_at": "2026-08-06T15:04:34Z",
    "quality_flags": null
   },
   "vegan-tomato-soup": {
@@ -4617,7 +4617,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482474-web",
-   "fetched_at": "2026-08-06T14:55:23Z",
+   "fetched_at": "2026-08-06T15:04:34Z",
    "quality_flags": null
   },
   "74-festive-house-stack-burger-without-bun": {
@@ -4636,7 +4636,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482474-web",
-   "fetched_at": "2026-08-06T14:55:23Z",
+   "fetched_at": "2026-08-06T15:04:34Z",
    "quality_flags": null
   },
   "brie-caramelised-onion-burger": {
@@ -4655,7 +4655,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482474-web",
-   "fetched_at": "2026-08-06T14:55:23Z",
+   "fetched_at": "2026-08-06T15:04:34Z",
    "quality_flags": null
   },
   "caramelised-veg-wellington-roast": {
@@ -4674,7 +4674,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482474-web",
-   "fetched_at": "2026-08-06T14:55:23Z",
+   "fetched_at": "2026-08-06T15:04:34Z",
    "quality_flags": null
   },
   "chargrilled-salmon-king-prawns": {
@@ -4693,7 +4693,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482474-web",
-   "fetched_at": "2026-08-06T14:55:23Z",
+   "fetched_at": "2026-08-06T15:04:34Z",
    "quality_flags": null
   },
   "honey-sriracha-pork-rib-stack-with-fries": {
@@ -4712,7 +4712,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482474-web",
-   "fetched_at": "2026-08-06T14:55:23Z",
+   "fetched_at": "2026-08-06T15:04:34Z",
    "quality_flags": null
   },
   "turkey-roast": {
@@ -4731,7 +4731,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482474-web",
-   "fetched_at": "2026-08-06T14:55:23Z",
+   "fetched_at": "2026-08-06T15:04:34Z",
    "quality_flags": null
   },
   "add-triple-cooked-chips": {
@@ -4750,7 +4750,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482474-web",
-   "fetched_at": "2026-08-06T14:55:23Z",
+   "fetched_at": "2026-08-06T15:04:34Z",
    "quality_flags": null
   },
   "apple-and-blackberry-crumble-without-topping": {
@@ -4769,7 +4769,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482474-web",
-   "fetched_at": "2026-08-06T14:55:23Z",
+   "fetched_at": "2026-08-06T15:04:34Z",
    "quality_flags": null
   },
   "billionaires-profiteroles-with-cadbury-dairy-milk-caramel-nibbles": {
@@ -4788,7 +4788,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482474-web",
-   "fetched_at": "2026-08-06T14:55:23Z",
+   "fetched_at": "2026-08-06T15:04:34Z",
    "quality_flags": null
   },
   "christmas-pud-mince-pie-sundae": {
@@ -4807,7 +4807,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482474-web",
-   "fetched_at": "2026-08-06T14:55:23Z",
+   "fetched_at": "2026-08-06T15:04:34Z",
    "quality_flags": null
   },
   "lotus-and-white-choc-cheesecake": {
@@ -4826,7 +4826,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482474-web",
-   "fetched_at": "2026-08-06T14:55:23Z",
+   "fetched_at": "2026-08-06T15:04:34Z",
    "quality_flags": null
   },
   "traditional-christmas-pudding": {
@@ -4845,7 +4845,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482474-web",
-   "fetched_at": "2026-08-06T14:55:23Z",
+   "fetched_at": "2026-08-06T15:04:34Z",
    "quality_flags": null
   },
   "triple-choc-brownie-and-chocolate-orange-sundae": {
@@ -4864,7 +4864,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482474-web",
-   "fetched_at": "2026-08-06T14:55:23Z",
+   "fetched_at": "2026-08-06T15:04:34Z",
    "quality_flags": null
   },
   "ultimate-chocolate-fudge-cake": {
@@ -4883,7 +4883,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482474-web",
-   "fetched_at": "2026-08-06T14:55:23Z",
+   "fetched_at": "2026-08-06T15:04:34Z",
    "quality_flags": null
   },
   "buttered-sprouts": {
@@ -4902,7 +4902,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482474-web",
-   "fetched_at": "2026-08-06T14:55:23Z",
+   "fetched_at": "2026-08-06T15:04:34Z",
    "quality_flags": null
   },
   "smoked-bacon-mac-and-cheese": {
@@ -4921,7 +4921,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482474-web",
-   "fetched_at": "2026-08-06T14:55:23Z",
+   "fetched_at": "2026-08-06T15:04:34Z",
    "quality_flags": null
   },
   "truffle-and-grana-padano-chips": {
@@ -4940,7 +4940,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482474-web",
-   "fetched_at": "2026-08-06T14:55:23Z",
+   "fetched_at": "2026-08-06T15:04:34Z",
    "quality_flags": null
   },
   "truffle-mac-and-cheese": {
@@ -4959,7 +4959,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482474-web",
-   "fetched_at": "2026-08-06T14:55:23Z",
+   "fetched_at": "2026-08-06T15:04:34Z",
    "quality_flags": null
   },
   "kids-christmas-tree-garlic-bread": {
@@ -4978,7 +4978,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482474-web",
-   "fetched_at": "2026-08-06T14:55:23Z",
+   "fetched_at": "2026-08-06T15:04:34Z",
    "quality_flags": null
   },
   "pigs-in-blankets-with-dip": {
@@ -4997,7 +4997,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482474-web",
-   "fetched_at": "2026-08-06T14:55:23Z",
+   "fetched_at": "2026-08-06T15:04:34Z",
    "quality_flags": null
   },
   "kids-oven-baked-chicken-baubles-small": {
@@ -5016,7 +5016,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482474-web",
-   "fetched_at": "2026-08-06T14:55:23Z",
+   "fetched_at": "2026-08-06T15:04:34Z",
    "quality_flags": null
   },
   "kids-pigs-in-blankets-with-gravy": {
@@ -5035,7 +5035,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482474-web",
-   "fetched_at": "2026-08-06T14:55:23Z",
+   "fetched_at": "2026-08-06T15:04:34Z",
    "quality_flags": null
   },
   "christmas-tree-margherita-pizza": {
@@ -5054,7 +5054,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482474-web",
-   "fetched_at": "2026-08-06T14:55:23Z",
+   "fetched_at": "2026-08-06T15:04:34Z",
    "quality_flags": null
   },
   "kids-festive-rudolf-burger-with-bun": {
@@ -5073,7 +5073,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482474-web",
-   "fetched_at": "2026-08-06T14:55:23Z",
+   "fetched_at": "2026-08-06T15:04:34Z",
    "quality_flags": null
   },
   "kids-turkey-dinner": {
@@ -5092,7 +5092,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482474-web",
-   "fetched_at": "2026-08-06T14:55:23Z",
+   "fetched_at": "2026-08-06T15:04:34Z",
    "quality_flags": null
   },
   "chocolate-christmas-tree": {
@@ -5111,7 +5111,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482474-web",
-   "fetched_at": "2026-08-06T14:55:23Z",
+   "fetched_at": "2026-08-06T15:04:34Z",
    "quality_flags": null
   },
   "santa-s-chocolate-brownie-with-cream": {
@@ -5130,7 +5130,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482474-web",
-   "fetched_at": "2026-08-06T14:55:23Z",
+   "fetched_at": "2026-08-06T15:04:34Z",
    "quality_flags": null
   },
   "santa-s-hat-sundae": {
@@ -5149,7 +5149,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482474-web",
-   "fetched_at": "2026-08-06T14:55:23Z",
+   "fetched_at": "2026-08-06T15:04:34Z",
    "quality_flags": null
   },
   "prawn-and-avocado-cocktail": {
@@ -5168,7 +5168,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482474-web",
-   "fetched_at": "2026-08-06T14:55:23Z",
+   "fetched_at": "2026-08-06T15:04:34Z",
    "quality_flags": null
   },
   "truffle-cheddar-mozz-cheese-flatbread": {
@@ -5187,7 +5187,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482474-web",
-   "fetched_at": "2026-08-06T14:55:23Z",
+   "fetched_at": "2026-08-06T15:04:34Z",
    "quality_flags": null
   },
   "caramelised-wellington-roast": {
@@ -5206,7 +5206,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482474-web",
-   "fetched_at": "2026-08-06T14:55:23Z",
+   "fetched_at": "2026-08-06T15:04:34Z",
    "quality_flags": null
   },
   "trio-of-fish": {
@@ -5225,7 +5225,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482474-web",
-   "fetched_at": "2026-08-06T14:55:23Z",
+   "fetched_at": "2026-08-06T15:04:34Z",
    "quality_flags": null
   },
   "truffle-8oz-fillet-diane": {
@@ -5244,7 +5244,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482474-web",
-   "fetched_at": "2026-08-06T14:55:23Z",
+   "fetched_at": "2026-08-06T15:04:34Z",
    "quality_flags": null
   },
   "billioniares-profiteroles": {
@@ -5263,7 +5263,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482474-web",
-   "fetched_at": "2026-08-06T14:55:23Z",
+   "fetched_at": "2026-08-06T15:04:34Z",
    "quality_flags": null
   },
   "mince-pie-only-see-drinks-data-for-choices": {
@@ -5282,7 +5282,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482474-web",
-   "fetched_at": "2026-08-06T14:55:23Z",
+   "fetched_at": "2026-08-06T15:04:34Z",
    "quality_flags": null
   },
   "winter-berry-pavlova": {
@@ -5301,7 +5301,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482474-web",
-   "fetched_at": "2026-08-06T14:55:23Z",
+   "fetched_at": "2026-08-06T15:04:34Z",
    "quality_flags": null
   },
   "kids-beef-roast": {
@@ -5320,7 +5320,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482474-web",
-   "fetched_at": "2026-08-06T14:55:23Z",
+   "fetched_at": "2026-08-06T15:04:34Z",
    "quality_flags": null
   },
   "add-skin-on-chips-100g": {
@@ -5339,7 +5339,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482474-web",
-   "fetched_at": "2026-08-06T14:55:23Z",
+   "fetched_at": "2026-08-06T15:04:34Z",
    "quality_flags": null
   },
   "add-a-pig-in-blanket": {
@@ -5358,7 +5358,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482474-web",
-   "fetched_at": "2026-08-06T14:55:23Z",
+   "fetched_at": "2026-08-06T15:04:34Z",
    "quality_flags": null
   },
   "add-buttered-sprouts-portion": {
@@ -5377,7 +5377,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482474-web",
-   "fetched_at": "2026-08-06T14:55:23Z",
+   "fetched_at": "2026-08-06T15:04:34Z",
    "quality_flags": null
   },
   "add-2-rashers-of-bacon": {
@@ -5396,7 +5396,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482474-web",
-   "fetched_at": "2026-08-06T14:55:23Z",
+   "fetched_at": "2026-08-06T15:04:34Z",
    "quality_flags": null
   },
   "add-brie": {
@@ -5415,7 +5415,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482474-web",
-   "fetched_at": "2026-08-06T14:55:23Z",
+   "fetched_at": "2026-08-06T15:04:34Z",
    "quality_flags": null
   },
   "add-garlic-lobster": {
@@ -5434,7 +5434,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482474-web",
-   "fetched_at": "2026-08-06T14:55:23Z",
+   "fetched_at": "2026-08-06T15:04:34Z",
    "quality_flags": null
   },
   "upgrade-your-roast": {
@@ -5453,7 +5453,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482474-web",
-   "fetched_at": "2026-08-06T14:55:23Z",
+   "fetched_at": "2026-08-06T15:04:34Z",
    "quality_flags": null
   },
   "chicken-liver-brandy-pate-with-ngci-bread": {
@@ -5472,7 +5472,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482504-web",
-   "fetched_at": "2026-08-06T14:55:27Z",
+   "fetched_at": "2026-08-06T15:04:36Z",
    "quality_flags": null
   },
   "prawn-cocktail-with-ngci-bread": {
@@ -5491,7 +5491,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482504-web",
-   "fetched_at": "2026-08-06T14:55:27Z",
+   "fetched_at": "2026-08-06T15:04:36Z",
    "quality_flags": null
   },
   "tomato-soup-with-pesto-cheese-ngci-bread": {
@@ -5510,7 +5510,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482504-web",
-   "fetched_at": "2026-08-06T14:55:27Z",
+   "fetched_at": "2026-08-06T15:04:36Z",
    "quality_flags": null
   },
   "vegan-tomato-soup-with-ngci-bread": {
@@ -5529,7 +5529,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482504-web",
-   "fetched_at": "2026-08-06T14:55:27Z",
+   "fetched_at": "2026-08-06T15:04:36Z",
    "quality_flags": null
   },
   "beef-roast": {
@@ -5548,7 +5548,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482504-web",
-   "fetched_at": "2026-08-06T14:55:27Z",
+   "fetched_at": "2026-08-06T15:04:36Z",
    "quality_flags": null
   },
   "festive-stack-burger-with-non-gluten-containing-ingredient-bun": {
@@ -5567,7 +5567,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482504-web",
-   "fetched_at": "2026-08-06T14:55:27Z",
+   "fetched_at": "2026-08-06T15:04:36Z",
    "quality_flags": null
   },
   "garden-gourmet-sausages-with-roast-potatoes": {
@@ -5586,7 +5586,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482504-web",
-   "fetched_at": "2026-08-06T14:55:27Z",
+   "fetched_at": "2026-08-06T15:04:36Z",
    "quality_flags": null
   },
   "berry-blast-sundae": {
@@ -5605,7 +5605,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482504-web",
-   "fetched_at": "2026-08-06T14:55:27Z",
+   "fetched_at": "2026-08-06T15:04:36Z",
    "quality_flags": null
   },
   "8oz-fillet-with-fries": {
@@ -5624,7 +5624,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482504-web",
-   "fetched_at": "2026-08-06T14:55:27Z",
+   "fetched_at": "2026-08-06T15:04:36Z",
    "quality_flags": null
   },
   "kids-festive-turkey": {
@@ -5643,7 +5643,7 @@
    "allergens": null,
    "source": "brand site (Beefeater allergy & nutrition guide, Whitbread)",
    "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482504-web",
-   "fetched_at": "2026-08-06T14:55:27Z",
+   "fetched_at": "2026-08-06T15:04:36Z",
    "quality_flags": null
   }
  }
