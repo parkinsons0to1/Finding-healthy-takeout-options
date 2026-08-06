@@ -1,0 +1,10 @@
+{
+  "chain_id": "batchd",
+  "status": "unresolved",
+  "source_url": "https://www.batchd.co.uk/pages/allergen-information",
+  "source_type": null,
+  "label": null,
+  "item_count": 0,
+  "samples": [],
+  "notes": "NOT YET FOUND - not a claim that none exists. batchd.co.uk is Shopify. Checked https://www.batchd.co.uk/pages/allergen-information and /pages/our-products (both 200) and https://www.batchd.co.uk/products.json?limit=250 (200, full catalogue): all three contain zero 'protein', 'kcal' or 'energy' occurrences, and no .pdf hrefs were found on either page. The pages reference an 'Allergen Booklet' but no downloadable file link was located in the HTML. NEXT STEPS: locate the allergen booklet asset (likely a cdn.shopify.com /files/ URL rather than an <a href> ending in .pdf - grep the page for cdn.shopify.com/s/files), check product metafields via the Shopify /products/<handle>.js endpoint, and email hello@batchd.co.uk which the site gives as the nutrition contact."
+}

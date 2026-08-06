@@ -1,0 +1,10 @@
+{
+  "chain_id": "kokoro",
+  "status": "unresolved",
+  "source_url": "",
+  "source_type": null,
+  "label": null,
+  "item_count": 0,
+  "samples": [],
+  "notes": "NOT YET FOUND - not a claim that none exists. No official domain was successfully reached. Tried: kokorouk.co.uk and www.kokorouk.co.uk (proxy tunnel 502, never resolved), www.kokorofood.co.uk (HTTP 502), kokoro.co.uk (HTTP 403, not confirmed to be the takeaway chain), kokorouk.com (HTTP 200 but a 31KB page with zero 'protein'/'kcal' occurrences - may be a placeholder or the wrong entity). Web search returned only aggregator sites (fatsecret, menuwithnutrition, snapcalorie, eatthismuch) and menu-price scrapers, no brand-hosted nutrition document. NEXT STEPS: establish the correct official domain for the UK Kokoro Japanese takeaway chain (check Companies House / their app store listings / their delivery-partner storefronts), then look for a nutrition or allergen page on it. Retry kokorouk.co.uk when the proxy is healthy - the 502 was an infrastructure failure, not a 404."
+}

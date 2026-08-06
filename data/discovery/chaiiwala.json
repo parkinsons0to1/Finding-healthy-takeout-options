@@ -1,0 +1,10 @@
+{
+  "chain_id": "chaiiwala",
+  "status": "unresolved",
+  "source_url": "https://www.chaiiwala.co.uk/chaiiwala-menu/butter-chicken-rice-bowl/",
+  "source_type": null,
+  "label": null,
+  "item_count": 0,
+  "samples": [],
+  "notes": "PROTEIN NOT YET FOUND; kcal IS available. Positively verified: chaiiwala.co.uk is a Next.js app whose RSC payload is embedded in the page HTML and contains a per-item menu object with fields name, slug, shortDescription, description, price, isNew, productType, subCategory, kcal, kcalLarge, dietary{vegetarian,vegan}, containsAllergens[], tracesAllergens[]. So energy IS machine-readable per item (e.g. Loaded Chips 1032 kcal, matcha drink 284/364 kcal, 746 kcal veg dish), but there is NO protein or other macro key in that object. https://www.chaiiwala.co.uk/allergens links only /api/allergen-matrix.pdf. This describes the fields present in the site payload today, NOT a claim that Chaiiwala publishes no protein anywhere. NEXT STEPS: fetch /api/allergen-matrix.pdf and confirm its columns; probe for a sibling API route serving full nutrition; check the ordering platform and app."
+}

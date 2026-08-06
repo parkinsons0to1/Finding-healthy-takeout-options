@@ -1,0 +1,10 @@
+{
+  "chain_id": "warrens",
+  "status": "unresolved",
+  "source_url": "https://warrensbakery.co.uk/content/uploads/2026/07/WB1039_WARRENS-NUTRITIONAL-AND-ALLERGY-SHEETS-JULY26-LIVERPOOL-ST.pdf",
+  "source_type": null,
+  "label": null,
+  "item_count": 0,
+  "samples": [],
+  "notes": "PROTEIN NOT YET FOUND. Positively verified what the current official document does contain: https://warrensbakery.co.uk/about-us/calories-allergens/ links exactly one PDF, WB1039_WARRENS-NUTRITIONAL-AND-ALLERGY-SHEETS-JULY26-LIVERPOOL-ST.pdf (15 pages, titled 'CALORIES & ALLERGENS GUIDE JULY 2026'). Its tables parse cleanly with pdfplumber and the columns are exactly: Group, Dept, Name, Calories, Allergens, May Contain. There is a Calories column and NO protein or macro column - so this file yields kcal per item but cannot satisfy the kcal+protein bar. Older editions (2025/09 Warrens-Bakery_Calories-Allergens_UpdateSEP25.pdf, 2024/06 WARRENS-CALORIES-ALLERGENS_JUNE24.pdf) have the same column set. The /nutrition/ and /allergens/ paths 404 and the site homepage links no other PDF. This is a statement about these files only, NOT about whether Warrens publishes protein elsewhere. NEXT STEPS: check the Warrens online shop / individual product pages, packaging photos, and whether the 'LIVERPOOL-ST' suffix implies other store-specific sheets exist at other /content/uploads/ paths."
+}

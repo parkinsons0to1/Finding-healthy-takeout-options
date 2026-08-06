@@ -1,0 +1,10 @@
+{
+  "chain_id": "wok_to_walk",
+  "status": "unresolved",
+  "source_url": "https://www.woktowalk.com/en/nutrition-calculator",
+  "source_type": null,
+  "label": null,
+  "item_count": 0,
+  "samples": [],
+  "notes": "NOT YET FOUND - not a claim that none exists. Checked: woktowalk.co.uk and www.woktowalk.co.uk (TCP connection reset through the proxy, never reached); woktowalk.com and www.woktowalk.com/en/nutrition-calculator return HTTP 202 with a 194-byte Cloudflare interstitial to plain requests, and base.fetch_protected (curl_cffi safari/chrome/edge impersonation) returned None for every profile, so the real page body was never retrieved; WebFetch of the same URL rendered an empty document. A brand nutrition calculator URL exists (search surfaced woktowalk.is/en/nutrition-calculator and woktowalk.in/nutrition-calculator) so the data almost certainly exists behind the Cloudflare wall. woktowalk.is loads (Next.js ordering app) but its 43 'protein' hits are i18n UI strings, not per-item data, and it is the Iceland franchise. NEXT STEPS: drive www.woktowalk.com/en/nutrition-calculator with Playwright/Chromium at /opt/pw-browsers/chromium to get past the challenge, capture XHRs for the calculator's ingredient JSON, and confirm a UK-specific menu."
+}
