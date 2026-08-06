@@ -22,7 +22,8 @@ from ..halal.cache import HalalCache
 from ..halal.resolver import resolve as resolve_halal
 from ..scrapers.base import session
 from .discounts import DISCOUNTS, best_discount
-from .prices import price_for
+from ..offers.registry import expanded_for_chain
+from .prices import PriceQuote, price_for
 from .scoring import ScoredItem, rank
 
 DB = pathlib.Path(__file__).resolve().parents[2] / "data" / "db"
@@ -125,11 +126,21 @@ def search(postcode: str | None = None, lat: float | None = None,
         outlets_used.append({**outlet, "halal_status": halal_status,
                              "halal_tier": halal_tier, "menu_items": len(menu)})
 
-        for item in menu:
-            quote = price_for(chain_id, item["name"])
-            if not quote:
-                continue
-            disc = best_discount(chain_id, item["name"])
+        # Limited-time bundles carry their own price and their macros are
+        # summed from menu rows, so they join the same ranking as ordinary
+        # items — which is the point: KFC's 10-tender bucket beats every
+        # standard item on protein-per-pound.
+        for item in menu + expanded_for_chain(chain_id, menu):
+            if item.get("is_offer"):
+                quote = PriceQuote(item["offer_price_gbp"], "offer",
+                                   item.get("offer_valid_to") or "",
+                                   item.get("source", ""))
+                disc = None      # an offer price is already the deal
+            else:
+                quote = price_for(chain_id, item["name"])
+                if not quote:
+                    continue
+                disc = best_discount(chain_id, item["name"])
             final = round(quote.price_gbp * (1 - disc.percent / 100), 2) if disc \
                 else quote.price_gbp
             scored.append(ScoredItem(
@@ -144,7 +155,12 @@ def search(postcode: str | None = None, lat: float | None = None,
                 vegan=bool(item.get("vegan")),
                 nutrition_source=item.get("source", ""),
                 nutrition_confidence="high",
-                price_basis=quote.basis))
+                price_basis=quote.basis,
+                is_offer=bool(item.get("is_offer")),
+                offer_basis=item.get("offer_basis"),
+                offer_components=item.get("offer_components"),
+                offer_valid_to=item.get("offer_valid_to"),
+                offer_availability=item.get("offer_availability")))
 
     payload = rank(scored, diet=diet, min_protein_share=min_protein_share,
                    strict_halal=strict_halal, sort_by=sort_by, limit=limit)

@@ -48,6 +48,12 @@ class ScoredItem:
     nutrition_source: str
     nutrition_confidence: str
     price_basis: str
+    #: Limited-time bundle fields — empty for ordinary menu items.
+    is_offer: bool = False
+    offer_basis: str | None = None
+    offer_components: list[str] | None = None
+    offer_valid_to: str | None = None
+    offer_availability: str | None = None
 
     @property
     def protein_share(self) -> float:
@@ -81,6 +87,11 @@ class ScoredItem:
             "nutrition_source": self.nutrition_source,
             "nutrition_confidence": self.nutrition_confidence,
             "price_basis": self.price_basis,
+            "is_offer": self.is_offer,
+            "offer_basis": self.offer_basis,
+            "offer_components": self.offer_components,
+            "offer_valid_to": self.offer_valid_to,
+            "offer_availability": self.offer_availability,
             "score_version": SCORE_VERSION,
         }
 

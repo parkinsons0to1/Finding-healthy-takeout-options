@@ -99,3 +99,41 @@ Near St Ives, independents outnumber chains 99:0; at the holiday park, 64:4. The
 6. E4 retailer eligibility lists
 7. E5 Subway/BK per-outlet halal, kosher
 8. E6 independents via photo/OCR
+
+---
+
+## E9 — Limited-time offers and new menu items (S3) ✅ implemented
+
+**What was missing.** The model knew standard menu items and percentage
+discounts, but not **fixed-price bundles** — "10 Tenders Bucket, £7.99". These
+are routinely the best protein-per-pound available: that KFC bucket is 131 g of
+protein at 42% protein-kcal for £7.99, i.e. **16.4 g/£**, better than any
+standard menu item and competitive with a supermarket meal deal. Missing them
+meant missing the actual answer.
+
+**Why a discount rule couldn't express it.** A discount modifies a known list
+price. An offer *is its own product*, assembled from menu items, with no list
+price to discount and macros that exist only as the sum of its parts.
+
+**Design.** `scripts/offers/`:
+- `model.py` — `Offer` + `Component`; `expand()` derives macros from real
+  scraped rows (10 x the per-piece tender), preferring per-unit rows so a
+  multi-pack row can't multiply an already-multiplied quantity.
+- `sources/kfc_deals.py` — parses KFC's own deals page, which carries current
+  promotions in prose. Deliberately narrow: it emits only what it can turn into
+  a resolvable composition.
+- `registry.py` — merges **scraped**, **curated** (app-only deals with no
+  scrapeable page) and **community** (user-reported) tiers.
+
+**Two safety properties, both tested.**
+1. *Composition must resolve.* An unmatched component drops the offer rather
+   than publishing guessed macros — an invented bundle would top the ranking
+   by construction, exactly because it looks too good.
+2. *Expiry is enforced.* Past `valid_to`, or unverified for more than 21 days,
+   an offer is withheld. Limited-time offers turn over fast, and a price the
+   user cannot get is worse than showing no price.
+
+**Still open.** App-only deals (McDonald's app, KFC app bundles) have no
+scrapeable page and rely on the curated/community tiers; a user-submission
+route in the UI is the cheapest way to cover the long tail, and
+`registry.add_community_offer` already accepts them.

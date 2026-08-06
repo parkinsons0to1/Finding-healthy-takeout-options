@@ -63,7 +63,14 @@ function itemCard(item, i) {
         ${item.vegan ? '<span class="pill good">Vegan</span>'
           : item.vegetarian ? '<span class="pill good">Vegetarian</span>' : ''}
         ${item.price_basis === 'estimated' ? '<span class="pill est">Price estimated</span>' : ''}
+        ${item.is_offer ? '<span class="pill offer">Limited-time deal</span>' : ''}
+        ${item.offer_availability === 'app_only' ? '<span class="pill">App only</span>' : ''}
       </div>
+      ${item.is_offer && item.offer_components
+        ? `<div class="where offer-parts">= ${escapeHtml(item.offer_components.join(' + '))}
+             ${item.offer_basis === 'community' ? ' · user-reported' : ''}
+             ${item.offer_valid_to ? ` · until ${escapeHtml(item.offer_valid_to)}` : ''}</div>`
+        : ''}
       ${discounted ? `<div class="macros"><span class="pill deal">${escapeHtml(item.discount_label)}</span></div>` : ''}
     </div>
     <div class="score">

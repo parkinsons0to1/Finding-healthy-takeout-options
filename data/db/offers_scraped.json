@@ -1,0 +1,24 @@
+{
+ "refreshed_at": "2026-08-06T12:31:57.830750+00:00",
+ "offers": [
+  {
+   "offer_id": "kfc_10_tender_799",
+   "chain_id": "kfc",
+   "title": "10 Tenders \u2014 \u00a37.99 deal",
+   "price_gbp": 7.99,
+   "components": [
+    {
+     "item_matcher": "Tender (per piece",
+     "quantity": 10
+    }
+   ],
+   "source": "KFC UK deals page",
+   "source_url": "https://www.kfc.co.uk/kfc-deals",
+   "last_verified": "2026-08-06",
+   "valid_to": null,
+   "availability": "national",
+   "basis": "scraped",
+   "notes": "parsed from KFC's deals page copy"
+  }
+ ]
+}

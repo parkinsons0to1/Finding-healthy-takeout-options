@@ -125,3 +125,11 @@ output { color: var(--text); font-weight: 600; }
 .empty strong { color: var(--text); }
 .empty p { margin: 8px 0; }
 .empty .btn { margin-top: 6px; }
+
+/* Limited-time offers — visually distinct because they beat standard items */
+.pill.offer {
+  background: var(--accent); border-color: var(--accent);
+  color: #04140c; font-weight: 700;
+}
+@media (prefers-color-scheme: light) { .pill.offer { color: #fff; } }
+.offer-parts { margin-top: 6px; font-style: italic; }

@@ -8,6 +8,46 @@
    "chain_id": "mcdonalds",
    "postcode": "TR27 5DG",
    "name": "McDonald's"
+  },
+  "greggs|SM11EZ|greggs plc": {
+   "status": "not_halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786019560.7514548,
+   "chain_id": "greggs",
+   "postcode": "SM1 1EZ",
+   "name": "Greggs PLC"
+  },
+  "popeyes|SM11JH|popeyes": {
+   "status": "halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786019562.0988727,
+   "chain_id": "popeyes",
+   "postcode": "SM1 1JH",
+   "name": "Popeyes"
+  },
+  "mcdonalds|SM11NL|mcdonalds": {
+   "status": "not_halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786019563.5147717,
+   "chain_id": "mcdonalds",
+   "postcode": "SM1 1NL",
+   "name": "McDonalds"
+  },
+  "kfc|SM11NR|kfc": {
+   "status": "halal",
+   "tier": "brand_per_outlet",
+   "stored_at": 1786019574.0928898,
+   "chain_id": "kfc",
+   "postcode": "SM1 1NR",
+   "name": "KFC"
+  },
+  "greggs|SM11NR|greggs": {
+   "status": "not_halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786019575.4281278,
+   "chain_id": "greggs",
+   "postcode": "SM1 1NR",
+   "name": "Greggs"
   }
  }
 }

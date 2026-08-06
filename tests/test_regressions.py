@@ -114,6 +114,56 @@ def test_postcode_vs_place_detection():
         assert not looks_like_postcode(place), place
 
 
+# --- limited-time offers -------------------------------------------------
+
+def test_expired_offers_are_never_served():
+    """A price the user cannot get is worse than no price. Offers past their
+    end date, or unverified for too long, must be withheld."""
+    import datetime
+    from scripts.offers.model import Component, Offer
+
+    today = datetime.date(2026, 7, 28)
+    base = dict(offer_id="x", chain_id="kfc", title="t", price_gbp=7.99,
+                components=(Component("Tender (per piece", 10),),
+                source="s", source_url="u")
+
+    assert Offer(**base, last_verified="2026-07-27").is_live(today)
+    assert not Offer(**base, last_verified="2026-07-27",
+                     valid_to="2026-07-01").is_live(today), "expired offer served"
+    assert not Offer(**base, last_verified="2026-01-01").is_live(today), \
+        "stale offer served"
+
+
+def test_offer_with_unresolvable_component_is_dropped():
+    """An invented bundle would top the ranking precisely because it looks too
+    good, so unresolved compositions must never be published."""
+    from scripts.offers.model import Component, Offer, expand
+
+    menu = [{"name": "Tender (per piece, average)", "kcal": 125, "protein_g": 13.1}]
+    good = Offer("a", "kfc", "10 Tenders", 7.99,
+                 (Component("Tender (per piece", 10),), "s", "u", "2026-07-28")
+    row = expand(good, menu)
+    assert row and row["protein_g"] == 131.0 and row["kcal"] == 1250.0
+
+    bad = Offer("b", "kfc", "Mystery Box", 5.0,
+                (Component("Nonexistent Item", 3),), "s", "u", "2026-07-28")
+    assert expand(bad, menu) is None
+
+
+def test_offer_prefers_per_unit_rows_over_multipacks():
+    """Matching a multi-pack row would multiply an already-multiplied quantity."""
+    from scripts.offers.model import Component, Offer, expand
+
+    menu = [
+        {"name": "Tender (per piece, average)", "kcal": 125, "protein_g": 13.1},
+        {"name": "5 Tenders Sharing Box", "kcal": 625, "protein_g": 65.5},
+    ]
+    offer = Offer("a", "kfc", "10 Tenders", 7.99,
+                  (Component("Tender", 10),), "s", "u", "2026-07-28")
+    row = expand(offer, menu)
+    assert row["protein_g"] == 131.0, f"used the wrong base row: {row}"
+
+
 def _run_all() -> int:
     failures = 0
     for name, fn in sorted(globals().items()):
