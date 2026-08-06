@@ -1,7 +1,7 @@
 {
  "chain_id": "itsu",
  "item_count": 116,
- "fetched_at": "2026-08-06T15:03:15Z",
+ "fetched_at": "2026-08-06T15:05:50Z",
  "items": {
   "miso-soup": {
    "chain_id": "itsu",
@@ -19,7 +19,7 @@
    "allergens": null,
    "source": "brand site (itsu per-product nutrition facts)",
    "source_url": "https://www.itsu.com/menu/soups/hot-miso-soup-120925/",
-   "fetched_at": "2026-08-06T15:03:15Z",
+   "fetched_at": "2026-08-06T15:05:50Z",
    "quality_flags": null
   },
   "spicy-miso-soup": {
@@ -38,7 +38,7 @@
    "allergens": null,
    "source": "brand site (itsu per-product nutrition facts)",
    "source_url": "https://www.itsu.com/menu/soups/hot-spicy-miso-soup-120925/",
-   "fetched_at": "2026-08-06T15:03:15Z",
+   "fetched_at": "2026-08-06T15:05:50Z",
    "quality_flags": null
   },
   "loaded-chicken-miso-soup": {
@@ -57,7 +57,7 @@
    "allergens": null,
    "source": "brand site (itsu per-product nutrition facts)",
    "source_url": "https://www.itsu.com/menu/soups/hot-chargrilled-chicken-miso-soup-120925/",
-   "fetched_at": "2026-08-06T15:03:15Z",
+   "fetched_at": "2026-08-06T15:05:50Z",
    "quality_flags": null
   },
   "king-prawn-miso-soup": {
@@ -76,7 +76,7 @@
    "allergens": null,
    "source": "brand site (itsu per-product nutrition facts)",
    "source_url": "https://www.itsu.com/menu/soups/hot-king-prawn-miso-soup-120925/",
-   "fetched_at": "2026-08-06T15:03:15Z",
+   "fetched_at": "2026-08-06T15:05:50Z",
    "quality_flags": null
   },
   "detox-miso-noodle-soup": {
@@ -95,7 +95,7 @@
    "allergens": null,
    "source": "brand site (itsu per-product nutrition facts)",
    "source_url": "https://www.itsu.com/menu/soups/hot-detox-miso-noodle-soup-120925/",
-   "fetched_at": "2026-08-06T15:03:15Z",
+   "fetched_at": "2026-08-06T15:05:50Z",
    "quality_flags": null
   },
   "chicken-noodle-soup": {
@@ -114,7 +114,7 @@
    "allergens": null,
    "source": "brand site (itsu per-product nutrition facts)",
    "source_url": "https://www.itsu.com/menu/soups/hot-chicken-noodle-soup-120925/",
-   "fetched_at": "2026-08-06T15:03:15Z",
+   "fetched_at": "2026-08-06T15:05:50Z",
    "quality_flags": null
   },
   "famous-coconut-chicken-soup": {
@@ -133,7 +133,7 @@
    "allergens": null,
    "source": "brand site (itsu per-product nutrition facts)",
    "source_url": "https://www.itsu.com/menu/soups/hot-soup-coconut-chicken-270326/",
-   "fetched_at": "2026-08-06T15:03:15Z",
+   "fetched_at": "2026-08-06T15:05:50Z",
    "quality_flags": null
   },
   "veggie-balls-coconut-soup": {
@@ -152,7 +152,7 @@
    "allergens": null,
    "source": "brand site (itsu per-product nutrition facts)",
    "source_url": "https://www.itsu.com/menu/soups/hot-veggie-meatball-and-coconut-soup-270326/",
-   "fetched_at": "2026-08-06T15:03:15Z",
+   "fetched_at": "2026-08-06T15:05:50Z",
    "quality_flags": null
   },
   "chicken-spring-onion-gyoza": {
@@ -171,7 +171,7 @@
    "allergens": null,
    "source": "brand site (itsu per-product nutrition facts)",
    "source_url": "https://www.itsu.com/menu/gyoza-and-bao/hot-side-chicken-gyoza/",
-   "fetched_at": "2026-08-06T15:03:15Z",
+   "fetched_at": "2026-08-06T15:05:50Z",
    "quality_flags": null
   },
   "vegetable-fusion-gyoza": {
@@ -190,7 +190,7 @@
    "allergens": null,
    "source": "brand site (itsu per-product nutrition facts)",
    "source_url": "https://www.itsu.com/menu/gyoza-and-bao/hot-side-vegetable-gyoza/",
-   "fetched_at": "2026-08-06T15:03:15Z",
+   "fetched_at": "2026-08-06T15:05:50Z",
    "quality_flags": null
   },
   "thai-salmon-curry": {
@@ -209,7 +209,7 @@
    "allergens": null,
    "source": "brand site (itsu per-product nutrition facts)",
    "source_url": "https://www.itsu.com/menu/rice-bowls/hot-salmon-thai-rice-bowl-120925/",
-   "fetched_at": "2026-08-06T15:03:15Z",
+   "fetched_at": "2026-08-06T15:05:50Z",
    "quality_flags": null
   },
   "thai-king-prawn-curry": {
@@ -228,7 +228,7 @@
    "allergens": null,
    "source": "brand site (itsu per-product nutrition facts)",
    "source_url": "https://www.itsu.com/menu/rice-bowls/hot-king-prawns-thai-rice-bowl-120925/",
-   "fetched_at": "2026-08-06T15:03:15Z",
+   "fetched_at": "2026-08-06T15:05:50Z",
    "quality_flags": null
   },
   "thai-chicken-curry": {
@@ -247,7 +247,7 @@
    "allergens": null,
    "source": "brand site (itsu per-product nutrition facts)",
    "source_url": "https://www.itsu.com/menu/rice-bowls/hot-chicken-thai-rice-bowl-120925/",
-   "fetched_at": "2026-08-06T15:03:15Z",
+   "fetched_at": "2026-08-06T15:05:50Z",
    "quality_flags": null
   },
   "little-thai-chicken-curry": {
@@ -266,7 +266,7 @@
    "allergens": null,
    "source": "brand site (itsu per-product nutrition facts)",
    "source_url": "https://www.itsu.com/menu/rice-bowls/hot-midi-chicken-thai-rice-bowl-120925/",
-   "fetched_at": "2026-08-06T15:03:15Z",
+   "fetched_at": "2026-08-06T15:05:50Z",
    "quality_flags": null
   },
   "thai-veggie-balls-curry": {
@@ -285,7 +285,7 @@
    "allergens": null,
    "source": "brand site (itsu per-product nutrition facts)",
    "source_url": "https://www.itsu.com/menu/rice-bowls/hot-rice-bowl-veggie-balls-thai-270326/",
-   "fetched_at": "2026-08-06T15:03:15Z",
+   "fetched_at": "2026-08-06T15:05:50Z",
    "quality_flags": null
   },
   "little-thai-veggie-balls-curry": {
@@ -304,7 +304,7 @@
    "allergens": null,
    "source": "brand site (itsu per-product nutrition facts)",
    "source_url": "https://www.itsu.com/menu/rice-bowls/hot-midi-thai-veggie-ball-rice-bowl-270326/",
-   "fetched_at": "2026-08-06T15:03:15Z",
+   "fetched_at": "2026-08-06T15:05:50Z",
    "quality_flags": null
   },
   "grilled-katsu-chicken-curry": {
@@ -323,7 +323,7 @@
    "allergens": null,
    "source": "brand site (itsu per-product nutrition facts)",
    "source_url": "https://www.itsu.com/menu/rice-bowls/hot-rice-bowl-klean-katsu-chicken-120925/",
-   "fetched_at": "2026-08-06T15:03:15Z",
+   "fetched_at": "2026-08-06T15:05:50Z",
    "quality_flags": null
   },
   "little-grilled-katsu-chicken-curry": {
@@ -342,7 +342,7 @@
    "allergens": null,
    "source": "brand site (itsu per-product nutrition facts)",
    "source_url": "https://www.itsu.com/menu/rice-bowls/hot-midi-klean-katsu-rice-bowl-120925/",
-   "fetched_at": "2026-08-06T15:03:15Z",
+   "fetched_at": "2026-08-06T15:05:50Z",
    "quality_flags": null
   },
   "double-chicken-teriyaki": {
@@ -361,7 +361,7 @@
    "allergens": null,
    "source": "brand site (itsu per-product nutrition facts)",
    "source_url": "https://www.itsu.com/menu/rice-bowls/hot-rice-bowl-double-chicken-teriyaki-120925/",
-   "fetched_at": "2026-08-06T15:03:15Z",
+   "fetched_at": "2026-08-06T15:05:50Z",
    "quality_flags": null
   },
   "chicken-teriyaki": {
@@ -380,7 +380,7 @@
    "allergens": null,
    "source": "brand site (itsu per-product nutrition facts)",
    "source_url": "https://www.itsu.com/menu/rice-bowls/hot-rice-bowl-chicken-teriyaki-120925/",
-   "fetched_at": "2026-08-06T15:03:15Z",
+   "fetched_at": "2026-08-06T15:05:50Z",
    "quality_flags": null
   },
   "little-chicken-teriyaki": {
@@ -399,7 +399,7 @@
    "allergens": null,
    "source": "brand site (itsu per-product nutrition facts)",
    "source_url": "https://www.itsu.com/menu/rice-bowls/hot-midi-chicken-teriyaki-rice-bowl-120925/",
-   "fetched_at": "2026-08-06T15:03:15Z",
+   "fetched_at": "2026-08-06T15:05:50Z",
    "quality_flags": null
   },
   "spicy-chicken-teriyaki": {
@@ -418,7 +418,7 @@
    "allergens": null,
    "source": "brand site (itsu per-product nutrition facts)",
    "source_url": "https://www.itsu.com/menu/rice-bowls/hot-spicy-chicken-teriyaki-rice-bowl-120925/",
-   "fetched_at": "2026-08-06T15:03:15Z",
+   "fetched_at": "2026-08-06T15:05:50Z",
    "quality_flags": null
   },
   "little-spicy-chicken-teriyaki": {
@@ -437,7 +437,7 @@
    "allergens": null,
    "source": "brand site (itsu per-product nutrition facts)",
    "source_url": "https://www.itsu.com/menu/rice-bowls/hot-midi-spicy-chicken-teriyaki-rice-bowl-120925/",
-   "fetched_at": "2026-08-06T15:03:15Z",
+   "fetched_at": "2026-08-06T15:05:50Z",
    "quality_flags": null
   },
   "veggie-balls-teriyaki": {
@@ -456,7 +456,7 @@
    "allergens": null,
    "source": "brand site (itsu per-product nutrition facts)",
    "source_url": "https://www.itsu.com/menu/rice-bowls/hot-rice-bowl-veggie-balls-teriyaki-270326/",
-   "fetched_at": "2026-08-06T15:03:15Z",
+   "fetched_at": "2026-08-06T15:05:50Z",
    "quality_flags": null
   },
   "little-veggie-balls-teriyaki": {
@@ -475,7 +475,7 @@
    "allergens": null,
    "source": "brand site (itsu per-product nutrition facts)",
    "source_url": "https://www.itsu.com/menu/rice-bowls/hot-midi-veggie-balls-teriyaki-rice-bowl-270326/",
-   "fetched_at": "2026-08-06T15:03:15Z",
+   "fetched_at": "2026-08-06T15:05:50Z",
    "quality_flags": null
   },
   "little-rice-greens": {
@@ -494,7 +494,7 @@
    "allergens": null,
    "source": "brand site (itsu per-product nutrition facts)",
    "source_url": "https://www.itsu.com/menu/rice-bowls/hot-paradise-rice-with-greens-120925/",
-   "fetched_at": "2026-08-06T15:03:15Z",
+   "fetched_at": "2026-08-06T15:05:50Z",
    "quality_flags": null
   },
   "vitality-glass-noodle-bowl": {
@@ -513,7 +513,7 @@
    "allergens": null,
    "source": "brand site (itsu per-product nutrition facts)",
    "source_url": "https://www.itsu.com/menu/noodles/hot-chicken-vitality-bowl-270326/",
-   "fetched_at": "2026-08-06T15:03:15Z",
+   "fetched_at": "2026-08-06T15:05:50Z",
    "quality_flags": null
   },
   "chicken-gyoza-noodle-bowl": {
@@ -532,7 +532,7 @@
    "allergens": null,
    "source": "brand site (itsu per-product nutrition facts)",
    "source_url": "https://www.itsu.com/menu/noodles/hot-udon-bowl-chicken-gyoza-270326/",
-   "fetched_at": "2026-08-06T15:03:15Z",
+   "fetched_at": "2026-08-06T15:05:50Z",
    "quality_flags": null
   },
   "chilli-chicken-gyoza-noodle-bowl": {
@@ -551,7 +551,7 @@
    "allergens": null,
    "source": "brand site (itsu per-product nutrition facts)",
    "source_url": "https://www.itsu.com/menu/noodles/hot-chicken-gyoza-udon-with-ssamjang-270326/",
-   "fetched_at": "2026-08-06T15:03:15Z",
+   "fetched_at": "2026-08-06T15:05:50Z",
    "quality_flags": null
   },
   "veggie-gyoza-noodle-bowl": {
@@ -570,7 +570,7 @@
    "allergens": null,
    "source": "brand site (itsu per-product nutrition facts)",
    "source_url": "https://www.itsu.com/menu/noodles/hot-udon-bowl-veggie-gyoza-270326/",
-   "fetched_at": "2026-08-06T15:03:15Z",
+   "fetched_at": "2026-08-06T15:05:50Z",
    "quality_flags": null
   },
   "katsu-curry-noodles": {
@@ -589,7 +589,7 @@
    "allergens": null,
    "source": "brand site (itsu per-product nutrition facts)",
    "source_url": "https://www.itsu.com/menu/noodles/hot-stirfry-japanese-curry-120925/",
-   "fetched_at": "2026-08-06T15:03:15Z",
+   "fetched_at": "2026-08-06T15:05:50Z",
    "quality_flags": null
   },
   "korean-spicy-noodles": {
@@ -608,7 +608,7 @@
    "allergens": null,
    "source": "brand site (itsu per-product nutrition facts)",
    "source_url": "https://www.itsu.com/menu/noodles/hot-stirfry-korean-noodles-120925/",
-   "fetched_at": "2026-08-06T15:03:15Z",
+   "fetched_at": "2026-08-06T15:05:50Z",
    "quality_flags": null
   },
   "thai-noodles": {
@@ -627,7 +627,7 @@
    "allergens": null,
    "source": "brand site (itsu per-product nutrition facts)",
    "source_url": "https://www.itsu.com/menu/noodles/hot-stirfry-thai-120925/",
-   "fetched_at": "2026-08-06T15:03:15Z",
+   "fetched_at": "2026-08-06T15:05:50Z",
    "quality_flags": null
   },
   "best-of-itsu": {
@@ -646,7 +646,7 @@
    "allergens": null,
    "source": "brand site (itsu per-product nutrition facts)",
    "source_url": "https://www.itsu.com/menu/sushi-and-poke/sushi-best-of-itsu-large-141125/",
-   "fetched_at": "2026-08-06T15:03:15Z",
+   "fetched_at": "2026-08-06T15:05:50Z",
    "quality_flags": null
   },
   "tuna-salmon-sushi": {
@@ -665,7 +665,7 @@
    "allergens": null,
    "source": "brand site (itsu per-product nutrition facts)",
    "source_url": "https://www.itsu.com/menu/sushi-and-poke/sushi-salmon-and-tuna-sushi-midi-270326/",
-   "fetched_at": "2026-08-06T15:03:15Z",
+   "fetched_at": "2026-08-06T15:05:50Z",
    "quality_flags": null
   },
   "tuna-salmon-sashimi": {
@@ -684,7 +684,7 @@
    "allergens": null,
    "source": "brand site (itsu per-product nutrition facts)",
    "source_url": "https://www.itsu.com/menu/sushi-and-poke/sushi-salmon-and-tuna-sashimi-midi-270326/",
-   "fetched_at": "2026-08-06T15:03:15Z",
+   "fetched_at": "2026-08-06T15:05:50Z",
    "quality_flags": null
   },
   "spicy-tuna-dragon-rolls": {
@@ -703,7 +703,7 @@
    "allergens": null,
    "source": "brand site (itsu per-product nutrition facts)",
    "source_url": "https://www.itsu.com/menu/sushi-and-poke/sushi-tuna-dragon-roll-120925/",
-   "fetched_at": "2026-08-06T15:03:15Z",
+   "fetched_at": "2026-08-06T15:05:50Z",
    "quality_flags": null
   },
   "salmon-avo-dragon-rolls": {
@@ -722,7 +722,7 @@
    "allergens": null,
    "source": "brand site (itsu per-product nutrition facts)",
    "source_url": "https://www.itsu.com/menu/sushi-and-poke/salmon-avo-dragon-rolls/",
-   "fetched_at": "2026-08-06T15:03:15Z",
+   "fetched_at": "2026-08-06T15:05:50Z",
    "quality_flags": null
   },
   "veggie-dragon-rolls": {
@@ -741,7 +741,7 @@
    "allergens": null,
    "source": "brand site (itsu per-product nutrition facts)",
    "source_url": "https://www.itsu.com/menu/sushi-and-poke/sushi-veggie-dragon-roll/",
-   "fetched_at": "2026-08-06T15:03:15Z",
+   "fetched_at": "2026-08-06T15:05:50Z",
    "quality_flags": null
   },
   "avo-baby-rolls": {
@@ -760,7 +760,7 @@
    "allergens": null,
    "source": "brand site (itsu per-product nutrition facts)",
    "source_url": "https://www.itsu.com/menu/sushi-and-poke/sushi-avo-baby-rolls-midi/",
-   "fetched_at": "2026-08-06T15:03:15Z",
+   "fetched_at": "2026-08-06T15:05:50Z",
    "quality_flags": null
   },
   "sushi-festival": {
@@ -779,7 +779,7 @@
    "allergens": null,
    "source": "brand site (itsu per-product nutrition facts)",
    "source_url": "https://www.itsu.com/menu/sushi-and-poke/sushi-sushi-festival-midi/",
-   "fetched_at": "2026-08-06T15:03:15Z",
+   "fetched_at": "2026-08-06T15:05:50Z",
    "quality_flags": null
   },
   "veggie-sushi-selection": {
@@ -798,7 +798,7 @@
    "allergens": null,
    "source": "brand site (itsu per-product nutrition facts)",
    "source_url": "https://www.itsu.com/menu/sushi-and-poke/veggie-sushi-collection/",
-   "fetched_at": "2026-08-06T15:03:15Z",
+   "fetched_at": "2026-08-06T15:05:50Z",
    "quality_flags": null
   },
   "salmon-tartare-pok": {
@@ -817,7 +817,7 @@
    "allergens": null,
    "source": "brand site (itsu per-product nutrition facts)",
    "source_url": "https://www.itsu.com/menu/sushi-and-poke/poke-salmon-tartare-poke-270326/",
-   "fetched_at": "2026-08-06T15:03:15Z",
+   "fetched_at": "2026-08-06T15:05:50Z",
    "quality_flags": null
   },
   "chargrilled-chicken-pok": {
@@ -836,7 +836,7 @@
    "allergens": null,
    "source": "brand site (itsu per-product nutrition facts)",
    "source_url": "https://www.itsu.com/menu/sushi-and-poke/poke-chargrilled-chicken-poke-300525/",
-   "fetched_at": "2026-08-06T15:03:15Z",
+   "fetched_at": "2026-08-06T15:05:50Z",
    "quality_flags": null
   },
   "poached-salmon-pok": {
@@ -855,7 +855,7 @@
    "allergens": null,
    "source": "brand site (itsu per-product nutrition facts)",
    "source_url": "https://www.itsu.com/menu/sushi-and-poke/poke-poached-salmon-poke-300525/",
-   "fetched_at": "2026-08-06T15:03:15Z",
+   "fetched_at": "2026-08-06T15:05:50Z",
    "quality_flags": null
   },
   "salmon-teriyaki-on-a-bed": {
@@ -874,7 +874,7 @@
    "allergens": null,
    "source": "brand site (itsu per-product nutrition facts)",
    "source_url": "https://www.itsu.com/menu/sushi-and-poke/salmon-teriyaki-on-a-bed/",
-   "fetched_at": "2026-08-06T15:03:15Z",
+   "fetched_at": "2026-08-06T15:05:50Z",
    "quality_flags": null
   },
   "chicken-teriyaki-on-a-bed": {
@@ -893,7 +893,7 @@
    "allergens": null,
    "source": "brand site (itsu per-product nutrition facts)",
    "source_url": "https://www.itsu.com/menu/sushi-and-poke/chicken-teriyaki-on-a-bed/",
-   "fetched_at": "2026-08-06T15:03:15Z",
+   "fetched_at": "2026-08-06T15:05:50Z",
    "quality_flags": null
   },
   "edamame": {
@@ -912,7 +912,7 @@
    "allergens": null,
    "source": "brand site (itsu per-product nutrition facts)",
    "source_url": "https://www.itsu.com/menu/sushi-and-poke/side-edamame-cup/",
-   "fetched_at": "2026-08-06T15:03:15Z",
+   "fetched_at": "2026-08-06T15:05:50Z",
    "quality_flags": null
   },
   "japanese-prawn-crackers": {
@@ -931,7 +931,7 @@
    "allergens": null,
    "source": "brand site (itsu per-product nutrition facts)",
    "source_url": "https://www.itsu.com/menu/desserts-and-snacks/snacks-katsu-prawn-crackers/",
-   "fetched_at": "2026-08-06T15:03:15Z",
+   "fetched_at": "2026-08-06T15:05:50Z",
    "quality_flags": null
   },
   "original-prawn-crackers": {
@@ -950,7 +950,7 @@
    "allergens": null,
    "source": "brand site (itsu per-product nutrition facts)",
    "source_url": "https://www.itsu.com/menu/desserts-and-snacks/snacks-original-prawn-crackers/",
-   "fetched_at": "2026-08-06T15:03:15Z",
+   "fetched_at": "2026-08-06T15:05:50Z",
    "quality_flags": null
   },
   "thai-prawn-crackers": {
@@ -969,7 +969,7 @@
    "allergens": null,
    "source": "brand site (itsu per-product nutrition facts)",
    "source_url": "https://www.itsu.com/menu/desserts-and-snacks/snacks-thai-prawn-crackers/",
-   "fetched_at": "2026-08-06T15:03:15Z",
+   "fetched_at": "2026-08-06T15:05:50Z",
    "quality_flags": null
   },
   "chinese-prawn-crackers": {
@@ -988,7 +988,7 @@
    "allergens": null,
    "source": "brand site (itsu per-product nutrition facts)",
    "source_url": "https://www.itsu.com/menu/desserts-and-snacks/snacks-chinese-prawn-crackers/",
-   "fetched_at": "2026-08-06T15:03:15Z",
+   "fetched_at": "2026-08-06T15:05:50Z",
    "quality_flags": null
   },
   "crispy-seaweed-thins-sea-salt": {
@@ -1007,7 +1007,7 @@
    "allergens": null,
    "source": "brand site (itsu per-product nutrition facts)",
    "source_url": "https://www.itsu.com/menu/desserts-and-snacks/snacks-sea-salt-seaweed-thins/",
-   "fetched_at": "2026-08-06T15:03:15Z",
+   "fetched_at": "2026-08-06T15:05:50Z",
    "quality_flags": null
   },
   "crispy-seaweed-thins-sweet-soy": {
@@ -1026,7 +1026,7 @@
    "allergens": null,
    "source": "brand site (itsu per-product nutrition facts)",
    "source_url": "https://www.itsu.com/menu/desserts-and-snacks/snacks-sweet-soy-seaweed-thins/",
-   "fetched_at": "2026-08-06T15:03:15Z",
+   "fetched_at": "2026-08-06T15:05:50Z",
    "quality_flags": null
   },
   "crispy-seaweed-thins-wasabi": {
@@ -1045,7 +1045,7 @@
    "allergens": null,
    "source": "brand site (itsu per-product nutrition facts)",
    "source_url": "https://www.itsu.com/menu/desserts-and-snacks/snacks-wasabi-seaweed-thins/",
-   "fetched_at": "2026-08-06T15:03:15Z",
+   "fetched_at": "2026-08-06T15:05:50Z",
    "quality_flags": null
   },
   "milk-chocolate-corn-cakes": {
@@ -1064,7 +1064,7 @@
    "allergens": null,
    "source": "brand site (itsu per-product nutrition facts)",
    "source_url": "https://www.itsu.com/menu/desserts-and-snacks/snacks-milk-chocolate-corn-cakes/",
-   "fetched_at": "2026-08-06T15:03:15Z",
+   "fetched_at": "2026-08-06T15:05:50Z",
    "quality_flags": null
   },
   "dark-chocolate-corn-cakes": {
@@ -1083,7 +1083,7 @@
    "allergens": null,
    "source": "brand site (itsu per-product nutrition facts)",
    "source_url": "https://www.itsu.com/menu/desserts-and-snacks/snacks-dark-chocolate-corn-cakes/",
-   "fetched_at": "2026-08-06T15:03:15Z",
+   "fetched_at": "2026-08-06T15:05:50Z",
    "quality_flags": null
   },
   "salted-caramel-corn-cakes": {
@@ -1102,7 +1102,7 @@
    "allergens": null,
    "source": "brand site (itsu per-product nutrition facts)",
    "source_url": "https://www.itsu.com/menu/desserts-and-snacks/snacks-salted-caramel-corn-cakes/",
-   "fetched_at": "2026-08-06T15:03:15Z",
+   "fetched_at": "2026-08-06T15:05:50Z",
    "quality_flags": null
   },
   "about-half-a-mango": {
@@ -1121,7 +1121,7 @@
    "allergens": null,
    "source": "brand site (itsu per-product nutrition facts)",
    "source_url": "https://www.itsu.com/menu/desserts-and-snacks/snacks-about-half-a-mango-160925/",
-   "fetched_at": "2026-08-06T15:03:15Z",
+   "fetched_at": "2026-08-06T15:05:50Z",
    "quality_flags": null
   },
   "lemon-baked-pistachios": {
@@ -1140,7 +1140,7 @@
    "allergens": null,
    "source": "brand site (itsu per-product nutrition facts)",
    "source_url": "https://www.itsu.com/menu/desserts-and-snacks/snacks-lemon-baked-pistachios/",
-   "fetched_at": "2026-08-06T15:03:15Z",
+   "fetched_at": "2026-08-06T15:05:50Z",
    "quality_flags": null
   },
   "60-dark-chocolate-moons": {
@@ -1159,7 +1159,7 @@
    "allergens": null,
    "source": "brand site (itsu per-product nutrition facts)",
    "source_url": "https://www.itsu.com/menu/desserts-and-snacks/snacks-dark-chocolate-moons/",
-   "fetched_at": "2026-08-06T15:03:15Z",
+   "fetched_at": "2026-08-06T15:05:50Z",
    "quality_flags": null
   },
   "umami-roasted-almonds": {
@@ -1178,7 +1178,7 @@
    "allergens": null,
    "source": "brand site (itsu per-product nutrition facts)",
    "source_url": "https://www.itsu.com/menu/desserts-and-snacks/snacks-proteinplenty-tamari-almonds/",
-   "fetched_at": "2026-08-06T15:03:15Z",
+   "fetched_at": "2026-08-06T15:05:50Z",
    "quality_flags": null
   },
   "sweet-chilli-toasted-cashews": {
@@ -1197,7 +1197,7 @@
    "allergens": null,
    "source": "brand site (itsu per-product nutrition facts)",
    "source_url": "https://www.itsu.com/menu/desserts-and-snacks/snacks-sweet-chilli-toasted-cashews/",
-   "fetched_at": "2026-08-06T15:03:15Z",
+   "fetched_at": "2026-08-06T15:05:50Z",
    "quality_flags": null
   },
   "sushi-style-nori-crunch": {
@@ -1216,7 +1216,7 @@
    "allergens": null,
    "source": "brand site (itsu per-product nutrition facts)",
    "source_url": "https://www.itsu.com/menu/desserts-and-snacks/snacks-sushi-style-noricrunch/",
-   "fetched_at": "2026-08-06T15:03:15Z",
+   "fetched_at": "2026-08-06T15:05:50Z",
    "quality_flags": null
   },
   "angelic-almonds": {
@@ -1235,7 +1235,7 @@
    "allergens": null,
    "source": "brand site (itsu per-product nutrition facts)",
    "source_url": "https://www.itsu.com/menu/desserts-and-snacks/snacks-angelic-almonds/",
-   "fetched_at": "2026-08-06T15:03:15Z",
+   "fetched_at": "2026-08-06T15:05:50Z",
    "quality_flags": null
   },
   "chocolate-edamame": {
@@ -1254,7 +1254,7 @@
    "allergens": null,
    "source": "brand site (itsu per-product nutrition facts)",
    "source_url": "https://www.itsu.com/menu/desserts-and-snacks/snacks-chocolate-edamame/",
-   "fetched_at": "2026-08-06T15:03:15Z",
+   "fetched_at": "2026-08-06T15:05:50Z",
    "quality_flags": null
   },
   "chocolate-mousse": {
@@ -1273,7 +1273,7 @@
    "allergens": null,
    "source": "brand site (itsu per-product nutrition facts)",
    "source_url": "https://www.itsu.com/menu/desserts-and-snacks/dessert-chocolate-mousse/",
-   "fetched_at": "2026-08-06T15:03:15Z",
+   "fetched_at": "2026-08-06T15:05:50Z",
    "quality_flags": null
   },
   "white-chocolate-dream": {
@@ -1292,7 +1292,7 @@
    "allergens": null,
    "source": "brand site (itsu per-product nutrition facts)",
    "source_url": "https://www.itsu.com/menu/desserts-and-snacks/dessert-white-chocolate-dream/",
-   "fetched_at": "2026-08-06T15:03:15Z",
+   "fetched_at": "2026-08-06T15:05:50Z",
    "quality_flags": null
   },
   "little-sausages-egg-pot": {
@@ -1311,7 +1311,7 @@
    "allergens": null,
    "source": "brand site (itsu per-product nutrition facts)",
    "source_url": "https://www.itsu.com/menu/breakfast/little-sausages-eggpot/",
-   "fetched_at": "2026-08-06T15:03:15Z",
+   "fetched_at": "2026-08-06T15:05:50Z",
    "quality_flags": null
   },
   "roasted-bacon-egg-pot": {
@@ -1330,7 +1330,7 @@
    "allergens": null,
    "source": "brand site (itsu per-product nutrition facts)",
    "source_url": "https://www.itsu.com/menu/breakfast/roasted-bacon-eggpot/",
-   "fetched_at": "2026-08-06T15:03:15Z",
+   "fetched_at": "2026-08-06T15:05:50Z",
    "quality_flags": null
   },
   "smoked-salmon-avo-egg-pot": {
@@ -1349,7 +1349,7 @@
    "allergens": null,
    "source": "brand site (itsu per-product nutrition facts)",
    "source_url": "https://www.itsu.com/menu/breakfast/salmon-avo-eggpot/",
-   "fetched_at": "2026-08-06T15:03:15Z",
+   "fetched_at": "2026-08-06T15:05:50Z",
    "quality_flags": null
   },
   "soy-roasted-seeds-egg-pot": {
@@ -1368,7 +1368,7 @@
    "allergens": null,
    "source": "brand site (itsu per-product nutrition facts)",
    "source_url": "https://www.itsu.com/menu/breakfast/soy-roasted-seeds-eggpot/",
-   "fetched_at": "2026-08-06T15:03:15Z",
+   "fetched_at": "2026-08-06T15:05:50Z",
    "quality_flags": null
   },
   "spinach-avo-egg-pot": {
@@ -1387,7 +1387,7 @@
    "allergens": null,
    "source": "brand site (itsu per-product nutrition facts)",
    "source_url": "https://www.itsu.com/menu/breakfast/spinach-avo-eggpot/",
-   "fetched_at": "2026-08-06T15:03:15Z",
+   "fetched_at": "2026-08-06T15:05:50Z",
    "quality_flags": null
   },
   "spinach-seeds-egg-pot": {
@@ -1406,7 +1406,7 @@
    "allergens": null,
    "source": "brand site (itsu per-product nutrition facts)",
    "source_url": "https://www.itsu.com/menu/breakfast/spinach-seeds-eggpot/",
-   "fetched_at": "2026-08-06T15:03:15Z",
+   "fetched_at": "2026-08-06T15:05:50Z",
    "quality_flags": null
   },
   "porridge-with-fresh-blueberries": {
@@ -1425,7 +1425,7 @@
    "allergens": null,
    "source": "brand site (itsu per-product nutrition facts)",
    "source_url": "https://www.itsu.com/menu/breakfast/blueberry-porridge/",
-   "fetched_at": "2026-08-06T15:03:15Z",
+   "fetched_at": "2026-08-06T15:05:50Z",
    "quality_flags": null
   },
   "porridge-with-fresh-blueberries-superseeds": {
@@ -1444,7 +1444,7 @@
    "allergens": null,
    "source": "brand site (itsu per-product nutrition facts)",
    "source_url": "https://www.itsu.com/menu/breakfast/blueberry-seeds-porridge/",
-   "fetched_at": "2026-08-06T15:03:15Z",
+   "fetched_at": "2026-08-06T15:05:50Z",
    "quality_flags": null
   },
   "porridge-with-agave": {
@@ -1463,7 +1463,7 @@
    "allergens": null,
    "source": "brand site (itsu per-product nutrition facts)",
    "source_url": "https://www.itsu.com/menu/breakfast/porridge-with-agave/",
-   "fetched_at": "2026-08-06T15:03:15Z",
+   "fetched_at": "2026-08-06T15:05:50Z",
    "quality_flags": null
   },
   "raspberry-yoghurt-pot": {
@@ -1482,7 +1482,7 @@
    "allergens": null,
    "source": "brand site (itsu per-product nutrition facts)",
    "source_url": "https://www.itsu.com/menu/breakfast/raspberry-yoghurt-pot/",
-   "fetched_at": "2026-08-06T15:03:15Z",
+   "fetched_at": "2026-08-06T15:05:50Z",
    "quality_flags": null
   },
   "mango-yoghurt-pot": {
@@ -1501,7 +1501,7 @@
    "allergens": null,
    "source": "brand site (itsu per-product nutrition facts)",
    "source_url": "https://www.itsu.com/menu/breakfast/mango-yoghurt-pot/",
-   "fetched_at": "2026-08-06T15:03:15Z",
+   "fetched_at": "2026-08-06T15:05:50Z",
    "quality_flags": null
   },
   "iced-matcha-latte": {
@@ -1520,7 +1520,7 @@
    "allergens": null,
    "source": "brand site (itsu per-product nutrition facts)",
    "source_url": "https://www.itsu.com/menu/hot-iced-drinks/iced-matcha-latte/",
-   "fetched_at": "2026-08-06T15:03:15Z",
+   "fetched_at": "2026-08-06T15:05:50Z",
    "quality_flags": null
   },
   "iced-vanilla-matcha-latte": {
@@ -1539,7 +1539,7 @@
    "allergens": null,
    "source": "brand site (itsu per-product nutrition facts)",
    "source_url": "https://www.itsu.com/menu/hot-iced-drinks/iced-vanilla-matcha-latte/",
-   "fetched_at": "2026-08-06T15:03:15Z",
+   "fetched_at": "2026-08-06T15:05:50Z",
    "quality_flags": null
   },
   "iced-blueberry-matcha-latte": {
@@ -1558,7 +1558,7 @@
    "allergens": null,
    "source": "brand site (itsu per-product nutrition facts)",
    "source_url": "https://www.itsu.com/menu/hot-iced-drinks/iced-blueberry-matcha-latte/",
-   "fetched_at": "2026-08-06T15:03:15Z",
+   "fetched_at": "2026-08-06T15:05:50Z",
    "quality_flags": null
   },
   "iced-salted-caramel-matcha-latte": {
@@ -1577,7 +1577,7 @@
    "allergens": null,
    "source": "brand site (itsu per-product nutrition facts)",
    "source_url": "https://www.itsu.com/menu/hot-iced-drinks/iced-salted-caramel-matcha-latte/",
-   "fetched_at": "2026-08-06T15:03:15Z",
+   "fetched_at": "2026-08-06T15:05:50Z",
    "quality_flags": null
   },
   "matcha-latte": {
@@ -1596,7 +1596,7 @@
    "allergens": null,
    "source": "brand site (itsu per-product nutrition facts)",
    "source_url": "https://www.itsu.com/menu/hot-iced-drinks/matcha-latte/",
-   "fetched_at": "2026-08-06T15:03:15Z",
+   "fetched_at": "2026-08-06T15:05:50Z",
    "quality_flags": null
   },
   "vanilla-matcha-latte": {
@@ -1615,7 +1615,7 @@
    "allergens": null,
    "source": "brand site (itsu per-product nutrition facts)",
    "source_url": "https://www.itsu.com/menu/hot-iced-drinks/vanilla-matcha-latte/",
-   "fetched_at": "2026-08-06T15:03:15Z",
+   "fetched_at": "2026-08-06T15:05:50Z",
    "quality_flags": null
   },
   "salted-caramel-matcha-latte": {
@@ -1634,7 +1634,7 @@
    "allergens": null,
    "source": "brand site (itsu per-product nutrition facts)",
    "source_url": "https://www.itsu.com/menu/hot-iced-drinks/salted-caramel-matcha-latte/",
-   "fetched_at": "2026-08-06T15:03:15Z",
+   "fetched_at": "2026-08-06T15:05:50Z",
    "quality_flags": null
   },
   "blueberry-matcha-latte": {
@@ -1653,7 +1653,7 @@
    "allergens": null,
    "source": "brand site (itsu per-product nutrition facts)",
    "source_url": "https://www.itsu.com/menu/hot-iced-drinks/blueberry-matcha-latte/",
-   "fetched_at": "2026-08-06T15:03:15Z",
+   "fetched_at": "2026-08-06T15:05:50Z",
    "quality_flags": null
   },
   "iced-latte": {
@@ -1672,7 +1672,7 @@
    "allergens": null,
    "source": "brand site (itsu per-product nutrition facts)",
    "source_url": "https://www.itsu.com/menu/hot-iced-drinks/iced-latte/",
-   "fetched_at": "2026-08-06T15:03:15Z",
+   "fetched_at": "2026-08-06T15:05:50Z",
    "quality_flags": null
   },
   "iced-vanilla-latte": {
@@ -1691,7 +1691,7 @@
    "allergens": null,
    "source": "brand site (itsu per-product nutrition facts)",
    "source_url": "https://www.itsu.com/menu/hot-iced-drinks/iced-vanilla-latte/",
-   "fetched_at": "2026-08-06T15:03:15Z",
+   "fetched_at": "2026-08-06T15:05:50Z",
    "quality_flags": null
   },
   "iced-salted-caramel-latte": {
@@ -1710,7 +1710,7 @@
    "allergens": null,
    "source": "brand site (itsu per-product nutrition facts)",
    "source_url": "https://www.itsu.com/menu/hot-iced-drinks/iced-salted-caramel-latte/",
-   "fetched_at": "2026-08-06T15:03:15Z",
+   "fetched_at": "2026-08-06T15:05:50Z",
    "quality_flags": null
   },
   "iced-blueberry-latte": {
@@ -1729,7 +1729,7 @@
    "allergens": null,
    "source": "brand site (itsu per-product nutrition facts)",
    "source_url": "https://www.itsu.com/menu/hot-iced-drinks/iced-blueberry-latte/",
-   "fetched_at": "2026-08-06T15:03:15Z",
+   "fetched_at": "2026-08-06T15:05:50Z",
    "quality_flags": null
   },
   "iced-americano": {
@@ -1748,7 +1748,7 @@
    "allergens": null,
    "source": "brand site (itsu per-product nutrition facts)",
    "source_url": "https://www.itsu.com/menu/hot-iced-drinks/iced-americano/",
-   "fetched_at": "2026-08-06T15:03:15Z",
+   "fetched_at": "2026-08-06T15:05:50Z",
    "quality_flags": null
   },
   "latte": {
@@ -1767,7 +1767,7 @@
    "allergens": null,
    "source": "brand site (itsu per-product nutrition facts)",
    "source_url": "https://www.itsu.com/menu/hot-iced-drinks/latte/",
-   "fetched_at": "2026-08-06T15:03:15Z",
+   "fetched_at": "2026-08-06T15:05:50Z",
    "quality_flags": null
   },
   "vanilla-latte": {
@@ -1786,7 +1786,7 @@
    "allergens": null,
    "source": "brand site (itsu per-product nutrition facts)",
    "source_url": "https://www.itsu.com/menu/hot-iced-drinks/vanilla-latte/",
-   "fetched_at": "2026-08-06T15:03:15Z",
+   "fetched_at": "2026-08-06T15:05:50Z",
    "quality_flags": null
   },
   "salted-caramel-latte": {
@@ -1805,7 +1805,7 @@
    "allergens": null,
    "source": "brand site (itsu per-product nutrition facts)",
    "source_url": "https://www.itsu.com/menu/hot-iced-drinks/salted-caramel-latte/",
-   "fetched_at": "2026-08-06T15:03:15Z",
+   "fetched_at": "2026-08-06T15:05:50Z",
    "quality_flags": null
   },
   "flat-white": {
@@ -1824,7 +1824,7 @@
    "allergens": null,
    "source": "brand site (itsu per-product nutrition facts)",
    "source_url": "https://www.itsu.com/menu/hot-iced-drinks/flat-white/",
-   "fetched_at": "2026-08-06T15:03:15Z",
+   "fetched_at": "2026-08-06T15:05:50Z",
    "quality_flags": null
   },
   "cappucino": {
@@ -1843,7 +1843,7 @@
    "allergens": null,
    "source": "brand site (itsu per-product nutrition facts)",
    "source_url": "https://www.itsu.com/menu/hot-iced-drinks/cappucino/",
-   "fetched_at": "2026-08-06T15:03:15Z",
+   "fetched_at": "2026-08-06T15:05:50Z",
    "quality_flags": null
   },
   "vanilla-cappuccino": {
@@ -1862,7 +1862,7 @@
    "allergens": null,
    "source": "brand site (itsu per-product nutrition facts)",
    "source_url": "https://www.itsu.com/menu/hot-iced-drinks/vanilla-cappuccino/",
-   "fetched_at": "2026-08-06T15:03:15Z",
+   "fetched_at": "2026-08-06T15:05:50Z",
    "quality_flags": null
   },
   "salted-caramel-cappuccino": {
@@ -1881,7 +1881,7 @@
    "allergens": null,
    "source": "brand site (itsu per-product nutrition facts)",
    "source_url": "https://www.itsu.com/menu/hot-iced-drinks/salted-caramel-cappuccino/",
-   "fetched_at": "2026-08-06T15:03:15Z",
+   "fetched_at": "2026-08-06T15:05:50Z",
    "quality_flags": null
   },
   "americano": {
@@ -1900,7 +1900,7 @@
    "allergens": null,
    "source": "brand site (itsu per-product nutrition facts)",
    "source_url": "https://www.itsu.com/menu/hot-iced-drinks/americano/",
-   "fetched_at": "2026-08-06T15:03:15Z",
+   "fetched_at": "2026-08-06T15:05:50Z",
    "quality_flags": null
   },
   "espresso": {
@@ -1919,7 +1919,7 @@
    "allergens": null,
    "source": "brand site (itsu per-product nutrition facts)",
    "source_url": "https://www.itsu.com/menu/hot-iced-drinks/espresso/",
-   "fetched_at": "2026-08-06T15:03:15Z",
+   "fetched_at": "2026-08-06T15:05:50Z",
    "quality_flags": null
   },
   "english-breakfast-tea": {
@@ -1938,7 +1938,7 @@
    "allergens": null,
    "source": "brand site (itsu per-product nutrition facts)",
    "source_url": "https://www.itsu.com/menu/hot-iced-drinks/english-breakfast-tea/",
-   "fetched_at": "2026-08-06T15:03:15Z",
+   "fetched_at": "2026-08-06T15:05:50Z",
    "quality_flags": null
   },
   "green-tea": {
@@ -1957,7 +1957,7 @@
    "allergens": null,
    "source": "brand site (itsu per-product nutrition facts)",
    "source_url": "https://www.itsu.com/menu/hot-iced-drinks/green-tea/",
-   "fetched_at": "2026-08-06T15:03:15Z",
+   "fetched_at": "2026-08-06T15:05:50Z",
    "quality_flags": null
   },
   "jasmine-green-tea": {
@@ -1976,7 +1976,7 @@
    "allergens": null,
    "source": "brand site (itsu per-product nutrition facts)",
    "source_url": "https://www.itsu.com/menu/hot-iced-drinks/hot-drinks-jasmine-tea/",
-   "fetched_at": "2026-08-06T15:03:15Z",
+   "fetched_at": "2026-08-06T15:05:50Z",
    "quality_flags": null
   },
   "peppermint-tea": {
@@ -1995,7 +1995,7 @@
    "allergens": null,
    "source": "brand site (itsu per-product nutrition facts)",
    "source_url": "https://www.itsu.com/menu/hot-iced-drinks/peppermint-tea/",
-   "fetched_at": "2026-08-06T15:03:15Z",
+   "fetched_at": "2026-08-06T15:05:50Z",
    "quality_flags": null
   },
   "raspberry-dragon-fruit-zen-water-can": {
@@ -2014,7 +2014,7 @@
    "allergens": null,
    "source": "brand site (itsu per-product nutrition facts)",
    "source_url": "https://www.itsu.com/menu/cold-drinks/drinks-raspberry-and-dragon-fruit-zenwater/",
-   "fetched_at": "2026-08-06T15:03:15Z",
+   "fetched_at": "2026-08-06T15:05:50Z",
    "quality_flags": null
   },
   "cucumber-mint-zen-water-can": {
@@ -2033,7 +2033,7 @@
    "allergens": null,
    "source": "brand site (itsu per-product nutrition facts)",
    "source_url": "https://www.itsu.com/menu/cold-drinks/drinks-can-zen-cucumber-and-mint-2024/",
-   "fetched_at": "2026-08-06T15:03:15Z",
+   "fetched_at": "2026-08-06T15:05:50Z",
    "quality_flags": null
   },
   "peach-lychee-zen-water-can": {
@@ -2052,7 +2052,7 @@
    "allergens": null,
    "source": "brand site (itsu per-product nutrition facts)",
    "source_url": "https://www.itsu.com/menu/cold-drinks/drinks-can-zen-water-peach-lychee-2024/",
-   "fetched_at": "2026-08-06T15:03:15Z",
+   "fetched_at": "2026-08-06T15:05:50Z",
    "quality_flags": null
   },
   "ginger-lime-zen-water-can": {
@@ -2071,7 +2071,7 @@
    "allergens": null,
    "source": "brand site (itsu per-product nutrition facts)",
    "source_url": "https://www.itsu.com/menu/cold-drinks/drinks-can-zen-water-ginger-and-lime-2024/",
-   "fetched_at": "2026-08-06T15:03:15Z",
+   "fetched_at": "2026-08-06T15:05:50Z",
    "quality_flags": null
   },
   "lemon-yuzu-zen-water-can": {
@@ -2090,7 +2090,7 @@
    "allergens": null,
    "source": "brand site (itsu per-product nutrition facts)",
    "source_url": "https://www.itsu.com/menu/cold-drinks/drinks-can-zen-water-lemon-yuzu-2024/",
-   "fetched_at": "2026-08-06T15:03:15Z",
+   "fetched_at": "2026-08-06T15:05:50Z",
    "quality_flags": null
   },
   "hot-mango-shot": {
@@ -2109,7 +2109,7 @@
    "allergens": null,
    "source": "brand site (itsu per-product nutrition facts)",
    "source_url": "https://www.itsu.com/menu/cold-drinks/drinks-moju-hot-mango-shot/",
-   "fetched_at": "2026-08-06T15:03:15Z",
+   "fetched_at": "2026-08-06T15:05:50Z",
    "quality_flags": null
   },
   "ginger-shot": {
@@ -2128,7 +2128,7 @@
    "allergens": null,
    "source": "brand site (itsu per-product nutrition facts)",
    "source_url": "https://www.itsu.com/menu/cold-drinks/mojugingershot/",
-   "fetched_at": "2026-08-06T15:03:15Z",
+   "fetched_at": "2026-08-06T15:05:50Z",
    "quality_flags": null
   },
   "raspberry-elderflower-kombucha": {
@@ -2147,7 +2147,7 @@
    "allergens": null,
    "source": "brand site (itsu per-product nutrition facts)",
    "source_url": "https://www.itsu.com/menu/desserts-and-snacks/drinks-raspberry-and-elderflower-kombucha/",
-   "fetched_at": "2026-08-06T15:03:15Z",
+   "fetched_at": "2026-08-06T15:05:50Z",
    "quality_flags": null
   },
   "fiery-ginger-kombucha": {
@@ -2166,7 +2166,7 @@
    "allergens": null,
    "source": "brand site (itsu per-product nutrition facts)",
    "source_url": "https://www.itsu.com/menu/desserts-and-snacks/drinks-fiery-ginger-kombucha/",
-   "fetched_at": "2026-08-06T15:03:15Z",
+   "fetched_at": "2026-08-06T15:05:50Z",
    "quality_flags": null
   },
   "coca-cola-zero-sugar": {
@@ -2185,7 +2185,7 @@
    "allergens": null,
    "source": "brand site (itsu per-product nutrition facts)",
    "source_url": "https://www.itsu.com/menu/cold-drinks/cocacolacanzero/",
-   "fetched_at": "2026-08-06T15:03:15Z",
+   "fetched_at": "2026-08-06T15:05:50Z",
    "quality_flags": null
   },
   "asahi": {
@@ -2204,7 +2204,7 @@
    "allergens": null,
    "source": "brand site (itsu per-product nutrition facts)",
    "source_url": "https://www.itsu.com/menu/cold-drinks/alcohol-asahi/",
-   "fetched_at": "2026-08-06T15:03:15Z",
+   "fetched_at": "2026-08-06T15:05:50Z",
    "quality_flags": null
   }
  }

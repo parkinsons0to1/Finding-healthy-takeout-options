@@ -1,7 +1,7 @@
 {
  "chain_id": "frankie_bennys",
  "item_count": 99,
- "fetched_at": "2026-08-06T15:02:43Z",
+ "fetched_at": "2026-08-06T15:05:52Z",
  "items": {
   "giant-mozzarella-stick": {
    "chain_id": "frankie_bennys",
@@ -19,7 +19,7 @@
    "allergens": null,
    "source": "brand menu platform (Frankie & Benny's, Tenkites JSON-LD)",
    "source_url": "https://menus.tenkites.com/thebigtg/frankiebennys02",
-   "fetched_at": "2026-08-06T15:02:43Z",
+   "fetched_at": "2026-08-06T15:05:52Z",
    "quality_flags": null
   },
   "crispy-calamari": {
@@ -38,7 +38,7 @@
    "allergens": null,
    "source": "brand menu platform (Frankie & Benny's, Tenkites JSON-LD)",
    "source_url": "https://menus.tenkites.com/thebigtg/frankiebennys02",
-   "fetched_at": "2026-08-06T15:02:43Z",
+   "fetched_at": "2026-08-06T15:05:52Z",
    "quality_flags": null
   },
   "crispy-cauli-bites": {
@@ -57,7 +57,7 @@
    "allergens": null,
    "source": "brand menu platform (Frankie & Benny's, Tenkites JSON-LD)",
    "source_url": "https://menus.tenkites.com/thebigtg/frankiebennys02",
-   "fetched_at": "2026-08-06T15:02:43Z",
+   "fetched_at": "2026-08-06T15:05:52Z",
    "quality_flags": null
   },
   "tomato-bruschetta": {
@@ -76,7 +76,7 @@
    "allergens": null,
    "source": "brand menu platform (Frankie & Benny's, Tenkites JSON-LD)",
    "source_url": "https://menus.tenkites.com/thebigtg/frankiebennys02",
-   "fetched_at": "2026-08-06T15:02:43Z",
+   "fetched_at": "2026-08-06T15:05:52Z",
    "quality_flags": null
   },
   "frankie-s-faves-combo": {
@@ -95,7 +95,7 @@
    "allergens": null,
    "source": "brand menu platform (Frankie & Benny's, Tenkites JSON-LD)",
    "source_url": "https://menus.tenkites.com/thebigtg/frankiebennys02",
-   "fetched_at": "2026-08-06T15:02:43Z",
+   "fetched_at": "2026-08-06T15:05:52Z",
    "quality_flags": null
   },
   "garlic-pizza-bread": {
@@ -114,7 +114,7 @@
    "allergens": null,
    "source": "brand menu platform (Frankie & Benny's, Tenkites JSON-LD)",
    "source_url": "https://menus.tenkites.com/thebigtg/frankiebennys02",
-   "fetched_at": "2026-08-06T15:02:43Z",
+   "fetched_at": "2026-08-06T15:05:52Z",
    "quality_flags": null
   },
   "garlic-pizza-bread-sharer": {
@@ -133,7 +133,7 @@
    "allergens": null,
    "source": "brand menu platform (Frankie & Benny's, Tenkites JSON-LD)",
    "source_url": "https://menus.tenkites.com/thebigtg/frankiebennys02",
-   "fetched_at": "2026-08-06T15:02:43Z",
+   "fetched_at": "2026-08-06T15:05:52Z",
    "quality_flags": null
   },
   "garlic-pizza-bread-gluten-free": {
@@ -152,7 +152,7 @@
    "allergens": null,
    "source": "brand menu platform (Frankie & Benny's, Tenkites JSON-LD)",
    "source_url": "https://menus.tenkites.com/thebigtg/frankiebennys02",
-   "fetched_at": "2026-08-06T15:02:43Z",
+   "fetched_at": "2026-08-06T15:05:52Z",
    "quality_flags": null
   },
   "mozzarella": {
@@ -171,7 +171,7 @@
    "allergens": null,
    "source": "brand menu platform (Frankie & Benny's, Tenkites JSON-LD)",
    "source_url": "https://menus.tenkites.com/thebigtg/frankiebennys02",
-   "fetched_at": "2026-08-06T15:02:43Z",
+   "fetched_at": "2026-08-06T15:05:52Z",
    "quality_flags": null
   },
   "vegan-mozzarella": {
@@ -190,7 +190,7 @@
    "allergens": null,
    "source": "brand menu platform (Frankie & Benny's, Tenkites JSON-LD)",
    "source_url": "https://menus.tenkites.com/thebigtg/frankiebennys02",
-   "fetched_at": "2026-08-06T15:02:43Z",
+   "fetched_at": "2026-08-06T15:05:52Z",
    "quality_flags": null
   },
   "classic-meatballs": {
@@ -209,7 +209,7 @@
    "allergens": null,
    "source": "brand menu platform (Frankie & Benny's, Tenkites JSON-LD)",
    "source_url": "https://menus.tenkites.com/thebigtg/frankiebennys02",
-   "fetched_at": "2026-08-06T15:02:43Z",
+   "fetched_at": "2026-08-06T15:05:52Z",
    "quality_flags": null
   },
   "nduja": {
@@ -228,7 +228,7 @@
    "allergens": null,
    "source": "brand menu platform (Frankie & Benny's, Tenkites JSON-LD)",
    "source_url": "https://menus.tenkites.com/thebigtg/frankiebennys02",
-   "fetched_at": "2026-08-06T15:02:43Z",
+   "fetched_at": "2026-08-06T15:05:52Z",
    "quality_flags": null
   },
   "southern-fried-chicken-tenders": {
@@ -247,7 +247,7 @@
    "allergens": null,
    "source": "brand menu platform (Frankie & Benny's, Tenkites JSON-LD)",
    "source_url": "https://menus.tenkites.com/thebigtg/frankiebennys02",
-   "fetched_at": "2026-08-06T15:02:43Z",
+   "fetched_at": "2026-08-06T15:05:52Z",
    "quality_flags": null
   },
   "5-piece": {
@@ -266,7 +266,7 @@
    "allergens": null,
    "source": "brand menu platform (Frankie & Benny's, Tenkites JSON-LD)",
    "source_url": "https://menus.tenkites.com/thebigtg/frankiebennys02",
-   "fetched_at": "2026-08-06T15:02:43Z",
+   "fetched_at": "2026-08-06T15:05:52Z",
    "quality_flags": null
   },
   "8-piece": {
@@ -285,7 +285,7 @@
    "allergens": null,
    "source": "brand menu platform (Frankie & Benny's, Tenkites JSON-LD)",
    "source_url": "https://menus.tenkites.com/thebigtg/frankiebennys02",
-   "fetched_at": "2026-08-06T15:02:43Z",
+   "fetched_at": "2026-08-06T15:05:52Z",
    "quality_flags": null
   },
   "11-piece": {
@@ -304,7 +304,7 @@
    "allergens": null,
    "source": "brand menu platform (Frankie & Benny's, Tenkites JSON-LD)",
    "source_url": "https://menus.tenkites.com/thebigtg/frankiebennys02",
-   "fetched_at": "2026-08-06T15:02:43Z",
+   "fetched_at": "2026-08-06T15:05:52Z",
    "quality_flags": null
   },
   "garlic-parm": {
@@ -323,7 +323,7 @@
    "allergens": null,
    "source": "brand menu platform (Frankie & Benny's, Tenkites JSON-LD)",
    "source_url": "https://menus.tenkites.com/thebigtg/frankiebennys02",
-   "fetched_at": "2026-08-06T15:02:43Z",
+   "fetched_at": "2026-08-06T15:05:52Z",
    "quality_flags": null
   },
   "maple-mustard": {
@@ -342,7 +342,7 @@
    "allergens": null,
    "source": "brand menu platform (Frankie & Benny's, Tenkites JSON-LD)",
    "source_url": "https://menus.tenkites.com/thebigtg/frankiebennys02",
-   "fetched_at": "2026-08-06T15:02:43Z",
+   "fetched_at": "2026-08-06T15:05:52Z",
    "quality_flags": null
   },
   "classic-crispy-chicken-burger": {
@@ -361,7 +361,7 @@
    "allergens": null,
    "source": "brand menu platform (Frankie & Benny's, Tenkites JSON-LD)",
    "source_url": "https://menus.tenkites.com/thebigtg/frankiebennys02",
-   "fetched_at": "2026-08-06T15:02:43Z",
+   "fetched_at": "2026-08-06T15:05:52Z",
    "quality_flags": null
   },
   "classic-beef-burger": {
@@ -380,7 +380,7 @@
    "allergens": null,
    "source": "brand menu platform (Frankie & Benny's, Tenkites JSON-LD)",
    "source_url": "https://menus.tenkites.com/thebigtg/frankiebennys02",
-   "fetched_at": "2026-08-06T15:02:43Z",
+   "fetched_at": "2026-08-06T15:05:52Z",
    "quality_flags": null
   },
   "classic-beef-burger-gluten-free": {
@@ -399,7 +399,7 @@
    "allergens": null,
    "source": "brand menu platform (Frankie & Benny's, Tenkites JSON-LD)",
    "source_url": "https://menus.tenkites.com/thebigtg/frankiebennys02",
-   "fetched_at": "2026-08-06T15:02:43Z",
+   "fetched_at": "2026-08-06T15:05:52Z",
    "quality_flags": null
   },
   "cheese": {
@@ -418,7 +418,7 @@
    "allergens": null,
    "source": "brand menu platform (Frankie & Benny's, Tenkites JSON-LD)",
    "source_url": "https://menus.tenkites.com/thebigtg/frankiebennys02",
-   "fetched_at": "2026-08-06T15:02:43Z",
+   "fetched_at": "2026-08-06T15:05:52Z",
    "quality_flags": null
   },
   "central-park": {
@@ -437,7 +437,7 @@
    "allergens": null,
    "source": "brand menu platform (Frankie & Benny's, Tenkites JSON-LD)",
    "source_url": "https://menus.tenkites.com/thebigtg/frankiebennys02",
-   "fetched_at": "2026-08-06T15:02:43Z",
+   "fetched_at": "2026-08-06T15:05:52Z",
    "quality_flags": null
   },
   "crispy-bbq-chicken": {
@@ -456,7 +456,7 @@
    "allergens": null,
    "source": "brand menu platform (Frankie & Benny's, Tenkites JSON-LD)",
    "source_url": "https://menus.tenkites.com/thebigtg/frankiebennys02",
-   "fetched_at": "2026-08-06T15:02:43Z",
+   "fetched_at": "2026-08-06T15:05:52Z",
    "quality_flags": null
   },
   "mac-daddy-burger": {
@@ -475,7 +475,7 @@
    "allergens": null,
    "source": "brand menu platform (Frankie & Benny's, Tenkites JSON-LD)",
    "source_url": "https://menus.tenkites.com/thebigtg/frankiebennys02",
-   "fetched_at": "2026-08-06T15:02:43Z",
+   "fetched_at": "2026-08-06T15:05:52Z",
    "quality_flags": null
   },
   "steakhouse-burger": {
@@ -494,7 +494,7 @@
    "allergens": null,
    "source": "brand menu platform (Frankie & Benny's, Tenkites JSON-LD)",
    "source_url": "https://menus.tenkites.com/thebigtg/frankiebennys02",
-   "fetched_at": "2026-08-06T15:02:43Z",
+   "fetched_at": "2026-08-06T15:05:52Z",
    "quality_flags": null
   },
   "double-stack": {
@@ -513,7 +513,7 @@
    "allergens": null,
    "source": "brand menu platform (Frankie & Benny's, Tenkites JSON-LD)",
    "source_url": "https://menus.tenkites.com/thebigtg/frankiebennys02",
-   "fetched_at": "2026-08-06T15:02:43Z",
+   "fetched_at": "2026-08-06T15:05:52Z",
    "quality_flags": null
   },
   "the-double-stack-gluten-free": {
@@ -532,7 +532,7 @@
    "allergens": null,
    "source": "brand menu platform (Frankie & Benny's, Tenkites JSON-LD)",
    "source_url": "https://menus.tenkites.com/thebigtg/frankiebennys02",
-   "fetched_at": "2026-08-06T15:02:43Z",
+   "fetched_at": "2026-08-06T15:05:52Z",
    "quality_flags": null
   },
   "monterey-jack-cheese": {
@@ -551,7 +551,7 @@
    "allergens": null,
    "source": "brand menu platform (Frankie & Benny's, Tenkites JSON-LD)",
    "source_url": "https://menus.tenkites.com/thebigtg/frankiebennys02",
-   "fetched_at": "2026-08-06T15:02:43Z",
+   "fetched_at": "2026-08-06T15:05:52Z",
    "quality_flags": null
   },
   "cajun-spiced-fried-halloumi": {
@@ -570,7 +570,7 @@
    "allergens": null,
    "source": "brand menu platform (Frankie & Benny's, Tenkites JSON-LD)",
    "source_url": "https://menus.tenkites.com/thebigtg/frankiebennys02",
-   "fetched_at": "2026-08-06T15:02:43Z",
+   "fetched_at": "2026-08-06T15:05:52Z",
    "quality_flags": null
   },
   "smoked-streaky-bacon": {
@@ -589,7 +589,7 @@
    "allergens": null,
    "source": "brand menu platform (Frankie & Benny's, Tenkites JSON-LD)",
    "source_url": "https://menus.tenkites.com/thebigtg/frankiebennys02",
-   "fetched_at": "2026-08-06T15:02:43Z",
+   "fetched_at": "2026-08-06T15:05:52Z",
    "quality_flags": null
   },
   "onion-rings": {
@@ -608,7 +608,7 @@
    "allergens": null,
    "source": "brand menu platform (Frankie & Benny's, Tenkites JSON-LD)",
    "source_url": "https://menus.tenkites.com/thebigtg/frankiebennys02",
-   "fetched_at": "2026-08-06T15:02:43Z",
+   "fetched_at": "2026-08-06T15:05:52Z",
    "quality_flags": null
   },
   "pulled-beef-brisket": {
@@ -627,7 +627,7 @@
    "allergens": null,
    "source": "brand menu platform (Frankie & Benny's, Tenkites JSON-LD)",
    "source_url": "https://menus.tenkites.com/thebigtg/frankiebennys02",
-   "fetched_at": "2026-08-06T15:02:43Z",
+   "fetched_at": "2026-08-06T15:05:52Z",
    "quality_flags": null
   },
   "beef-patty": {
@@ -646,7 +646,7 @@
    "allergens": null,
    "source": "brand menu platform (Frankie & Benny's, Tenkites JSON-LD)",
    "source_url": "https://menus.tenkites.com/thebigtg/frankiebennys02",
-   "fetched_at": "2026-08-06T15:02:43Z",
+   "fetched_at": "2026-08-06T15:05:52Z",
    "quality_flags": null
   },
   "crispy-chicken": {
@@ -665,7 +665,7 @@
    "allergens": null,
    "source": "brand menu platform (Frankie & Benny's, Tenkites JSON-LD)",
    "source_url": "https://menus.tenkites.com/thebigtg/frankiebennys02",
-   "fetched_at": "2026-08-06T15:02:43Z",
+   "fetched_at": "2026-08-06T15:05:52Z",
    "quality_flags": null
   },
   "plant-patty": {
@@ -684,7 +684,7 @@
    "allergens": null,
    "source": "brand menu platform (Frankie & Benny's, Tenkites JSON-LD)",
    "source_url": "https://menus.tenkites.com/thebigtg/frankiebennys02",
-   "fetched_at": "2026-08-06T15:02:43Z",
+   "fetched_at": "2026-08-06T15:05:52Z",
    "quality_flags": null
   },
   "meat-medley": {
@@ -703,7 +703,7 @@
    "allergens": null,
    "source": "brand menu platform (Frankie & Benny's, Tenkites JSON-LD)",
    "source_url": "https://menus.tenkites.com/thebigtg/frankiebennys02",
-   "fetched_at": "2026-08-06T15:02:43Z",
+   "fetched_at": "2026-08-06T15:05:52Z",
    "quality_flags": null
   },
   "margherita-pizza": {
@@ -722,7 +722,7 @@
    "allergens": null,
    "source": "brand menu platform (Frankie & Benny's, Tenkites JSON-LD)",
    "source_url": "https://menus.tenkites.com/thebigtg/frankiebennys02",
-   "fetched_at": "2026-08-06T15:02:43Z",
+   "fetched_at": "2026-08-06T15:05:52Z",
    "quality_flags": null
   },
   "margherita-pizza-vegan": {
@@ -741,7 +741,7 @@
    "allergens": null,
    "source": "brand menu platform (Frankie & Benny's, Tenkites JSON-LD)",
    "source_url": "https://menus.tenkites.com/thebigtg/frankiebennys02",
-   "fetched_at": "2026-08-06T15:02:43Z",
+   "fetched_at": "2026-08-06T15:05:52Z",
    "quality_flags": null
   },
   "margherita-pizza-gluten-free": {
@@ -760,7 +760,7 @@
    "allergens": null,
    "source": "brand menu platform (Frankie & Benny's, Tenkites JSON-LD)",
    "source_url": "https://menus.tenkites.com/thebigtg/frankiebennys02",
-   "fetched_at": "2026-08-06T15:02:43Z",
+   "fetched_at": "2026-08-06T15:05:52Z",
    "quality_flags": null
   },
   "pepperoni-pizza": {
@@ -779,7 +779,7 @@
    "allergens": null,
    "source": "brand menu platform (Frankie & Benny's, Tenkites JSON-LD)",
    "source_url": "https://menus.tenkites.com/thebigtg/frankiebennys02",
-   "fetched_at": "2026-08-06T15:02:43Z",
+   "fetched_at": "2026-08-06T15:05:52Z",
    "quality_flags": null
   },
   "pepperoni-pizza-vegan": {
@@ -798,7 +798,7 @@
    "allergens": null,
    "source": "brand menu platform (Frankie & Benny's, Tenkites JSON-LD)",
    "source_url": "https://menus.tenkites.com/thebigtg/frankiebennys02",
-   "fetched_at": "2026-08-06T15:02:43Z",
+   "fetched_at": "2026-08-06T15:05:52Z",
    "quality_flags": null
   },
   "pepperoni-pizza-gluten-free": {
@@ -817,7 +817,7 @@
    "allergens": null,
    "source": "brand menu platform (Frankie & Benny's, Tenkites JSON-LD)",
    "source_url": "https://menus.tenkites.com/thebigtg/frankiebennys02",
-   "fetched_at": "2026-08-06T15:02:43Z",
+   "fetched_at": "2026-08-06T15:05:52Z",
    "quality_flags": null
   },
   "pepperoni-pizza-gluten-free-vegan": {
@@ -836,7 +836,7 @@
    "allergens": null,
    "source": "brand menu platform (Frankie & Benny's, Tenkites JSON-LD)",
    "source_url": "https://menus.tenkites.com/thebigtg/frankiebennys02",
-   "fetched_at": "2026-08-06T15:02:43Z",
+   "fetched_at": "2026-08-06T15:05:52Z",
    "quality_flags": null
   },
   "bbq-chicken-pizza": {
@@ -855,7 +855,7 @@
    "allergens": null,
    "source": "brand menu platform (Frankie & Benny's, Tenkites JSON-LD)",
    "source_url": "https://menus.tenkites.com/thebigtg/frankiebennys02",
-   "fetched_at": "2026-08-06T15:02:43Z",
+   "fetched_at": "2026-08-06T15:05:52Z",
    "quality_flags": null
   },
   "bbq-chicken-pizza-gluten-free": {
@@ -874,7 +874,7 @@
    "allergens": null,
    "source": "brand menu platform (Frankie & Benny's, Tenkites JSON-LD)",
    "source_url": "https://menus.tenkites.com/thebigtg/frankiebennys02",
-   "fetched_at": "2026-08-06T15:02:43Z",
+   "fetched_at": "2026-08-06T15:05:52Z",
    "quality_flags": null
   },
   "the-blanco-pizza": {
@@ -893,7 +893,7 @@
    "allergens": null,
    "source": "brand menu platform (Frankie & Benny's, Tenkites JSON-LD)",
    "source_url": "https://menus.tenkites.com/thebigtg/frankiebennys02",
-   "fetched_at": "2026-08-06T15:02:43Z",
+   "fetched_at": "2026-08-06T15:05:52Z",
    "quality_flags": null
   },
   "blanco-mushroom-spinach-gluten-free": {
@@ -912,7 +912,7 @@
    "allergens": null,
    "source": "brand menu platform (Frankie & Benny's, Tenkites JSON-LD)",
    "source_url": "https://menus.tenkites.com/thebigtg/frankiebennys02",
-   "fetched_at": "2026-08-06T15:02:43Z",
+   "fetched_at": "2026-08-06T15:05:52Z",
    "quality_flags": null
   },
   "pepperoni": {
@@ -931,7 +931,7 @@
    "allergens": null,
    "source": "brand menu platform (Frankie & Benny's, Tenkites JSON-LD)",
    "source_url": "https://menus.tenkites.com/thebigtg/frankiebennys02",
-   "fetched_at": "2026-08-06T15:02:43Z",
+   "fetched_at": "2026-08-06T15:05:52Z",
    "quality_flags": null
   },
   "chicken": {
@@ -950,7 +950,7 @@
    "allergens": null,
    "source": "brand menu platform (Frankie & Benny's, Tenkites JSON-LD)",
    "source_url": "https://menus.tenkites.com/thebigtg/frankiebennys02",
-   "fetched_at": "2026-08-06T15:02:43Z",
+   "fetched_at": "2026-08-06T15:05:52Z",
    "quality_flags": null
   },
   "n-duja": {
@@ -969,7 +969,7 @@
    "allergens": null,
    "source": "brand menu platform (Frankie & Benny's, Tenkites JSON-LD)",
    "source_url": "https://menus.tenkites.com/thebigtg/frankiebennys02",
-   "fetched_at": "2026-08-06T15:02:43Z",
+   "fetched_at": "2026-08-06T15:05:52Z",
    "quality_flags": null
   },
   "ham": {
@@ -988,7 +988,7 @@
    "allergens": null,
    "source": "brand menu platform (Frankie & Benny's, Tenkites JSON-LD)",
    "source_url": "https://menus.tenkites.com/thebigtg/frankiebennys02",
-   "fetched_at": "2026-08-06T15:02:43Z",
+   "fetched_at": "2026-08-06T15:05:52Z",
    "quality_flags": null
   },
   "mushrooms": {
@@ -1007,7 +1007,7 @@
    "allergens": null,
    "source": "brand menu platform (Frankie & Benny's, Tenkites JSON-LD)",
    "source_url": "https://menus.tenkites.com/thebigtg/frankiebennys02",
-   "fetched_at": "2026-08-06T15:02:43Z",
+   "fetched_at": "2026-08-06T15:05:52Z",
    "quality_flags": null
   },
   "sweetcorn": {
@@ -1026,7 +1026,7 @@
    "allergens": null,
    "source": "brand menu platform (Frankie & Benny's, Tenkites JSON-LD)",
    "source_url": "https://menus.tenkites.com/thebigtg/frankiebennys02",
-   "fetched_at": "2026-08-06T15:02:43Z",
+   "fetched_at": "2026-08-06T15:05:52Z",
    "quality_flags": null
   },
   "blue-cheese": {
@@ -1045,7 +1045,7 @@
    "allergens": null,
    "source": "brand menu platform (Frankie & Benny's, Tenkites JSON-LD)",
    "source_url": "https://menus.tenkites.com/thebigtg/frankiebennys02",
-   "fetched_at": "2026-08-06T15:02:43Z",
+   "fetched_at": "2026-08-06T15:05:52Z",
    "quality_flags": null
   },
   "calizza": {
@@ -1064,7 +1064,7 @@
    "allergens": null,
    "source": "brand menu platform (Frankie & Benny's, Tenkites JSON-LD)",
    "source_url": "https://menus.tenkites.com/thebigtg/frankiebennys02",
-   "fetched_at": "2026-08-06T15:02:43Z",
+   "fetched_at": "2026-08-06T15:05:52Z",
    "quality_flags": null
   },
   "manhattan-calzone": {
@@ -1083,7 +1083,7 @@
    "allergens": null,
    "source": "brand menu platform (Frankie & Benny's, Tenkites JSON-LD)",
    "source_url": "https://menus.tenkites.com/thebigtg/frankiebennys02",
-   "fetched_at": "2026-08-06T15:02:43Z",
+   "fetched_at": "2026-08-06T15:05:52Z",
    "quality_flags": null
   },
   "cajun-chicken-alfredo-calzone": {
@@ -1102,7 +1102,7 @@
    "allergens": null,
    "source": "brand menu platform (Frankie & Benny's, Tenkites JSON-LD)",
    "source_url": "https://menus.tenkites.com/thebigtg/frankiebennys02",
-   "fetched_at": "2026-08-06T15:02:43Z",
+   "fetched_at": "2026-08-06T15:05:52Z",
    "quality_flags": null
   },
   "roasted-vegetable-calzone": {
@@ -1121,7 +1121,7 @@
    "allergens": null,
    "source": "brand menu platform (Frankie & Benny's, Tenkites JSON-LD)",
    "source_url": "https://menus.tenkites.com/thebigtg/frankiebennys02",
-   "fetched_at": "2026-08-06T15:02:43Z",
+   "fetched_at": "2026-08-06T15:05:52Z",
    "quality_flags": null
   },
   "roasted-vegetable-calzone-vegan": {
@@ -1140,7 +1140,7 @@
    "allergens": null,
    "source": "brand menu platform (Frankie & Benny's, Tenkites JSON-LD)",
    "source_url": "https://menus.tenkites.com/thebigtg/frankiebennys02",
-   "fetched_at": "2026-08-06T15:02:43Z",
+   "fetched_at": "2026-08-06T15:05:52Z",
    "quality_flags": null
   },
   "frankie-s-spaghetti-meatballs": {
@@ -1159,7 +1159,7 @@
    "allergens": null,
    "source": "brand menu platform (Frankie & Benny's, Tenkites JSON-LD)",
    "source_url": "https://menus.tenkites.com/thebigtg/frankiebennys02",
-   "fetched_at": "2026-08-06T15:02:43Z",
+   "fetched_at": "2026-08-06T15:05:52Z",
    "quality_flags": null
   },
   "classic-beef-lasagne": {
@@ -1178,7 +1178,7 @@
    "allergens": null,
    "source": "brand menu platform (Frankie & Benny's, Tenkites JSON-LD)",
    "source_url": "https://menus.tenkites.com/thebigtg/frankiebennys02",
-   "fetched_at": "2026-08-06T15:02:43Z",
+   "fetched_at": "2026-08-06T15:05:52Z",
    "quality_flags": null
   },
   "house-mac-n-cheese": {
@@ -1197,7 +1197,7 @@
    "allergens": null,
    "source": "brand menu platform (Frankie & Benny's, Tenkites JSON-LD)",
    "source_url": "https://menus.tenkites.com/thebigtg/frankiebennys02",
-   "fetched_at": "2026-08-06T15:02:43Z",
+   "fetched_at": "2026-08-06T15:05:52Z",
    "quality_flags": null
   },
   "bacon": {
@@ -1216,7 +1216,7 @@
    "allergens": null,
    "source": "brand menu platform (Frankie & Benny's, Tenkites JSON-LD)",
    "source_url": "https://menus.tenkites.com/thebigtg/frankiebennys02",
-   "fetched_at": "2026-08-06T15:02:43Z",
+   "fetched_at": "2026-08-06T15:05:52Z",
    "quality_flags": null
   },
   "buffalo-chicken": {
@@ -1235,7 +1235,7 @@
    "allergens": null,
    "source": "brand menu platform (Frankie & Benny's, Tenkites JSON-LD)",
    "source_url": "https://menus.tenkites.com/thebigtg/frankiebennys02",
-   "fetched_at": "2026-08-06T15:02:43Z",
+   "fetched_at": "2026-08-06T15:05:52Z",
    "quality_flags": null
   },
   "bbq-brisket": {
@@ -1254,7 +1254,7 @@
    "allergens": null,
    "source": "brand menu platform (Frankie & Benny's, Tenkites JSON-LD)",
    "source_url": "https://menus.tenkites.com/thebigtg/frankiebennys02",
-   "fetched_at": "2026-08-06T15:02:43Z",
+   "fetched_at": "2026-08-06T15:05:52Z",
    "quality_flags": null
   },
   "chicken-piccante": {
@@ -1273,7 +1273,7 @@
    "allergens": null,
    "source": "brand menu platform (Frankie & Benny's, Tenkites JSON-LD)",
    "source_url": "https://menus.tenkites.com/thebigtg/frankiebennys02",
-   "fetched_at": "2026-08-06T15:02:43Z",
+   "fetched_at": "2026-08-06T15:05:52Z",
    "quality_flags": null
   },
   "chicken-piccante-gluten-free": {
@@ -1292,7 +1292,7 @@
    "allergens": null,
    "source": "brand menu platform (Frankie & Benny's, Tenkites JSON-LD)",
    "source_url": "https://menus.tenkites.com/thebigtg/frankiebennys02",
-   "fetched_at": "2026-08-06T15:02:43Z",
+   "fetched_at": "2026-08-06T15:05:52Z",
    "quality_flags": null
   },
   "bolognese": {
@@ -1311,7 +1311,7 @@
    "allergens": null,
    "source": "brand menu platform (Frankie & Benny's, Tenkites JSON-LD)",
    "source_url": "https://menus.tenkites.com/thebigtg/frankiebennys02",
-   "fetched_at": "2026-08-06T15:02:43Z",
+   "fetched_at": "2026-08-06T15:05:52Z",
    "quality_flags": null
   },
   "bolognese-gluten-free": {
@@ -1330,7 +1330,7 @@
    "allergens": null,
    "source": "brand menu platform (Frankie & Benny's, Tenkites JSON-LD)",
    "source_url": "https://menus.tenkites.com/thebigtg/frankiebennys02",
-   "fetched_at": "2026-08-06T15:02:43Z",
+   "fetched_at": "2026-08-06T15:05:52Z",
    "quality_flags": null
   },
   "carbonara": {
@@ -1349,7 +1349,7 @@
    "allergens": null,
    "source": "brand menu platform (Frankie & Benny's, Tenkites JSON-LD)",
    "source_url": "https://menus.tenkites.com/thebigtg/frankiebennys02",
-   "fetched_at": "2026-08-06T15:02:43Z",
+   "fetched_at": "2026-08-06T15:05:52Z",
    "quality_flags": null
   },
   "carbonara-gluten-free": {
@@ -1368,7 +1368,7 @@
    "allergens": null,
    "source": "brand menu platform (Frankie & Benny's, Tenkites JSON-LD)",
    "source_url": "https://menus.tenkites.com/thebigtg/frankiebennys02",
-   "fetched_at": "2026-08-06T15:02:43Z",
+   "fetched_at": "2026-08-06T15:05:52Z",
    "quality_flags": null
   },
   "pulled-chicken": {
@@ -1387,7 +1387,7 @@
    "allergens": null,
    "source": "brand menu platform (Frankie & Benny's, Tenkites JSON-LD)",
    "source_url": "https://menus.tenkites.com/thebigtg/frankiebennys02",
-   "fetched_at": "2026-08-06T15:02:43Z",
+   "fetched_at": "2026-08-06T15:05:52Z",
    "quality_flags": null
   },
   "arrabiatta": {
@@ -1406,7 +1406,7 @@
    "allergens": null,
    "source": "brand menu platform (Frankie & Benny's, Tenkites JSON-LD)",
    "source_url": "https://menus.tenkites.com/thebigtg/frankiebennys02",
-   "fetched_at": "2026-08-06T15:02:43Z",
+   "fetched_at": "2026-08-06T15:05:52Z",
    "quality_flags": null
   },
   "arrabbiata-gluten-free": {
@@ -1425,7 +1425,7 @@
    "allergens": null,
    "source": "brand menu platform (Frankie & Benny's, Tenkites JSON-LD)",
    "source_url": "https://menus.tenkites.com/thebigtg/frankiebennys02",
-   "fetched_at": "2026-08-06T15:02:43Z",
+   "fetched_at": "2026-08-06T15:05:52Z",
    "quality_flags": null
   },
   "the-chicken-parm": {
@@ -1444,7 +1444,7 @@
    "allergens": null,
    "source": "brand menu platform (Frankie & Benny's, Tenkites JSON-LD)",
    "source_url": "https://menus.tenkites.com/thebigtg/frankiebennys02",
-   "fetched_at": "2026-08-06T15:02:43Z",
+   "fetched_at": "2026-08-06T15:05:52Z",
    "quality_flags": null
   },
   "bbq-chicken-stack": {
@@ -1463,7 +1463,7 @@
    "allergens": null,
    "source": "brand menu platform (Frankie & Benny's, Tenkites JSON-LD)",
    "source_url": "https://menus.tenkites.com/thebigtg/frankiebennys02",
-   "fetched_at": "2026-08-06T15:02:43Z",
+   "fetched_at": "2026-08-06T15:05:52Z",
    "quality_flags": null
   },
   "whole-rack": {
@@ -1482,7 +1482,7 @@
    "allergens": null,
    "source": "brand menu platform (Frankie & Benny's, Tenkites JSON-LD)",
    "source_url": "https://menus.tenkites.com/thebigtg/frankiebennys02",
-   "fetched_at": "2026-08-06T15:02:43Z",
+   "fetched_at": "2026-08-06T15:05:52Z",
    "quality_flags": null
   },
   "ribs-half-rack": {
@@ -1501,7 +1501,7 @@
    "allergens": null,
    "source": "brand menu platform (Frankie & Benny's, Tenkites JSON-LD)",
    "source_url": "https://menus.tenkites.com/thebigtg/frankiebennys02",
-   "fetched_at": "2026-08-06T15:02:43Z",
+   "fetched_at": "2026-08-06T15:05:52Z",
    "quality_flags": null
   },
   "sirloin-steak": {
@@ -1520,7 +1520,7 @@
    "allergens": null,
    "source": "brand menu platform (Frankie & Benny's, Tenkites JSON-LD)",
    "source_url": "https://menus.tenkites.com/thebigtg/frankiebennys02",
-   "fetched_at": "2026-08-06T15:02:43Z",
+   "fetched_at": "2026-08-06T15:05:52Z",
    "quality_flags": null
   },
   "grilled-prawn-red-pepper-skewer": {
@@ -1539,7 +1539,7 @@
    "allergens": null,
    "source": "brand menu platform (Frankie & Benny's, Tenkites JSON-LD)",
    "source_url": "https://menus.tenkites.com/thebigtg/frankiebennys02",
-   "fetched_at": "2026-08-06T15:02:43Z",
+   "fetched_at": "2026-08-06T15:05:52Z",
    "quality_flags": null
   },
   "garlic-herb": {
@@ -1558,7 +1558,7 @@
    "allergens": null,
    "source": "brand menu platform (Frankie & Benny's, Tenkites JSON-LD)",
    "source_url": "https://menus.tenkites.com/thebigtg/frankiebennys02",
-   "fetched_at": "2026-08-06T15:02:43Z",
+   "fetched_at": "2026-08-06T15:05:52Z",
    "quality_flags": null
   },
   "spicy-peppercorn": {
@@ -1577,7 +1577,7 @@
    "allergens": null,
    "source": "brand menu platform (Frankie & Benny's, Tenkites JSON-LD)",
    "source_url": "https://menus.tenkites.com/thebigtg/frankiebennys02",
-   "fetched_at": "2026-08-06T15:02:43Z",
+   "fetched_at": "2026-08-06T15:05:52Z",
    "quality_flags": null
   },
   "bbq-platter": {
@@ -1596,7 +1596,7 @@
    "allergens": null,
    "source": "brand menu platform (Frankie & Benny's, Tenkites JSON-LD)",
    "source_url": "https://menus.tenkites.com/thebigtg/frankiebennys02",
-   "fetched_at": "2026-08-06T15:02:43Z",
+   "fetched_at": "2026-08-06T15:05:52Z",
    "quality_flags": null
   },
   "cobb-salad": {
@@ -1615,7 +1615,7 @@
    "allergens": null,
    "source": "brand menu platform (Frankie & Benny's, Tenkites JSON-LD)",
    "source_url": "https://menus.tenkites.com/thebigtg/frankiebennys02",
-   "fetched_at": "2026-08-06T15:02:43Z",
+   "fetched_at": "2026-08-06T15:05:52Z",
    "quality_flags": null
   },
   "halloumi": {
@@ -1634,7 +1634,7 @@
    "allergens": null,
    "source": "brand menu platform (Frankie & Benny's, Tenkites JSON-LD)",
    "source_url": "https://menus.tenkites.com/thebigtg/frankiebennys02",
-   "fetched_at": "2026-08-06T15:02:43Z",
+   "fetched_at": "2026-08-06T15:05:52Z",
    "quality_flags": null
   },
   "classic-caesar": {
@@ -1653,7 +1653,7 @@
    "allergens": null,
    "source": "brand menu platform (Frankie & Benny's, Tenkites JSON-LD)",
    "source_url": "https://menus.tenkites.com/thebigtg/frankiebennys02",
-   "fetched_at": "2026-08-06T15:02:43Z",
+   "fetched_at": "2026-08-06T15:05:52Z",
    "quality_flags": null
   },
   "tenderstem-broccoli": {
@@ -1672,7 +1672,7 @@
    "allergens": null,
    "source": "brand menu platform (Frankie & Benny's, Tenkites JSON-LD)",
    "source_url": "https://menus.tenkites.com/thebigtg/frankiebennys02",
-   "fetched_at": "2026-08-06T15:02:43Z",
+   "fetched_at": "2026-08-06T15:05:52Z",
    "quality_flags": null
   },
   "sweet-potato-fries": {
@@ -1691,7 +1691,7 @@
    "allergens": null,
    "source": "brand menu platform (Frankie & Benny's, Tenkites JSON-LD)",
    "source_url": "https://menus.tenkites.com/thebigtg/frankiebennys02",
-   "fetched_at": "2026-08-06T15:02:43Z",
+   "fetched_at": "2026-08-06T15:05:52Z",
    "quality_flags": null
   },
   "skin-on-fries": {
@@ -1710,7 +1710,7 @@
    "allergens": null,
    "source": "brand menu platform (Frankie & Benny's, Tenkites JSON-LD)",
    "source_url": "https://menus.tenkites.com/thebigtg/frankiebennys02",
-   "fetched_at": "2026-08-06T15:02:43Z",
+   "fetched_at": "2026-08-06T15:05:52Z",
    "quality_flags": null
   },
   "cheese-sauce": {
@@ -1729,7 +1729,7 @@
    "allergens": null,
    "source": "brand menu platform (Frankie & Benny's, Tenkites JSON-LD)",
    "source_url": "https://menus.tenkites.com/thebigtg/frankiebennys02",
-   "fetched_at": "2026-08-06T15:02:43Z",
+   "fetched_at": "2026-08-06T15:05:52Z",
    "quality_flags": null
   },
   "slaw": {
@@ -1748,7 +1748,7 @@
    "allergens": null,
    "source": "brand menu platform (Frankie & Benny's, Tenkites JSON-LD)",
    "source_url": "https://menus.tenkites.com/thebigtg/frankiebennys02",
-   "fetched_at": "2026-08-06T15:02:43Z",
+   "fetched_at": "2026-08-06T15:05:52Z",
    "quality_flags": null
   },
   "house-mac-cheese": {
@@ -1767,7 +1767,7 @@
    "allergens": null,
    "source": "brand menu platform (Frankie & Benny's, Tenkites JSON-LD)",
    "source_url": "https://menus.tenkites.com/thebigtg/frankiebennys02",
-   "fetched_at": "2026-08-06T15:02:43Z",
+   "fetched_at": "2026-08-06T15:05:52Z",
    "quality_flags": null
   },
   "cajun-haloumi-fries": {
@@ -1786,7 +1786,7 @@
    "allergens": null,
    "source": "brand menu platform (Frankie & Benny's, Tenkites JSON-LD)",
    "source_url": "https://menus.tenkites.com/thebigtg/frankiebennys02",
-   "fetched_at": "2026-08-06T15:02:43Z",
+   "fetched_at": "2026-08-06T15:05:52Z",
    "quality_flags": null
   },
   "hickory-smoked-bbq-beans": {
@@ -1805,7 +1805,7 @@
    "allergens": null,
    "source": "brand menu platform (Frankie & Benny's, Tenkites JSON-LD)",
    "source_url": "https://menus.tenkites.com/thebigtg/frankiebennys02",
-   "fetched_at": "2026-08-06T15:02:43Z",
+   "fetched_at": "2026-08-06T15:05:52Z",
    "quality_flags": null
   },
   "padron-peppers": {
@@ -1824,7 +1824,7 @@
    "allergens": null,
    "source": "brand menu platform (Frankie & Benny's, Tenkites JSON-LD)",
    "source_url": "https://menus.tenkites.com/thebigtg/frankiebennys02",
-   "fetched_at": "2026-08-06T15:02:43Z",
+   "fetched_at": "2026-08-06T15:05:52Z",
    "quality_flags": null
   },
   "bbq-beef-brisket-fries": {
@@ -1843,7 +1843,7 @@
    "allergens": null,
    "source": "brand menu platform (Frankie & Benny's, Tenkites JSON-LD)",
    "source_url": "https://menus.tenkites.com/thebigtg/frankiebennys02",
-   "fetched_at": "2026-08-06T15:02:43Z",
+   "fetched_at": "2026-08-06T15:05:52Z",
    "quality_flags": null
   },
   "buffalo-chicken-fries": {
@@ -1862,7 +1862,7 @@
    "allergens": null,
    "source": "brand menu platform (Frankie & Benny's, Tenkites JSON-LD)",
    "source_url": "https://menus.tenkites.com/thebigtg/frankiebennys02",
-   "fetched_at": "2026-08-06T15:02:43Z",
+   "fetched_at": "2026-08-06T15:05:52Z",
    "quality_flags": null
   },
   "bacon-cheese-loaded-fries": {
@@ -1881,7 +1881,7 @@
    "allergens": null,
    "source": "brand menu platform (Frankie & Benny's, Tenkites JSON-LD)",
    "source_url": "https://menus.tenkites.com/thebigtg/frankiebennys02",
-   "fetched_at": "2026-08-06T15:02:43Z",
+   "fetched_at": "2026-08-06T15:05:52Z",
    "quality_flags": null
   }
  }

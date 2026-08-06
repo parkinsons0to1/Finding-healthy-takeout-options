@@ -1,7 +1,7 @@
 {
  "chain_id": "leon",
  "item_count": 151,
- "fetched_at": "2026-08-06T15:02:45Z",
+ "fetched_at": "2026-08-06T15:05:21Z",
  "items": {
   "raspberry-pomegranate-cooler": {
    "chain_id": "leon",
@@ -19,7 +19,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "love-burger": {
@@ -38,7 +38,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "crisp-peach-cooler": {
@@ -57,7 +57,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "hash-browns": {
@@ -76,7 +76,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "chicken-chorizo-club-wrap": {
@@ -95,7 +95,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "salsa-verde-and-aioli-chicken-mezze-pot": {
@@ -114,7 +114,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "the-three-leons-smoothie": {
@@ -133,7 +133,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "charred-broccoli-with-preserved-lemon": {
@@ -152,7 +152,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "salsa-verde-big-box": {
@@ -171,7 +171,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "the-full-monty": {
@@ -190,7 +190,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "bacon-egg-muffin": {
@@ -209,7 +209,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "bacon-muffin": {
@@ -228,7 +228,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "green-shakshuka-halloumi": {
@@ -247,7 +247,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "the-big-breakfast-box": {
@@ -266,7 +266,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "the-halloumi-breakfast-box": {
@@ -285,7 +285,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "full-english-pot": {
@@ -304,7 +304,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "chicken-avocado-superfood-salad": {
@@ -323,7 +323,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "the-original-superfood-salad": {
@@ -342,7 +342,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "mushroom-magic-romesco-big-box": {
@@ -361,7 +361,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "satay-chicken": {
@@ -380,7 +380,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "mushroom-magic-romesco": {
@@ -399,7 +399,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "mushroom-magic-aioli-big-box": {
@@ -418,7 +418,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "korean-chicken-egg-sando": {
@@ -437,7 +437,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "garlic-marinated-chicken-mezze": {
@@ -456,7 +456,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "shakshuka": {
@@ -475,7 +475,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "strawberry-split-matcha-iced-latte": {
@@ -494,7 +494,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "chicken-super-salad": {
@@ -513,7 +513,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "chargrilled-chicken-rice-box": {
@@ -532,7 +532,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "leon-slaw": {
@@ -551,7 +551,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "chargrilled-chicken-burger": {
@@ -570,7 +570,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "brazilian-black-beans-with-rice": {
@@ -589,7 +589,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "chicken-aioli-wrap": {
@@ -608,7 +608,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "smoked-salmon-cream-cheese-muffin": {
@@ -627,7 +627,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "aioli-chicken-big-box": {
@@ -646,7 +646,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "satay-chicken-big-box": {
@@ -665,7 +665,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "aioli-chicken": {
@@ -684,7 +684,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "brazilian-black-beans-small": {
@@ -703,7 +703,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "black-bean-chilli-rice-pot": {
@@ -722,7 +722,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "fish-finger-wrap": {
@@ -741,7 +741,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "chilli-sauce": {
@@ -760,7 +760,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "gfc-crispy-chicken-nuggets": {
@@ -779,7 +779,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "paprika-chicken-yemeni-zhoug-bowl-d": {
@@ -798,7 +798,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "gfc-crispy-chicken-nuggets-baked-fries": {
@@ -817,7 +817,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "spicy-chicken-zhoug-wrap": {
@@ -836,7 +836,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "falafel-rice-box": {
@@ -855,7 +855,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "kids-gfc-nuggets-with-fries": {
@@ -874,7 +874,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "salmon-sm-rg-s-box": {
@@ -893,7 +893,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "lentil-masala": {
@@ -912,7 +912,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "honey-sriracha-gfc-chicken-nuggets": {
@@ -931,7 +931,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "very-berry-granola": {
@@ -950,7 +950,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "banana-turmeric-honey-granola": {
@@ -969,7 +969,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "chicken-caesar-burger": {
@@ -988,7 +988,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "build-your-own-super-bowl": {
@@ -1007,7 +1007,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "falafel-super-salad": {
@@ -1026,7 +1026,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "grilled-halloumi-wrap": {
@@ -1045,7 +1045,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "chai-iced-latte": {
@@ -1064,7 +1064,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "unsweetened-iced-matcha-latte": {
@@ -1083,7 +1083,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "vanilla-iced-matcha-latte": {
@@ -1102,7 +1102,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "smashed-avocado-halloumi-muffin": {
@@ -1121,7 +1121,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "blueberry-yuzu-blondie": {
@@ -1140,7 +1140,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "triple-choc-a-lot-cookie": {
@@ -1159,7 +1159,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "chocolate-almond-butter-tiffin": {
@@ -1178,7 +1178,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "sausage-egg-muffin": {
@@ -1197,7 +1197,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "peanut-satay-chicken-bowl-d": {
@@ -1216,7 +1216,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "ruby-red-porridge": {
@@ -1235,7 +1235,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "peas-n-seeds": {
@@ -1254,7 +1254,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "oat-cranberry-cookie": {
@@ -1273,7 +1273,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "iced-americano": {
@@ -1292,7 +1292,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "moroccan-meatballs-bowl-d": {
@@ -1311,7 +1311,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "mocha": {
@@ -1330,7 +1330,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "latte": {
@@ -1349,7 +1349,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "iced-latte": {
@@ -1368,7 +1368,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "hot-honey-gfc-chicken-nuggets": {
@@ -1387,7 +1387,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "hot-chocolate": {
@@ -1406,7 +1406,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "halloumi-egg-avo-sando": {
@@ -1425,7 +1425,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "flat-white": {
@@ -1444,7 +1444,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "nutty-lime-ginger-fabjack": {
@@ -1463,7 +1463,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "crunchy-korean-chicken-wrap": {
@@ -1482,7 +1482,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "leon-chocolate-chip-cookie": {
@@ -1501,7 +1501,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "cappuccino": {
@@ -1520,7 +1520,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "blueberry-honey-toasted-seeds-porridge": {
@@ -1539,7 +1539,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "saucy-beans-pot": {
@@ -1558,7 +1558,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "banana-and-cinnamon-porridge": {
@@ -1577,7 +1577,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "choconutty-banana-bread": {
@@ -1596,7 +1596,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "americano": {
@@ -1615,7 +1615,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "cheddar-black-pepper-mac-bites": {
@@ -1634,7 +1634,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "kids-egg-muffin": {
@@ -1653,7 +1653,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "vegan-sausage-muffin": {
@@ -1672,7 +1672,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "sausage-muffin": {
@@ -1691,7 +1691,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "baked-fries": {
@@ -1710,7 +1710,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "korean-mayo": {
@@ -1729,7 +1729,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "chicken-caesar-salad": {
@@ -1748,7 +1748,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "passionfruit-lemon-iced-tea": {
@@ -1767,7 +1767,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "lime-bubbly-water": {
@@ -1786,7 +1786,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "raspberry-bubbly-water": {
@@ -1805,7 +1805,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "yuzu-lemonade": {
@@ -1824,7 +1824,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "clean-green-smoothie": {
@@ -1843,7 +1843,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "better-brownie": {
@@ -1862,7 +1862,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "breakfast-stack": {
@@ -1881,7 +1881,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "salmon-egg-muffin": {
@@ -1900,7 +1900,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "moju-ginger-shot": {
@@ -1919,7 +1919,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "blueberry-lemon-poppy-seed-muffin": {
@@ -1938,7 +1938,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "lemony-lemonade": {
@@ -1957,7 +1957,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "gingerella-ginger-ale": {
@@ -1976,7 +1976,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "truffle-mushroom-arancini": {
@@ -1995,7 +1995,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "remedy-ginger-lemon-kombucha": {
@@ -2014,7 +2014,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "vanilla-matcha-latte": {
@@ -2033,7 +2033,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "vegan-garlic-aioli": {
@@ -2052,7 +2052,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "banana-and-cinnamon-porridge-with-activated-almond-m-lk": {
@@ -2071,7 +2071,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "ruby-red-porridge-with-activated-almond-milk": {
@@ -2090,7 +2090,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "unsweetened-matcha-latte": {
@@ -2109,7 +2109,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "gfc-crispy-chicken-nuggets-10-pieces": {
@@ -2128,7 +2128,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "tomato-ketchup": {
@@ -2147,7 +2147,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "kimchi": {
@@ -2166,7 +2166,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "hummus": {
@@ -2185,7 +2185,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "sourdough-toast": {
@@ -2204,7 +2204,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "razza-raspberry-lemonade": {
@@ -2223,7 +2223,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "karma-cola": {
@@ -2242,7 +2242,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "karma-gingerella-soda": {
@@ -2261,7 +2261,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "karma-cola-soda": {
@@ -2280,7 +2280,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "razza-raspberry-lemonade-soda": {
@@ -2299,7 +2299,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "karma-lemony-lemonade-soda": {
@@ -2318,7 +2318,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "orange-juice": {
@@ -2337,7 +2337,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "trip-elderflower-and-mint": {
@@ -2356,7 +2356,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "trip-peach-ginger": {
@@ -2375,7 +2375,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "banana-and-chocolate-porridge": {
@@ -2394,7 +2394,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "pain-au-chocolat": {
@@ -2413,7 +2413,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "organic-butter-croissant": {
@@ -2432,7 +2432,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "raspberry-pastel-de-nata": {
@@ -2451,7 +2451,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "lemon-ginger-crunch": {
@@ -2470,7 +2470,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "macchiato": {
@@ -2489,7 +2489,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "espresso": {
@@ -2508,7 +2508,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "kids-egg-and-beans-pot": {
@@ -2527,7 +2527,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "chai-latte": {
@@ -2546,7 +2546,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "winter-slaw": {
@@ -2565,7 +2565,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "vegan-harissa-chick-n-wrap": {
@@ -2584,7 +2584,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "hot-smoked-salmon-lime-jalape-o": {
@@ -2603,7 +2603,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "mango-lime-dragon-fruit-smoothie": {
@@ -2622,7 +2622,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "keralan-chicken-curry": {
@@ -2641,7 +2641,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "roasted-summer-veg-grilled-aubergine": {
@@ -2660,7 +2660,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "keep-it-classic-san-diego": {
@@ -2679,7 +2679,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "herbie-fully-loaded-chick-n": {
@@ -2698,7 +2698,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "classic-crispy-gfc-burger": {
@@ -2717,7 +2717,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "oat-milk-latte": {
@@ -2736,7 +2736,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "oat-milk-mocha": {
@@ -2755,7 +2755,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "oat-milk-hot-chocolate": {
@@ -2774,7 +2774,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "oat-milk-flat-white": {
@@ -2793,7 +2793,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "oat-milk-cappuccino": {
@@ -2812,7 +2812,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "iced-oat-milk-latte": {
@@ -2831,7 +2831,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "seasonal-british-veg": {
@@ -2850,7 +2850,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   },
   "satay-loaded-fries": {
@@ -2869,7 +2869,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:02:45Z",
+   "fetched_at": "2026-08-06T15:05:21Z",
    "quality_flags": null
   }
  }
