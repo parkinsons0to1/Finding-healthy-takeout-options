@@ -142,10 +142,18 @@ def rank(items: list[ScoredItem], diet: set[str] | None = None,
          limit: int = 25) -> dict:
     """Rank items, returning the qualifying list plus visible near-misses."""
     diet = diet or set()
-    eligible = [i for i in items
-                if i.protein_g and i.kcal and i.final_price_gbp
-                and passes_diet(i, diet, strict_halal)]
-    eligible = _dedupe_by_nearest_branch(eligible)
+    passes = [i for i in items
+              if i.protein_g and i.kcal and passes_diet(i, diet, strict_halal)]
+    eligible = _dedupe_by_nearest_branch([i for i in passes if i.final_price_gbp])
+
+    # Items with real macros but no price we trust. They can't be ranked —
+    # protein-per-pound needs a pound — but hiding them is its own error: as
+    # chain coverage grew, priced items became a small minority, and silently
+    # dropping the rest would tell a user that a high-protein dish nearby
+    # doesn't exist. Surfaced separately, ordered by protein density, never
+    # mixed into the ranking and never given a guessed price.
+    unpriced = _dedupe_by_nearest_branch([i for i in passes if not i.final_price_gbp])
+    unpriced.sort(key=lambda i: (i.protein_share, i.protein_g), reverse=True)
 
     key = (lambda i: i.kcal_per_pound or 0) if sort_by == "kcal_per_pound" \
         else (lambda i: i.protein_per_pound or 0)
@@ -163,6 +171,9 @@ def rank(items: list[ScoredItem], diet: set[str] | None = None,
                     "strict_halal": strict_halal, "sort_by": sort_by},
         "results": [i.to_dict() for i in qualifying[:limit]],
         "near_misses": [i.to_dict() for i in near_miss[:5]],
+        "unpriced": [i.to_dict() for i in unpriced
+                     if i.protein_share >= min_protein_share][:limit],
         "counts": {"considered": len(items), "eligible": len(eligible),
-                   "qualifying": len(qualifying), "near_miss": len(near_miss)},
+                   "qualifying": len(qualifying), "near_miss": len(near_miss),
+                   "unpriced": len(unpriced)},
     }

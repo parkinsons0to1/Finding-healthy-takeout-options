@@ -1,0 +1,11 @@
+{
+  "chain_id": "pizza_hut",
+  "status": "unresolved",
+  "source_url": null,
+  "source_type": null,
+  "label": null,
+  "item_count": 0,
+  "basis": null,
+  "samples": [],
+  "notes": "NOT YET FOUND - do not conclude anything about what Pizza Hut UK publishes. Checked, all with fetch_protected: (1) https://www.pizzahut.co.uk/nutrition/ and /allergens - React SPA shells, no data in HTML; /nutrition redirects to /allergens per a route map in main.js. (2) https://www.pizzahut.co.uk/order/pdfs/Nutritional-Information.pdf - a search hit, but the host serves the SPA shell for it (not a PDF). (3) Pizza Hut Restaurants site: https://www.pizzahut.co.uk/restaurants/food/nutritional-information - server-rendered but the body is an empty CMS tile shell (1062 chars of text, no table, no iframe). (4) Its linked PDF https://assets.ctfassets.net/kahtja4ygpol/3lSanvl3X7vbTSxlptqtfx/.../DINE-IN_AIN_Booklet_C3_2026_FINAL_V1.pdf - 13 pages of ingredients/allergens; its 29 'protein' hits are ingredient words (soya protein, whey protein), NOT a nutrition table. STRONG LEAD, NOT YET UNLOCKED: the storefront GraphQL endpoint https://www.pizzahut.co.uk/ph_uk/storefront/graphql accepts unauthenticated introspection and DOES define per-item protein - type NutritionalValuePerBasis{basis energyCalories energyKilojoules protein fatTotal fatSaturated cholesterol carbohydrateTotal carbohydrateSugar sodium}, with NutritionalValueBasis enum PER_SERVING|PER_100_GRAMS|PER_100_MILLILITERS, reached via Nutrition.nutritionalValues. The menu path is storeByNumber(storeNumber).menuByChannel or menuById(menuId:UUID). Blocked because Store/menu types return UNAUTHORIZED ('Access denied to one or more GraphQL types') without a store context or auth header, and no API key was found in main.69a8ef1feb9adb3d.js. NEXT STEPS: capture a real request from the live ordering flow (needs a browser - Playwright chromium could not reach the network through this sandbox's proxy, ERR_CONNECTION_RESET) to learn the required headers and a valid UK storeNumber, then query menuByChannel with nutritionalValues. Also worth trying: a Contentful asset listing for space kahtja4ygpol/gsh8f6v1sw3c, and the customercare article https://customercare.pizzahut.co.uk/hc/en-gb/articles/36834760768657."
+}

@@ -138,24 +138,31 @@ def search(postcode: str | None = None, lat: float | None = None,
                 disc = None      # an offer price is already the deal
             else:
                 quote = price_for(chain_id, item["name"])
-                if not quote:
-                    continue
-                disc = best_discount(chain_id, item["name"])
-            final = round(quote.price_gbp * (1 - disc.percent / 100), 2) if disc \
-                else quote.price_gbp
+                disc = best_discount(chain_id, item["name"]) if quote else None
+            if quote is None:
+                # No trustworthy price. Keep the item so it can be listed as
+                # "price unknown" rather than vanishing; scoring will exclude
+                # it from the ranking.
+                list_price = final = None
+                price_basis = "unknown"
+            else:
+                list_price = quote.price_gbp
+                final = (round(quote.price_gbp * (1 - disc.percent / 100), 2)
+                         if disc else quote.price_gbp)
+                price_basis = quote.basis
             scored.append(ScoredItem(
                 name=item["name"], chain_id=chain_id,
                 outlet_name=outlet["business_name"],
                 distance_miles=outlet["distance_miles"],
                 kcal=float(item["kcal"]), protein_g=float(item["protein_g"]),
-                list_price_gbp=quote.price_gbp, final_price_gbp=final,
+                list_price_gbp=list_price, final_price_gbp=final,
                 discount_label=disc.label if disc else None,
                 halal_status=halal_status, halal_tier=halal_tier,
                 vegetarian=bool(item.get("vegetarian")),
                 vegan=bool(item.get("vegan")),
                 nutrition_source=item.get("source", ""),
                 nutrition_confidence="high",
-                price_basis=quote.basis,
+                price_basis=price_basis,
                 is_offer=bool(item.get("is_offer")),
                 offer_basis=item.get("offer_basis"),
                 offer_components=item.get("offer_components"),

@@ -133,3 +133,6 @@ output { color: var(--text); font-weight: 600; }
 }
 @media (prefers-color-scheme: light) { .pill.offer { color: #fff; } }
 .offer-parts { margin-top: 6px; font-style: italic; }
+
+/* Items with macros but no trustworthy price — shown, never ranked */
+.unknown-price { color: var(--muted); font-size: .82rem; font-style: italic; }

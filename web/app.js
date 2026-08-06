@@ -42,13 +42,19 @@ function halalPill(status, tier) {
 
 function itemCard(item, i) {
   const share = Math.round(item.protein_share * 100);
-  const discounted = item.discount_label && item.final_price_gbp < item.list_price_gbp;
-  const price = discounted
-    ? `<s>£${item.list_price_gbp.toFixed(2)}</s> <strong>£${item.final_price_gbp.toFixed(2)}</strong>`
-    : `<strong>£${item.final_price_gbp.toFixed(2)}</strong>`;
-  const metric = $('sortBy').value === 'kcal_per_pound'
-    ? { value: item.kcal_per_pound, unit: 'kcal / £' }
-    : { value: item.protein_per_pound, unit: 'g protein / £' };
+  const hasPrice = item.final_price_gbp != null;
+  const discounted = hasPrice && item.discount_label
+    && item.final_price_gbp < item.list_price_gbp;
+  const price = !hasPrice
+    ? '<span class="unknown-price">price unknown</span>'
+    : discounted
+      ? `<s>£${item.list_price_gbp.toFixed(2)}</s> <strong>£${item.final_price_gbp.toFixed(2)}</strong>`
+      : `<strong>£${item.final_price_gbp.toFixed(2)}</strong>`;
+  const metric = !hasPrice
+    ? { value: `${Math.round(item.protein_share * 100)}%`, unit: 'protein of kcal' }
+    : $('sortBy').value === 'kcal_per_pound'
+      ? { value: item.kcal_per_pound, unit: 'kcal / £' }
+      : { value: item.protein_per_pound, unit: 'g protein / £' };
 
   return `<article class="card">
     <div class="rank">${i}</div>
@@ -63,6 +69,7 @@ function itemCard(item, i) {
         ${item.vegan ? '<span class="pill good">Vegan</span>'
           : item.vegetarian ? '<span class="pill good">Vegetarian</span>' : ''}
         ${item.price_basis === 'estimated' ? '<span class="pill est">Price estimated</span>' : ''}
+        ${item.price_basis === 'unknown' ? '<span class="pill est">No price yet</span>' : ''}
         ${item.is_offer ? '<span class="pill offer">Limited-time deal</span>' : ''}
         ${item.offer_availability === 'app_only' ? '<span class="pill">App only</span>' : ''}
       </div>
@@ -173,6 +180,14 @@ function render(data) {
     resultsEl.insertAdjacentHTML('beforeend',
       `<h2 class="section-head">Just below your threshold — often the best value</h2>` +
       data.near_misses.map((m, i) => itemCard(m, i + 1)).join(''));
+  }
+
+  // Items that meet the macro filter but have no price we trust. They can't be
+  // ranked, but hiding them would claim they aren't there.
+  if (data.unpriced?.length) {
+    resultsEl.insertAdjacentHTML('beforeend',
+      `<h2 class="section-head">Meets your macros — price unknown, so not ranked</h2>` +
+      data.unpriced.map((m, i) => itemCard(m, i + 1)).join(''));
   }
 
   const unverified = data.outlets.filter((o) => o.halal_status === 'unverified').length;
