@@ -4,8 +4,8 @@
   "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
   "source_type": "pdf",
   "label": "Zizzi Nutrition Guide 2026 UK V2",
-  "item_count": 380,
-  "basis": "per 100g",
+  "item_count": 385,
+  "basis": "per serving",
   "samples": [
     {
       "name": "Complimentary Pasta Crisps",
@@ -33,5 +33,5 @@
       "protein_g": 7.1
     }
   ],
-  "notes": "Linked from https://www.zizzi.co.uk/allergens (needs fetch_protected). NOTE: the earlier lead that zizzi.co.uk/allergens has macros in server-rendered HTML is only PARTLY right - the JSON-LD MenuItem blocks carry calories only, no protein; protein comes from this PDF. PDF has 17 columns: cols 1-8 Per 100g, cols 9-16 Per Portion. The generic parser binds the FIRST kcal/protein pair, so extracted values are PER 100g. Per-portion values are in the same rows at col 10 (kcal) and col 15 (protein) and should be preferred for meal-level macros. Sibling PDF 486ec2f5..=ROI/Belgium (410 items), f5d15b49..=UK allergen guide, e2da64ee..=UK ingredient declaration."
+  "notes": "Linked from https://www.zizzi.co.uk/allergens (needs fetch_protected). NOTE: the earlier lead that zizzi.co.uk/allergens has macros in server-rendered HTML is only PARTLY right - the JSON-LD MenuItem blocks carry calories only, no protein; protein comes from this PDF. PDF has 17 columns: cols 1-8 Per 100g, cols 9-16 Per Portion. The generic parser binds the FIRST kcal/protein pair, so extracted values are PER 100g. Per-portion values are in the same rows at col 10 (kcal) and col 15 (protein) and should be preferred for meal-level macros. Sibling PDF 486ec2f5..=ROI/Belgium (410 items), f5d15b49..=UK allergen guide, e2da64ee..=UK ingredient declaration. ADAPTER: scripts/scrapers/chains/zizzi.py takes the SECOND kcal/protein header occurrence, i.e. the Per Portion block, and so emits per-serving values (385 rows) rather than the per-100g values the generic parser returns."
 }

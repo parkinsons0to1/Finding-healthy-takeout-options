@@ -24,7 +24,7 @@ the ``kcal <= 0`` check.
 """
 from __future__ import annotations
 
-from ..base import fetch_protected, item, session
+from ..base import item
 from . import _mbplc
 
 CHAIN = "toby_carvery"
@@ -32,20 +32,8 @@ SOURCE = "brand site (Mitchells & Butlers allergen & nutrition guide)"
 SOURCE_URL = "https://allergens.mbplc.io/AllergenGuideTobyEstate.html"
 
 
-def _fetch_html(url: str) -> str | None:
-    s = session()
-    try:
-        r = s.get(url, timeout=90)
-        if r.status_code == 200 and r.text:
-            return r.text
-    except Exception:
-        pass
-    pr = fetch_protected(url, timeout=120)
-    return pr.text if pr is not None else None
-
-
 def fetch() -> list[dict]:
-    raw = _fetch_html(SOURCE_URL)
+    raw = _mbplc.fetch_guide(SOURCE_URL)
     if not raw:
         return []
 

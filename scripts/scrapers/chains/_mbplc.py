@@ -51,6 +51,8 @@ from __future__ import annotations
 import html
 import re
 
+from ..base import fetch_protected, session
+
 _TAG = re.compile(r"<[^>]+>")
 
 #: Header cell text -> canonical field. Matched by prefix against the cleaned
@@ -68,6 +70,29 @@ _RECIPE_SPLIT = '<div class="recipe-card">'
 _SECTION = re.compile(r'<p class="sectionContainerH"[^>]*>(.*?)</p>', re.S)
 _MENU_HEADING = re.compile(
     r'role="heading"\s+aria-level="2"\s*>(.*?)</p>', re.S)
+
+
+def fetch_guide(url: str) -> str | None:
+    """GET a brand guide, decoded as UTF-8.
+
+    ENCODING TRAP: allergens.mbplc.io returns ``Content-Type: text/html`` with
+    no charset, so requests falls back to ISO-8859-1 per RFC 2616 — but the
+    document declares ``<meta charset="UTF-8">`` and really is UTF-8. Left
+    alone, ``r.text`` mojibakes every non-ASCII character: "À LA CARTE" becomes
+    "Ã€ LA CARTE" and it lands in dish names and categories. Force the
+    encoding rather than trusting the header.
+    """
+    s = session()
+    try:
+        r = s.get(url, timeout=90)
+        if r.status_code == 200 and r.content:
+            return r.content.decode("utf-8", errors="replace")
+    except Exception:
+        pass
+    pr = fetch_protected(url, timeout=120)
+    if pr is not None and pr.content:
+        return pr.content.decode("utf-8", errors="replace")
+    return None
 
 
 def _text(fragment: str) -> str:

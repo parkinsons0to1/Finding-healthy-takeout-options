@@ -1,7 +1,7 @@
 {
  "chain_id": "harvester",
  "item_count": 387,
- "fetched_at": "2026-08-06T14:51:49Z",
+ "fetched_at": "2026-08-06T15:03:32Z",
  "items": {
   "garlic-bread-ve": {
    "chain_id": "harvester",
@@ -19,7 +19,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "crispy-calamari": {
@@ -38,7 +38,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "crispy-tempura-king-prawns": {
@@ -57,7 +57,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "garlic-bread-v": {
@@ -76,7 +76,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "garlic-bread-cheese-v": {
@@ -95,7 +95,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "sweetcorn-empanadas-v": {
@@ -114,7 +114,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "mushrooms-on-toast-v": {
@@ -133,7 +133,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "halloumi-fries-v": {
@@ -152,7 +152,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "mac-n-cheese-v": {
@@ -171,7 +171,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "nachos-v": {
@@ -190,7 +190,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "hot-honey-drizzled-corn-bread-v": {
@@ -209,7 +209,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "loaded-hummus-ve": {
@@ -228,7 +228,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "bhaji-burger-ve": {
@@ -247,7 +247,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "crispy-sweet-potato-ve": {
@@ -266,7 +266,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "herb-battered-halloumi-chips-v": {
@@ -285,7 +285,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "camembert-cherry-tomato-tart-v": {
@@ -304,7 +304,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "cheese-spinach-filled-pasta-shells-v": {
@@ -323,7 +323,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "crispy-sweet-potato-v": {
@@ -342,13 +342,13 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "halloumi-padr-n-pepper-skewer-v-click-through-to-view-full-allergen-and-dietary-": {
    "chain_id": "harvester",
-   "item_id": "Halloumi & PadrÃ³n Pepper Skewer (V) Click through to view full allergen and dietary information including choices.",
-   "name": "Halloumi & PadrÃ³n Pepper Skewer (V) Click through to view full allergen and dietary information including choices.",
+   "item_id": "Halloumi & Padrón Pepper Skewer (V) Click through to view full allergen and dietary information including choices.",
+   "name": "Halloumi & Padrón Pepper Skewer (V) Click through to view full allergen and dietary information including choices.",
    "category": "VEGETARIAN, VEGAN & FISH MENU / MAINS",
    "serving_desc": "per portion",
    "kcal": 1018.0,
@@ -361,7 +361,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "grilled-halloumi-v": {
@@ -380,7 +380,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "bhaji-burger-v": {
@@ -399,7 +399,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "hot-honey-v": {
@@ -418,7 +418,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "bbq-ve": {
@@ -437,7 +437,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "sweet-sticky-soy-v": {
@@ -456,7 +456,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "peri-peri-v": {
@@ -475,7 +475,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "chips-ve": {
@@ -494,7 +494,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "sage-onion-chips-ve": {
@@ -513,7 +513,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "golden-rice-beans-ve": {
@@ -532,13 +532,13 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "grilled-salmon-click-through-to-view-full-allergen-and-dietary-information-inclu": {
    "chain_id": "harvester",
-   "item_id": "Grilled Salmonâ Click through to view full allergen and dietary information including choices.",
-   "name": "Grilled Salmonâ Click through to view full allergen and dietary information including choices.",
+   "item_id": "Grilled Salmon† Click through to view full allergen and dietary information including choices.",
+   "name": "Grilled Salmon† Click through to view full allergen and dietary information including choices.",
    "category": "VEGETARIAN, VEGAN & FISH MENU / MAINS",
    "serving_desc": "per portion",
    "kcal": 652.0,
@@ -551,13 +551,13 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "fish-chips-click-through-to-view-full-allergen-and-dietary-information-including": {
    "chain_id": "harvester",
-   "item_id": "Fish & Chipsâ Click through to view full allergen and dietary information including choices.",
-   "name": "Fish & Chipsâ Click through to view full allergen and dietary information including choices.",
+   "item_id": "Fish & Chips† Click through to view full allergen and dietary information including choices.",
+   "name": "Fish & Chips† Click through to view full allergen and dietary information including choices.",
    "category": "VEGETARIAN, VEGAN & FISH MENU / MAINS",
    "serving_desc": "per portion",
    "kcal": 1021.0,
@@ -570,13 +570,13 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "wholetail-whitby-scampi-click-through-to-view-full-allergen-and-dietary-informat": {
    "chain_id": "harvester",
-   "item_id": "Wholetail WhitbyÂ® Scampiâ Click through to view full allergen and dietary information including choices.",
-   "name": "Wholetail WhitbyÂ® Scampiâ Click through to view full allergen and dietary information including choices.",
+   "item_id": "Wholetail Whitby® Scampi† Click through to view full allergen and dietary information including choices.",
+   "name": "Wholetail Whitby® Scampi† Click through to view full allergen and dietary information including choices.",
    "category": "VEGETARIAN, VEGAN & FISH MENU / MAINS",
    "serving_desc": "per portion",
    "kcal": 1052.0,
@@ -589,13 +589,13 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "garlic-herb-grilled-pollock": {
    "chain_id": "harvester",
-   "item_id": "Garlic & Herb Grilled Pollockâ",
-   "name": "Garlic & Herb Grilled Pollockâ",
+   "item_id": "Garlic & Herb Grilled Pollock†",
+   "name": "Garlic & Herb Grilled Pollock†",
    "category": "VEGETARIAN, VEGAN & FISH MENU / MAINS",
    "serving_desc": "per portion",
    "kcal": 756.0,
@@ -608,13 +608,13 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "grilled-salmon": {
    "chain_id": "harvester",
-   "item_id": "Grilled Salmonâ",
-   "name": "Grilled Salmonâ",
+   "item_id": "Grilled Salmon†",
+   "name": "Grilled Salmon†",
    "category": "VEGETARIAN, VEGAN & FISH MENU / MAINS",
    "serving_desc": "per portion",
    "kcal": 914.0,
@@ -627,7 +627,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "large-chips-ve": {
@@ -646,7 +646,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "large-sage-onion-chips-ve": {
@@ -665,7 +665,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "sweet-potato-fries-ve": {
@@ -684,7 +684,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "mash-v": {
@@ -703,7 +703,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "baked-jacket-potato-ve": {
@@ -722,7 +722,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "breaded-mushrooms-v": {
@@ -741,7 +741,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "crispy-chicken-fries": {
@@ -760,7 +760,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "pork-riblets": {
@@ -779,7 +779,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "loaded-hummus-lamb-kofta": {
@@ -798,7 +798,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "chicken-wings-click-through-to-view-full-allergen-and-dietary-information-includ": {
@@ -817,7 +817,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "charred-cayenne-maple-v": {
@@ -836,7 +836,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "peri-mayo-v": {
@@ -855,7 +855,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "harvester-chicken-gravy": {
@@ -874,13 +874,13 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "satay-our-satay-sauce-is-soya-based-and-does-not-contain-peanuts": {
    "chain_id": "harvester",
-   "item_id": "Satayâ¡ Our satay sauce is soya based and does not contain peanuts.",
-   "name": "Satayâ¡ Our satay sauce is soya based and does not contain peanuts.",
+   "item_id": "Satay‡ Our satay sauce is soya based and does not contain peanuts.",
+   "name": "Satay‡ Our satay sauce is soya based and does not contain peanuts.",
    "category": "MAIN MENU / ADD A SAUCE +50p",
    "serving_desc": "per portion",
    "kcal": 103.0,
@@ -893,7 +893,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "rotisserie-flavour-mayo": {
@@ -912,7 +912,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "mighty-one": {
@@ -931,7 +931,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "beef-classic": {
@@ -950,7 +950,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "southern-bbq-crunch": {
@@ -969,7 +969,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "chicken-stacker": {
@@ -988,7 +988,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "chicken-classic": {
@@ -1007,7 +1007,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "cathedral-city-plant-based-slice-ve": {
@@ -1026,7 +1026,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "beef-burger": {
@@ -1045,7 +1045,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "crispy-cornflake-chicken-breast": {
@@ -1064,7 +1064,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "double-up-bhaji-burger-ve": {
@@ -1083,7 +1083,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "bacon": {
@@ -1102,7 +1102,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "chargrilled-chicken-breast": {
@@ -1121,7 +1121,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "monterey-jack-cheese-v": {
@@ -1140,7 +1140,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "chicken-bacon-waffle": {
@@ -1159,7 +1159,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "bbq-chicken-stack": {
@@ -1178,7 +1178,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "chargrilled-chicken-click-through-to-view-full-allergen-and-dietary-information-": {
@@ -1197,7 +1197,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "chargrilled-chicken": {
@@ -1216,7 +1216,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "chicken-tikka": {
@@ -1235,7 +1235,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "lamb-kofta": {
@@ -1254,7 +1254,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "half-rack-of-bbq-ribs": {
@@ -1273,7 +1273,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "half-rotisserie-chicken-click-through-to-view-full-allergen-and-dietary-informat": {
@@ -1292,7 +1292,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "whole-rotisserie-chicken-click-through-to-view-full-allergen-and-dietary-informa": {
@@ -1311,7 +1311,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "chicken-skewer-click-through-to-view-full-allergen-and-dietary-information-inclu": {
@@ -1330,7 +1330,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "pork-skewer-click-through-to-view-full-allergen-and-dietary-information-includin": {
@@ -1349,7 +1349,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "add-on-half-flat-bread-v": {
@@ -1368,7 +1368,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "add-on-whole-flat-bread-v": {
@@ -1387,7 +1387,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "pork-skewer-single-click-through-to-view-full-allergen-and-dietary-information-i": {
@@ -1406,13 +1406,13 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "halloumi-padr-n-pepper-skewer-v": {
    "chain_id": "harvester",
-   "item_id": "Halloumi & PadrÃ³n Pepper Skewer (V)",
-   "name": "Halloumi & PadrÃ³n Pepper Skewer (V)",
+   "item_id": "Halloumi & Padrón Pepper Skewer (V)",
+   "name": "Halloumi & Padrón Pepper Skewer (V)",
    "category": "MAIN MENU / CHARGRILLED SKEWER",
    "serving_desc": "per portion",
    "kcal": 548.0,
@@ -1425,14 +1425,14 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "harvester-s-best-ever-full-rack-of-ribs-click-through-to-view-full-allergen-and-": {
    "chain_id": "harvester",
    "item_id": "Harvester's Best Ever Full Rack Of Ribs Click through to view full allergen and dietary information including choices.",
    "name": "Harvester's Best Ever Full Rack Of Ribs Click through to view full allergen and dietary information including choices.",
-   "category": "MAIN MENU / HARVESTERâS BEST EVER FULL RACK OF RIBS",
+   "category": "MAIN MENU / HARVESTER’S BEST EVER FULL RACK OF RIBS",
    "serving_desc": "per portion",
    "kcal": 1017.0,
    "protein_g": 78.0,
@@ -1444,7 +1444,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "10oz-ribeye-click-through-to-view-full-allergen-and-dietary-information-includin": {
@@ -1463,7 +1463,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "8oz-rump-click-through-to-view-full-allergen-and-dietary-information-including-c": {
@@ -1482,7 +1482,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "the-harvester-trilogy": {
@@ -1501,7 +1501,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "mixed-grill": {
@@ -1520,7 +1520,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "7oz-gammon": {
@@ -1539,7 +1539,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "14oz-gammon": {
@@ -1558,13 +1558,13 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "wing-n-wave-combo": {
    "chain_id": "harvester",
-   "item_id": "Wing âNâ Wave Combo",
-   "name": "Wing âNâ Wave Combo",
+   "item_id": "Wing ‘N’ Wave Combo",
+   "name": "Wing ‘N’ Wave Combo",
    "category": "MAIN MENU / GRILLS & COMBOS",
    "serving_desc": "per portion",
    "kcal": 1631.0,
@@ -1577,7 +1577,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "smoke-house-pork-belly-corn": {
@@ -1596,7 +1596,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "the-original-combo": {
@@ -1615,7 +1615,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "the-triple-combo": {
@@ -1634,7 +1634,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "the-1983-harvester-combo": {
@@ -1653,7 +1653,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "half-a-harvester-rotisserie-chicken": {
@@ -1672,7 +1672,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "add-on-grated-cheddar-cheese-v": {
@@ -1691,7 +1691,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "add-on-7oz-gammon": {
@@ -1710,7 +1710,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "six-pieces-of-scampi": {
@@ -1729,7 +1729,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "onion-rings-ve": {
@@ -1748,7 +1748,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "add-halloumi-v": {
@@ -1767,7 +1767,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "add-belgian-waffle-v": {
@@ -1786,13 +1786,13 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "heinz-beans-ve": {
    "chain_id": "harvester",
-   "item_id": "HeinzÂ® Beans (VE)",
-   "name": "HeinzÂ® Beans (VE)",
+   "item_id": "Heinz® Beans (VE)",
+   "name": "Heinz® Beans (VE)",
    "category": "MAIN MENU / ON THE SIDE",
    "serving_desc": "per portion",
    "kcal": 65.0,
@@ -1805,7 +1805,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "sausage": {
@@ -1824,7 +1824,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "add-free-range-fried-egg-v": {
@@ -1843,7 +1843,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "add-sour-cream-v": {
@@ -1862,7 +1862,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "ice-cream-tub-with-cone-v": {
@@ -1881,7 +1881,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "sticky-toffee-pudding-v-click-through-to-view-full-allergen-and-dietary-informat": {
@@ -1900,7 +1900,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "chocolate-fudge-cake-v": {
@@ -1919,7 +1919,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "sliced-bramley-apple-pie-ve-click-through-to-view-full-allergen-and-dietary-info": {
@@ -1938,7 +1938,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "new-york-inspired-cheesecake-v": {
@@ -1957,7 +1957,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "banoffee-french-toast-v": {
@@ -1976,7 +1976,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "belgian-chocolate-brownie-v": {
@@ -1995,7 +1995,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "treacle-sponge-v-click-through-to-view-full-allergen-and-dietary-information-inc": {
@@ -2014,7 +2014,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "chocolate-orange-pot-v": {
@@ -2033,7 +2033,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "sundae-best-v-click-through-to-view-full-allergen-and-dietary-information-includ": {
@@ -2052,7 +2052,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "vegan-sundae-best-ve-click-through-to-view-full-allergen-and-dietary-information": {
@@ -2071,7 +2071,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "eton-mess-v-click-here-to-view-full-allergen-and-dietary-information-including-c": {
@@ -2090,7 +2090,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "apple-blackberry-crumble-v-click-here-to-view-full-allergen-and-dietary-informat": {
@@ -2109,7 +2109,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "sticky-toffee-pudding-v-click-here-to-view-full-allergen-and-dietary-information": {
@@ -2128,7 +2128,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "belgian-chocolate-brownie-v-click-here-to-view-full-allergen-and-dietary-informa": {
@@ -2147,7 +2147,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "alternative-replacement-ice-cream-only-scoopable-ice-cream-v": {
@@ -2166,7 +2166,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "rocky-horror-v": {
@@ -2185,7 +2185,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "lemon-blizzard-v": {
@@ -2204,7 +2204,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "berry-best-v": {
@@ -2223,7 +2223,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "apple-pie-sundae-v": {
@@ -2242,7 +2242,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "the-ultimate-breakfast-click-through-to-view-full-allergen-and-dietary-informati": {
@@ -2261,7 +2261,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "the-classic-breakfast-click-through-to-view-full-allergen-and-dietary-informatio": {
@@ -2280,7 +2280,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "add-4oz-rump-steak": {
@@ -2299,7 +2299,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "the-veggie-breakfast-v-click-through-to-view-full-allergen-and-dietary-informati": {
@@ -2318,7 +2318,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "the-vegan-breakfast-ve-click-through-to-view-full-allergen-and-dietary-informati": {
@@ -2337,7 +2337,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "starter-breakfast-click-through-to-view-full-allergen-and-dietary-information-in": {
@@ -2356,7 +2356,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "vegan-starter-breakfast-ve-click-through-to-view-full-allergen-and-dietary-infor": {
@@ -2375,7 +2375,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "veggie-starter-breakfast-v-click-through-to-view-full-allergen-and-dietary-infor": {
@@ -2394,7 +2394,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "grilled-tomato-ve": {
@@ -2413,7 +2413,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "flat-mushrooms-ve": {
@@ -2432,7 +2432,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "hash-browns-ve": {
@@ -2451,7 +2451,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "3-pancakes-v-click-here-to-view-full-allergen-and-dietary-information-including-": {
@@ -2470,7 +2470,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "black-pudding": {
@@ -2489,7 +2489,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "vegan-sausage-ve": {
@@ -2508,7 +2508,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "add-a-poached-free-range-egg-v-1-egg": {
@@ -2527,7 +2527,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "chicken-avocado-croissant-loaf": {
@@ -2546,7 +2546,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "eggs-benedict": {
@@ -2565,7 +2565,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "yoghurt-fruit-granola-cup-v": {
@@ -2584,7 +2584,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "toast-preserve-v-click-through-to-view-full-allergen-and-dietary-information-inc": {
@@ -2603,7 +2603,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "cereals-v-click-through-to-view-full-allergen-and-dietary-information-including-": {
@@ -2622,7 +2622,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "two-slices-of-white-toast-preserve-v": {
@@ -2641,7 +2641,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "two-slices-of-wholemeal-toast-preserve-v": {
@@ -2660,7 +2660,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "white-wholemeal-toast-preserve-v": {
@@ -2679,7 +2679,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "porridge-choice-maple-v": {
@@ -2698,7 +2698,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "porridge-choice-honey-v": {
@@ -2717,7 +2717,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "cereals-v-coco-pops": {
@@ -2736,7 +2736,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "cereals-v-cornflakes": {
@@ -2755,7 +2755,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "cereals-v-weetabix": {
@@ -2774,7 +2774,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "5-pancakes-v-click-here-to-view-full-allergen-and-dietary-information-including-": {
@@ -2793,7 +2793,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "bacon-eggs": {
@@ -2812,7 +2812,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "yoghurt-blueberries-strawberries-v": {
@@ -2831,7 +2831,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "bacon-chicken": {
@@ -2850,7 +2850,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "sausage-bacon-egg": {
@@ -2869,7 +2869,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "bacon-egg": {
@@ -2888,7 +2888,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "two-fried-free-range-eggs-v": {
@@ -2907,7 +2907,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "meat-free-sausage-ve": {
@@ -2926,7 +2926,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "tea-v": {
@@ -2945,7 +2945,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "latte-v": {
@@ -2964,7 +2964,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "espresso-v": {
@@ -2983,7 +2983,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "iced-coffee-v": {
@@ -3002,7 +3002,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "hot-chocolate-v": {
@@ -3021,7 +3021,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "americano-v": {
@@ -3040,7 +3040,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "decaf-americano-v": {
@@ -3059,7 +3059,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "cappuccino-v": {
@@ -3078,7 +3078,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "flat-white-v": {
@@ -3097,7 +3097,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "iced-oat-drink-coffee-v": {
@@ -3116,7 +3116,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "black-americano-v": {
@@ -3135,7 +3135,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "decaf-black-americano-v": {
@@ -3154,7 +3154,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "decaf-oat-americano-v": {
@@ -3173,7 +3173,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "oat-americano-v": {
@@ -3192,7 +3192,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "oat-latte-v": {
@@ -3211,7 +3211,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "oat-flat-white-v": {
@@ -3230,7 +3230,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "oat-cappuccino-v": {
@@ -3249,7 +3249,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "caramel-syrup": {
@@ -3268,7 +3268,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "gingerbread-syrup": {
@@ -3287,7 +3287,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "vanilla-syrup": {
@@ -3306,7 +3306,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "apple-juice": {
@@ -3325,7 +3325,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "cranberry-juice": {
@@ -3344,7 +3344,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "mandarin-orange-juice": {
@@ -3363,7 +3363,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "pineapple-juice": {
@@ -3382,14 +3382,14 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "kids-cooked-breakfast-click-through-to-view-full-allergen-and-dietary-informatio": {
    "chain_id": "harvester",
    "item_id": "Kids' Cooked Breakfast Click through to view full allergen and dietary information including choices.",
    "name": "Kids' Cooked Breakfast Click through to view full allergen and dietary information including choices.",
-   "category": "BREAKFAST CLUB / KIDSâ BREAKFAST",
+   "category": "BREAKFAST CLUB / KIDS’ BREAKFAST",
    "serving_desc": "per portion",
    "kcal": 363.0,
    "protein_g": 11.0,
@@ -3401,14 +3401,14 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "kids-veggie-breakfast-v-click-through-to-view-full-allergen-and-dietary-informat": {
    "chain_id": "harvester",
    "item_id": "Kids' Veggie Breakfast (V) Click through to view full allergen and dietary information including choices.",
    "name": "Kids' Veggie Breakfast (V) Click through to view full allergen and dietary information including choices.",
-   "category": "BREAKFAST CLUB / KIDSâ BREAKFAST",
+   "category": "BREAKFAST CLUB / KIDS’ BREAKFAST",
    "serving_desc": "per portion",
    "kcal": 418.0,
    "protein_g": 17.0,
@@ -3420,14 +3420,14 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "kids-vegan-breakfast-ve-click-through-to-view-full-allergen-and-dietary-informat": {
    "chain_id": "harvester",
    "item_id": "Kids' Vegan Breakfast (VE) Click through to view full allergen and dietary information including choices.",
    "name": "Kids' Vegan Breakfast (VE) Click through to view full allergen and dietary information including choices.",
-   "category": "BREAKFAST CLUB / KIDSâ BREAKFAST",
+   "category": "BREAKFAST CLUB / KIDS’ BREAKFAST",
    "serving_desc": "per portion",
    "kcal": 359.0,
    "protein_g": 14.0,
@@ -3439,14 +3439,14 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "yoghurt-fruit-granola-crunch-v": {
    "chain_id": "harvester",
    "item_id": "Yoghurt & Fruit Granola Crunch (V)",
    "name": "Yoghurt & Fruit Granola Crunch (V)",
-   "category": "BREAKFAST CLUB / KIDSâ BREAKFAST",
+   "category": "BREAKFAST CLUB / KIDS’ BREAKFAST",
    "serving_desc": "per portion",
    "kcal": 404.0,
    "protein_g": 10.0,
@@ -3458,14 +3458,14 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "banana-chocolate-pancakes-v": {
    "chain_id": "harvester",
    "item_id": "Banana & Chocolate Pancakes (V)",
    "name": "Banana & Chocolate Pancakes (V)",
-   "category": "BREAKFAST CLUB / KIDSâ BREAKFAST",
+   "category": "BREAKFAST CLUB / KIDS’ BREAKFAST",
    "serving_desc": "per portion",
    "kcal": 426.0,
    "protein_g": 11.0,
@@ -3477,14 +3477,14 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "berry-banana-pancakes-v": {
    "chain_id": "harvester",
    "item_id": "Berry & Banana Pancakes (V)",
    "name": "Berry & Banana Pancakes (V)",
-   "category": "BREAKFAST CLUB / KIDSâ BREAKFAST",
+   "category": "BREAKFAST CLUB / KIDS’ BREAKFAST",
    "serving_desc": "per portion",
    "kcal": 467.0,
    "protein_g": 11.0,
@@ -3496,14 +3496,14 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "fruit-fiesta-bowl-ve": {
    "chain_id": "harvester",
    "item_id": "Fruit Fiesta Bowl (VE)",
    "name": "Fruit Fiesta Bowl (VE)",
-   "category": "BREAKFAST CLUB / KIDSâ BREAKFAST",
+   "category": "BREAKFAST CLUB / KIDS’ BREAKFAST",
    "serving_desc": "per portion",
    "kcal": 101.0,
    "protein_g": 1.7,
@@ -3515,14 +3515,14 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "kids-natural-yoghurt-v": {
    "chain_id": "harvester",
    "item_id": "Kids Natural Yoghurt (V)",
    "name": "Kids Natural Yoghurt (V)",
-   "category": "BREAKFAST CLUB / KIDSâ BREAKFAST",
+   "category": "BREAKFAST CLUB / KIDS’ BREAKFAST",
    "serving_desc": "per portion",
    "kcal": 85.0,
    "protein_g": 5.0,
@@ -3534,14 +3534,14 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "portion-white-toast-ve": {
    "chain_id": "harvester",
    "item_id": "Portion White Toast (VE)",
    "name": "Portion White Toast (VE)",
-   "category": "BREAKFAST CLUB / KIDSâ BREAKFAST",
+   "category": "BREAKFAST CLUB / KIDS’ BREAKFAST",
    "serving_desc": "per portion",
    "kcal": 155.0,
    "protein_g": 5.2,
@@ -3553,14 +3553,14 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "portion-of-wholemeal-toast-ve": {
    "chain_id": "harvester",
    "item_id": "Portion Of Wholemeal Toast (VE)",
    "name": "Portion Of Wholemeal Toast (VE)",
-   "category": "BREAKFAST CLUB / KIDSâ BREAKFAST",
+   "category": "BREAKFAST CLUB / KIDS’ BREAKFAST",
    "serving_desc": "per portion",
    "kcal": 140.0,
    "protein_g": 6.2,
@@ -3572,14 +3572,14 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "fruit-shoot-apple-blackcurrant-ve": {
    "chain_id": "harvester",
-   "item_id": "Fruit ShootÂ® Apple & Blackcurrant (VE)",
-   "name": "Fruit ShootÂ® Apple & Blackcurrant (VE)",
-   "category": "BREAKFAST CLUB / KIDSâ BREAKFAST",
+   "item_id": "Fruit Shoot® Apple & Blackcurrant (VE)",
+   "name": "Fruit Shoot® Apple & Blackcurrant (VE)",
+   "category": "BREAKFAST CLUB / KIDS’ BREAKFAST",
    "serving_desc": "per portion",
    "kcal": 8.0,
    "protein_g": 0.0,
@@ -3591,14 +3591,14 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "fruit-shoot-orange-ve": {
    "chain_id": "harvester",
-   "item_id": "Fruit ShootÂ® Orange (VE)",
-   "name": "Fruit ShootÂ® Orange (VE)",
-   "category": "BREAKFAST CLUB / KIDSâ BREAKFAST",
+   "item_id": "Fruit Shoot® Orange (VE)",
+   "name": "Fruit Shoot® Orange (VE)",
+   "category": "BREAKFAST CLUB / KIDS’ BREAKFAST",
    "serving_desc": "per portion",
    "kcal": 17.0,
    "protein_g": 0.0,
@@ -3610,14 +3610,14 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "henry-s-saint-clements-ve": {
    "chain_id": "harvester",
    "item_id": "Henry's Saint Clements (VE)",
    "name": "Henry's Saint Clements (VE)",
-   "category": "BREAKFAST CLUB / KIDSâ BREAKFAST",
+   "category": "BREAKFAST CLUB / KIDS’ BREAKFAST",
    "serving_desc": "per portion",
    "kcal": 76.0,
    "protein_g": 1.4,
@@ -3629,14 +3629,14 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "holly-s-apple-fizz-ve": {
    "chain_id": "harvester",
    "item_id": "Holly's Apple Fizz (VE)",
    "name": "Holly's Apple Fizz (VE)",
-   "category": "BREAKFAST CLUB / KIDSâ BREAKFAST",
+   "category": "BREAKFAST CLUB / KIDS’ BREAKFAST",
    "serving_desc": "per portion",
    "kcal": 70.0,
    "protein_g": 0.1,
@@ -3648,14 +3648,14 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "glass-of-fresh-milk-v": {
    "chain_id": "harvester",
    "item_id": "Glass of Fresh Milk (V)",
    "name": "Glass of Fresh Milk (V)",
-   "category": "BREAKFAST CLUB / KIDSâ BREAKFAST",
+   "category": "BREAKFAST CLUB / KIDS’ BREAKFAST",
    "serving_desc": "per portion",
    "kcal": 123.0,
    "protein_g": 8.5,
@@ -3667,14 +3667,14 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "pip-organic-smoothies-ve": {
    "chain_id": "harvester",
    "item_id": "Pip Organic Smoothies (VE)",
    "name": "Pip Organic Smoothies (VE)",
-   "category": "BREAKFAST CLUB / KIDSâ BREAKFAST",
+   "category": "BREAKFAST CLUB / KIDS’ BREAKFAST",
    "serving_desc": "per portion",
    "kcal": 95.0,
    "protein_g": 0.7,
@@ -3686,7 +3686,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "starter-chick-n-crispy-two-piece-rotisserie-fried-chicken-click-through-to-view-": {
@@ -3705,7 +3705,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "starter-chick-n-crispy-four-piece-rotisserie-fried-chicken-click-through-to-view": {
@@ -3724,7 +3724,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "main-chick-n-crispy-four-piece-rotisserie-fried-chicken-click-through-to-view-fu": {
@@ -3743,7 +3743,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "scottish-ultimate-breakfast-click-through-to-view-full-allergen-and-dietary-info": {
@@ -3762,7 +3762,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "classic-scottish-breakfast-click-through-to-view-full-allergen-and-dietary-infor": {
@@ -3781,7 +3781,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "potato-scone-scottish-sites-only-v": {
@@ -3800,7 +3800,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "lorne-sausage-scottish-sites-only": {
@@ -3819,7 +3819,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "add-haggis": {
@@ -3838,7 +3838,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "lavazza-liqueur-coffee-v": {
@@ -3857,7 +3857,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "filter-coffee-v": {
@@ -3876,7 +3876,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "unlimited-lavazza-filter-coffee-v": {
@@ -3895,7 +3895,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "cheesy-pizza-click-through-to-view-full-allergen-and-dietary-information-includi": {
@@ -3914,7 +3914,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "veggie-fingers-ve-click-through-to-view-full-allergen-and-dietary-information-in": {
@@ -3933,7 +3933,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "chicken-power-strips-click-through-to-view-full-allergen-and-dietary-information": {
@@ -3952,7 +3952,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "chicken-nuggets-click-through-to-view-full-allergen-and-dietary-information-incl": {
@@ -3971,13 +3971,13 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "fish-fingers-click-through-to-view-full-allergen-and-dietary-information-includi": {
    "chain_id": "harvester",
-   "item_id": "Fish Fingersâ Click through to view full allergen and dietary information including choices.",
-   "name": "Fish Fingersâ Click through to view full allergen and dietary information including choices.",
+   "item_id": "Fish Fingers† Click through to view full allergen and dietary information including choices.",
+   "name": "Fish Fingers† Click through to view full allergen and dietary information including choices.",
    "category": "KIDS MEAL DEAL / 1. CHOOSE YOUR MAIN",
    "serving_desc": "per portion",
    "kcal": 344.0,
@@ -3990,7 +3990,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "grilled-mighty-chicken-click-through-to-view-full-allergen-and-dietary-informati": {
@@ -4009,7 +4009,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "tomato-pasta-ve-click-through-to-view-full-allergen-and-dietary-information-incl": {
@@ -4028,7 +4028,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "bean-quesadilla-v-click-through-to-view-full-allergen-and-dietary-information-in": {
@@ -4047,7 +4047,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "monster-chicken-burger-click-through-to-view-full-allergen-and-dietary-informati": {
@@ -4066,7 +4066,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "monster-beef-burger-click-through-to-view-full-allergen-and-dietary-information-": {
@@ -4085,7 +4085,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "rotisserie-chicken-click-through-to-view-full-allergen-and-dietary-information-i": {
@@ -4104,7 +4104,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "half-rack-of-ribs-click-through-to-view-full-allergen-and-dietary-information-in": {
@@ -4123,13 +4123,13 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "fish-n-chips-click-through-to-view-full-allergen-and-dietary-information-includi": {
    "chain_id": "harvester",
-   "item_id": "Fish 'N' Chipsâ Click through to view full allergen and dietary information including choices.",
-   "name": "Fish 'N' Chipsâ Click through to view full allergen and dietary information including choices.",
+   "item_id": "Fish 'N' Chips† Click through to view full allergen and dietary information including choices.",
+   "name": "Fish 'N' Chips† Click through to view full allergen and dietary information including choices.",
    "category": "KIDS MEAL DEAL / 1. CHOOSE YOUR MAIN",
    "serving_desc": "per portion",
    "kcal": 221.0,
@@ -4142,7 +4142,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "4oz-rump-steak-click-through-to-view-full-allergen-and-dietary-information-inclu": {
@@ -4161,7 +4161,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "red-pepper-bean-lasagne-v-click-through-to-view-full-allergen-and-dietary-inform": {
@@ -4180,7 +4180,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "tuna-pasta-bake-click-through-to-view-full-allergen-and-dietary-information-incl": {
@@ -4199,7 +4199,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "golden-rice-ve": {
@@ -4218,7 +4218,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "jacket-potato-ve": {
@@ -4237,13 +4237,13 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "heinz-baked-beans-ve": {
    "chain_id": "harvester",
-   "item_id": "HeinzÂ® Baked Beans (VE)",
-   "name": "HeinzÂ® Baked Beans (VE)",
+   "item_id": "Heinz® Baked Beans (VE)",
+   "name": "Heinz® Baked Beans (VE)",
    "category": "KIDS MEAL DEAL / 2. CHOOSE YOUR SIDES",
    "serving_desc": "per portion",
    "kcal": 52.0,
@@ -4256,7 +4256,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "mixed-beans-ve": {
@@ -4275,7 +4275,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "broccoli-ve": {
@@ -4294,7 +4294,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "corn-kernels-ve": {
@@ -4313,7 +4313,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "garden-peas-ve": {
@@ -4332,7 +4332,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "fresh-vegetable-sticks-ve": {
@@ -4351,7 +4351,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "pip-berry-fruity-squeezer-lolly-ve": {
@@ -4370,7 +4370,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "mango-pipstick-ve": {
@@ -4389,7 +4389,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "pineapple-mango-pipstick-ve": {
@@ -4408,7 +4408,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "build-your-own-sundae": {
@@ -4427,7 +4427,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "decaf-flat-white-v": {
@@ -4446,7 +4446,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "decaf-iced-milky-coffee-v": {
@@ -4465,7 +4465,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "decaf-cappucino-v": {
@@ -4484,7 +4484,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "decaf-espresso-v": {
@@ -4503,7 +4503,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "decaf-iced-black-coffee": {
@@ -4522,7 +4522,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "decaf-latte-v": {
@@ -4541,7 +4541,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "lavazza-floater-coffee-v": {
@@ -4560,7 +4560,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "iced-black-coffee": {
@@ -4579,7 +4579,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "oat-drink-tea-v": {
@@ -4598,7 +4598,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "add-lamb-kofta-tzatziki": {
@@ -4617,7 +4617,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "10oz-ribeye": {
@@ -4636,7 +4636,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "signature-half-rotisserie-chicken-click-through-to-view-full-allergen-and-dietar": {
@@ -4655,7 +4655,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "vegan-custard-ve": {
@@ -4674,7 +4674,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "custard-v": {
@@ -4693,7 +4693,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "vanilla-iced-dessert-ve": {
@@ -4712,7 +4712,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "real-dairy-ice-cream-v": {
@@ -4731,7 +4731,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "creamy-potato-salad-v": {
@@ -4750,7 +4750,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "fresh-tomatoes-v": {
@@ -4769,7 +4769,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "sweet-beetroot-v": {
@@ -4788,7 +4788,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "juicy-pineapple-v": {
@@ -4807,7 +4807,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "coleslaw-with-honey-and-mustard-v": {
@@ -4826,7 +4826,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "sliced-onions-v": {
@@ -4845,7 +4845,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "sliced-cucumber-v": {
@@ -4864,7 +4864,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "olives-v": {
@@ -4883,7 +4883,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "sweetcorn-v": {
@@ -4902,7 +4902,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "sliced-peppers-v": {
@@ -4921,7 +4921,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "five-bean-salad-v": {
@@ -4940,7 +4940,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "grated-carrot-v": {
@@ -4959,7 +4959,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "tomato-herb-penne-pasta-v": {
@@ -4978,7 +4978,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "croutons-v": {
@@ -4997,7 +4997,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "bacon-flavour-bits-v": {
@@ -5016,7 +5016,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "sweet-raisins-v": {
@@ -5035,7 +5035,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "onion-flakes-v": {
@@ -5054,7 +5054,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "white-bread-brioche-roll-v": {
@@ -5073,7 +5073,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "brown-bread-brioche-roll-v": {
@@ -5092,13 +5092,13 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "lurpak-v": {
    "chain_id": "harvester",
-   "item_id": "LurpakÂ® (V)",
-   "name": "LurpakÂ® (V)",
+   "item_id": "Lurpak® (V)",
+   "name": "Lurpak® (V)",
    "category": "SALAD BAR / BREAD STATION",
    "serving_desc": "per portion",
    "kcal": 56.0,
@@ -5111,7 +5111,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "sunflower-spread-v": {
@@ -5130,7 +5130,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "balsamic-v": {
@@ -5149,7 +5149,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "blue-cheese-v": {
@@ -5168,7 +5168,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "honey-mustard-v": {
@@ -5187,7 +5187,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "low-fat-v": {
@@ -5206,7 +5206,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "cold-pressed-extra-virgin-rapeseed-oil-v": {
@@ -5225,7 +5225,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "red-devil-v": {
@@ -5244,7 +5244,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "thousand-island-v": {
@@ -5263,7 +5263,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "pasta-salad-v": {
@@ -5282,7 +5282,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "take-home-retail-sauce-red-devil-dressing-ve": {
@@ -5301,7 +5301,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "take-home-retail-sauce-chilli": {
@@ -5320,7 +5320,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "take-home-retail-sauce-bourbon-ve": {
@@ -5339,7 +5339,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "take-home-retail-sauce-kickin-garlic-v": {
@@ -5358,7 +5358,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "take-home-retail-sauce-peri-peri-ve": {
@@ -5377,7 +5377,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "take-home-retail-sauce-spiked-maple-ve": {
@@ -5396,7 +5396,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "mixed-salad": {
@@ -5415,7 +5415,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "ta-pasta-salad": {
@@ -5434,7 +5434,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "coleslaw-v": {
@@ -5453,7 +5453,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "potato-salad-v": {
@@ -5472,7 +5472,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "sweet-smoky-garlic-slaw-v": {
@@ -5491,7 +5491,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "edamame-chickpea-v": {
@@ -5510,7 +5510,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "red-pepper-pasta-v": {
@@ -5529,7 +5529,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "classic-chicken-burger": {
@@ -5548,7 +5548,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "classic-beef-burger": {
@@ -5567,7 +5567,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "cheese-tomato-pizza-sub-v": {
@@ -5586,7 +5586,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "bacon-lettuce-tomato-ciabatta": {
@@ -5605,7 +5605,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "hunters-chicken-ciabatta": {
@@ -5624,7 +5624,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "ham-cheese-ciabatta": {
@@ -5643,7 +5643,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "veggie-ciabatta-v": {
@@ -5662,13 +5662,13 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "padr-n-peppers-v": {
    "chain_id": "harvester",
-   "item_id": "PadrÃ³n Peppers (V)",
-   "name": "PadrÃ³n Peppers (V)",
+   "item_id": "Padrón Peppers (V)",
+   "name": "Padrón Peppers (V)",
    "category": "SPECIAL OCCASION BUFFET MENU / SIGNATURE FAVOURITES",
    "serving_desc": "per portion",
    "kcal": 10.0,
@@ -5681,7 +5681,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "chicken-wings": {
@@ -5700,7 +5700,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "tomato-basil-penne-pasta-ve": {
@@ -5719,7 +5719,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "mixed-salad-ve": {
@@ -5738,7 +5738,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "harvester-potato-salad-v": {
@@ -5757,7 +5757,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "salted-caramel-profiteroles-v": {
@@ -5776,7 +5776,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "chocolate-brownie-v": {
@@ -5795,7 +5795,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "fruit-platter-ve": {
@@ -5814,7 +5814,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "sugar-allowance": {
@@ -5833,7 +5833,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "speculoos-syrup": {
@@ -5852,7 +5852,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "blueberry-crumble-muffin-v": {
@@ -5871,7 +5871,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "salted-caramel-muffin-v": {
@@ -5890,7 +5890,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "victoria-sponge-muffin-v": {
@@ -5909,7 +5909,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "triple-chocolate-muffin-v": {
@@ -5928,7 +5928,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "biscuits-single-pack-v": {
@@ -5947,7 +5947,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "crispy-chicken-bites": {
@@ -5966,7 +5966,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "cheese-tomato-pizza-v": {
@@ -5985,7 +5985,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "veggie-fingers-v": {
@@ -6004,7 +6004,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "candy-kittens-wild-strawberry-v": {
@@ -6023,7 +6023,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "crunchie-v": {
@@ -6042,7 +6042,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "cadburys-dairy-milk-v": {
@@ -6061,7 +6061,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "chocolate-chip-cookie-v": {
@@ -6080,7 +6080,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "kit-kat-2-finger-v": {
@@ -6099,7 +6099,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "maltesers-v": {
@@ -6118,7 +6118,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "milk-chocolate-buttons-v": {
@@ -6137,7 +6137,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "wispa-v": {
@@ -6156,7 +6156,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "drumstick-squashies": {
@@ -6175,7 +6175,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "galaxy-minstrels-v": {
@@ -6194,7 +6194,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "harribo-s": {
@@ -6213,7 +6213,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "jaffa-cake-bar-v": {
@@ -6232,7 +6232,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "jelly-tots-ve": {
@@ -6251,7 +6251,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "pip-organic-pineapple-mango-pipstick-ve": {
@@ -6270,7 +6270,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "sour-patch-kids": {
@@ -6289,7 +6289,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "walkers-cheese-and-onion-crisps-v": {
@@ -6308,7 +6308,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "mini-cheddars-45g": {
@@ -6327,7 +6327,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "pom-bear-originals-ve": {
@@ -6346,7 +6346,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "walkers-ready-salted-crisps-v": {
@@ -6365,7 +6365,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "walkers-salt-and-vinegar-crisps-v": {
@@ -6384,7 +6384,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "quavers-v": {
@@ -6403,7 +6403,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "wotsits-v": {
@@ -6422,7 +6422,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "apple-ve": {
@@ -6441,7 +6441,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "banana-ve": {
@@ -6460,7 +6460,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "easy-peel-citrus-ve": {
@@ -6479,7 +6479,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "chocolate-ice-cream-tub": {
@@ -6498,7 +6498,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "strawberry-ice-cream-tub": {
@@ -6517,7 +6517,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "vanilla-ice-cream-tub": {
@@ -6536,7 +6536,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "fuzzy-ed-s-birthday-cake": {
@@ -6555,7 +6555,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "solero-exotic-explosions": {
@@ -6574,7 +6574,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "magnum-white": {
@@ -6593,7 +6593,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "walls-magnum-classic": {
@@ -6612,7 +6612,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "walls-feast": {
@@ -6631,13 +6631,13 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "pip-organic-ice-lolly-ve": {
    "chain_id": "harvester",
-   "item_id": "PipÂ® Organic Ice Lolly (VE)",
-   "name": "PipÂ® Organic Ice Lolly (VE)",
+   "item_id": "Pip® Organic Ice Lolly (VE)",
+   "name": "Pip® Organic Ice Lolly (VE)",
    "category": "FUZZY ED'S FUNHOUSE(Fuzzy Eds Sites Only) / ICE CREAM & LOLLIES",
    "serving_desc": "per portion",
    "kcal": 22.0,
@@ -6650,7 +6650,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "wild-slushy-jack-s-180ml": {
@@ -6669,7 +6669,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "wild-slushy-jack-s-454ml": {
@@ -6688,7 +6688,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "astro-blue": {
@@ -6707,7 +6707,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "cosmic-blast": {
@@ -6726,7 +6726,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "red-giant": {
@@ -6745,7 +6745,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "robinsons-blackcurrant-squash": {
@@ -6764,7 +6764,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "hot-drinks-black-americano-ve": {
@@ -6783,7 +6783,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "hot-drinks-cafe-latte-v": {
@@ -6802,7 +6802,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "hot-drinks-cappuccino-v": {
@@ -6821,7 +6821,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "hot-drinks-hot-chocolate-v": {
@@ -6840,7 +6840,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "hot-drinks-mocha-v": {
@@ -6859,7 +6859,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "hot-drinks-white-americano-v": {
@@ -6878,7 +6878,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "smarties": {
@@ -6897,7 +6897,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "mini-cheddars-35g-bag": {
@@ -6916,7 +6916,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "curly-wurly": {
@@ -6935,7 +6935,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "fruit-pastilles": {
@@ -6954,7 +6954,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "mars": {
@@ -6973,7 +6973,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "milky-way": {
@@ -6992,7 +6992,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "starburst": {
@@ -7011,7 +7011,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "apricot-muffin": {
@@ -7030,7 +7030,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "carrot-cake-muffin": {
@@ -7049,7 +7049,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "lemon-meringue-muffin": {
@@ -7068,7 +7068,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "granola-bar": {
@@ -7087,7 +7087,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "kit-kat-4-finger": {
@@ -7106,7 +7106,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "biscuit-packs": {
@@ -7125,7 +7125,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "walkers-max-flaming-hot-crisps": {
@@ -7144,7 +7144,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "walkers-prawn-cocktail-crisps": {
@@ -7163,7 +7163,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "walkers-roast-chicken-crisps": {
@@ -7182,7 +7182,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "walkers-worcestershire-sauce-crisps": {
@@ -7201,7 +7201,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "ice-cream-lollies-kids-fruit-lolly": {
@@ -7220,7 +7220,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "veggie-rainbow-lasagne-v-click-through-to-view-full-allergen-and-dietary-informa": {
@@ -7239,7 +7239,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "meat-free-meatballs-ve-click-through-to-view-full-allergen-and-dietary-informati": {
@@ -7258,7 +7258,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "add-barbacoa": {
@@ -7277,13 +7277,13 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "smashed-beyond-burger-ve": {
    "chain_id": "harvester",
-   "item_id": "Smashed Beyond BurgerÂ®(VE)",
-   "name": "Smashed Beyond BurgerÂ®(VE)",
+   "item_id": "Smashed Beyond Burger®(VE)",
+   "name": "Smashed Beyond Burger®(VE)",
    "category": "PAST FAVOURITES / PAST FAVOURITES",
    "serving_desc": "per portion",
    "kcal": 1430.0,
@@ -7296,7 +7296,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "match-day-bhaji-burger-ve": {
@@ -7315,7 +7315,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "match-day-beef-burger": {
@@ -7334,7 +7334,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   },
   "simple-chicken-burger": {
@@ -7353,7 +7353,7 @@
    "allergens": null,
    "source": "brand site (Mitchells & Butlers allergen & nutrition guide)",
    "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
-   "fetched_at": "2026-08-06T14:51:49Z",
+   "fetched_at": "2026-08-06T15:03:32Z",
    "quality_flags": null
   }
  }

@@ -1,0 +1,10 @@
+{
+  "chain_id": "shake_shack",
+  "status": "unresolved",
+  "source_url": "https://www.shakeshack.co.uk/menu/allergen-information/",
+  "source_type": "",
+  "label": "Shake Shack UK \u2014 kcal found, protein not yet found",
+  "item_count": 0,
+  "samples": [],
+  "notes": "UNRESOLVED \u2014 per-item PROTEIN not yet found. Shake Shack UK (WordPress, Cloudflare 403s plain requests; fetch_protected/curl_cffi gets through) does publish nutrition PDFs, and I downloaded and READ them: https://www.shakeshack.co.uk/wp-content/uploads/2026/05/Nutritional-Information-Hot-Honey.pdf is a one-page \"Nutritional Information May 2026\" table whose only numeric column is Calories (e.g. ShackBurger Sgl 549, Chicken Shack 493, Fries 427) \u2014 no protein/fat/carbs column at all. https://www.shakeshack.co.uk/wp-content/uploads/2026/05/Shake-Shack-Allergens-Info-May-2026.pdf is a 6-page allergen matrix with no macros. Also enumerated the WP media library (/wp-json/wp/v2/media?search=nutrition|nutritional|calories|allergen|menu|info) \u2014 the only nutrition-named assets are the two above plus Calories-Veganuary-26-JD-All-Shacks.pdf; checked /faqs/, /menu/, wp-sitemap.xml and all 49 /menu-item/<product>/ pages (0 occurrences of \"protein\" or \"kcal\" on each). This is NOT a claim that Shake Shack UK publishes no protein data \u2014 only that I have not located it. NEXT STEPS: their ordering/app platform, and the US shakeshack.com nutrition calculator (which does carry protein) checked for a UK/market switch."
+}

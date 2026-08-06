@@ -37,5 +37,5 @@
       "portion_g": 379.0
     }
   ],
-  "notes": "29-page PDF, pdfplumber tables parse cleanly. IMPORTANT: nearly all columns are PER 100g; only Energy (Kcal) per portion is per-serving. Computed protein per portion = protein_per_100g * portion_size_g / 100 using the Portion size (g) column. generic_pdf.fetch_from_pdf returns 187 rows but those mix per-100g kcal with per-100g protein. Versioned filename under /wp-content/uploads/YYYY/MM/ - check for newer version."
+  "notes": "29-page PDF, pdfplumber tables parse cleanly. IMPORTANT: nearly all columns are PER 100g; only Energy (Kcal) per portion is per-serving. Computed protein per portion = protein_per_100g * portion_size_g / 100 using the Portion size (g) column. generic_pdf.fetch_from_pdf returns 187 rows but those mix per-100g kcal with per-100g protein. Versioned filename under /wp-content/uploads/YYYY/MM/ - check for newer version. ADAPTER: run_all reports 117-118 (one borderline row parses intermittently)."
 }

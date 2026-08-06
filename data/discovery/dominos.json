@@ -4,8 +4,8 @@
   "source_url": "https://dominos.a.bigcontent.io/v1/static/nutrition_pizzas",
   "source_type": "pdf",
   "label": "Domino's UK Nutrition Guide (nutrition_pizzas)",
-  "item_count": 87,
-  "basis": "whole pizza (per whole pizza, by size/crust); some rows per serving",
+  "item_count": 1331,
+  "basis": "whole pizza (pizza tables); per serving (bases/toppings tables)",
   "samples": [
     {
       "name": "Plant-Based Margheri-tastic - Classic Crust",
@@ -33,5 +33,5 @@
       "protein_g": 15.7
     }
   ],
-  "notes": "Official Domino's UK CDN (dominos.a.bigcontent.io). Requires fetch_protected (Cloudflare 403s plain requests). generic_pdf.parse_pdf yields 201 rows of which 87 have a real product name; the rest have a numeric first cell (multi-row name wrapping) and need a name-carry-forward fix. Values are whole-pizza (e.g. Absolute Banger 2512 kcal / 114.4g protein). Sibling static paths may exist for sides/desserts - not yet enumerated."
+  "notes": "Official Domino's UK CDN (dominos.a.bigcontent.io). Requires fetch_protected (Cloudflare 403s plain requests). generic_pdf.parse_pdf yields 201 rows of which 87 have a real product name; the rest have a numeric first cell (multi-row name wrapping) and need a name-carry-forward fix. Values are whole-pizza (e.g. Absolute Banger 2512 kcal / 114.4g protein). Sibling static paths may exist for sides/desserts - not yet enumerated. ADAPTER: scripts/scrapers/chains/dominos.py now yields 1331 rows (not 87) - it derives the name/number split per table as min(header col indices), carries names forward across grouped rows, and decodes the 90-degree-rotated cheese column, so the previously nameless rows are recovered. Basis is whole pizza for the pizza tables (the Per Pizza block is bound, not Per Slice)."
 }

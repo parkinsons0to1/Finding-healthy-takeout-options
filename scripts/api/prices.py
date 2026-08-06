@@ -112,6 +112,70 @@ ESTIMATED_PRICES: dict[str, dict[str, float]] = {
         "original glazed": 2.30, "chocolate dreamcake": 3.10,
         "strawberries & kreme": 3.10, "black americano 12oz": 2.75,
     },
+    "burger_king": {
+        "whopper": 6.49, "double whopper": 8.29, "bacon double xl": 8.99,
+        "chicken royale": 6.29, "double chicken royale": 8.49,
+        "bacon double cheeseburger": 3.99, "double cheeseburger": 3.49,
+        "cheeseburger": 2.19, "hamburger": 1.99,
+        "royale with cheese": 6.99, "steakhouse angus": 8.49,
+    },
+    "nandos": {
+        "1/4 chicken": 6.20, "1/2 chicken": 10.75, "whole chicken": 17.50,
+        "chicken butterfly": 9.95, "5 chicken wings": 8.95,
+        "3 chicken thighs": 8.20, "chicken breast fillet": 9.50,
+        "double chicken breast burger": 11.95,
+    },
+    "taco_bell": {
+        "crispy chicken burrito": 5.49, "bbq habanero burrito": 5.49,
+        "crunchwrap supreme": 5.79, "quesadilla chicken": 5.49,
+        "crunchy taco": 2.49, "soft taco": 2.49, "burrito supreme": 5.99,
+    },
+    "wetherspoons": {
+        "8oz sirloin steak": 12.49, "gammon steak": 8.99,
+        "chicken breast burger": 7.99, "mixed grill": 13.99,
+        "beef burger": 7.49, "chicken tikka masala": 9.49,
+        "small mixed grill": 10.99, "8oz rump steak": 10.99,
+    },
+    "harvester": {
+        "half rotisserie chicken": 13.99, "rotisserie chicken": 13.99,
+        "gammon steak": 13.49, "8oz rump steak": 16.99,
+        "chicken skewer": 12.99, "ultimate combo": 18.99,
+    },
+    "toby_carvery": {
+        "large carvery": 12.99, "regular carvery": 10.99,
+        "small carvery": 8.99, "turkey": 10.99, "gammon": 10.99, "beef": 11.99,
+    },
+    "wagamama": {
+        "chicken katsu curry": 14.50, "chicken ramen": 14.95,
+        "yaki soba chicken": 13.95, "grilled chicken": 13.50,
+        "teriyaki chicken donburi": 14.95, "shirodashi chicken ramen": 15.25,
+    },
+    "pret": {
+        "chicken caesar & bacon baguette": 6.25,
+        "chicken & avocado salad": 6.75, "posh cheddar & pickle": 4.95,
+        "egg protein pot": 2.75, "chicken protein pot": 3.50,
+        "tuna baguette": 5.75, "chicken avo baguette": 6.25,
+    },
+    "itsu": {
+        "chicken teriyaki rice'bowl": 8.49, "chicken katsu curry": 8.99,
+        "salmon sashimi": 7.99, "chicken gyoza": 5.99,
+        "tuna sashimi": 7.99, "chicken noodle soup": 6.49,
+    },
+    "leon": {
+        "love burger": 8.45, "grilled chicken box": 9.45,
+        "chicken shawarma wrap": 8.25, "chipotle chicken burrito": 8.95,
+    },
+    "tortilla": {
+        "burrito chicken": 9.45, "burrito steak": 10.25,
+        "naked burrito chicken": 9.45, "tacos chicken": 9.25,
+        "quesadilla chicken": 9.45,
+    },
+    "dominos": {
+        "pepperoni passion medium": 18.99, "pepperoni passion large": 21.99,
+        "mighty meaty medium": 18.99, "mighty meaty large": 21.99,
+        "chicken feast medium": 18.99, "chicken feast large": 21.99,
+        "margherita medium": 15.99, "margherita large": 18.99,
+    },
     "subway": {
         "chicken breast": 4.99, "chicken tikka": 4.79,
         "rotisserie style chicken": 4.99, "steak & cheese": 5.29,
