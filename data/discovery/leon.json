@@ -1,0 +1,36 @@
+{
+  "chain_id": "leon",
+  "status": "verified",
+  "source_url": "https://leon.co/menu/",
+  "source_type": "html_table",
+  "label": "LEON menu \u2014 Sanity CMS payload in __NEXT_DATA__",
+  "item_count": 151,
+  "samples": [
+    {
+      "name": "Raspberry & Pomegranate Cooler",
+      "kcal": 77,
+      "protein_g": 0.1
+    },
+    {
+      "name": "LOVe Burger",
+      "kcal": 565,
+      "protein_g": 15
+    },
+    {
+      "name": "Crisp Peach Cooler",
+      "kcal": 92,
+      "protein_g": 0.1
+    },
+    {
+      "name": "Hash Browns ",
+      "kcal": 216,
+      "protein_g": 2.3
+    },
+    {
+      "name": "Chicken & Chorizo Club Wrap",
+      "kcal": 647,
+      "protein_g": 35
+    }
+  ],
+  "notes": "leon.co is Next.js; the <script id=\"__NEXT_DATA__\"> JSON contains every menuItem with a nutritionInfo array of {name, unit, amount} entries: Energy (Kcal per portion), Protein, Carbohydrate, Carbs of which sugar, Fat, Saturated fat, Mono-unsaturated fat, Salt, Fibre. 155 items across Breakfast / All Day / Drinks / Kids on the single /menu/ page."
+}

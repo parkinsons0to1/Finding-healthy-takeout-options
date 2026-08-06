@@ -1,0 +1,41 @@
+{
+  "chain_id": "pepes_piri_piri",
+  "status": "verified",
+  "source_url": "https://pepes.co.uk/nutrition-allergens-uk/",
+  "source_type": "html_table",
+  "label": "Pepe's Piri Piri UK official Nutrition & Allergens page \u2014 server-rendered per-item nutrition cards",
+  "item_count": 129,
+  "samples": [
+    {
+      "name": "1/2 Chicken",
+      "kcal": 798.0,
+      "protein_g": 125.6
+    },
+    {
+      "name": "1/4 Chicken",
+      "kcal": 399.0,
+      "protein_g": 62.8
+    },
+    {
+      "name": "BBQ Quesadilla",
+      "kcal": 434.0,
+      "protein_g": 31.4
+    },
+    {
+      "name": "BBQ Wrap",
+      "kcal": 388.0,
+      "protein_g": 27.3
+    },
+    {
+      "name": "Chick n Rice",
+      "kcal": 556.0,
+      "protein_g": 31.2
+    },
+    {
+      "name": "Chicken Box",
+      "kcal": 739.0,
+      "protein_g": 56.8
+    }
+  ],
+  "notes": "Static HTML, no JS needed: each product is a <div data-adam=\"adam\" data-title=\"...\"> card containing .ntc-item blocks for Kcal, Fat, Saturated Fat, Carbohydrates, Sugars, Protein, Salt, plus allergens and a category. 162 cards on the page, 129 with both Kcal and Protein parsed (the remainder are cards where the Kcal/Protein cells are blank at source). Plausibility check protein*4 <= kcal*1.15 passed on all 129 (0 violations). Names contain HTML entities at source (e.g. &#8211;) \u2014 unescaped here. There is a parallel Ireland page at /nutrition-allergens-ireland/ if the ROI menu is ever needed."
+}

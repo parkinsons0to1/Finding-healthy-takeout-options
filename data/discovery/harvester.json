@@ -1,0 +1,36 @@
+{
+  "chain_id": "harvester",
+  "status": "verified",
+  "source_url": "https://allergens.mbplc.io/AllergenGuideHarvesterEstate.html",
+  "source_type": "html_table",
+  "label": "Harvester allergen & nutrition guide (Mitchells & Butlers)",
+  "item_count": 387,
+  "samples": [
+    {
+      "name": "Garlic Bread (VE)",
+      "kcal": 399.0,
+      "protein_g": 7.4
+    },
+    {
+      "name": "Crispy Calamari",
+      "kcal": 354.0,
+      "protein_g": 5.6
+    },
+    {
+      "name": "Crispy Tempura King Prawns",
+      "kcal": 308.0,
+      "protein_g": 8.7
+    },
+    {
+      "name": "Garlic Bread (V)",
+      "kcal": 396.0,
+      "protein_g": 7.9
+    },
+    {
+      "name": "Garlic Bread & Cheese (V)",
+      "kcal": 532.0,
+      "protein_g": 17.0
+    }
+  ],
+  "notes": "Per-portion kJ/kcal, fat, saturates, carbohydrate, sugars, protein, salt embedded per dish in the group-wide M&B guide (one static HTML page per brand estate, no JS needed). 12 row(s) rejected by the protein*4<=kcal*1.15 gate (menu 'swap' rows carrying negative deltas)."
+}

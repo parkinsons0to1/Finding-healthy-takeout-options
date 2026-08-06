@@ -1,0 +1,10 @@
+{
+  "chain_id": "tgi_fridays",
+  "status": "unresolved",
+  "source_url": null,
+  "source_type": null,
+  "label": null,
+  "item_count": 0,
+  "samples": [],
+  "notes": "UNRESOLVED - not yet found. Checked and did NOT find per-item protein at: tgifridays.co.uk/allergens (links 4 menu PDFs only); the four PDFs incl. sites/default/files/2026-05/TGI_web26_menu.pdf (pdfplumber text contains no 'protein' or 'kcal'); tgifridays.co.uk/sitemap.xml (no nutrition page); menus.tenkites.com/tgifridayuk/tgiswebtemplate and all five of its menu GUIDs (Main Menu f822d7d7-..., Kids 98ddf171-..., Everyday Trio 5fa93450-..., Teen Takeover 62fc002a-..., Drinks b1af55d7-...) - these render calories and carry schema.org JSON-LD but with empty NutritionInformation objects; tgiswebtemplate02..07 and other guessed Tenkites unit names (tgifridaysuk/tgiuk/fridaysuk/tgifriday/tgifridays) all 404. NOT YET TRIED: the US-domain tgifridays.com nutrition PDFs (deliberately excluded as they are a different operating company post-2024 and not UK menu data), delivery-aggregator menu APIs (Deliveroo/Just Eat/Uber Eats), and the in-restaurant/app menu. A UK source may well exist - this is 'not found yet', not a conclusion about what TGI Fridays publishes."
+}

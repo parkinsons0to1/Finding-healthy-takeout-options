@@ -1,0 +1,36 @@
+{
+  "chain_id": "wetherspoons",
+  "status": "verified",
+  "source_url": "https://ca.jdw-apps.net/api/allergens/v0.1/jdw/venues/90/food",
+  "source_type": "json_api",
+  "label": "JD Wetherspoon allergens/nutrition API (per venue food menu)",
+  "item_count": 433,
+  "samples": [
+    {
+      "name": "Large breakfast",
+      "kcal": 1312,
+      "protein_g": 53
+    },
+    {
+      "name": "Sausage",
+      "kcal": 168,
+      "protein_g": 7
+    },
+    {
+      "name": "Margherita",
+      "kcal": 475,
+      "protein_g": 23
+    },
+    {
+      "name": "Cheddar cheese and tomato",
+      "kcal": 604,
+      "protein_g": 29
+    },
+    {
+      "name": "Jacket potato with cheese",
+      "kcal": 589,
+      "protein_g": 27
+    }
+  ],
+  "notes": "allergens.jdwetherspoon.com is a Vite SPA; its bundle /assets/index-*.js holds the config {apiPath:'https://ca.jdw-apps.net', foodPath:'api/allergens/v0.1/jdw/venues/{pubId}/food'} and a static bearer key '1|SFS9MMnn5deflq0BMcUTSijwSMBB4mc7NSG2rOhqb2765466' sent as Authorization: Bearer. Venue 90 returns the full national food menu; each record has calories, protein, fat, saturated_fat, carbohydrates, sugar, fibre, salt, allergens, vegetarians, vegans. Companion endpoints: /food-categories, /drinks, /drink-categories. Venue ids that carry no menu return an empty data array, so pick a venue with a full menu."
+}

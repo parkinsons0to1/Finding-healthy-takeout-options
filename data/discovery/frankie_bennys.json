@@ -1,0 +1,36 @@
+{
+  "chain_id": "frankie_bennys",
+  "status": "verified",
+  "source_url": "https://menus.tenkites.com/thebigtg/frankiebennys02",
+  "source_type": "html_table",
+  "label": "Frankie & Benny's MAIN MENU allergen guide (Tenkites, Big Table Group unit 'thebigtg')",
+  "item_count": 99,
+  "samples": [
+    {
+      "name": "Giant Mozzarella Stick",
+      "kcal": 446.0,
+      "protein_g": 16.0
+    },
+    {
+      "name": "Crispy Calamari",
+      "kcal": 402.0,
+      "protein_g": 10.0
+    },
+    {
+      "name": "Crispy Cauli Bites",
+      "kcal": 654.0,
+      "protein_g": 11.0
+    },
+    {
+      "name": "Tomato Bruschetta",
+      "kcal": 263.0,
+      "protein_g": 6.0
+    },
+    {
+      "name": "Frankie's Faves Combo",
+      "kcal": 1542.0,
+      "protein_g": 79.0
+    }
+  ],
+  "notes": "Macros are in the schema.org JSON-LD embedded in the page (MenuItem.nutrition.calories / proteinContent / carbohydrateContent / fatContent), not in the visible allergen grid. IMPORTANT: the template linked from frankieandbennys.com/allergy (menus.tenkites.com/thebigtg/frankiebennys) omits the nutrition block; sibling templates on the same unit carry it. frankiebennys02 = GB MAIN MENU (+BREAKFAST/LUNCH/DESSERTS/DRINKS/EVENING/KIDS sub-menus). Other populated templates: frankiebennys05/07/08/09/10/11/12 and zfbtest02/03/04/05 (zfbtest04 = 'FRANKIE & BENNYS NI CORE MENU JUN 2025', 174 items)."
+}

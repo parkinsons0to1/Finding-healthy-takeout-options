@@ -1,0 +1,36 @@
+{
+  "chain_id": "brewers_fayre",
+  "status": "verified",
+  "source_url": "https://www.brewersfayre.co.uk/en-gb/allergy-nutrition/bf-summer2025-1482959-web",
+  "source_type": "html_table",
+  "label": "Brewers Fayre Autumn Winter 25 GB allergy & nutrition guide (Whitbread)",
+  "item_count": 154,
+  "samples": [
+    {
+      "name": "CHICKEN GOUJONS WITH DIP",
+      "kcal": 425.0,
+      "protein_g": 22.6
+    },
+    {
+      "name": "CHICKEN WING ROULETTE WITH DIP",
+      "kcal": 553.0,
+      "protein_g": 46.6
+    },
+    {
+      "name": "CRISPY TORTILLA KING PRAWNS WITH DIP",
+      "kcal": 242.0,
+      "protein_g": 6.1
+    },
+    {
+      "name": "CRISPY VEGETABLE SPRING ROLLS WITH DIP",
+      "kcal": 315.0,
+      "protein_g": 5.7
+    },
+    {
+      "name": "FALAFEL & HOUMOUS",
+      "kcal": 261.0,
+      "protein_g": 12.1
+    }
+  ],
+  "notes": "Whitbread publishes one static HTML guide per menu at /en-gb/allergy-nutrition/<code>-web; each dish carries a per-portion NandATable with Energy kJ/kcal, Fat, Saturates, Carbohydrates, Sugars, Protein, Salt. Sibling menus (breakfast, NGCI, Christmas, and for Brewers Fayre a Northern Ireland set) are linked from the /en-gb/allergy-nutrition index page and use the identical format."
+}

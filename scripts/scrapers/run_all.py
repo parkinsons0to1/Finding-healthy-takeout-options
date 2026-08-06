@@ -16,6 +16,7 @@ import sys
 import traceback
 
 from . import chipotle, greggs, kfc, mcdonalds, papajohns, popeyes, subway
+from .chains import ADAPTERS as CHAIN_ADAPTERS
 from .pdf_chains import ADAPTERS as PDF_ADAPTERS
 from .base import protein_share
 from .store import get_sink
@@ -30,6 +31,8 @@ ADAPTERS = {
     "chipotle": chipotle,
     # Chains handled by the generic PDF parser (see pdf_chains.py).
     **PDF_ADAPTERS,
+    # One module per chain, auto-discovered (scrapers/chains/).
+    **CHAIN_ADAPTERS,
 }
 
 

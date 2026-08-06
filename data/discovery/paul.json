@@ -1,0 +1,36 @@
+{
+  "chain_id": "paul",
+  "status": "verified",
+  "source_url": "https://www.paul-uk.com/basque-cheesecake-6-8",
+  "source_type": "html_table",
+  "label": "PAUL UK Magento product pages - server-rendered Nutritional Information table",
+  "item_count": 58,
+  "samples": [
+    {
+      "name": "Basque Cheesecake 6-8",
+      "kcal": 2631.17,
+      "protein_g": 68.33
+    },
+    {
+      "name": "Charlotte Cake",
+      "kcal": 234.0,
+      "protein_g": 4.0
+    },
+    {
+      "name": "Charlotte Framboise Cake 7\"",
+      "kcal": 225.0,
+      "protein_g": 4.0
+    },
+    {
+      "name": "Chicken Taco Bean Salad Platter",
+      "kcal": 1666.12,
+      "protein_g": 98.33
+    },
+    {
+      "name": "Classic Baguette Duo",
+      "kcal": 699.0,
+      "protein_g": 24.0
+    }
+  ],
+  "notes": "IMPORTANT: the PDF titled NUTRITION & ALLERGEN GUIDE (https://www.paul-uk.com/media/pdf/PAUL_Allergen_Document_July_23.pdf) is ALLERGEN-ONLY despite its title - columns are CATEGORY, ITEM NAME, ALLERGENS, Contains, no numbers. Real macros are server-rendered in the HTML of each product page under the Nutritional Information heading: rows Energy (kJ), Energy (kcal), Fat, Saturates, Trans fat, Cholesterol, Sodium, Salt, Total Carbohydrates, Sugars, Fibre, Protein (g), with two value columns: Per Ng serving then Per 100g. GOTCHA: some pages use comma decimal separators (4,8 not 4.8) - normalise before float(). Product URLs come from https://www.paul-uk.com/sitemap.xml (243 locs) plus hrefs scraped off category pages (/bread, /cakes, /lunch, /breakfast ...); 148 single-segment candidates yielded 58 with both kcal and protein. Values are per-pack, so large platters/cakes show 1600-2600 kcal. All 58 pass protein*4<=kcal*1.15."
+}
