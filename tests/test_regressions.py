@@ -164,6 +164,36 @@ def test_offer_prefers_per_unit_rows_over_multipacks():
     assert row["protein_g"] == 131.0, f"used the wrong base row: {row}"
 
 
+def test_addons_and_modifiers_are_not_orderable():
+    """Scaling to pub and casual-dining chains filled menus with "Add …"/
+    "Extra …" rows. A bare "Add A Grilled Chicken Breast" is ~100% protein by
+    calories, so it outranks every real meal while being unbuyable alone."""
+    for name in ["ADD A GRILLED CHICKEN BREAST", "Add Turkey Carvery 100g",
+                 "Extra Chicken Breast", "& Chicken Breast",
+                 "Soy sauce sachet", "Swap to sweet potato fries"]:
+        assert not _is_orderable(
+            {"name": name, "kcal": 120, "protein_g": 26,
+             "chain_id": "beefeater"}), name
+
+    # Real dishes must survive.
+    for name in ["8OZ SIRLOIN STEAK WITH PEAS", "Flattened Half Roast Chicken",
+                 "Chicken Katsu Curry"]:
+        assert _is_orderable(
+            {"name": name, "kcal": 700, "protein_g": 45,
+             "chain_id": "beefeater"}), name
+
+
+def test_component_categories_are_not_orderable():
+    """PizzaExpress files toppings under "Extra Toppings" — a bare "Chicken"
+    row there is a topping, not a dish."""
+    assert not _is_orderable({"name": "Chicken", "kcal": 60, "protein_g": 13,
+                              "chain_id": "pizza_express",
+                              "category": "Extra Toppings"})
+    assert _is_orderable({"name": "American Hot", "kcal": 900, "protein_g": 40,
+                          "chain_id": "pizza_express",
+                          "category": "Pizzas - Classic"})
+
+
 def _run_all() -> int:
     failures = 0
     for name, fn in sorted(globals().items()):

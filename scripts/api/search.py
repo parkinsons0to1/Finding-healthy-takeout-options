@@ -16,6 +16,7 @@ from __future__ import annotations
 import functools
 import json
 import pathlib
+import re
 
 from ..geo.location import find_outlets, resolve_location
 from ..halal.cache import HalalCache
@@ -48,22 +49,50 @@ def load_menu(chain_id: str) -> list[dict]:
 #: puts 29-kcal slices of turkey on the leaderboard.
 _INGREDIENT_WORDS = ("premix", "do not use", "sauce", "dressing", "slices",
                      "strips", "portion", "scoop", "topping", "cheese triangle")
-#: Subway's own section names for buyable products.
-_SUBWAY_PRODUCT_SECTIONS = {"subs", "salads", "wraps", "breakfast", "sides"}
+
+#: **Add-ons and modifiers**, which every table-service chain lists alongside
+#: real dishes. They are catastrophic for this ranking specifically: a bare
+#: "Add A Grilled Chicken Breast" is ~100% protein-by-calories and would
+#: outrank every actual meal, while being something you cannot buy on its own.
+#: Broadening this beyond Subway became necessary once pub and casual-dining
+#: chains were ingested — their menus are full of "Add …"/"Extra …" rows.
+_MODIFIER_RE = re.compile(
+    r"^\s*(add|extra|swap|upgrade|side of|make it|with)\b"
+    r"|^\s*&\s"                       # "& Chicken Breast" (ASK Italian)
+    r"|\b(sachet|dip pot|condiment)\b"
+    r"|\btaster topping\b",
+    re.I)
+
+#: Section names that indicate a buyable product rather than a component.
+_PRODUCT_SECTIONS = {
+    "subway": {"subs", "salads", "wraps", "breakfast", "sides"},
+}
+
+#: Menu sections that are explicitly components, whatever the item is called.
+#: PizzaExpress files toppings under "Extra Toppings" and Wasabi files
+#: condiments under "optional sauce & dressing" — a bare "Chicken" row there is
+#: a pizza topping, not a dish, and reads as ~100% protein.
+_NON_PRODUCT_CATEGORY_RE = re.compile(
+    r"extra topping|^extras?$|optional sauce|dressing|condiment|dips?$", re.I)
 
 
 def _is_orderable(item: dict) -> bool:
-    name = (item.get("name") or "").lower()
-    if not item.get("kcal") or item.get("protein_g") is None:
+    name = (item.get("name") or "").strip()
+    lowered = name.lower()
+    if not name or not item.get("kcal") or item.get("protein_g") is None:
         return False
     if "implausible-kcal" in (item.get("quality_flags") or []):
         return False
-    if any(w in name for w in _INGREDIENT_WORDS):
+    if any(w in lowered for w in _INGREDIENT_WORDS):
         return False
-    if item.get("chain_id") == "subway":
-        category = (item.get("category") or "").strip().lower()
-        if category not in _SUBWAY_PRODUCT_SECTIONS:
-            return False
+    if _MODIFIER_RE.search(name):
+        return False
+    category = (item.get("category") or "").strip()
+    if category and _NON_PRODUCT_CATEGORY_RE.search(category):
+        return False
+    sections = _PRODUCT_SECTIONS.get(item.get("chain_id"))
+    if sections and category.lower() not in sections:
+        return False
     return True
 
 
