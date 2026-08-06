@@ -1,0 +1,36 @@
+{
+  "chain_id": "burger_king",
+  "status": "verified",
+  "source_url": "https://czqk28jt.api.sanity.io/v1/data/query/prod_bk_gb?query=%2A%5B_type%3D%3D%22item%22%20%26%26%20defined%28nutritionWithModifiers.calories%29%20%26%26%20defined%28nutritionWithModifiers.proteins%29%5D%7B%22name%22%3Aname.en%2C%22kcal%22%3AnutritionWithModifiers.calories%2C%22protein_g%22%3AnutritionWithModifiers.proteins%7D",
+  "source_type": "json_api",
+  "label": "Burger King UK Sanity CMS content API (project czqk28jt, dataset prod_bk_gb) \u2014 nutritionWithModifiers per menu item",
+  "item_count": 419,
+  "samples": [
+    {
+      "name": "Double WHOPPER\u00ae",
+      "kcal": 840,
+      "protein_g": 52
+    },
+    {
+      "name": "Double Chicken Royale Bacon & Cheese",
+      "kcal": 846,
+      "protein_g": 42.1
+    },
+    {
+      "name": "Truffle Loaded King Fries",
+      "kcal": 666,
+      "protein_g": 8.9
+    },
+    {
+      "name": "6pc Pringles Sour Cream & Onion Chicken Fries",
+      "kcal": 241,
+      "protein_g": 14.4
+    },
+    {
+      "name": "Peppercorn Loaded King Fries",
+      "kcal": 584.38,
+      "protein_g": 8.66
+    }
+  ],
+  "notes": "burgerking.co.uk is a React SPA; HTML has no macros. Found Sanity project id czqk28jt in the og:image CDN URL in the page head, then probed dataset names -> prod_bk_gb. GROQ query over _type==\"item\" returns 452 items with calories, 419 with BOTH calories and proteins. Plausibility check protein*4 <= kcal*1.15 passed on all 419 rows (0 violations). Query is unauthenticated GET."
+}

@@ -83,6 +83,8 @@ def main() -> int:
     buckets: dict[str, list[str]] = {}
     for c in missing:
         buckets.setdefault(types.get(c, "unprobed"), []).append(c)
+    print("   (buckets describe what discovery found, NOT what a chain "
+          "publishes — see discover.py)")
     for bucket, ids in sorted(buckets.items(), key=lambda kv: -len(kv[1])):
         print(f"   {bucket:11s} {len(ids):3d}  {', '.join(ids[:10])}"
               f"{' …' if len(ids) > 10 else ''}")

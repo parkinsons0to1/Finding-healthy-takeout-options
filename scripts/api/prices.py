@@ -89,6 +89,12 @@ ESTIMATED_PRICES: dict[str, dict[str, float]] = {
         "bbq chicken classic authentic thin crust medium": 19.99,
         "chicken club authentic thin crust medium": 19.99,
     },
+    # Chipotle prices are per whole item; the PDF is per-ingredient, so these
+    # cover the built items people actually buy.
+    "chipotle": {
+        "chicken": 9.45, "steak": 10.45, "barbacoa": 10.45,
+        "carnitas": 9.95, "sofritas (braised tofu)": 8.95,
+    },
     "five_guys": {
         "hamburger": 9.75, "cheeseburger": 10.75, "bacon burger": 11.25,
         "bacon cheeseburger": 12.25, "little hamburger": 7.75,

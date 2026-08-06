@@ -1,0 +1,36 @@
+{
+  "chain_id": "yo_sushi",
+  "status": "verified",
+  "source_url": "https://yosushi.com/getattachment/1542b7f9-5733-4588-8297-21c764126bad/Allergen-and-Nutritional-Report-December-2022.pdf?lang=en-GB",
+  "source_type": "pdf",
+  "label": "YO! Sushi Allergen and Nutritional Report (Dec 2022)",
+  "item_count": 111,
+  "samples": [
+    {
+      "name": "AvocadoMaki",
+      "kcal": 203.5,
+      "protein_g": 1.4
+    },
+    {
+      "name": "BeefTeriyaki",
+      "kcal": 330.9,
+      "protein_g": 13.4
+    },
+    {
+      "name": "CaliforniaTemaki",
+      "kcal": 223.3,
+      "protein_g": 3.9
+    },
+    {
+      "name": "CherryDough.chi",
+      "kcal": 209.3,
+      "protein_g": 2.5
+    },
+    {
+      "name": "ChickenFriedRice",
+      "kcal": 417.4,
+      "protein_g": 13.2
+    }
+  ],
+  "notes": "Official yosushi.com PDF, 12 pages, values per typical serving. Text-based but pdfplumber finds no table objects - parsed by regex on extract_text lines: name + 12 whitespace-separated numbers, columns Energy(kcal), Energy(KJ), Fat, sat, mono, poly, Carb, Starch, Sugars, Protein, Fibre, Sodium(mg); kcal=idx0, protein=idx9. generic_pdf.parse_pdf returns 0 here. Dated Dec 2022 - a newer edition may exist and was not located."
+}

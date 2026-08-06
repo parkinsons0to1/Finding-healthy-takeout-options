@@ -1,0 +1,41 @@
+{
+  "chain_id": "wasabi",
+  "status": "verified",
+  "source_url": "https://www.wasabi.uk.com/wp-content/uploads/2025/11/WAS_Nutritional_Guide_181125v2.pdf",
+  "source_type": "pdf",
+  "label": "Wasabi Nutritional Guide v30 (18 Nov 2025)",
+  "item_count": 118,
+  "samples": [
+    {
+      "name": "Salmon teriyaki onigiri",
+      "kcal": 191.0,
+      "protein_g": 8.7,
+      "portion_g": 111.0
+    },
+    {
+      "name": "Seaweed onigiri",
+      "kcal": 166.0,
+      "protein_g": 2.9,
+      "portion_g": 111.0
+    },
+    {
+      "name": "Omakase box",
+      "kcal": 476.0,
+      "protein_g": 29.5,
+      "portion_g": 356.0
+    },
+    {
+      "name": "Omakase box (excl. dressing)",
+      "kcal": 457.0,
+      "protein_g": 27.9,
+      "portion_g": 314.0
+    },
+    {
+      "name": "Harmony set",
+      "kcal": 620.0,
+      "protein_g": 23.1,
+      "portion_g": 379.0
+    }
+  ],
+  "notes": "29-page PDF, pdfplumber tables parse cleanly. IMPORTANT: nearly all columns are PER 100g; only Energy (Kcal) per portion is per-serving. Computed protein per portion = protein_per_100g * portion_size_g / 100 using the Portion size (g) column. generic_pdf.fetch_from_pdf returns 187 rows but those mix per-100g kcal with per-100g protein. Versioned filename under /wp-content/uploads/YYYY/MM/ - check for newer version."
+}

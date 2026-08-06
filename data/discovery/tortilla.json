@@ -1,0 +1,36 @@
+{
+  "chain_id": "tortilla",
+  "status": "verified",
+  "source_url": "https://a.storyblok.com/f/158888/x/5965ee8d1d/tortilla-nutrition-guide-wed-29-jul.pdf",
+  "source_type": "pdf",
+  "label": "Tortilla Nutrition & Allergen Information (updated 29 July 2026)",
+  "item_count": 258,
+  "samples": [
+    {
+      "name": "Tortilla Wrap (MeDiuM Burrito/Bowl)",
+      "kcal": 195.0,
+      "protein_g": 5.0
+    },
+    {
+      "name": "Coriander Rice (Burrito) (MeDiuM Burrito/Bowl)",
+      "kcal": 117.0,
+      "protein_g": 3.0
+    },
+    {
+      "name": "Mexican Rice (Burrito) (MeDiuM Burrito/Bowl)",
+      "kcal": 108.0,
+      "protein_g": 3.0
+    },
+    {
+      "name": "Coriander Rice (Bowl) (MeDiuM Burrito/Bowl)",
+      "kcal": 175.0,
+      "protein_g": 4.0
+    },
+    {
+      "name": "Mexican Rice (Bowl) (MeDiuM Burrito/Bowl)",
+      "kcal": 161.0,
+      "protein_g": 4.0
+    }
+  ],
+  "notes": "Linked from https://www.tortilla.co.uk/menu/nutrition-and-allergens, hosted on Storyblok CDN. 20 pages, one table per format (medium/large burrito+bowl, salads, tacos, nachos, quesadilla, protein pots, fuel bowls, cali caesar wrap, sides, kids, breakfast, hot drinks). generic_pdf returns 0 because the header spans TWO rows: row0 has Menu Item/Energy/Protein (g), row1 has Kcal/KJ under Energy. Merging row0+row1 per column then matching kcal/protein fixes it. Rows are build-your-own COMPONENTS (wrap, rice, beans, each protein), not finished meals - names prefixed with the page section. All 258 pass protein*4<=kcal*1.15."
+}

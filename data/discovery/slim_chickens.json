@@ -1,0 +1,41 @@
+{
+  "chain_id": "slim_chickens",
+  "status": "verified",
+  "source_url": "https://menus.tenkites.com/brg/slimscore?sitecode=SLM",
+  "source_type": "html_table",
+  "label": "Slim Chickens UK dietary/menu portal on TenKites (linked from slimchickens.co.uk footer as \"Dietary Information\") \u2014 schema.org JSON-LD Menu with NutritionInformation per item",
+  "item_count": 103,
+  "samples": [
+    {
+      "name": "4 Tenders",
+      "kcal": 303.0,
+      "protein_g": 43.0
+    },
+    {
+      "name": "5 Tenders",
+      "kcal": 379.0,
+      "protein_g": 54.0
+    },
+    {
+      "name": "7 Tenders",
+      "kcal": 531.0,
+      "protein_g": 76.0
+    },
+    {
+      "name": "3 Tenders Meal",
+      "kcal": 646.0,
+      "protein_g": 38.0
+    },
+    {
+      "name": "4 Tenders Meal",
+      "kcal": 721.0,
+      "protein_g": 48.0
+    },
+    {
+      "name": "5 Tenders Meal",
+      "kcal": 797.0,
+      "protein_g": 59.0
+    }
+  ],
+  "notes": "slimchickens.co.uk footer links \"Dietary Information\" -> https://menus.tenkites.com/brg/slimchickensall, which is a location picker; the actual core menu is /brg/slimscore?sitecode=SLM. That page embeds a single <script type=\"application/ld+json\"> schema.org Menu covering the whole menu, each MenuItem carrying NutritionInformation with calories, proteinContent, fatContent, carbohydrateContent, saturatedFatContent. 212 MenuItem nutrition blocks, 103 unique name+macro rows. Plausibility check protein*4 <= kcal*1.15 passed on all rows (0 violations). Values are rounded to whole grams at source. Other TenKites site variants exist (slimshubs, slimsbelfast) for site-specific menus."
+}

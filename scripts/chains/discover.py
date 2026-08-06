@@ -10,11 +10,21 @@ classifies the likely source type so adapter work can be batched:
     js_only     page loads but macros aren't in the  -> needs endpoint hunting
                 HTML (client-rendered)
     blocked     403/blocked even with TLS impersonation
-    dead        nothing answered
+    unresolved  none of this chain's *guessed* URLs answered
 
 Everything is tried with plain `requests` first, then with browser TLS
 impersonation, because several chains 403 the former (that's how Papa John's
 and GDK were unblocked).
+
+**These labels describe what this tool found, never what a chain publishes.**
+The distinction is not pedantic. `unresolved` was previously called "dead", and
+a run of empty results was written up as "these chains only publish allergen
+data" — which was false: Chipotle publishes a full nutrition table at
+/nutrition-calculator, and the probe had simply matched their menu PDF instead.
+This tool guesses URLs from a fixed list of common paths, so a miss is nearly
+always a wrong guess, not an absent source. Only a positively verified brand
+statement may be recorded as "publishes nothing", and this tool cannot produce
+one.
 """
 from __future__ import annotations
 
@@ -38,7 +48,7 @@ _PDF_LINK = re.compile(r'href="([^"]+\.pdf[^"]*)"', re.I)
 
 def _classify(url: str, status: int, body: bytes, content_type: str) -> dict:
     if status != 200:
-        return {"type": "blocked" if status in (401, 403) else "dead",
+        return {"type": "blocked" if status in (401, 403) else "unresolved",
                 "status": status}
     if "pdf" in content_type.lower() or body[:4] == b"%PDF":
         return {"type": "pdf", "status": status, "pdf_url": url}
@@ -94,7 +104,7 @@ def probe_chain(chain) -> dict:
     best = next((f for f in findings if f["type"] in ("pdf", "html_table")), None)
     if best is None:
         best = next((f for f in findings if f["type"] == "js_only"),
-                    findings[0] if findings else {"type": "dead"})
+                    findings[0] if findings else {"type": "unresolved"})
     return {"chain_id": chain.chain_id, "name": chain.name, "kind": chain.kind,
             "best": best, "tried": len(chain.candidates)}
 
