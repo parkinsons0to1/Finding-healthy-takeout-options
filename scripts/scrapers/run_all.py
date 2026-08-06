@@ -16,6 +16,7 @@ import sys
 import traceback
 
 from . import greggs, kfc, mcdonalds, papajohns, popeyes, subway
+from .pdf_chains import ADAPTERS as PDF_ADAPTERS
 from .base import protein_share
 from .store import get_sink
 
@@ -26,6 +27,8 @@ ADAPTERS = {
     "kfc": kfc,
     "subway": subway,
     "papa_johns": papajohns,
+    # Chains handled by the generic PDF parser (see pdf_chains.py).
+    **PDF_ADAPTERS,
 }
 
 

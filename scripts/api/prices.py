@@ -89,6 +89,23 @@ ESTIMATED_PRICES: dict[str, dict[str, float]] = {
         "bbq chicken classic authentic thin crust medium": 19.99,
         "chicken club authentic thin crust medium": 19.99,
     },
+    "five_guys": {
+        "hamburger": 9.75, "cheeseburger": 10.75, "bacon burger": 11.25,
+        "bacon cheeseburger": 12.25, "little hamburger": 7.75,
+        "little cheeseburger": 8.50, "little bacon burger": 8.75,
+        "little bacon cheeseburger": 9.50, "hot dog": 7.75,
+        "cheese dog": 8.50, "bacon dog": 8.75, "blt": 7.25,
+        "veggie sandwich": 6.75, "grilled cheese": 6.25,
+    },
+    "starbucks": {
+        "egg bites": 4.45, "protein box": 6.25,
+        "chicken & bacon panini": 5.95, "tuna melt panini": 5.75,
+        "ham & cheese toastie": 5.25, "bacon roll": 4.45,
+    },
+    "krispy_kreme": {
+        "original glazed": 2.30, "chocolate dreamcake": 3.10,
+        "strawberries & kreme": 3.10, "black americano 12oz": 2.75,
+    },
     "subway": {
         "chicken breast": 4.99, "chicken tikka": 4.79,
         "rotisserie style chicken": 4.99, "steak & cheese": 5.29,
