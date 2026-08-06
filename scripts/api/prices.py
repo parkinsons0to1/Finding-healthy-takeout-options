@@ -95,6 +95,25 @@ ESTIMATED_PRICES: dict[str, dict[str, float]] = {
         "chicken": 9.45, "steak": 10.45, "barbacoa": 10.45,
         "carnitas": 9.95, "sofritas (braised tofu)": 8.95,
     },
+    "wingstop": {
+        "wings (10 pieces) 462g": 12.95, "wings (8 pieces) 370g": 10.95,
+        "wings (12 pieces) 555g": 14.95, "boneless (10 pieces) 220g": 11.45,
+        "boneless (8 pieces) 176g": 9.45, "tenders (5 pieces) 225g": 11.95,
+        "tenders (3 pieces) 135g": 8.95,
+    },
+    "slim_chickens": {
+        "3 tenders": 6.95, "4 tenders": 8.45, "5 tenders": 9.95,
+        "7 tenders": 12.95, "chicken sandwich": 8.95,
+        "buffalo chicken sandwich": 9.45,
+    },
+    "pepes_piri_piri": {
+        "1/4 chicken": 5.95, "1/2 chicken": 9.45, "whole chicken": 16.95,
+        "chicken wrap": 6.45, "peri peri wings": 6.95,
+    },
+    "wimpy": {
+        "wimpy cheeseburger": 5.75, "original halfpounder": 9.25,
+        "quarterpounder": 7.25, "bacon cheeseburger": 6.95,
+    },
     "five_guys": {
         "hamburger": 9.75, "cheeseburger": 10.75, "bacon burger": 11.25,
         "bacon cheeseburger": 12.25, "little hamburger": 7.75,
