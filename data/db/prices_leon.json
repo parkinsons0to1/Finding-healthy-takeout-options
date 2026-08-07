@@ -1,0 +1,1044 @@
+{
+ "chain_id": "leon",
+ "fetched_at": "2026-08-07T16:41:22Z",
+ "store": "LEON - Battersea",
+ "stores": [
+  "LEON - Battersea"
+ ],
+ "basis": "delivery",
+ "item_count": 172,
+ "prices": {
+  "morning muffin meal deal": {
+   "price_gbp": 14.99,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Morning Muffin Meal Deal"
+  },
+  "sweet breakfast meal deal": {
+   "price_gbp": 10.49,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Sweet Breakfast Meal Deal"
+  },
+  "leon brunch meal deal": {
+   "price_gbp": 16.99,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "LEON Brunch Meal Deal"
+  },
+  "leon brunch for 2 meal deal": {
+   "price_gbp": 29.99,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "LEON Brunch for 2 Meal Deal"
+  },
+  "the big breakfast box": {
+   "price_gbp": 6.99,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "The Big Breakfast Box"
+  },
+  "the veggie breakfast box": {
+   "price_gbp": 6.99,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "The Veggie Breakfast Box"
+  },
+  "the full monty": {
+   "price_gbp": 6.99,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "The Full Monty"
+  },
+  "korean chicken & egg sando": {
+   "price_gbp": 6.99,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Korean Chicken & Egg Sando"
+  },
+  "halloumi, egg & avo sando": {
+   "price_gbp": 6.99,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Halloumi, Egg & Avo Sando"
+  },
+  "bacon egg muffin": {
+   "price_gbp": 5.29,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Bacon Egg Muffin"
+  },
+  "sausage n egg muffin": {
+   "price_gbp": 5.29,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Sausage n Egg Muffin"
+  },
+  "full english poached egg pot": {
+   "price_gbp": 4.99,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Full English Poached Egg Pot"
+  },
+  "green shakshuka & halloumi pot": {
+   "price_gbp": 4.99,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Green Shakshuka & Halloumi Pot"
+  },
+  "smoked salmon & cream cheese muffin": {
+   "price_gbp": 5.79,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Smoked Salmon & Cream Cheese Muffin"
+  },
+  "smashed avocado & halloumi muffin": {
+   "price_gbp": 5.29,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Smashed Avocado & Halloumi Muffin"
+  },
+  "vegan sausage muffin": {
+   "price_gbp": 5.29,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Vegan Sausage Muffin"
+  },
+  "sausage muffin": {
+   "price_gbp": 4.99,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Sausage Muffin"
+  },
+  "bacon muffin (no egg)": {
+   "price_gbp": 4.99,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Bacon Muffin (no egg)"
+  },
+  "bacon muffin": {
+   "price_gbp": 4.99,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Bacon Muffin"
+  },
+  "shakshuka": {
+   "price_gbp": 4.79,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Shakshuka"
+  },
+  "saucy beans": {
+   "price_gbp": 3.99,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Saucy Beans"
+  },
+  "salmon sm\u00f6rg\u00e5s-box": {
+   "price_gbp": 8.99,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Salmon Sm\u00f6rg\u00e5s-Box"
+  },
+  "the ruby red porridge (cow's milk)": {
+   "price_gbp": 4.49,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "The Ruby Red Porridge (Cow's Milk)"
+  },
+  "banana & cinnamon porridge (cow's milk)": {
+   "price_gbp": 4.79,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Banana & Cinnamon Porridge (Cow's Milk)"
+  },
+  "blueberry, honey & seeds porridge (cow's milk)": {
+   "price_gbp": 4.99,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Blueberry, Honey & Seeds Porridge (Cow's Milk)"
+  },
+  "the ruby red porridge (almond m*lk)": {
+   "price_gbp": 4.49,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "The Ruby Red Porridge (Almond M*lk)"
+  },
+  "banana & cinnamon (almond m*lk)": {
+   "price_gbp": 4.79,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Banana & Cinnamon (Almond M*lk)"
+  },
+  "blueberry, honey & seeds porridge (almond m*lk)": {
+   "price_gbp": 4.99,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Blueberry, Honey & Seeds Porridge (Almond M*lk)"
+  },
+  "very berry granola": {
+   "price_gbp": 4.29,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Very Berry Granola"
+  },
+  "banana & turmeric honey granola": {
+   "price_gbp": 4.29,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Banana & Turmeric Honey Granola"
+  },
+  "hash browns": {
+   "price_gbp": 1.6,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Hash Browns"
+  },
+  "hash browns large": {
+   "price_gbp": 3.2,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Hash Browns Large"
+  },
+  "buttered toast": {
+   "price_gbp": 2.69,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Buttered Toast"
+  },
+  "grilled halloumi mezze": {
+   "price_gbp": 2.99,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Grilled Halloumi Mezze"
+  },
+  "organic butter croissant": {
+   "price_gbp": 2.99,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Organic Butter Croissant"
+  },
+  "organic pain au chocolat": {
+   "price_gbp": 3.39,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Organic Pain au Chocolat"
+  },
+  "choconutty banana bread": {
+   "price_gbp": 3.79,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Choconutty Banana Bread"
+  },
+  "blueberry, lemon & poppyseed muffin": {
+   "price_gbp": 3.89,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Blueberry, Lemon & Poppyseed Muffin"
+  },
+  "mango, lime & dragon fruit smoothie": {
+   "price_gbp": 4.99,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Mango, Lime & Dragon Fruit Smoothie"
+  },
+  "clean green smoothie": {
+   "price_gbp": 4.99,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Clean Green Smoothie"
+  },
+  "moju ginger extra strength": {
+   "price_gbp": 3.19,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "MOJU Ginger Extra Strength"
+  },
+  "leon chocolate chip cookie": {
+   "price_gbp": 3.59,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "LEON Chocolate Chip Cookie"
+  },
+  "oat & cranberry cookie": {
+   "price_gbp": 3.59,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Oat & Cranberry Cookie"
+  },
+  "3 cookies bundle": {
+   "price_gbp": 9.99,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "3 Cookies Bundle"
+  },
+  "triple choc-a-lot cookie": {
+   "price_gbp": 3.59,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Triple Choc-a-lot Cookie"
+  },
+  "blueberry & yuzu blondie": {
+   "price_gbp": 3.29,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Blueberry & Yuzu Blondie"
+  },
+  "chocolate & almond butter tiffin": {
+   "price_gbp": 3.49,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Chocolate & Almond Butter Tiffin"
+  },
+  "nutty lime & ginger fabjack": {
+   "price_gbp": 3.59,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Nutty Lime & Ginger Fabjack"
+  },
+  "better brownie": {
+   "price_gbp": 3.69,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Better Brownie"
+  },
+  "lemon ginger crunch": {
+   "price_gbp": 3.29,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Lemon Ginger Crunch"
+  },
+  "chantal's romesco sauce pot": {
+   "price_gbp": 1.5,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Chantal's Romesco Sauce Pot"
+  },
+  "mustard mayo sauce pot": {
+   "price_gbp": 1.5,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Mustard Mayo Sauce Pot"
+  },
+  "love burger sauce pot": {
+   "price_gbp": 1.5,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "LOVe Burger Sauce Pot"
+  },
+  "vegan aioli (vg)": {
+   "price_gbp": 0.6,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Vegan Aioli (VG)"
+  },
+  "heinz ketchup (vg)": {
+   "price_gbp": 0.6,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Heinz Ketchup (VG)"
+  },
+  "korean mayo": {
+   "price_gbp": 0.6,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Korean Mayo"
+  },
+  "chilli sauce (vg)": {
+   "price_gbp": 0.6,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Chilli Sauce (VG)"
+  },
+  "chilli sauce": {
+   "price_gbp": 0.6,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Chilli Sauce"
+  },
+  "flat white": {
+   "price_gbp": 4.1,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Flat White"
+  },
+  "latte": {
+   "price_gbp": 4.1,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Latte"
+  },
+  "latte large": {
+   "price_gbp": 4.5,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Latte Large"
+  },
+  "cappuccino": {
+   "price_gbp": 4.1,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Cappuccino"
+  },
+  "cappuccino large": {
+   "price_gbp": 4.5,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Cappuccino Large"
+  },
+  "americano": {
+   "price_gbp": 3.7,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Americano"
+  },
+  "americano large": {
+   "price_gbp": 4.1,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Americano Large"
+  },
+  "chai latte": {
+   "price_gbp": 4.65,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Chai Latte"
+  },
+  "chai latte large": {
+   "price_gbp": 5.05,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Chai Latte Large"
+  },
+  "vanilla matcha latte": {
+   "price_gbp": 4.65,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Vanilla Matcha Latte"
+  },
+  "vanilla matcha latte large": {
+   "price_gbp": 5.05,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Vanilla Matcha Latte Large"
+  },
+  "unsweetened matcha latte": {
+   "price_gbp": 4.65,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Unsweetened Matcha Latte"
+  },
+  "unsweetened matcha latte large": {
+   "price_gbp": 5.05,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Unsweetened Matcha Latte Large"
+  },
+  "mocha": {
+   "price_gbp": 4.45,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Mocha"
+  },
+  "mocha large": {
+   "price_gbp": 4.85,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Mocha Large"
+  },
+  "hot chocolate": {
+   "price_gbp": 4.45,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Hot Chocolate"
+  },
+  "hot chocolate large": {
+   "price_gbp": 4.85,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Hot Chocolate Large"
+  },
+  "yorkshire tea": {
+   "price_gbp": 3.3,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Yorkshire Tea"
+  },
+  "yorkshire tea large": {
+   "price_gbp": 3.4,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Yorkshire Tea Large"
+  },
+  "yorkshire decaf tea": {
+   "price_gbp": 3.3,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Yorkshire Decaf Tea"
+  },
+  "yorkshire decaf tea large": {
+   "price_gbp": 3.4,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Yorkshire Decaf Tea Large"
+  },
+  "earl grey tea": {
+   "price_gbp": 3.3,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Earl Grey Tea"
+  },
+  "earl grey tea large": {
+   "price_gbp": 3.4,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Earl Grey Tea Large"
+  },
+  "green tea": {
+   "price_gbp": 3.3,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Green Tea"
+  },
+  "green tea large": {
+   "price_gbp": 3.4,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Green Tea Large"
+  },
+  "peppermint tea": {
+   "price_gbp": 3.3,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Peppermint Tea"
+  },
+  "peppermint tea large": {
+   "price_gbp": 3.4,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Peppermint Tea Large"
+  },
+  "lemon & ginger tea": {
+   "price_gbp": 3.3,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Lemon & Ginger Tea"
+  },
+  "lemon & ginger tea large": {
+   "price_gbp": 3.4,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Lemon & Ginger Tea Large"
+  },
+  "crisp peach cooler": {
+   "price_gbp": 5.5,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Crisp Peach Cooler"
+  },
+  "crisp peach cooler large": {
+   "price_gbp": 5.9,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Crisp Peach Cooler Large"
+  },
+  "raspberry & pomegranate cooler": {
+   "price_gbp": 5.5,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Raspberry & Pomegranate Cooler"
+  },
+  "raspberry & pomegranate cooler large": {
+   "price_gbp": 5.9,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Raspberry & Pomegranate Cooler Large"
+  },
+  "passionfruit lemon iced tea": {
+   "price_gbp": 4.2,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Passionfruit Lemon Iced Tea"
+  },
+  "passionfruit lemon iced tea large": {
+   "price_gbp": 4.6,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Passionfruit Lemon Iced Tea Large"
+  },
+  "strawberry split iced matcha latte": {
+   "price_gbp": 5.05,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Strawberry Split Iced Matcha Latte"
+  },
+  "iced americano": {
+   "price_gbp": 3.7,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Iced Americano"
+  },
+  "iced americano large": {
+   "price_gbp": 4.1,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Iced Americano Large"
+  },
+  "strawberry split iced matcha latte large": {
+   "price_gbp": 5.45,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Strawberry Split Iced Matcha Latte Large"
+  },
+  "vanilla iced matcha latte": {
+   "price_gbp": 4.55,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Vanilla Iced Matcha Latte"
+  },
+  "iced latte": {
+   "price_gbp": 4.1,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Iced Latte"
+  },
+  "iced latte large": {
+   "price_gbp": 4.5,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Iced Latte Large"
+  },
+  "vanilla iced matcha latte large": {
+   "price_gbp": 5.05,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Vanilla Iced Matcha Latte Large"
+  },
+  "unsweetened iced matcha latte": {
+   "price_gbp": 4.65,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Unsweetened Iced Matcha Latte"
+  },
+  "unsweetened iced matcha latte large": {
+   "price_gbp": 5.05,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Unsweetened Iced Matcha Latte Large"
+  },
+  "chai iced latte": {
+   "price_gbp": 4.65,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Chai Iced Latte"
+  },
+  "chai iced latte large": {
+   "price_gbp": 5.05,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Chai Iced Latte Large"
+  },
+  "raspberry bubbly water": {
+   "price_gbp": 2.69,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Raspberry Bubbly Water"
+  },
+  "lime bubbly water": {
+   "price_gbp": 2.69,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Lime Bubbly Water"
+  },
+  "tenzing raspberry & yuzu": {
+   "price_gbp": 3.19,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Tenzing Raspberry & Yuzu"
+  },
+  "trip mindful blend wild strawberry": {
+   "price_gbp": 2.99,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "TRIP Mindful Blend Wild Strawberry"
+  },
+  "trip cbd elderflower mint": {
+   "price_gbp": 2.99,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "TRIP CBD Elderflower Mint"
+  },
+  "living things peach & blood orange": {
+   "price_gbp": 3.19,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Living Things Peach & Blood Orange"
+  },
+  "living things watermelon & lime": {
+   "price_gbp": 3.19,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Living Things Watermelon & Lime"
+  },
+  "remedy ginger lemon kombucha": {
+   "price_gbp": 2.99,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Remedy Ginger Lemon Kombucha"
+  },
+  "leon orange juice": {
+   "price_gbp": 3.29,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "LEON Orange Juice"
+  },
+  "yuzu lemonade": {
+   "price_gbp": 3.29,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Yuzu Lemonade"
+  },
+  "coke": {
+   "price_gbp": 2.39,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Coke"
+  },
+  "diet coke": {
+   "price_gbp": 2.29,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Diet Coke"
+  },
+  "coke zero": {
+   "price_gbp": 2.29,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Coke Zero"
+  },
+  "500ml still water": {
+   "price_gbp": 2.29,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "500ml Still Water"
+  },
+  "500ml sparkling water": {
+   "price_gbp": 2.2,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "500ml Sparkling Water"
+  },
+  "750ml still water": {
+   "price_gbp": 2.89,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "750ml Still Water"
+  },
+  "karma cola (regular)": {
+   "price_gbp": 3.69,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Karma Cola (regular)"
+  },
+  "karma cola (large)": {
+   "price_gbp": 2.4,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Karma Cola (large)"
+  },
+  "karma lemony lemonade (regular)": {
+   "price_gbp": 1.9,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Karma Lemony Lemonade (regular)"
+  },
+  "karma lemony lemonade (large)": {
+   "price_gbp": 2.4,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Karma Lemony Lemonade (large)"
+  },
+  "karma gingerella (regular)": {
+   "price_gbp": 1.9,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Karma Gingerella (regular)"
+  },
+  "karma gingerella (large)": {
+   "price_gbp": 2.4,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Karma Gingerella (large)"
+  },
+  "karma razza raspberry lemonade (regular)": {
+   "price_gbp": 1.9,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Karma Razza Raspberry Lemonade (regular)"
+  },
+  "karma razza raspberry lemonade (large)": {
+   "price_gbp": 2.4,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Karma Razza Raspberry Lemonade (large)"
+  },
+  "grocery jar - garlic aioli (245g)": {
+   "price_gbp": 2.95,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Grocery Jar - Garlic Aioli (245g)"
+  },
+  "grocery jar - korean-style gochujang mayo (240g)": {
+   "price_gbp": 2.95,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Grocery Jar - Korean-Style Gochujang MAYO (240g)"
+  },
+  "grocery jar - leon hot honey sriracha (155ml)": {
+   "price_gbp": 2.85,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Grocery Jar - LEON Hot Honey Sriracha (155ml)"
+  },
+  "the grilled wrap meal deal": {
+   "price_gbp": 11.75,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "The Grilled Wrap Meal Deal"
+  },
+  "burger meal deal": {
+   "price_gbp": 11.75,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Burger Meal Deal"
+  },
+  "chicken & chorizo club wrap": {
+   "price_gbp": 9.5,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Chicken & Chorizo Club Wrap"
+  },
+  "satay chicken big rice box": {
+   "price_gbp": 12.5,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Satay Chicken Big Rice Box"
+  },
+  "aioli chicken big rice box": {
+   "price_gbp": 12.0,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Aioli Chicken Big Rice Box"
+  },
+  "salsa verde chicken big rice box": {
+   "price_gbp": 12.95,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Salsa Verde Chicken Big Rice Box"
+  },
+  "satay chicken small rice box": {
+   "price_gbp": 10.5,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Satay Chicken Small Rice Box"
+  },
+  "aioli chicken small rice box": {
+   "price_gbp": 10.0,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Aioli Chicken Small Rice Box"
+  },
+  "aioli chicken wrap": {
+   "price_gbp": 8.5,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Aioli Chicken Wrap"
+  },
+  "chargrilled chicken burger": {
+   "price_gbp": 8.95,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Chargrilled Chicken Burger"
+  },
+  "chicken & avocado superfood salad": {
+   "price_gbp": 12.45,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Chicken & Avocado Superfood Salad"
+  },
+  "the fish finger wrap": {
+   "price_gbp": 9.95,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "The Fish Finger Wrap"
+  },
+  "the original superfood salad": {
+   "price_gbp": 9.25,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "The Original Superfood Salad"
+  },
+  "mushroom magic romesco big rice box": {
+   "price_gbp": 12.5,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Mushroom Magic Romesco Big Rice Box"
+  },
+  "mushroom magic aioli big rice box": {
+   "price_gbp": 10.5,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Mushroom Magic Aioli Big Rice Box"
+  },
+  "mushroom magic romesco small rice box": {
+   "price_gbp": 9.5,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Mushroom Magic Romesco Small Rice Box"
+  },
+  "brazilian black beans small rice box": {
+   "price_gbp": 7.5,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Brazilian Black Beans Small Rice Box"
+  },
+  "crunchy korean chicken wrap": {
+   "price_gbp": 8.75,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Crunchy Korean Chicken Wrap"
+  },
+  "grilled halloumi wrap": {
+   "price_gbp": 8.2,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Grilled Halloumi Wrap"
+  },
+  "the love burger (vg)": {
+   "price_gbp": 8.75,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "The LoVe Burger (VG)"
+  },
+  "love burger": {
+   "price_gbp": 8.75,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "LOVe Burger"
+  },
+  "honey sriracha gfc chicken nuggets (5 pieces)": {
+   "price_gbp": 7.99,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Honey Sriracha GFC Chicken Nuggets (5 pieces)"
+  },
+  "honey sriracha gfc chicken nuggets": {
+   "price_gbp": 7.99,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Honey Sriracha GFC Chicken Nuggets"
+  },
+  "gfc \u2013 crispy chicken nuggets (5 pieces)": {
+   "price_gbp": 6.99,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "GFC \u2013 Crispy Chicken Nuggets (5 pieces)"
+  },
+  "gfc - crispy chicken nuggets": {
+   "price_gbp": 6.99,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "GFC - Crispy Chicken Nuggets"
+  },
+  "cheddar & black pepper mac bites (4 pieces)": {
+   "price_gbp": 3.99,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Cheddar & Black Pepper Mac Bites (4 Pieces)"
+  },
+  "cheddar & black pepper mac bites": {
+   "price_gbp": 3.99,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Cheddar & Black Pepper Mac Bites"
+  },
+  "honey sriracha gfc chicken nuggets (10 pieces)": {
+   "price_gbp": 15.89,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Honey Sriracha GFC Chicken Nuggets (10 Pieces)"
+  },
+  "gfc \u2013 crispy chicken nuggets (10 pieces)": {
+   "price_gbp": 13.89,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "GFC \u2013 Crispy Chicken Nuggets (10 pieces)"
+  },
+  "cheddar & black pepper mac bites (7 pieces)": {
+   "price_gbp": 6.89,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Cheddar & Black Pepper Mac Bites (7 Pieces)"
+  },
+  "cheddar & black pepper mac bites (12 pieces)": {
+   "price_gbp": 11.69,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Cheddar & Black Pepper Mac Bites (12 Pieces)"
+  },
+  "gfc \u2013 crispy chicken nuggets (15-piece bucket)": {
+   "price_gbp": 19.99,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "GFC \u2013 Crispy Chicken Nuggets (15-piece Bucket)"
+  },
+  "leon baked fries": {
+   "price_gbp": 3.69,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "LEON Baked Fries"
+  },
+  "leon baked fries large": {
+   "price_gbp": 4.39,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "LEON Baked Fries Large"
+  },
+  "salsa verde & aioli chicken mezze": {
+   "price_gbp": 5.8,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Salsa Verde & Aioli Chicken Mezze"
+  },
+  "garlic marinated chicken mezze": {
+   "price_gbp": 4.69,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Garlic Marinated Chicken Mezze"
+  },
+  "charred broccoli with preserved lemon": {
+   "price_gbp": 5.2,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Charred Broccoli with Preserved Lemon"
+  },
+  "leon slaw": {
+   "price_gbp": 2.99,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "LEON Slaw"
+  },
+  "little leon kids meal deal": {
+   "price_gbp": 4.99,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Little LEON Kids Meal Deal"
+  },
+  "peanut satay sauce pot": {
+   "price_gbp": 2.89,
+   "basis": "delivery",
+   "store": "LEON - Battersea",
+   "name": "Peanut Satay Sauce Pot"
+  }
+ }
+}

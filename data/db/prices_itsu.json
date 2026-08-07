@@ -1,0 +1,624 @@
+{
+ "chain_id": "itsu",
+ "fetched_at": "2026-08-07T16:37:41Z",
+ "store": "itsu - Wimbledon",
+ "stores": [
+  "itsu - Wimbledon"
+ ],
+ "basis": "collection",
+ "item_count": 102,
+ "prices": {
+  "hot bowl & gyoza [for 1]": {
+   "price_gbp": 16.75,
+   "basis": "collection",
+   "store": "itsu - Wimbledon",
+   "name": "hot bowl & gyoza [for 1]"
+  },
+  "butterfly light [combo for 1]": {
+   "price_gbp": 13.5,
+   "basis": "collection",
+   "store": "itsu - Wimbledon",
+   "name": "butterfly light [combo for 1]"
+  },
+  "protein-packed [combo for 1]": {
+   "price_gbp": 16.25,
+   "basis": "collection",
+   "store": "itsu - Wimbledon",
+   "name": "protein-packed [combo for 1]"
+  },
+  "revive & restore [combo for 2]": {
+   "price_gbp": 36.0,
+   "basis": "collection",
+   "store": "itsu - Wimbledon",
+   "name": "revive & restore [combo for 2]"
+  },
+  "salmon full house": {
+   "price_gbp": 13.25,
+   "basis": "collection",
+   "store": "itsu - Wimbledon",
+   "name": "salmon full house"
+  },
+  "itsu classics": {
+   "price_gbp": 12.75,
+   "basis": "collection",
+   "store": "itsu - Wimbledon",
+   "name": "itsu classics"
+  },
+  "veggie sushi collection": {
+   "price_gbp": 11.75,
+   "basis": "collection",
+   "store": "itsu - Wimbledon",
+   "name": "veggie sushi collection"
+  },
+  "veggie sushi selection": {
+   "price_gbp": 11.75,
+   "basis": "collection",
+   "store": "itsu - Wimbledon",
+   "name": "veggie sushi selection"
+  },
+  "best of itsu": {
+   "price_gbp": 13.15,
+   "basis": "collection",
+   "store": "itsu - Wimbledon",
+   "name": "best of itsu"
+  },
+  "super salmon light": {
+   "price_gbp": 8.99,
+   "basis": "collection",
+   "store": "itsu - Wimbledon",
+   "name": "super salmon light"
+  },
+  "sushi festival": {
+   "price_gbp": 10.05,
+   "basis": "collection",
+   "store": "itsu - Wimbledon",
+   "name": "sushi festival"
+  },
+  "avo baby rolls": {
+   "price_gbp": 6.25,
+   "basis": "collection",
+   "store": "itsu - Wimbledon",
+   "name": "avo baby rolls"
+  },
+  "california rolls": {
+   "price_gbp": 6.75,
+   "basis": "collection",
+   "store": "itsu - Wimbledon",
+   "name": "California rolls"
+  },
+  "spicy tuna dragon'rolls": {
+   "price_gbp": 7.75,
+   "basis": "collection",
+   "store": "itsu - Wimbledon",
+   "name": "spicy tuna dragon'rolls"
+  },
+  "salmon & avo dragon rolls": {
+   "price_gbp": 7.8,
+   "basis": "collection",
+   "store": "itsu - Wimbledon",
+   "name": "salmon & avo dragon rolls"
+  },
+  "veggie dragon rolls": {
+   "price_gbp": 7.5,
+   "basis": "collection",
+   "store": "itsu - Wimbledon",
+   "name": "veggie dragon rolls"
+  },
+  "tuna & salmon sushi": {
+   "price_gbp": 7.79,
+   "basis": "collection",
+   "store": "itsu - Wimbledon",
+   "name": "tuna & salmon sushi"
+  },
+  "tuna & salmon sashimi": {
+   "price_gbp": 10.19,
+   "basis": "collection",
+   "store": "itsu - Wimbledon",
+   "name": "tuna & salmon sashimi"
+  },
+  "chicken teriyaki on a bed": {
+   "price_gbp": 9.25,
+   "basis": "collection",
+   "store": "itsu - Wimbledon",
+   "name": "chicken teriyaki on a bed"
+  },
+  "salmon teriyaki on a bed": {
+   "price_gbp": 9.99,
+   "basis": "collection",
+   "store": "itsu - Wimbledon",
+   "name": "salmon teriyaki on a bed"
+  },
+  "tuna tartare pok\u00e9": {
+   "price_gbp": 12.25,
+   "basis": "collection",
+   "store": "itsu - Wimbledon",
+   "name": "tuna tartare pok\u00e9"
+  },
+  "salmon tartare pok\u00e9": {
+   "price_gbp": 11.25,
+   "basis": "collection",
+   "store": "itsu - Wimbledon",
+   "name": "salmon tartare pok\u00e9"
+  },
+  "poached salmon pok\u00e9": {
+   "price_gbp": 11.75,
+   "basis": "collection",
+   "store": "itsu - Wimbledon",
+   "name": "poached salmon pok\u00e9"
+  },
+  "chargrilled chicken pok\u00e9": {
+   "price_gbp": 10.89,
+   "basis": "collection",
+   "store": "itsu - Wimbledon",
+   "name": "chargrilled chicken pok\u00e9"
+  },
+  "party platter": {
+   "price_gbp": 49.95,
+   "basis": "collection",
+   "store": "itsu - Wimbledon",
+   "name": "party platter"
+  },
+  "tuna'salmon platter": {
+   "price_gbp": 34.99,
+   "basis": "collection",
+   "store": "itsu - Wimbledon",
+   "name": "tuna'salmon platter"
+  },
+  "sushi'dragon": {
+   "price_gbp": 31.95,
+   "basis": "collection",
+   "store": "itsu - Wimbledon",
+   "name": "sushi'dragon"
+  },
+  "big veggie": {
+   "price_gbp": 29.95,
+   "basis": "collection",
+   "store": "itsu - Wimbledon",
+   "name": "big veggie"
+  },
+  "salmon'california platter": {
+   "price_gbp": 29.95,
+   "basis": "collection",
+   "store": "itsu - Wimbledon",
+   "name": "salmon'California platter"
+  },
+  "prawn'salmon platter": {
+   "price_gbp": 29.95,
+   "basis": "collection",
+   "store": "itsu - Wimbledon",
+   "name": "prawn'salmon platter"
+  },
+  "sushi & sashimi platter": {
+   "price_gbp": 27.5,
+   "basis": "collection",
+   "store": "itsu - Wimbledon",
+   "name": "sushi & sashimi platter"
+  },
+  "chicken teriyaki": {
+   "price_gbp": 10.65,
+   "basis": "collection",
+   "store": "itsu - Wimbledon",
+   "name": "chicken teriyaki"
+  },
+  "double chicken teriyaki": {
+   "price_gbp": 10.75,
+   "basis": "collection",
+   "store": "itsu - Wimbledon",
+   "name": "double chicken teriyaki"
+  },
+  "spicy chicken teriyaki": {
+   "price_gbp": 10.85,
+   "basis": "collection",
+   "store": "itsu - Wimbledon",
+   "name": "spicy chicken teriyaki"
+  },
+  "thai chicken curry": {
+   "price_gbp": 10.85,
+   "basis": "collection",
+   "store": "itsu - Wimbledon",
+   "name": "Thai chicken curry"
+  },
+  "grilled katsu chicken curry": {
+   "price_gbp": 10.39,
+   "basis": "collection",
+   "store": "itsu - Wimbledon",
+   "name": "grilled katsu chicken curry"
+  },
+  "thai veggie'balls curry": {
+   "price_gbp": 9.25,
+   "basis": "collection",
+   "store": "itsu - Wimbledon",
+   "name": "Thai veggie'balls curry"
+  },
+  "thai salmon curry": {
+   "price_gbp": 11.7,
+   "basis": "collection",
+   "store": "itsu - Wimbledon",
+   "name": "Thai salmon curry"
+  },
+  "thai king prawn curry": {
+   "price_gbp": 11.05,
+   "basis": "collection",
+   "store": "itsu - Wimbledon",
+   "name": "Thai king prawn curry"
+  },
+  "veggie'balls teriyaki": {
+   "price_gbp": 9.25,
+   "basis": "collection",
+   "store": "itsu - Wimbledon",
+   "name": "veggie'balls teriyaki"
+  },
+  "katsu curry noodle'bowl": {
+   "price_gbp": 8.99,
+   "basis": "collection",
+   "store": "itsu - Wimbledon",
+   "name": "katsu curry noodle'bowl"
+  },
+  "katsu curry noodles": {
+   "price_gbp": 8.99,
+   "basis": "collection",
+   "store": "itsu - Wimbledon",
+   "name": "katsu curry noodles"
+  },
+  "thai noodle'bowl": {
+   "price_gbp": 8.99,
+   "basis": "collection",
+   "store": "itsu - Wimbledon",
+   "name": "Thai noodle'bowl"
+  },
+  "thai noodles": {
+   "price_gbp": 8.99,
+   "basis": "collection",
+   "store": "itsu - Wimbledon",
+   "name": "Thai noodles"
+  },
+  "korean spicy noodle'bowl": {
+   "price_gbp": 8.99,
+   "basis": "collection",
+   "store": "itsu - Wimbledon",
+   "name": "Korean spicy noodle'bowl"
+  },
+  "korean spicy noodles": {
+   "price_gbp": 8.99,
+   "basis": "collection",
+   "store": "itsu - Wimbledon",
+   "name": "Korean spicy noodles"
+  },
+  "veggie gyoza noodle'bowl": {
+   "price_gbp": 10.75,
+   "basis": "collection",
+   "store": "itsu - Wimbledon",
+   "name": "veggie gyoza noodle'bowl"
+  },
+  "chicken gyoza noodle'bowl": {
+   "price_gbp": 10.99,
+   "basis": "collection",
+   "store": "itsu - Wimbledon",
+   "name": "chicken gyoza noodle'bowl"
+  },
+  "chilli chicken gyoza noodle'bowl": {
+   "price_gbp": 10.99,
+   "basis": "collection",
+   "store": "itsu - Wimbledon",
+   "name": "chilli chicken gyoza noodle'bowl"
+  },
+  "vitality glass noodle'bowl": {
+   "price_gbp": 9.59,
+   "basis": "collection",
+   "store": "itsu - Wimbledon",
+   "name": "Vitality glass noodle'bowl"
+  },
+  "chicken & spring onion gyoza": {
+   "price_gbp": 7.99,
+   "basis": "collection",
+   "store": "itsu - Wimbledon",
+   "name": "chicken & spring onion gyoza"
+  },
+  "vegetable fusion gyoza": {
+   "price_gbp": 7.49,
+   "basis": "collection",
+   "store": "itsu - Wimbledon",
+   "name": "vegetable fusion gyoza"
+  },
+  "hoisin duck bao buns": {
+   "price_gbp": 7.99,
+   "basis": "collection",
+   "store": "itsu - Wimbledon",
+   "name": "hoisin duck bao buns"
+  },
+  "edamame": {
+   "price_gbp": 3.75,
+   "basis": "collection",
+   "store": "itsu - Wimbledon",
+   "name": "edamame"
+  },
+  "miso soup": {
+   "price_gbp": 3.45,
+   "basis": "collection",
+   "store": "itsu - Wimbledon",
+   "name": "miso soup"
+  },
+  "detox miso noodle soup": {
+   "price_gbp": 5.95,
+   "basis": "collection",
+   "store": "itsu - Wimbledon",
+   "name": "detox miso noodle soup"
+  },
+  "spicy miso soup": {
+   "price_gbp": 3.65,
+   "basis": "collection",
+   "store": "itsu - Wimbledon",
+   "name": "spicy miso soup"
+  },
+  "chicken noodle soup": {
+   "price_gbp": 6.95,
+   "basis": "collection",
+   "store": "itsu - Wimbledon",
+   "name": "chicken noodle soup"
+  },
+  "famous coconut chicken soup": {
+   "price_gbp": 6.95,
+   "basis": "collection",
+   "store": "itsu - Wimbledon",
+   "name": "famous coconut chicken soup"
+  },
+  "veggie'balls & coconut soup": {
+   "price_gbp": 6.75,
+   "basis": "collection",
+   "store": "itsu - Wimbledon",
+   "name": "veggie'balls & coconut soup"
+  },
+  "little chicken teriyaki": {
+   "price_gbp": 6.25,
+   "basis": "collection",
+   "store": "itsu - Wimbledon",
+   "name": "little chicken teriyaki"
+  },
+  "little grilled katsu chicken curry": {
+   "price_gbp": 6.65,
+   "basis": "collection",
+   "store": "itsu - Wimbledon",
+   "name": "little grilled katsu chicken curry"
+  },
+  "little spicy chicken teriyaki": {
+   "price_gbp": 6.45,
+   "basis": "collection",
+   "store": "itsu - Wimbledon",
+   "name": "little spicy chicken teriyaki"
+  },
+  "little thai chicken curry": {
+   "price_gbp": 6.75,
+   "basis": "collection",
+   "store": "itsu - Wimbledon",
+   "name": "little Thai chicken curry"
+  },
+  "little thai veggie'balls curry": {
+   "price_gbp": 6.5,
+   "basis": "collection",
+   "store": "itsu - Wimbledon",
+   "name": "little Thai veggie'balls curry"
+  },
+  "little veggie'balls teriyaki": {
+   "price_gbp": 5.75,
+   "basis": "collection",
+   "store": "itsu - Wimbledon",
+   "name": "little veggie'balls teriyaki"
+  },
+  "large red soy bottle": {
+   "price_gbp": 0.2,
+   "basis": "collection",
+   "store": "itsu - Wimbledon",
+   "name": "large red soy bottle"
+  },
+  "wasabi sachet": {
+   "price_gbp": 0.1,
+   "basis": "collection",
+   "store": "itsu - Wimbledon",
+   "name": "wasabi sachet"
+  },
+  "pickled ginger sachet": {
+   "price_gbp": 0.1,
+   "basis": "collection",
+   "store": "itsu - Wimbledon",
+   "name": "pickled ginger sachet"
+  },
+  "raspberry & white chocolate cheesecake mochi": {
+   "price_gbp": 3.59,
+   "basis": "collection",
+   "store": "itsu - Wimbledon",
+   "name": "raspberry & white chocolate cheesecake mochi"
+  },
+  "mango mochi": {
+   "price_gbp": 3.59,
+   "basis": "collection",
+   "store": "itsu - Wimbledon",
+   "name": "mango mochi"
+  },
+  "chocolate mochi": {
+   "price_gbp": 3.59,
+   "basis": "collection",
+   "store": "itsu - Wimbledon",
+   "name": "chocolate mochi"
+  },
+  "angelic almonds": {
+   "price_gbp": 2.79,
+   "basis": "collection",
+   "store": "itsu - Wimbledon",
+   "name": "angelic almonds"
+  },
+  "lemon baked pistachios": {
+   "price_gbp": 2.79,
+   "basis": "collection",
+   "store": "itsu - Wimbledon",
+   "name": "lemon baked pistachios"
+  },
+  "60% dark chocolate moons": {
+   "price_gbp": 2.79,
+   "basis": "collection",
+   "store": "itsu - Wimbledon",
+   "name": "60% dark chocolate moons"
+  },
+  "about half a mango": {
+   "price_gbp": 2.99,
+   "basis": "collection",
+   "store": "itsu - Wimbledon",
+   "name": "about half a mango"
+  },
+  "chocolate edamame": {
+   "price_gbp": 2.55,
+   "basis": "collection",
+   "store": "itsu - Wimbledon",
+   "name": "chocolate edamame"
+  },
+  "sushi style nori\u2019crunch": {
+   "price_gbp": 2.55,
+   "basis": "collection",
+   "store": "itsu - Wimbledon",
+   "name": "sushi style nori\u2019crunch"
+  },
+  "sweet chilli toasted cashews": {
+   "price_gbp": 2.79,
+   "basis": "collection",
+   "store": "itsu - Wimbledon",
+   "name": "sweet chilli toasted cashews"
+  },
+  "umami roasted almonds": {
+   "price_gbp": 2.79,
+   "basis": "collection",
+   "store": "itsu - Wimbledon",
+   "name": "umami roasted almonds"
+  },
+  "japanese prawn crackers": {
+   "price_gbp": 1.75,
+   "basis": "collection",
+   "store": "itsu - Wimbledon",
+   "name": "Japanese prawn crackers"
+  },
+  "thai prawn crackers": {
+   "price_gbp": 1.85,
+   "basis": "collection",
+   "store": "itsu - Wimbledon",
+   "name": "Thai prawn crackers"
+  },
+  "original prawn crackers": {
+   "price_gbp": 1.85,
+   "basis": "collection",
+   "store": "itsu - Wimbledon",
+   "name": "original prawn crackers"
+  },
+  "chinese prawn crackers": {
+   "price_gbp": 1.85,
+   "basis": "collection",
+   "store": "itsu - Wimbledon",
+   "name": "Chinese prawn crackers"
+  },
+  "dark chocolate corn cakes": {
+   "price_gbp": 2.15,
+   "basis": "collection",
+   "store": "itsu - Wimbledon",
+   "name": "dark chocolate corn cakes"
+  },
+  "milk chocolate corn cakes": {
+   "price_gbp": 2.15,
+   "basis": "collection",
+   "store": "itsu - Wimbledon",
+   "name": "milk chocolate corn cakes"
+  },
+  "salted caramel corn cakes": {
+   "price_gbp": 2.15,
+   "basis": "collection",
+   "store": "itsu - Wimbledon",
+   "name": "salted caramel corn cakes"
+  },
+  "crispy seaweed thins sea salt": {
+   "price_gbp": 1.79,
+   "basis": "collection",
+   "store": "itsu - Wimbledon",
+   "name": "crispy seaweed thins sea salt"
+  },
+  "crispy seaweed thins sweet soy": {
+   "price_gbp": 1.79,
+   "basis": "collection",
+   "store": "itsu - Wimbledon",
+   "name": "crispy seaweed thins sweet soy"
+  },
+  "itsu sparkling water": {
+   "price_gbp": 1.99,
+   "basis": "collection",
+   "store": "itsu - Wimbledon",
+   "name": "itsu sparkling water"
+  },
+  "itsu water.": {
+   "price_gbp": 1.99,
+   "basis": "collection",
+   "store": "itsu - Wimbledon",
+   "name": "itsu water."
+  },
+  "coca-cola zero sugar": {
+   "price_gbp": 2.49,
+   "basis": "collection",
+   "store": "itsu - Wimbledon",
+   "name": "coca-cola zero sugar"
+  },
+  "coca cola": {
+   "price_gbp": 2.49,
+   "basis": "collection",
+   "store": "itsu - Wimbledon",
+   "name": "coca cola"
+  },
+  "diet coke": {
+   "price_gbp": 1.99,
+   "basis": "collection",
+   "store": "itsu - Wimbledon",
+   "name": "diet coke"
+  },
+  "ginger shot": {
+   "price_gbp": 3.25,
+   "basis": "collection",
+   "store": "itsu - Wimbledon",
+   "name": "ginger shot"
+  },
+  "cucumber & mint zen'water can": {
+   "price_gbp": 2.49,
+   "basis": "collection",
+   "store": "itsu - Wimbledon",
+   "name": "cucumber & mint zen'water can"
+  },
+  "ginger & lime zen'water can": {
+   "price_gbp": 2.49,
+   "basis": "collection",
+   "store": "itsu - Wimbledon",
+   "name": "ginger & lime zen'water can"
+  },
+  "peach & lychee zen'water can": {
+   "price_gbp": 2.49,
+   "basis": "collection",
+   "store": "itsu - Wimbledon",
+   "name": "peach & lychee zen'water can"
+  },
+  "lemon & yuzu zen'water can": {
+   "price_gbp": 2.49,
+   "basis": "collection",
+   "store": "itsu - Wimbledon",
+   "name": "lemon & yuzu zen'water can"
+  },
+  "raspberry & dragon fruit zen\u2019water can": {
+   "price_gbp": 2.49,
+   "basis": "collection",
+   "store": "itsu - Wimbledon",
+   "name": "raspberry & dragon fruit zen\u2019water can"
+  },
+  "fiery ginger kombucha": {
+   "price_gbp": 3.65,
+   "basis": "collection",
+   "store": "itsu - Wimbledon",
+   "name": "fiery ginger kombucha"
+  },
+  "raspberry & elderflower kombucha": {
+   "price_gbp": 3.65,
+   "basis": "collection",
+   "store": "itsu - Wimbledon",
+   "name": "raspberry & elderflower kombucha"
+  }
+ }
+}
