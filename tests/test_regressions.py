@@ -194,6 +194,27 @@ def test_component_categories_are_not_orderable():
                           "category": "Pizzas - Classic"})
 
 
+def test_live_prices_take_precedence_over_estimates():
+    """Estimates were badly wrong — a Whopper estimated at £6.49 actually
+    costs £10.49 collection. Where a scraped price exists it must win, and it
+    must be labelled 'collection' so the UI can distinguish it."""
+    import json, pathlib
+    db = pathlib.Path(__file__).resolve().parents[1] / "data" / "db"
+    for chain in ("nandos", "burger_king", "papa_johns"):
+        cache = db / f"prices_{chain}.json"
+        if not cache.exists():
+            continue                      # adapter not run in this checkout
+        payload = json.loads(cache.read_text())
+        rows = list(payload.get("prices", {}).values())
+        assert rows, f"{chain} price cache is empty"
+        sample = rows[0]
+        quote = price_for(chain, sample["name"])
+        assert quote is not None, f"{chain}: {sample['name']} lost its price"
+        assert quote.basis in ("collection", "delivery"), \
+            f"{chain} served a {quote.basis} price despite a live cache"
+        assert quote.price_gbp == sample["price_gbp"]
+
+
 def _run_all() -> int:
     failures = 0
     for name, fn in sorted(globals().items()):

@@ -1,0 +1,18 @@
+{
+  "chain_id": "yo_to_go",
+  "status": "verified",
+  "source_url": "https://yosushi.com/getattachment/bc1cc1c8-6a1e-4755-9607-21fb5ac8e882/Allergen-Guide-YO!-To-Go-March.pdf?lang=en-GB",
+  "source_type": "pdf",
+  "label": "YO! To Go allergen information & dietary guide, March 2022 (pages 5-6 carry the full nutrition table)",
+  "item_count": 46,
+  "basis": "per typical serving",
+  "samples": [
+    {"name": "Super Salmon", "kcal": 522.5, "protein_g": 23.5},
+    {"name": "Classic Catch", "kcal": 483.5, "protein_g": 26.4},
+    {"name": "Power Bowl - Spinach", "kcal": 340.0, "protein_g": 21.8},
+    {"name": "Salmon Sashimi", "kcal": 125.2, "protein_g": 11.8},
+    {"name": "YO! Roll 8pc", "kcal": 377.9, "protein_g": 12.0},
+    {"name": "Vitality Bowl - Half & Half", "kcal": 561.4, "protein_g": 19.0}
+  ],
+  "notes": "VERIFIED, and NOT a duplicate of yo_sushi. The existing yo_sushi source (menus.tenkites.com/yosushi/allergenpageyosushi + /yosushi/kiosk02, 165 items) contains ZERO TOGO recipes - checked data/db/yo_sushi.json for any name containing 'togo'/'to go': none. The To Go range is separately costed ('<dish> TOGO March 22') and is not published to Tenkites: /yosushi/togo, /yotogo, /yosushi/yotogo, /yosushi/kiosk01, /yosushi/allergenpageyotogo and /yosushi/supermarkets all return the 1157-byte Tenkites 404 shell, and /yosushi/kiosk03 returns 'No menus have been published to this page'. THE TRAP: the source file is titled 'allergen information & dietary guide: YO! to go' and its first four pages are a pure allergen matrix with rotated/mirrored headers and no numbers - but pages 5-6 are a full 'Nutritional Information Recipe List (values per typical serving)' table with both energy and protein. Judging it by title or first page would have written the chain off. PARSING: page.extract_tables() returns 0 (whitespace-aligned, unruled), so parse extract_text() lines as name + 12 columns: Energy(kcal), Energy(kJ), Fat, saturates, mono, poly, Carb, Starch, Sugars, Protein, Fibre, Sodium(mg) - kcal index 0, protein index 9, same column order as the YO! Sushi PDF. Two sub-traps: (a) some cells are a literal '-' so a digits-only column regex silently drops those rows; (b) long names wrap, leaving a bare 'March 22' on the next line, so the captured name is truncated - the 'TOGO March 22' costing suffix is stripped either way. Pages 5 and 6 repeat the straddling row, so dedupe. FRESHNESS CAVEAT: dated 29 March 2022; it is the only YO!-hosted To Go nutrition document located. yosushi.com/yo-to-go and yosushi.com/yotogo-supermarkets contain no nutrition and link only /legal/allergen-information, which lists the three Tenkites menus and nothing for To Go."
+}

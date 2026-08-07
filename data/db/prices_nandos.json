@@ -1,0 +1,1188 @@
+{
+ "chain_id": "nandos",
+ "fetched_at": "2026-08-07T06:35:24Z",
+ "store": "Nando's #14035",
+ "stores": [
+  "Nando's #14035"
+ ],
+ "basis": "collection",
+ "item_count": 200,
+ "prices": {
+  "dare to share - with three starters": {
+   "price_gbp": 12.25,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Dare to share - With Three Starters"
+  },
+  "halloumi sticks & chilli jam": {
+   "price_gbp": 5.25,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Halloumi Sticks & Chilli Jam"
+  },
+  "halloumi sticks & peri-honey": {
+   "price_gbp": 5.25,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Halloumi Sticks & PERi-Honey"
+  },
+  "houmous with peri-peri drizzle": {
+   "price_gbp": 5.25,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Houmous with PERi-PERi Drizzle"
+  },
+  "sweet potato wedges": {
+   "price_gbp": 5.25,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Sweet Potato Wedges"
+  },
+  "3 wings": {
+   "price_gbp": 5.95,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "3 Wings"
+  },
+  "cheesy garlic pitta": {
+   "price_gbp": 5.25,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Cheesy Garlic Pitta"
+  },
+  "spicy mixed olives": {
+   "price_gbp": 4.25,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Spicy Mixed Olives"
+  },
+  "peri-peri nuts": {
+   "price_gbp": 4.25,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "PERi-PERi Nuts"
+  },
+  "1/4 chicken meal": {
+   "price_gbp": 13.25,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "1/4 Chicken Meal"
+  },
+  "2 boneless thighs meal": {
+   "price_gbp": 13.25,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "2 Boneless Thighs Meal"
+  },
+  "chicken butterfly": {
+   "price_gbp": 10.25,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Chicken Butterfly"
+  },
+  "chicken butterfly - +2 regular sides": {
+   "price_gbp": 16.75,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Chicken Butterfly - +2 regular sides"
+  },
+  "4 boneless chicken thighs": {
+   "price_gbp": 10.25,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "4 Boneless Chicken Thighs"
+  },
+  "4 boneless chicken thighs - +2 regular sides": {
+   "price_gbp": 16.75,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "4 Boneless Chicken Thighs - +2 regular sides"
+  },
+  "chicken livers & rustic portuguese roll": {
+   "price_gbp": 9.75,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Chicken Livers & Rustic Portuguese Roll"
+  },
+  "chicken livers & rustic portuguese roll - +2 regular sides": {
+   "price_gbp": 16.25,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Chicken Livers & Rustic Portuguese Roll - +2 regular sides"
+  },
+  "1/4 chicken": {
+   "price_gbp": 5.95,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "1/4 Chicken"
+  },
+  "1/2 chicken": {
+   "price_gbp": 9.25,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "1/2 Chicken"
+  },
+  "1/2 chicken - +2 regular sides": {
+   "price_gbp": 15.75,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "1/2 Chicken - +2 regular sides"
+  },
+  "whole chicken": {
+   "price_gbp": 17.25,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Whole Chicken"
+  },
+  "whole chicken - +2 regular sides": {
+   "price_gbp": 23.75,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Whole Chicken - +2 regular sides"
+  },
+  "5 chicken wings": {
+   "price_gbp": 7.75,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "5 Chicken Wings"
+  },
+  "5 chicken wings - +2 regular sides": {
+   "price_gbp": 14.25,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "5 Chicken Wings - +2 regular sides"
+  },
+  "10 chicken wings": {
+   "price_gbp": 13.0,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "10 Chicken Wings"
+  },
+  "10 chicken wings - +2 regular sides": {
+   "price_gbp": 19.5,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "10 Chicken Wings - +2 regular sides"
+  },
+  "wing roulette": {
+   "price_gbp": 13.0,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Wing Roulette"
+  },
+  "butterfly burger": {
+   "price_gbp": 11.25,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Butterfly Burger"
+  },
+  "butterfly burger - +1 regular side": {
+   "price_gbp": 15.75,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Butterfly Burger - +1 regular side"
+  },
+  "butterfly burger - +2 regular sides": {
+   "price_gbp": 17.75,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Butterfly Burger - +2 regular sides"
+  },
+  "sunset burger": {
+   "price_gbp": 11.25,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Sunset Burger"
+  },
+  "sunset burger - +1 regular side": {
+   "price_gbp": 15.75,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Sunset Burger - +1 regular side"
+  },
+  "sunset burger - +2 regular sides": {
+   "price_gbp": 17.75,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Sunset Burger - +2 regular sides"
+  },
+  "fino pitta": {
+   "price_gbp": 11.25,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Fino Pitta"
+  },
+  "fino pitta - +1 regular side": {
+   "price_gbp": 15.75,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Fino Pitta - +1 regular side"
+  },
+  "fino pitta - +2 regular sides": {
+   "price_gbp": 17.75,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Fino Pitta - +2 regular sides"
+  },
+  "garlic churrasco burger": {
+   "price_gbp": 11.25,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Garlic Churrasco Burger"
+  },
+  "garlic churrasco burger - +1 regular side": {
+   "price_gbp": 15.75,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Garlic Churrasco Burger - +1 regular side"
+  },
+  "garlic churrasco burger - +2 regular sides": {
+   "price_gbp": 17.75,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Garlic Churrasco Burger - +2 regular sides"
+  },
+  "the big cheese": {
+   "price_gbp": 11.25,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "The Big Cheese"
+  },
+  "the big cheese - +1 regular side": {
+   "price_gbp": 15.75,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "The Big Cheese - +1 regular side"
+  },
+  "the big cheese - +2 regular sides": {
+   "price_gbp": 17.75,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "The Big Cheese - +2 regular sides"
+  },
+  "double chicken burger": {
+   "price_gbp": 12.95,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Double Chicken Burger"
+  },
+  "double chicken burger - +1 regular side": {
+   "price_gbp": 17.45,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Double Chicken Burger - +1 regular side"
+  },
+  "double chicken burger - +2 regular sides": {
+   "price_gbp": 19.45,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Double Chicken Burger - +2 regular sides"
+  },
+  "double chicken wrap": {
+   "price_gbp": 12.95,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Double Chicken Wrap"
+  },
+  "double chicken wrap - +1 regular side": {
+   "price_gbp": 17.45,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Double Chicken Wrap - +1 regular side"
+  },
+  "double chicken wrap - +2 regular sides": {
+   "price_gbp": 19.45,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Double Chicken Wrap - +2 regular sides"
+  },
+  "double chicken pitta": {
+   "price_gbp": 12.95,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Double Chicken Pitta"
+  },
+  "double chicken pitta - +1 regular side": {
+   "price_gbp": 17.45,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Double Chicken Pitta - +1 regular side"
+  },
+  "double chicken pitta - +2 regular sides": {
+   "price_gbp": 19.45,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Double Chicken Pitta - +2 regular sides"
+  },
+  "grilled chicken burger": {
+   "price_gbp": 8.75,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Grilled Chicken Burger"
+  },
+  "grilled chicken burger - +1 regular side": {
+   "price_gbp": 13.25,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Grilled Chicken Burger - +1 regular side"
+  },
+  "grilled chicken burger - +2 regular sides": {
+   "price_gbp": 15.25,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Grilled Chicken Burger - +2 regular sides"
+  },
+  "grilled chicken wrap": {
+   "price_gbp": 8.75,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Grilled Chicken Wrap"
+  },
+  "grilled chicken wrap - +1 regular side": {
+   "price_gbp": 13.25,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Grilled Chicken Wrap - +1 regular side"
+  },
+  "grilled chicken wrap - +2 regular sides": {
+   "price_gbp": 15.25,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Grilled Chicken Wrap - +2 regular sides"
+  },
+  "grilled chicken pitta": {
+   "price_gbp": 8.75,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Grilled Chicken Pitta"
+  },
+  "grilled chicken pitta - +1 regular side": {
+   "price_gbp": 13.25,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Grilled Chicken Pitta - +1 regular side"
+  },
+  "grilled chicken pitta - +2 regular sides": {
+   "price_gbp": 15.25,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Grilled Chicken Pitta - +2 regular sides"
+  },
+  "beanie burger": {
+   "price_gbp": 8.75,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Beanie Burger"
+  },
+  "beanie burger - +1 regular side": {
+   "price_gbp": 13.25,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Beanie Burger - +1 regular side"
+  },
+  "beanie burger - +2 regular sides": {
+   "price_gbp": 15.25,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Beanie Burger - +2 regular sides"
+  },
+  "beanie wrap": {
+   "price_gbp": 8.75,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Beanie Wrap"
+  },
+  "beanie wrap - +1 regular side": {
+   "price_gbp": 13.25,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Beanie Wrap - +1 regular side"
+  },
+  "beanie wrap - +2 regular sides": {
+   "price_gbp": 15.25,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Beanie Wrap - +2 regular sides"
+  },
+  "beanie pitta": {
+   "price_gbp": 8.75,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Beanie Pitta"
+  },
+  "beanie pitta - +1 regular side": {
+   "price_gbp": 13.25,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Beanie Pitta - +1 regular side"
+  },
+  "beanie pitta - +2 regular sides": {
+   "price_gbp": 15.25,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Beanie Pitta - +2 regular sides"
+  },
+  "the great imitator wrap": {
+   "price_gbp": 8.75,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "The Great Imitator Wrap"
+  },
+  "the great imitator wrap - +1 regular side": {
+   "price_gbp": 13.25,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "The Great Imitator Wrap - +1 regular side"
+  },
+  "the great imitator wrap - +2 regular sides": {
+   "price_gbp": 15.25,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "The Great Imitator Wrap - +2 regular sides"
+  },
+  "spicy rice bowl": {
+   "price_gbp": 9.95,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Spicy Rice Bowl"
+  },
+  "spicy rice bowl - with pulled chicken": {
+   "price_gbp": 14.15,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Spicy Rice Bowl - With Pulled Chicken"
+  },
+  "spicy rice bowl - with chicken breast": {
+   "price_gbp": 14.15,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Spicy Rice Bowl - With Chicken Breast"
+  },
+  "spicy rice bowl - with beanie patty": {
+   "price_gbp": 14.15,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Spicy Rice Bowl - With Beanie Patty"
+  },
+  "spicy rice bowl - with peri-plant": {
+   "price_gbp": 14.15,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Spicy Rice Bowl - With PERi-Plant"
+  },
+  "spicy rice bowl - with chicken thighs": {
+   "price_gbp": 15.2,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Spicy Rice Bowl - With Chicken Thighs"
+  },
+  "mediterranean salad": {
+   "price_gbp": 9.5,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Mediterranean Salad"
+  },
+  "mediterranean salad - with chicken breast": {
+   "price_gbp": 13.7,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Mediterranean Salad - With Chicken Breast"
+  },
+  "mediterranean salad - with beanie patty": {
+   "price_gbp": 13.7,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Mediterranean Salad - With Beanie Patty"
+  },
+  "mediterranean salad - with peri-plant": {
+   "price_gbp": 13.7,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Mediterranean Salad - With PERi-Plant"
+  },
+  "mediterranean salad - with chicken thighs": {
+   "price_gbp": 14.75,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Mediterranean Salad - With Chicken Thighs"
+  },
+  "caesar salad": {
+   "price_gbp": 9.5,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Caesar Salad"
+  },
+  "caesar salad - with chicken breast": {
+   "price_gbp": 13.7,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Caesar Salad - With Chicken Breast"
+  },
+  "caesar salad - with beanie patty": {
+   "price_gbp": 13.7,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Caesar Salad - With Beanie Patty"
+  },
+  "caesar salad - with peri-plant": {
+   "price_gbp": 13.7,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Caesar Salad - With PERi-Plant"
+  },
+  "caesar salad - with chicken thighs": {
+   "price_gbp": 14.75,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Caesar Salad - With Chicken Thighs"
+  },
+  "full platter - +2 large or 4 regular sides": {
+   "price_gbp": 29.25,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Full Platter - +2 large or 4 regular sides"
+  },
+  "boneless platter - +2 large or 4 regular sides": {
+   "price_gbp": 30.25,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Boneless Platter - +2 large or 4 regular sides"
+  },
+  "all-in platter - +2 large or 4 regular sides": {
+   "price_gbp": 37.25,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "All-in Platter - +2 large or 4 regular sides"
+  },
+  "family platter - +5 large sides and 2 bastes": {
+   "price_gbp": 59.95,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Family Platter - +5 large sides and 2 bastes"
+  },
+  "xl wing platter - +2 large or 4 regular sides": {
+   "price_gbp": 29.5,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "XL Wing Platter - +2 large or 4 regular sides"
+  },
+  "nandino burger - nandinos meal": {
+   "price_gbp": 6.95,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Nandino Burger - Nandinos Meal"
+  },
+  "chicken breast - nandinos meal": {
+   "price_gbp": 6.95,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Chicken Breast - Nandinos Meal"
+  },
+  "mac & cheese - nandinos meal": {
+   "price_gbp": 6.95,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Mac & Cheese - Nandinos Meal"
+  },
+  "3 chicken wings - nandinos meal": {
+   "price_gbp": 6.95,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "3 Chicken Wings - Nandinos Meal"
+  },
+  "little pitta - nandinos meal": {
+   "price_gbp": 6.95,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Little Pitta - Nandinos Meal"
+  },
+  "bottomless soft swirl tub": {
+   "price_gbp": 3.75,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Bottomless Soft Swirl Tub"
+  },
+  "pip organic cloudy apple juice": {
+   "price_gbp": 2.5,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Pip Organic Cloudy Apple Juice"
+  },
+  "pip organic pineapple & mango smoothie": {
+   "price_gbp": 2.5,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Pip Organic Pineapple & Mango Smoothie"
+  },
+  "fully loaded chips": {
+   "price_gbp": 9.5,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Fully Loaded Chips"
+  },
+  "rostinas": {
+   "price_gbp": 5.5,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Rostinas"
+  },
+  "peri-mac & cheese": {
+   "price_gbp": 5.5,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "PERi-Mac & Cheese"
+  },
+  "charred corn": {
+   "price_gbp": 5.25,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Charred Corn"
+  },
+  "portuguese tomato salad": {
+   "price_gbp": 5.25,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Portuguese Tomato Salad"
+  },
+  "peri-salted chips - regular": {
+   "price_gbp": 4.5,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "PERi-Salted Chips - Regular"
+  },
+  "peri-salted chips - large": {
+   "price_gbp": 7.5,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "PERi-Salted Chips - Large"
+  },
+  "chips - regular": {
+   "price_gbp": 4.5,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Chips - Regular"
+  },
+  "chips - large": {
+   "price_gbp": 7.5,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Chips - Large"
+  },
+  "garlic bread - regular": {
+   "price_gbp": 4.5,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Garlic Bread - Regular"
+  },
+  "garlic bread - large": {
+   "price_gbp": 7.5,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Garlic Bread - Large"
+  },
+  "spicy rice - regular": {
+   "price_gbp": 4.5,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Spicy Rice - Regular"
+  },
+  "spicy rice - large": {
+   "price_gbp": 7.5,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Spicy Rice - Large"
+  },
+  "coleslaw - regular": {
+   "price_gbp": 4.5,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Coleslaw - Regular"
+  },
+  "coleslaw - large": {
+   "price_gbp": 7.5,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Coleslaw - Large"
+  },
+  "creamy mash - regular": {
+   "price_gbp": 4.5,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Creamy Mash - Regular"
+  },
+  "creamy mash - large": {
+   "price_gbp": 7.5,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Creamy Mash - Large"
+  },
+  "corn on the cob - regular": {
+   "price_gbp": 4.5,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Corn on the Cob - Regular"
+  },
+  "corn on the cob - large": {
+   "price_gbp": 7.5,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Corn on the Cob - Large"
+  },
+  "tenderstem\u00ae broccoli - regular": {
+   "price_gbp": 4.5,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Tenderstem\u00ae Broccoli - Regular"
+  },
+  "tenderstem\u00ae broccoli - large": {
+   "price_gbp": 7.5,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Tenderstem\u00ae Broccoli - Large"
+  },
+  "macho peas - regular": {
+   "price_gbp": 4.5,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Macho Peas - Regular"
+  },
+  "macho peas - large": {
+   "price_gbp": 7.5,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Macho Peas - Large"
+  },
+  "rainbow slaw - regular": {
+   "price_gbp": 4.5,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Rainbow Slaw - Regular"
+  },
+  "rainbow slaw - large": {
+   "price_gbp": 7.5,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Rainbow Slaw - Large"
+  },
+  "hearty grains - regular": {
+   "price_gbp": 4.5,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Hearty Grains - Regular"
+  },
+  "hearty grains - large": {
+   "price_gbp": 7.5,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Hearty Grains - Large"
+  },
+  "herby pickle bowl": {
+   "price_gbp": 2.5,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Herby Pickle Bowl"
+  },
+  "grilled halloumi cheese": {
+   "price_gbp": 2.5,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Grilled Halloumi Cheese"
+  },
+  "2 boneless chicken thighs": {
+   "price_gbp": 5.25,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "2 Boneless Chicken Thighs"
+  },
+  "cheddar cheese": {
+   "price_gbp": 1.0,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Cheddar Cheese"
+  },
+  "grilled chicken breast": {
+   "price_gbp": 4.2,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Grilled Chicken Breast"
+  },
+  "grilled pineapple": {
+   "price_gbp": 1.0,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Grilled Pineapple"
+  },
+  "1/2 avocado": {
+   "price_gbp": 2.25,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "1/2 Avocado"
+  },
+  "peri-peri drizzle": {
+   "price_gbp": 1.25,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "PERi-PERi Drizzle"
+  },
+  "beanie patty": {
+   "price_gbp": 4.2,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Beanie Patty"
+  },
+  "peri-plant fillet": {
+   "price_gbp": 4.2,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "PERi-Plant Fillet"
+  },
+  "perinaise": {
+   "price_gbp": 1.25,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "PERinaise"
+  },
+  "garlic perinaise": {
+   "price_gbp": 1.25,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Garlic PERinaise"
+  },
+  "peri-chicken gravy": {
+   "price_gbp": 2.25,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "PERi-Chicken Gravy"
+  },
+  "chilli jam": {
+   "price_gbp": 1.25,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Chilli Jam"
+  },
+  "peri-honey": {
+   "price_gbp": 1.25,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "PERi-Honey"
+  },
+  "toasted pitta": {
+   "price_gbp": 1.0,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Toasted Pitta"
+  },
+  "portuguese roll": {
+   "price_gbp": 1.0,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Portuguese Roll"
+  },
+  "tortilla wrap": {
+   "price_gbp": 1.0,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Tortilla Wrap"
+  },
+  "medium peri-peri sauce": {
+   "price_gbp": 2.25,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Medium PERi-PERi Sauce"
+  },
+  "garlic peri-peri sauce": {
+   "price_gbp": 2.25,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Garlic PERi-PERi Sauce"
+  },
+  "hot peri-peri sauce": {
+   "price_gbp": 2.25,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Hot PERi-PERi Sauce"
+  },
+  "lemon & herb peri-peri sauce": {
+   "price_gbp": 2.25,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Lemon & Herb PERi-PERi Sauce"
+  },
+  "extra hot peri-peri sauce": {
+   "price_gbp": 2.25,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Extra Hot PERi-PERi Sauce"
+  },
+  "perinaise mild": {
+   "price_gbp": 1.9,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "PERinaise Mild"
+  },
+  "peri-peri salt": {
+   "price_gbp": 2.5,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "PERi-PERi Salt"
+  },
+  "coca-cola classic": {
+   "price_gbp": 4.25,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Coca-Cola Classic"
+  },
+  "bottomless diet coke": {
+   "price_gbp": 4.25,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Bottomless Diet Coke"
+  },
+  "bottomless dr pepper zero": {
+   "price_gbp": 4.25,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Bottomless Dr Pepper Zero"
+  },
+  "bottomless coke zero": {
+   "price_gbp": 4.25,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Bottomless Coke Zero"
+  },
+  "bottomless sprite zero": {
+   "price_gbp": 4.25,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Bottomless Sprite Zero"
+  },
+  "bottomless fanta zero": {
+   "price_gbp": 4.25,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Bottomless Fanta Zero"
+  },
+  "bottomless rubro peach iced tea": {
+   "price_gbp": 4.25,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Bottomless RUBRO Peach Iced Tea"
+  },
+  "cloudy lemonade": {
+   "price_gbp": 4.5,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Cloudy Lemonade"
+  },
+  "bottle of coca-cola": {
+   "price_gbp": 2.95,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Bottle of Coca-Cola"
+  },
+  "bottle of coke zero": {
+   "price_gbp": 2.95,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Bottle of Coke Zero"
+  },
+  "bottle of dr pepper zero": {
+   "price_gbp": 2.95,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Bottle of Dr Pepper Zero"
+  },
+  "bottle of fanta zero": {
+   "price_gbp": 2.95,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Bottle of Fanta Zero"
+  },
+  "bottle of diet coke": {
+   "price_gbp": 2.95,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Bottle of Diet Coke"
+  },
+  "bottle of sprite zero": {
+   "price_gbp": 2.95,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Bottle of Sprite Zero"
+  },
+  "still water": {
+   "price_gbp": 3.5,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Still Water"
+  },
+  "sparkling water": {
+   "price_gbp": 3.5,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Sparkling Water"
+  },
+  "karma drinks gingerella": {
+   "price_gbp": 3.75,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Karma Drinks Gingerella"
+  },
+  "rubro peach iced tea": {
+   "price_gbp": 3.75,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "RUBRO Peach Iced Tea"
+  },
+  "rubro berry iced tea": {
+   "price_gbp": 3.75,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "RUBRO Berry Iced Tea"
+  },
+  "rubro lemon iced tea": {
+   "price_gbp": 3.75,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "RUBRO Lemon Iced Tea"
+  },
+  "momo elderflower kombucha": {
+   "price_gbp": 4.75,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "MOMO Elderflower Kombucha"
+  },
+  "bero kingston golden pils": {
+   "price_gbp": 4.5,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "BERO Kingston Golden Pils"
+  },
+  "sxollie cider": {
+   "price_gbp": 5.5,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Sxollie Cider"
+  },
+  "freedom pils": {
+   "price_gbp": 4.75,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Freedom Pils"
+  },
+  "camden pale ale": {
+   "price_gbp": 4.75,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Camden Pale Ale"
+  },
+  "beavertown lazer crush alcohol free ipa": {
+   "price_gbp": 4.5,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Beavertown Lazer Crush Alcohol Free IPA"
+  },
+  "sagres draught half pint": {
+   "price_gbp": 3.95,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Sagres Draught Half Pint"
+  },
+  "sagres draught pint": {
+   "price_gbp": 7.25,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Sagres Draught Pint"
+  },
+  "spier sauvignon blanc (south africa)": {
+   "price_gbp": 7.25,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Spier Sauvignon Blanc (South Africa)"
+  },
+  "creative block 2 (south africa)": {
+   "price_gbp": 31.5,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Creative Block 2 (South Africa)"
+  },
+  "spier merlot (south africa)": {
+   "price_gbp": 7.25,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Spier Merlot (South Africa)"
+  },
+  "creative block 5 (south africa)": {
+   "price_gbp": 31.5,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Creative Block 5 (South Africa)"
+  },
+  "spier rose (south africa)": {
+   "price_gbp": 7.25,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Spier Rose (South Africa)"
+  },
+  "tropical crush": {
+   "price_gbp": 4.5,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Tropical Crush"
+  },
+  "pink berry crush": {
+   "price_gbp": 4.5,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Pink Berry Crush"
+  },
+  "savanna beach": {
+   "price_gbp": 8.75,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Savanna Beach"
+  },
+  "strawberry sunset": {
+   "price_gbp": 8.75,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Strawberry Sunset"
+  },
+  "ultimate chocolate brownie": {
+   "price_gbp": 4.75,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Ultimate Chocolate Brownie"
+  },
+  "choc-a-lot cake": {
+   "price_gbp": 5.5,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Choc-A-Lot Cake"
+  },
+  "gooey caramel cheesecake": {
+   "price_gbp": 5.5,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Gooey Caramel Cheesecake"
+  },
+  "one pastel de nata": {
+   "price_gbp": 2.75,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "One Pastel de Nata"
+  },
+  "four pastel de natas": {
+   "price_gbp": 9.0,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Four Pastel de Natas"
+  },
+  "mango gelado": {
+   "price_gbp": 3.75,
+   "basis": "collection",
+   "store": "Nando's #14035",
+   "name": "Mango Gelado"
+  }
+ }
+}

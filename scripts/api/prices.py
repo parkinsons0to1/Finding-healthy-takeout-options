@@ -1,25 +1,39 @@
-"""Prices — the weakest column in MacroMeter, handled honestly.
+"""Prices, in two tiers: real scraped ones first, estimates only as fallback.
 
-Chain prices in the UK are set per franchise and are not centrally published.
-The chains' own click-and-collect APIs carry true per-store prices but sit
-behind ordering sessions (Popeyes, Greggs) or app-client auth (KFC, Burger
-King); Just Eat's menu endpoint exists but returns 401 without a token, and its
-prices are delivery-inflated anyway. That work is the top of the Phase 1
-backlog.
-
-Until those adapters land, prices here are **typical UK walk-in estimates** and
-every quote says so via `basis`. That matters because price drives the ranking
+Chain prices in the UK are set per franchise and are not centrally published,
+so this was long the weakest column — every price a typed estimate. It matters
 more than nutrition does: a wrong price moves an item further up or down the
-board than a wrong macro would. The UI must never render an estimate the same
-way it renders a scraped price, and `as_of` exists so a stale table is visible
-rather than silently trusted.
+board than a wrong macro would.
+
+**Tier 1 — real collection prices.** `scripts/scrapers/prices/` reproduces each
+chain's *anonymous* ordering handshake (guest session or the public service
+token their own web bundle ships) and reads the priced menu a customer would
+see for a specific store. Cached in `data/db/prices_{chain}.json` and preferred
+over any estimate.
+
+How far off the estimates were is the argument for this tier: a Whopper was
+estimated at £6.49 and actually costs £10.49 collection — 38% low. Nando's own
+service returns collection and delivery side by side, so the delivery uplift is
+measured rather than guessed (~17%).
+
+**Tier 2 — typical UK walk-in estimates**, for chains not yet cracked. Every
+quote carries its `basis`, and the UI must never render an estimate the way it
+renders a scraped price.
+
+Prices remain **per store**. A quote says which store it came from; one
+branch's real price is a far better guide than a number typed from memory, but
+it is still that branch's price.
 """
 from __future__ import annotations
 
 import dataclasses
+import functools
+import json
+import pathlib
 import re
 
 ESTIMATE_AS_OF = "2026-07-28"
+DB = pathlib.Path(__file__).resolve().parents[2] / "data" / "db"
 
 
 def _normalise(name: str) -> str:
@@ -204,7 +218,53 @@ ESTIMATED_PRICES: dict[str, dict[str, float]] = {
 }
 
 
+@functools.lru_cache(maxsize=64)
+def _live_table(chain_id: str) -> dict[str, dict] | None:
+    """Real prices scraped from a chain's ordering API, if we have them.
+
+    Populated by `python3 -m scripts.scrapers.prices.run`, which reproduces
+    each chain's anonymous ordering handshake and reads the priced menu a
+    customer would see. Cached on disk so a search is a lookup, not a crawl.
+    """
+    path = DB / f"prices_{chain_id}.json"
+    if not path.exists():
+        return None
+    try:
+        payload = json.loads(path.read_text())
+    except Exception:
+        return None
+    return {_normalise(name): row
+            for name, row in (payload.get("prices") or {}).items()}
+
+
+def _live_price(chain_id: str, item_name: str) -> PriceQuote | None:
+    table = _live_table(chain_id)
+    if not table:
+        return None
+    key = _normalise(item_name)
+    row = table.get(key)
+    if row is None:
+        # Whole-word match only — the same rule as the estimate table, where a
+        # substring test priced "2 Hot Wings" at the 12-wing price.
+        words = set(key.split())
+        for candidate, value in table.items():
+            if words and set(candidate.split()) == words:
+                row = value
+                break
+    if row is None:
+        return None
+    return PriceQuote(
+        float(row["price_gbp"]), row.get("basis", "collection"),
+        ESTIMATE_AS_OF,
+        f"{row.get('basis', 'collection')} price at {row.get('store') or 'a UK store'}")
+
+
 def price_for(chain_id: str, item_name: str) -> PriceQuote | None:
+    # A real scraped price always beats a typed estimate.
+    live = _live_price(chain_id, item_name)
+    if live is not None:
+        return live
+
     table = ESTIMATED_PRICES.get(chain_id)
     if not table:
         return None
