@@ -144,10 +144,22 @@ CHAIN_PATTERNS: list[tuple[str, str]] = [
     (r"german doner", "gdk"),
 ]
 
+#: Retail/convenience chains, routed to the Open Food Facts meal-deal pipeline
+#: rather than the food-service nutrition pipeline. Ten of these (costcutter
+#: through scotmid) were recognised by CHAIN_PATTERNS but missing from this
+#: set, so `search()` classified them as `kind: "chain"` and tried to load a
+#: menu adapter that will never exist for a Poundland — they surfaced to users
+#: as "chains nearby, not yet rankable" instead of being reported as the shops
+#: they are. A retailer belongs here, never in a menu-adapter catalog: writing
+#: a "menu" for a shop with barcoded groceries is a category error regardless
+#: of how the mismatch happens to present.
 SUPERMARKET_CHAINS = {"tesco", "sainsburys", "asda", "lidl", "aldi",
                       "marks_spencer", "boots", "coop", "morrisons", "waitrose",
                       "spar", "premier", "nisa", "londis", "budgens",
-                      "one_stop", "iceland", "whsmith"}
+                      "one_stop", "iceland", "whsmith",
+                      "costcutter", "best_one", "lifestyle_express", "day_today",
+                      "scotmid", "farmfoods", "holland_barrett", "home_bargains",
+                      "poundland", "bm_bargains"}
 
 
 def identify_chain(business_name: str) -> str | None:

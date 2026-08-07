@@ -326,6 +326,20 @@ def test_popeyes_bundles_with_copied_nutrition_are_flagged():
     assert "12 Hot Wings" not in flagged
 
 
+def test_convenience_retailers_are_not_treated_as_unrankable_food_chains():
+    """Ten retail chains (Poundland, Holland & Barrett, Farmfoods...) were
+    recognised by name but missing from SUPERMARKET_CHAINS, so a search near
+    one classified it `kind: "chain"` and reported it as "chains nearby, not
+    yet rankable" — a menu adapter that will never exist for a Poundland,
+    since its products are barcoded groceries, not a menu."""
+    from scripts.geo.location import SUPERMARKET_CHAINS
+
+    for chain_id in ["costcutter", "best_one", "lifestyle_express", "day_today",
+                     "scotmid", "farmfoods", "holland_barrett", "home_bargains",
+                     "poundland", "bm_bargains"]:
+        assert chain_id in SUPERMARKET_CHAINS, chain_id
+
+
 def _run_all() -> int:
     failures = 0
     for name, fn in sorted(globals().items()):
