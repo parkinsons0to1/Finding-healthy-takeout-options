@@ -1,0 +1,660 @@
+{
+ "chain_id": "wasabi",
+ "fetched_at": "2026-08-07T16:53:49Z",
+ "store": "Wasabi - Borough",
+ "stores": [
+  "Wasabi - Borough"
+ ],
+ "basis": "collection",
+ "item_count": 109,
+ "prices": {
+  "chicken katsu  tasting box": {
+   "price_gbp": 11.95,
+   "basis": "collection",
+   "store": "Wasabi - Borough",
+   "name": "Chicken Katsu  Tasting Box"
+  },
+  "salmon teriyaki tasting box": {
+   "price_gbp": 11.95,
+   "basis": "collection",
+   "store": "Wasabi - Borough",
+   "name": "Salmon Teriyaki Tasting Box"
+  },
+  "yasai  tasting box": {
+   "price_gbp": 10.95,
+   "basis": "collection",
+   "store": "Wasabi - Borough",
+   "name": "Yasai  Tasting Box"
+  },
+  "salmon donburi": {
+   "price_gbp": 9.95,
+   "basis": "collection",
+   "store": "Wasabi - Borough",
+   "name": "Salmon Donburi"
+  },
+  "salmon and tuna donburi": {
+   "price_gbp": 9.95,
+   "basis": "collection",
+   "store": "Wasabi - Borough",
+   "name": "Salmon and Tuna Donburi"
+  },
+  "spicy korean chicken donburi": {
+   "price_gbp": 9.45,
+   "basis": "collection",
+   "store": "Wasabi - Borough",
+   "name": "Spicy Korean Chicken Donburi"
+  },
+  "california dragon roll": {
+   "price_gbp": 6.95,
+   "basis": "collection",
+   "store": "Wasabi - Borough",
+   "name": "California Dragon Roll"
+  },
+  "rainbow set": {
+   "price_gbp": 11.95,
+   "basis": "collection",
+   "store": "Wasabi - Borough",
+   "name": "Rainbow Set"
+  },
+  "harmony set": {
+   "price_gbp": 11.95,
+   "basis": "collection",
+   "store": "Wasabi - Borough",
+   "name": "Harmony set"
+  },
+  "tokyo salmon set": {
+   "price_gbp": 11.95,
+   "basis": "collection",
+   "store": "Wasabi - Borough",
+   "name": "Tokyo Salmon Set"
+  },
+  "mini tokyo salmon set": {
+   "price_gbp": 8.95,
+   "basis": "collection",
+   "store": "Wasabi - Borough",
+   "name": "Mini Tokyo Salmon Set"
+  },
+  "mixed maki set": {
+   "price_gbp": 8.95,
+   "basis": "collection",
+   "store": "Wasabi - Borough",
+   "name": "Mixed Maki Set"
+  },
+  "nigiri salmon set": {
+   "price_gbp": 7.45,
+   "basis": "collection",
+   "store": "Wasabi - Borough",
+   "name": "Nigiri Salmon Set"
+  },
+  "salmon sashimi set": {
+   "price_gbp": 7.45,
+   "basis": "collection",
+   "store": "Wasabi - Borough",
+   "name": "Salmon Sashimi Set"
+  },
+  "salmon sashimi": {
+   "price_gbp": 7.45,
+   "basis": "collection",
+   "store": "Wasabi - Borough",
+   "name": "Salmon sashimi"
+  },
+  "salmon hosomaki set": {
+   "price_gbp": 5.45,
+   "basis": "collection",
+   "store": "Wasabi - Borough",
+   "name": "Salmon Hosomaki Set"
+  },
+  "tuna hosomaki": {
+   "price_gbp": 5.45,
+   "basis": "collection",
+   "store": "Wasabi - Borough",
+   "name": "Tuna Hosomaki"
+  },
+  "salmon avocado dragon rolls": {
+   "price_gbp": 6.45,
+   "basis": "collection",
+   "store": "Wasabi - Borough",
+   "name": "Salmon Avocado Dragon Rolls"
+  },
+  "bang bang chicken dragon rolls": {
+   "price_gbp": 6.45,
+   "basis": "collection",
+   "store": "Wasabi - Borough",
+   "name": "Bang Bang Chicken Dragon Rolls"
+  },
+  "prawn crunch dragon roll": {
+   "price_gbp": 6.95,
+   "basis": "collection",
+   "store": "Wasabi - Borough",
+   "name": "Prawn Crunch Dragon Roll"
+  },
+  "spicy salmon handroll": {
+   "price_gbp": 6.45,
+   "basis": "collection",
+   "store": "Wasabi - Borough",
+   "name": "Spicy Salmon Handroll"
+  },
+  "salmon teriyaki onigiri": {
+   "price_gbp": 3.75,
+   "basis": "collection",
+   "store": "Wasabi - Borough",
+   "name": "Salmon Teriyaki Onigiri"
+  },
+  "spicy tuna onigiri": {
+   "price_gbp": 3.75,
+   "basis": "collection",
+   "store": "Wasabi - Borough",
+   "name": "Spicy Tuna Onigiri"
+  },
+  "avocado & edamame onigiri": {
+   "price_gbp": 3.75,
+   "basis": "collection",
+   "store": "Wasabi - Borough",
+   "name": "Avocado & Edamame Onigiri"
+  },
+  "bbq chicken onigiri": {
+   "price_gbp": 3.75,
+   "basis": "collection",
+   "store": "Wasabi - Borough",
+   "name": "BBQ Chicken Onigiri"
+  },
+  "salmon matsuri platter": {
+   "price_gbp": 36.95,
+   "basis": "collection",
+   "store": "Wasabi - Borough",
+   "name": "Salmon Matsuri Platter"
+  },
+  "tsudoi platter": {
+   "price_gbp": 39.95,
+   "basis": "collection",
+   "store": "Wasabi - Borough",
+   "name": "Tsudoi Platter"
+  },
+  "chicken katsu curry bento": {
+   "price_gbp": 9.95,
+   "basis": "collection",
+   "store": "Wasabi - Borough",
+   "name": "Chicken Katsu Curry Bento"
+  },
+  "chicken katsu curry yakisoba": {
+   "price_gbp": 9.95,
+   "basis": "collection",
+   "store": "Wasabi - Borough",
+   "name": "Chicken Katsu Curry Yakisoba"
+  },
+  "sweet chilli chicken bento": {
+   "price_gbp": 9.95,
+   "basis": "collection",
+   "store": "Wasabi - Borough",
+   "name": "Sweet Chilli Chicken Bento"
+  },
+  "sweet chilli chicken yakisoba": {
+   "price_gbp": 9.95,
+   "basis": "collection",
+   "store": "Wasabi - Borough",
+   "name": "Sweet Chilli Chicken Yakisoba"
+  },
+  "chicken katsu yakisoba": {
+   "price_gbp": 9.95,
+   "basis": "collection",
+   "store": "Wasabi - Borough",
+   "name": "Chicken Katsu Yakisoba"
+  },
+  "korean bbq chicken bento": {
+   "price_gbp": 9.95,
+   "basis": "collection",
+   "store": "Wasabi - Borough",
+   "name": "Korean BBQ Chicken Bento"
+  },
+  "korean bbq chicken yakisoba bento": {
+   "price_gbp": 9.95,
+   "basis": "collection",
+   "store": "Wasabi - Borough",
+   "name": "Korean BBQ Chicken Yakisoba Bento"
+  },
+  "tofu curry yakisoba": {
+   "price_gbp": 9.95,
+   "basis": "collection",
+   "store": "Wasabi - Borough",
+   "name": "Tofu Curry Yakisoba"
+  },
+  "beef biang biang kobachi": {
+   "price_gbp": 7.95,
+   "basis": "collection",
+   "store": "Wasabi - Borough",
+   "name": "Beef Biang Biang Kobachi"
+  },
+  "chicken biang biang kobachi": {
+   "price_gbp": 7.95,
+   "basis": "collection",
+   "store": "Wasabi - Borough",
+   "name": "Chicken Biang Biang Kobachi"
+  },
+  "korean bbq beef ramen": {
+   "price_gbp": 8.95,
+   "basis": "collection",
+   "store": "Wasabi - Borough",
+   "name": "Korean BBQ Beef Ramen"
+  },
+  "chicken tom yum": {
+   "price_gbp": 8.95,
+   "basis": "collection",
+   "store": "Wasabi - Borough",
+   "name": "Chicken Tom Yum"
+  },
+  "prawn tom yum": {
+   "price_gbp": 8.95,
+   "basis": "collection",
+   "store": "Wasabi - Borough",
+   "name": "Prawn Tom Yum"
+  },
+  "miso soup": {
+   "price_gbp": 2.95,
+   "basis": "collection",
+   "store": "Wasabi - Borough",
+   "name": "Miso Soup"
+  },
+  "chicken katsu box": {
+   "price_gbp": 5.45,
+   "basis": "collection",
+   "store": "Wasabi - Borough",
+   "name": "Chicken Katsu Box"
+  },
+  "korean bbq chicken pops": {
+   "price_gbp": 5.45,
+   "basis": "collection",
+   "store": "Wasabi - Borough",
+   "name": "Korean BBQ Chicken Pops"
+  },
+  "spicy korean chicken pops": {
+   "price_gbp": 5.45,
+   "basis": "collection",
+   "store": "Wasabi - Borough",
+   "name": "Spicy Korean Chicken Pops"
+  },
+  "duck gyoza": {
+   "price_gbp": 5.45,
+   "basis": "collection",
+   "store": "Wasabi - Borough",
+   "name": "Duck Gyoza"
+  },
+  "chicken gyoza": {
+   "price_gbp": 5.45,
+   "basis": "collection",
+   "store": "Wasabi - Borough",
+   "name": "Chicken Gyoza"
+  },
+  "chicken katsu sando": {
+   "price_gbp": 6.45,
+   "basis": "collection",
+   "store": "Wasabi - Borough",
+   "name": "Chicken Katsu Sando"
+  },
+  "kaiso seaweed salad": {
+   "price_gbp": 3.45,
+   "basis": "collection",
+   "store": "Wasabi - Borough",
+   "name": "Kaiso Seaweed Salad"
+  },
+  "seaweed nori": {
+   "price_gbp": 1.95,
+   "basis": "collection",
+   "store": "Wasabi - Borough",
+   "name": "Seaweed Nori"
+  },
+  "california potto": {
+   "price_gbp": 4.95,
+   "basis": "collection",
+   "store": "Wasabi - Borough",
+   "name": "California Potto"
+  },
+  "teriyaki salmon rice potto": {
+   "price_gbp": 4.95,
+   "basis": "collection",
+   "store": "Wasabi - Borough",
+   "name": "Teriyaki Salmon Rice Potto"
+  },
+  "salmon teriyaki potto": {
+   "price_gbp": 4.95,
+   "basis": "collection",
+   "store": "Wasabi - Borough",
+   "name": "Salmon teriyaki potto"
+  },
+  "chicken gyoza (cold)": {
+   "price_gbp": 5.25,
+   "basis": "collection",
+   "store": "Wasabi - Borough",
+   "name": "Chicken Gyoza (Cold)"
+  },
+  "pepero cookies & cream": {
+   "price_gbp": 2.45,
+   "basis": "collection",
+   "store": "Wasabi - Borough",
+   "name": "Pepero Cookies & Cream"
+  },
+  "pepero chocolate cookie": {
+   "price_gbp": 2.45,
+   "basis": "collection",
+   "store": "Wasabi - Borough",
+   "name": "Pepero Chocolate Cookie"
+  },
+  "pepero almond": {
+   "price_gbp": 2.45,
+   "basis": "collection",
+   "store": "Wasabi - Borough",
+   "name": "Pepero Almond"
+  },
+  "chocolate mochi button": {
+   "price_gbp": 1.95,
+   "basis": "collection",
+   "store": "Wasabi - Borough",
+   "name": "Chocolate Mochi Button"
+  },
+  "chilli bites": {
+   "price_gbp": 2.45,
+   "basis": "collection",
+   "store": "Wasabi - Borough",
+   "name": "Chilli Bites"
+  },
+  "spicy seaweed bites": {
+   "price_gbp": 2.45,
+   "basis": "collection",
+   "store": "Wasabi - Borough",
+   "name": "Spicy Seaweed Bites"
+  },
+  "wasabi crackers": {
+   "price_gbp": 2.45,
+   "basis": "collection",
+   "store": "Wasabi - Borough",
+   "name": "Wasabi Crackers"
+  },
+  "spicy tempura seaweed crisps": {
+   "price_gbp": 2.45,
+   "basis": "collection",
+   "store": "Wasabi - Borough",
+   "name": "Spicy Tempura Seaweed Crisps"
+  },
+  "dorayaki custard": {
+   "price_gbp": 2.95,
+   "basis": "collection",
+   "store": "Wasabi - Borough",
+   "name": "Dorayaki Custard"
+  },
+  "dorayaki chocolate": {
+   "price_gbp": 2.95,
+   "basis": "collection",
+   "store": "Wasabi - Borough",
+   "name": "Dorayaki Chocolate"
+  },
+  "chocolate mochi": {
+   "price_gbp": 3.25,
+   "basis": "collection",
+   "store": "Wasabi - Borough",
+   "name": "Chocolate Mochi"
+  },
+  "strawberry cheesecake mochi": {
+   "price_gbp": 3.25,
+   "basis": "collection",
+   "store": "Wasabi - Borough",
+   "name": "Strawberry Cheesecake Mochi"
+  },
+  "raspberry white chocolate cheesecake mochi": {
+   "price_gbp": 3.25,
+   "basis": "collection",
+   "store": "Wasabi - Borough",
+   "name": "Raspberry White Chocolate Cheesecake Mochi"
+  },
+  "little moons yuzu cheesecake mochi": {
+   "price_gbp": 3.25,
+   "basis": "collection",
+   "store": "Wasabi - Borough",
+   "name": "Little Moons Yuzu Cheesecake Mochi"
+  },
+  "sparkling mango passionfruit bubble tea": {
+   "price_gbp": 3.45,
+   "basis": "collection",
+   "store": "Wasabi - Borough",
+   "name": "Sparkling Mango Passionfruit Bubble Tea"
+  },
+  "sparkling matcha lemonade bubble tea": {
+   "price_gbp": 3.45,
+   "basis": "collection",
+   "store": "Wasabi - Borough",
+   "name": "Sparkling Matcha Lemonade Bubble Tea"
+  },
+  "still water": {
+   "price_gbp": 1.95,
+   "basis": "collection",
+   "store": "Wasabi - Borough",
+   "name": "Still Water"
+  },
+  "sparkling water": {
+   "price_gbp": 1.95,
+   "basis": "collection",
+   "store": "Wasabi - Borough",
+   "name": "Sparkling Water"
+  },
+  "aloe mango zero sugar": {
+   "price_gbp": 2.95,
+   "basis": "collection",
+   "store": "Wasabi - Borough",
+   "name": "Aloe Mango Zero Sugar"
+  },
+  "aloe original no sugar": {
+   "price_gbp": 2.95,
+   "basis": "collection",
+   "store": "Wasabi - Borough",
+   "name": "Aloe Original No Sugar"
+  },
+  "aloe pomegranate no sugar": {
+   "price_gbp": 2.95,
+   "basis": "collection",
+   "store": "Wasabi - Borough",
+   "name": "Aloe Pomegranate No Sugar"
+  },
+  "aloe watermelon no sugar": {
+   "price_gbp": 2.95,
+   "basis": "collection",
+   "store": "Wasabi - Borough",
+   "name": "Aloe Watermelon No Sugar"
+  },
+  "pepsi original": {
+   "price_gbp": 2.95,
+   "basis": "collection",
+   "store": "Wasabi - Borough",
+   "name": "Pepsi Original"
+  },
+  "pepsi max": {
+   "price_gbp": 2.95,
+   "basis": "collection",
+   "store": "Wasabi - Borough",
+   "name": "Pepsi Max"
+  },
+  "pepsi diet": {
+   "price_gbp": 2.95,
+   "basis": "collection",
+   "store": "Wasabi - Borough",
+   "name": "Pepsi Diet"
+  },
+  "pepsi max cherry": {
+   "price_gbp": 2.95,
+   "basis": "collection",
+   "store": "Wasabi - Borough",
+   "name": "Pepsi Max Cherry"
+  },
+  "7up zero": {
+   "price_gbp": 2.95,
+   "basis": "collection",
+   "store": "Wasabi - Borough",
+   "name": "7UP Zero"
+  },
+  "remedy kombucha raspberry lemonade": {
+   "price_gbp": 2.95,
+   "basis": "collection",
+   "store": "Wasabi - Borough",
+   "name": "Remedy Kombucha Raspberry Lemonade"
+  },
+  "chu-lo cherry sour": {
+   "price_gbp": 3.45,
+   "basis": "collection",
+   "store": "Wasabi - Borough",
+   "name": "Chu-Lo Cherry Sour"
+  },
+  "chu-lo tropical fruit sour": {
+   "price_gbp": 3.45,
+   "basis": "collection",
+   "store": "Wasabi - Borough",
+   "name": "Chu-Lo Tropical Fruit Sour"
+  },
+  "copella apple juice": {
+   "price_gbp": 2.95,
+   "basis": "collection",
+   "store": "Wasabi - Borough",
+   "name": "Copella Apple Juice"
+  },
+  "remedy kombucha lemon & ginger": {
+   "price_gbp": 2.95,
+   "basis": "collection",
+   "store": "Wasabi - Borough",
+   "name": "Remedy Kombucha Lemon & Ginger"
+  },
+  "tropicana orange juice": {
+   "price_gbp": 2.95,
+   "basis": "collection",
+   "store": "Wasabi - Borough",
+   "name": "Tropicana Orange Juice"
+  },
+  "pokka oolong tea": {
+   "price_gbp": 3.45,
+   "basis": "collection",
+   "store": "Wasabi - Borough",
+   "name": "Pokka Oolong Tea"
+  },
+  "pokka japanese green tea": {
+   "price_gbp": 3.45,
+   "basis": "collection",
+   "store": "Wasabi - Borough",
+   "name": "Pokka Japanese Green Tea"
+  },
+  "soy sauce sachet": {
+   "price_gbp": 0.1,
+   "basis": "collection",
+   "store": "Wasabi - Borough",
+   "name": "Soy Sauce Sachet"
+  },
+  "gluten-free soy sauce sachet": {
+   "price_gbp": 0.1,
+   "basis": "collection",
+   "store": "Wasabi - Borough",
+   "name": "Gluten-Free Soy Sauce Sachet"
+  },
+  "wasabi sachet": {
+   "price_gbp": 0.1,
+   "basis": "collection",
+   "store": "Wasabi - Borough",
+   "name": "Wasabi Sachet"
+  },
+  "ginger sachet": {
+   "price_gbp": 0.15,
+   "basis": "collection",
+   "store": "Wasabi - Borough",
+   "name": "Ginger Sachet"
+  },
+  "low salt soy sauce sachet": {
+   "price_gbp": 0.1,
+   "basis": "collection",
+   "store": "Wasabi - Borough",
+   "name": "Low Salt Soy Sauce Sachet"
+  },
+  "yasai roll set": {
+   "price_gbp": 9.95,
+   "basis": "collection",
+   "store": "Wasabi - Borough",
+   "name": "Yasai Roll Set"
+  },
+  "vegan yasai set": {
+   "price_gbp": 9.95,
+   "basis": "collection",
+   "store": "Wasabi - Borough",
+   "name": "Vegan yasai set"
+  },
+  "vegan cucumber hosomaki set": {
+   "price_gbp": 4.95,
+   "basis": "collection",
+   "store": "Wasabi - Borough",
+   "name": "Vegan Cucumber Hosomaki Set"
+  },
+  "vegan avocado hosomaki set": {
+   "price_gbp": 4.95,
+   "basis": "collection",
+   "store": "Wasabi - Borough",
+   "name": "Vegan Avocado Hosomaki Set"
+  },
+  "yasai dragon rolls": {
+   "price_gbp": 6.45,
+   "basis": "collection",
+   "store": "Wasabi - Borough",
+   "name": "Yasai Dragon Rolls"
+  },
+  "vegan yasai dragon rolls": {
+   "price_gbp": 6.45,
+   "basis": "collection",
+   "store": "Wasabi - Borough",
+   "name": "Vegan yasai dragon rolls"
+  },
+  "pumpkin katsu curry rice": {
+   "price_gbp": 9.95,
+   "basis": "collection",
+   "store": "Wasabi - Borough",
+   "name": "Pumpkin Katsu Curry Rice"
+  },
+  "pumpkin katsu curry yakisoba": {
+   "price_gbp": 9.75,
+   "basis": "collection",
+   "store": "Wasabi - Borough",
+   "name": "Pumpkin Katsu Curry Yakisoba"
+  },
+  "vegetable gyoza yakisoba": {
+   "price_gbp": 9.45,
+   "basis": "collection",
+   "store": "Wasabi - Borough",
+   "name": "Vegetable Gyoza Yakisoba"
+  },
+  "tofu curry bento": {
+   "price_gbp": 9.45,
+   "basis": "collection",
+   "store": "Wasabi - Borough",
+   "name": "Tofu Curry Bento"
+  },
+  "tofu tom yum": {
+   "price_gbp": 8.95,
+   "basis": "collection",
+   "store": "Wasabi - Borough",
+   "name": "Tofu Tom Yum"
+  },
+  "vegetable ramen with gyoza": {
+   "price_gbp": 8.95,
+   "basis": "collection",
+   "store": "Wasabi - Borough",
+   "name": "Vegetable Ramen with Gyoza"
+  },
+  "vegetable gyoza": {
+   "price_gbp": 5.45,
+   "basis": "collection",
+   "store": "Wasabi - Borough",
+   "name": "Vegetable Gyoza"
+  },
+  "edamame potto": {
+   "price_gbp": 3.45,
+   "basis": "collection",
+   "store": "Wasabi - Borough",
+   "name": "Edamame Potto"
+  },
+  "vegetable gyoza (cold)": {
+   "price_gbp": 5.25,
+   "basis": "collection",
+   "store": "Wasabi - Borough",
+   "name": "Vegetable Gyoza (Cold)"
+  }
+ }
+}
