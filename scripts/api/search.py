@@ -106,6 +106,18 @@ _NON_PRODUCT_CATEGORY_RE = re.compile(
     r"extra topping|^extras?$|optional sauce|dressing|condiment|dips?$", re.I)
 
 
+#: **Per-100g rows, which cannot be ranked against a per-item price.**
+#:
+#: Some chains publish nutrition per 100g rather than per portion — Five Guys'
+#: entire UK table is per 100g, as is Krispy Kreme's. Their protein *share* is
+#: still true, so they sail through the 35% gate, but protein-per-pound is
+#: nonsense: it divides 100g of food by the price of a whole one. A Five Guys
+#: Hamburger reads as 314 kcal when the burger is roughly 700.
+#:
+#: The negative lookbehind matters — Papa John's says "whole pizza, 1100g, 10
+#: slices", which contains "100g" and is emphatically per-item.
+_PER_100_RE = re.compile(r"(?<!\d)100\s*(?:g|ml)\b", re.I)
+
 #: Portion words a component is sized by when it is sized to fit a product
 #: rather than sold on its own.
 _SIZE_ONLY_RE = re.compile(
@@ -163,6 +175,9 @@ def _is_orderable(item: dict) -> bool:
     if _MODIFIER_RE.search(name):
         return False
     if _NOT_A_PURCHASE_RE.search(name):
+        return False
+    serving = item.get("serving_desc")
+    if isinstance(serving, str) and _PER_100_RE.search(serving):
         return False
     category = (item.get("category") or "").strip()
     if category and _NON_PRODUCT_CATEGORY_RE.search(category):

@@ -6,11 +6,18 @@ reports them separately:
 
   recognised  — the app identifies the brand, so it appears in "chains nearby"
   ingested    — we hold nutrition for it, so its items can be scored
+  rankable    — those rows survive the orderability filter
   priced      — we hold prices, so it can actually enter the ranking
 
 A chain can be recognised but not ingested (Domino's), or ingested but not
 priced — and only the intersection reaches the user as a result. Reporting a
 single number would flatter the system.
+
+"Ingested" and "rankable" come apart more sharply than they look. Half of
+Papa John's rows are per-slice pizzas nobody can buy; every Five Guys row is
+per 100g, which is unrankable against a whole-item price however good the
+nutrition is. A chain with items but nothing rankable is the failure mode most
+likely to pass unnoticed, so it gets its own section rather than a zero.
 
     python3 -m scripts.chains.coverage
 """
@@ -45,6 +52,49 @@ def ingested() -> dict[str, int]:
     return out
 
 
+def rankable() -> dict[str, int]:
+    """Ingested rows that survive the orderability filter, per chain."""
+    from scripts.api.search import _is_orderable, load_menu
+
+    out = {}
+    for chain_id in ingested():
+        items = load_menu(chain_id)
+        out[chain_id] = sum(1 for i in items
+                            if _is_orderable({**i, "chain_id": chain_id}))
+    return out
+
+
+def live_priced() -> dict[str, dict]:
+    """Chains with real scraped prices, and which store each came from."""
+    out = {}
+    for path in glob.glob(str(DB / "prices_*.json")):
+        try:
+            payload = json.loads(pathlib.Path(path).read_text())
+        except Exception:
+            continue
+        chain_id = payload.get("chain_id") or os.path.basename(path)[7:-5]
+        out[chain_id] = payload
+    return out
+
+
+def _why_unrankable(chain_id: str) -> str:
+    """The commonest reason this chain's rows were rejected, stated plainly."""
+    from scripts.api.search import _PER_100_RE, load_menu
+
+    items = load_menu(chain_id)
+    per_100 = sum(1 for i in items
+                  if isinstance(i.get("serving_desc"), str)
+                  and _PER_100_RE.search(i["serving_desc"]))
+    if per_100 > len(items) / 2:
+        return ("nutrition is published per 100g, which cannot be ranked "
+                "against a whole-item price; needs portion weights")
+    no_macros = sum(1 for i in items
+                    if not i.get("kcal") or i.get("protein_g") is None)
+    if no_macros > len(items) / 2:
+        return "rows carry no kcal or protein"
+    return "rows rejected by the orderability filter"
+
+
 def main() -> int:
     recognised, seen = [], set()
     for _pattern, chain_id in CHAIN_PATTERNS:
@@ -55,10 +105,15 @@ def main() -> int:
     food = [c for c in recognised if c not in SUPERMARKET_CHAINS]
     retail = [c for c in recognised if c in SUPERMARKET_CHAINS]
     have = ingested()
-    priced = set(ESTIMATED_PRICES)
+    live = live_priced()
+    usable = rankable()
+    priced = set(ESTIMATED_PRICES) | set(live)
 
-    ranked = sorted(set(food) & set(have) & priced)
-    ingested_unpriced = sorted((set(food) & set(have)) - priced)
+    no_rankable_rows = sorted(c for c in set(food) & set(have)
+                              if have[c] and not usable.get(c))
+    ranked = sorted((set(food) & set(have) & priced) - set(no_rankable_rows))
+    ingested_unpriced = sorted((set(food) & set(have))
+                               - priced - set(no_rankable_rows))
     missing = sorted(set(food) - set(have))
 
     print(f"recognised food chains : {len(food)}")
@@ -67,12 +122,24 @@ def main() -> int:
 
     print(f"RANKABLE (nutrition + price): {len(ranked)}")
     for c in ranked:
-        print(f"   {c:16s} {have[c]:5d} items")
+        cache = live.get(c)
+        where = (f"LIVE {cache.get('basis') or 'collection'} @ "
+                 f"{cache.get('store')}" if cache else "estimated prices")
+        print(f"   {c:16s} {usable.get(c, 0):5d}/{have[c]:<5d} rankable   {where}")
 
     if ingested_unpriced:
         print(f"\nINGESTED, NO PRICES YET: {len(ingested_unpriced)}")
         for c in ingested_unpriced:
-            print(f"   {c:16s} {have[c]:5d} items")
+            print(f"   {c:16s} {usable.get(c, 0):5d}/{have[c]:<5d} rankable")
+
+    if no_rankable_rows:
+        # Not "no data" — data we hold and cannot honestly use. Naming the
+        # reason is the point: these are fixable in the adapter, and a silent
+        # zero would read as "this chain publishes nothing".
+        print(f"\nINGESTED BUT NOTHING RANKABLE: {len(no_rankable_rows)}")
+        for c in no_rankable_rows:
+            print(f"   {c:16s} {have[c]:5d} items, 0 usable — "
+                  f"{_why_unrankable(c)}")
 
     print(f"\nRECOGNISED, NO NUTRITION: {len(missing)}")
     discovery = DB / "chain_discovery.json"
@@ -89,8 +156,13 @@ def main() -> int:
         print(f"   {bucket:11s} {len(ids):3d}  {', '.join(ids[:10])}"
               f"{' …' if len(ids) > 10 else ''}")
 
-    print(f"\ntotal ingested menu items: {sum(have.get(c, 0) for c in food)}")
-    print("note: every price is still an estimate — see REMEDIATION_PLAN.md E3")
+    print(f"\ntotal ingested menu items : {sum(have.get(c, 0) for c in food)}")
+    print(f"total rankable menu items: {sum(usable.get(c, 0) for c in food)}")
+    if live:
+        rows = sum(len(p.get('prices') or {}) for p in live.values())
+        print(f"chains on LIVE prices    : {len(live)} ({rows} scraped prices) "
+              f"— {', '.join(sorted(live))}")
+    print("every other price is a typed estimate — see REMEDIATION_PLAN.md E3")
     return 0
 
 
