@@ -1,0 +1,852 @@
+{
+ "chain_id": "costa",
+ "fetched_at": "2026-08-07T11:58:34Z",
+ "store": "Costa Coffee - Carshalton High St",
+ "stores": [
+  "Costa Coffee - Carshalton High St"
+ ],
+ "basis": "delivery",
+ "item_count": 140,
+ "prices": {
+  "breakfast bap meal for 1": {
+   "price_gbp": 7.49,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Breakfast Bap Meal For 1"
+  },
+  "breakfast bakery meal for 1": {
+   "price_gbp": 6.29,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Breakfast Bakery Meal For 1"
+  },
+  "breakfast bap meal for 2": {
+   "price_gbp": 14.0,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Breakfast Bap Meal For 2"
+  },
+  "chicken fajita wrap": {
+   "price_gbp": 5.95,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Chicken Fajita Wrap"
+  },
+  "chicken gyros style flatbread": {
+   "price_gbp": 6.25,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Chicken Gyros Style Flatbread"
+  },
+  "hazelnut cr\u00e8me frappe": {
+   "price_gbp": 5.49,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Hazelnut Cr\u00e8me Frappe"
+  },
+  "hazelnut creme iced whipped latte": {
+   "price_gbp": 5.0,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Hazelnut Creme Iced Whipped Latte"
+  },
+  "iced oat velvetino": {
+   "price_gbp": 5.0,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Iced Oat Velvetino"
+  },
+  "jasmine hibiscus iced tea": {
+   "price_gbp": 4.2,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Jasmine Hibiscus Iced Tea"
+  },
+  "morello cherry & vanilla cake": {
+   "price_gbp": 4.49,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Morello Cherry & Vanilla Cake"
+  },
+  "tomato & mature cheddar croissant": {
+   "price_gbp": 4.7,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Tomato & Mature Cheddar Croissant"
+  },
+  "cinnamon bun": {
+   "price_gbp": 3.6,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Cinnamon Bun"
+  },
+  "croissant (v)": {
+   "price_gbp": 2.9,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Croissant (V)"
+  },
+  "almond croissant (v)": {
+   "price_gbp": 3.2,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Almond Croissant (V)"
+  },
+  "chocolate twist (v)": {
+   "price_gbp": 3.2,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Chocolate Twist (V)"
+  },
+  "pain aux raisins": {
+   "price_gbp": 3.2,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Pain aux Raisins"
+  },
+  "greek style yogurt with mixed berry compote": {
+   "price_gbp": 3.6,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Greek Style Yogurt with Mixed Berry Compote"
+  },
+  "pork sausage bap": {
+   "price_gbp": 4.8,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Pork Sausage Bap"
+  },
+  "smoked bacon bap": {
+   "price_gbp": 4.8,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Smoked Bacon Bap"
+  },
+  "egg & mushroom bap": {
+   "price_gbp": 4.8,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Egg & Mushroom Bap"
+  },
+  "chocolate & pistachio cookie sandwich": {
+   "price_gbp": 3.9,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Chocolate & Pistachio Cookie Sandwich"
+  },
+  "caramelised biscuit rocky road": {
+   "price_gbp": 3.35,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Caramelised Biscuit Rocky Road"
+  },
+  "double chocolate cookie": {
+   "price_gbp": 3.2,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Double Chocolate Cookie"
+  },
+  "milk chocolate cookie": {
+   "price_gbp": 3.2,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Milk Chocolate Cookie"
+  },
+  "carrot & walnut cake": {
+   "price_gbp": 4.49,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Carrot & Walnut Cake"
+  },
+  "blueberry muffin": {
+   "price_gbp": 3.65,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Blueberry Muffin"
+  },
+  "lemon muffin (v)": {
+   "price_gbp": 3.65,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Lemon Muffin (V)"
+  },
+  "millionaire\u2019s shortbread (v)": {
+   "price_gbp": 3.35,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Millionaire\u2019s Shortbread (V)"
+  },
+  "chocolate tiffin (v)": {
+   "price_gbp": 3.35,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Chocolate Tiffin (V)"
+  },
+  "salted caramel brownie": {
+   "price_gbp": 3.35,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Salted Caramel Brownie"
+  },
+  "raspberry & almond bake": {
+   "price_gbp": 3.35,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Raspberry & Almond Bake"
+  },
+  "bakewell tart (v)": {
+   "price_gbp": 3.6,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Bakewell Tart (V)"
+  },
+  "lemon curd tart (v)": {
+   "price_gbp": 3.6,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Lemon Curd Tart (V)"
+  },
+  "brie & bacon chilli jam panini": {
+   "price_gbp": 6.2,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Brie & Bacon Chilli Jam Panini"
+  },
+  "chicken salad sandwich": {
+   "price_gbp": 4.25,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Chicken Salad Sandwich"
+  },
+  "all day breakfast toastie": {
+   "price_gbp": 6.2,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "All Day Breakfast Toastie"
+  },
+  "chicken & bacon toastie": {
+   "price_gbp": 6.0,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Chicken & Bacon Toastie"
+  },
+  "cheese bites": {
+   "price_gbp": 4.15,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Cheese Bites"
+  },
+  "nacho chilli cheese & chicken toastie": {
+   "price_gbp": 6.2,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Nacho Chilli Cheese & Chicken Toastie"
+  },
+  "wiltshire ham & mature cheddar croissant": {
+   "price_gbp": 4.7,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Wiltshire Ham & Mature Cheddar Croissant"
+  },
+  "vegan ham & cheeze toastie": {
+   "price_gbp": 4.6,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Vegan Ham & Cheeze Toastie"
+  },
+  "hog roast toastie": {
+   "price_gbp": 6.2,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Hog Roast Toastie"
+  },
+  "heinz beanz & cheese toastie": {
+   "price_gbp": 4.6,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Heinz Beanz & Cheese Toastie"
+  },
+  "all day breakfast wrap": {
+   "price_gbp": 5.95,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "All Day Breakfast Wrap"
+  },
+  "ham & cheese toastie": {
+   "price_gbp": 4.6,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Ham & Cheese Toastie"
+  },
+  "wiltshire ham & mature cheddar toastie": {
+   "price_gbp": 5.8,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Wiltshire Ham & Mature Cheddar Toastie"
+  },
+  "mozzarella & tomato panini (v)": {
+   "price_gbp": 5.8,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Mozzarella & Tomato Panini (V)"
+  },
+  "tuna melt panini": {
+   "price_gbp": 5.9,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Tuna Melt Panini"
+  },
+  "mac & cheese": {
+   "price_gbp": 6.45,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Mac & Cheese"
+  },
+  "pork & apple sausage roll": {
+   "price_gbp": 4.1,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Pork & Apple Sausage Roll"
+  },
+  "blt sandwich": {
+   "price_gbp": 4.49,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "BLT Sandwich"
+  },
+  "free range egg mayo sandwich": {
+   "price_gbp": 3.49,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Free Range Egg Mayo Sandwich"
+  },
+  "prawn mayo sandwich": {
+   "price_gbp": 4.49,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Prawn Mayo Sandwich"
+  },
+  "mature cheddar & roasted tomato toastie": {
+   "price_gbp": 5.7,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Mature Cheddar & Roasted Tomato Toastie"
+  },
+  "bubble frappe gingerbread biscuit": {
+   "price_gbp": 2.8,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Bubble Frappe Gingerbread Biscuit"
+  },
+  "dried mango": {
+   "price_gbp": 2.0,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Dried Mango"
+  },
+  "fruit & nut mix": {
+   "price_gbp": 2.0,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Fruit & Nut Mix"
+  },
+  "oaty flapjack": {
+   "price_gbp": 3.1,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Oaty Flapjack"
+  },
+  "bounce peanut protein ball": {
+   "price_gbp": 2.4,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Bounce Peanut Protein Ball"
+  },
+  "tyrrells lightly sea salted": {
+   "price_gbp": 2.15,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Tyrrells Lightly Sea Salted"
+  },
+  "tyrrells sea salt & cider vinegar": {
+   "price_gbp": 2.15,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Tyrrells Sea Salt & Cider Vinegar"
+  },
+  "tyrrells mature cheddar & chive": {
+   "price_gbp": 2.15,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Tyrrells Mature Cheddar & Chive"
+  },
+  "watermelon": {
+   "price_gbp": 3.0,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Watermelon"
+  },
+  "belgian chocolate brownie (gluten free)": {
+   "price_gbp": 3.1,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Belgian Chocolate Brownie (Gluten Free)"
+  },
+  "mini all butter shortbreads": {
+   "price_gbp": 3.8,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Mini All Butter Shortbreads"
+  },
+  "caramel waffles": {
+   "price_gbp": 2.45,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Caramel Waffles"
+  },
+  "balocco wafers - cocoa (v)": {
+   "price_gbp": 2.45,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Balocco Wafers - Cocoa (V)"
+  },
+  "balocco wafers - milk vanilla (v)": {
+   "price_gbp": 2.45,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Balocco Wafers - Milk Vanilla (V)"
+  },
+  "stem ginger biscuits": {
+   "price_gbp": 2.6,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Stem Ginger Biscuits"
+  },
+  "fruit & oat biscuits": {
+   "price_gbp": 2.6,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Fruit & Oat Biscuits"
+  },
+  "pom-bear original crisps": {
+   "price_gbp": 1.7,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Pom-Bear Original Crisps"
+  },
+  "strawberry, watermelon & mint refresher": {
+   "price_gbp": 4.95,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Strawberry, Watermelon & Mint Refresher"
+  },
+  "still lemonade": {
+   "price_gbp": 4.35,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Still Lemonade"
+  },
+  "spanish iced latte": {
+   "price_gbp": 5.4,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Spanish Iced Latte"
+  },
+  "pink lemonade": {
+   "price_gbp": 4.35,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Pink Lemonade"
+  },
+  "sweet ube frappe": {
+   "price_gbp": 5.49,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Sweet Ube Frappe"
+  },
+  "caramel iced whipped latte": {
+   "price_gbp": 5.0,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Caramel Iced Whipped Latte"
+  },
+  "white chocolate iced whipped latte": {
+   "price_gbp": 5.0,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "White Chocolate Iced Whipped Latte"
+  },
+  "iced flat white": {
+   "price_gbp": 4.49,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Iced Flat White"
+  },
+  "iced cappuccino": {
+   "price_gbp": 4.6,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Iced Cappuccino"
+  },
+  "iced americano (white)": {
+   "price_gbp": 4.05,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Iced Americano (white)"
+  },
+  "iced black americano": {
+   "price_gbp": 4.05,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Iced Black Americano"
+  },
+  "peach ice tea": {
+   "price_gbp": 4.2,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Peach Ice Tea"
+  },
+  "iced latte": {
+   "price_gbp": 4.6,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Iced Latte"
+  },
+  "coffee frappe": {
+   "price_gbp": 5.49,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Coffee Frappe"
+  },
+  "strawberry drizzle frappe": {
+   "price_gbp": 5.49,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Strawberry Drizzle Frappe"
+  },
+  "chocolate fudge frapp\u00e9": {
+   "price_gbp": 5.49,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Chocolate Fudge Frapp\u00e9"
+  },
+  "chocolate fudge frapp\u00e9 with coffee": {
+   "price_gbp": 5.49,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Chocolate Fudge Frapp\u00e9 with Coffee"
+  },
+  "salted caramel frapp\u00e9": {
+   "price_gbp": 5.49,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Salted Caramel Frapp\u00e9"
+  },
+  "salted caramel frapp\u00e9 with coffee": {
+   "price_gbp": 5.49,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Salted Caramel Frapp\u00e9 with Coffee"
+  },
+  "tropical mango bubble frappe": {
+   "price_gbp": 5.65,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Tropical Mango Bubble Frappe"
+  },
+  "mango & passion fruit cooler": {
+   "price_gbp": 5.2,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Mango & Passion Fruit Cooler"
+  },
+  "red summer berries": {
+   "price_gbp": 5.2,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Red Summer Berries"
+  },
+  "cherry vanilla iced matcha": {
+   "price_gbp": 6.15,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Cherry Vanilla Iced Matcha"
+  },
+  "matcha latte": {
+   "price_gbp": 5.05,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Matcha Latte"
+  },
+  "iced matcha latte": {
+   "price_gbp": 5.05,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Iced Matcha Latte"
+  },
+  "strawberry coconut matcha iced latte": {
+   "price_gbp": 6.15,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Strawberry Coconut Matcha Iced Latte"
+  },
+  "spanish latte": {
+   "price_gbp": 5.4,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Spanish Latte"
+  },
+  "latte": {
+   "price_gbp": 4.6,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Latte"
+  },
+  "cappuccino": {
+   "price_gbp": 4.6,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Cappuccino"
+  },
+  "flat white": {
+   "price_gbp": 4.49,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Flat White"
+  },
+  "americano (white)": {
+   "price_gbp": 4.05,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Americano (white)"
+  },
+  "americano": {
+   "price_gbp": 4.05,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Americano"
+  },
+  "mocha": {
+   "price_gbp": 5.0,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Mocha"
+  },
+  "sweet ube hot chocolate": {
+   "price_gbp": 5.6,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Sweet Ube Hot Chocolate"
+  },
+  "hot chocolate": {
+   "price_gbp": 4.75,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Hot Chocolate"
+  },
+  "white hot chocolate": {
+   "price_gbp": 4.75,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "White Hot Chocolate"
+  },
+  "chai latte": {
+   "price_gbp": 4.6,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Chai Latte"
+  },
+  "mellow mango with zinc": {
+   "price_gbp": 3.6,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Mellow Mango with Zinc"
+  },
+  "spiced apple with vitamin b6": {
+   "price_gbp": 3.6,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Spiced Apple with Vitamin B6"
+  },
+  "citrus zing with vitamin c": {
+   "price_gbp": 3.6,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Citrus Zing with Vitamin C"
+  },
+  "english breakfast tea": {
+   "price_gbp": 3.49,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "English Breakfast Tea"
+  },
+  "green tea": {
+   "price_gbp": 3.49,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Green Tea"
+  },
+  "mint tea": {
+   "price_gbp": 3.49,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Mint Tea"
+  },
+  "costa latte rtd 330ml": {
+   "price_gbp": 3.25,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Costa Latte RTD 330ml"
+  },
+  "innocent immunity shot": {
+   "price_gbp": 2.5,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Innocent Immunity Shot"
+  },
+  "costa coffee caramel latte bottle 330ml": {
+   "price_gbp": 3.25,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Costa Coffee Caramel Latte Bottle 330ml"
+  },
+  "innocent plus citrus shield juice": {
+   "price_gbp": 4.0,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Innocent Plus Citrus Shield Juice"
+  },
+  "innocent orange juice 250ml": {
+   "price_gbp": 3.15,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Innocent Orange Juice 250ml"
+  },
+  "innocent apple juice 250ml": {
+   "price_gbp": 3.15,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Innocent Apple Juice 250ml"
+  },
+  "innocent kids smoothie": {
+   "price_gbp": 2.25,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Innocent Kids Smoothie"
+  },
+  "coca-cola original taste": {
+   "price_gbp": 3.15,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Coca-Cola Original Taste"
+  },
+  "diet coke": {
+   "price_gbp": 3.05,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Diet Coke"
+  },
+  "coca-cola zero sugar": {
+   "price_gbp": 3.05,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Coca-Cola Zero Sugar"
+  },
+  "dr pepper zero 500ml": {
+   "price_gbp": 3.05,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Dr Pepper Zero 500ml"
+  },
+  "fanta orange": {
+   "price_gbp": 3.05,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Fanta Orange"
+  },
+  "sprite zero": {
+   "price_gbp": 3.05,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Sprite Zero"
+  },
+  "oasis summer fruits zero 500ml": {
+   "price_gbp": 3.05,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Oasis Summer Fruits Zero 500ml"
+  },
+  "oasis exotic fruits zero 500ml": {
+   "price_gbp": 3.05,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Oasis Exotic Fruits Zero 500ml"
+  },
+  "smartwater still": {
+   "price_gbp": 2.95,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "SmartWater Still"
+  },
+  "smartwater sparkling": {
+   "price_gbp": 2.95,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "SmartWater Sparkling"
+  },
+  "bonne maman bitter orange marmalade 30g": {
+   "price_gbp": 0.4,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Bonne Maman Bitter Orange Marmalade 30g"
+  },
+  "bonne maman honey 30g": {
+   "price_gbp": 0.4,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Bonne Maman Honey 30g"
+  },
+  "bonne maman strawberry conserve 30g": {
+   "price_gbp": 0.4,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Bonne Maman Strawberry Conserve 30g"
+  },
+  "heinz tomato ketchup sachets 10ml": {
+   "price_gbp": 0.1,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Heinz Tomato Ketchup Sachets 10ml"
+  },
+  "hp brown sauce sachets 10ml": {
+   "price_gbp": 0.1,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "HP Brown Sauce Sachets 10ml"
+  },
+  "lunch meal for 1": {
+   "price_gbp": 10.0,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Lunch Meal For 1"
+  },
+  "lunch + crisps meal for 1": {
+   "price_gbp": 11.0,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Lunch + Crisps Meal for 1"
+  },
+  "afternoon coffee & cake deal": {
+   "price_gbp": 7.49,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Afternoon Coffee & Cake Deal"
+  },
+  "frappe friday": {
+   "price_gbp": 9.0,
+   "basis": "delivery",
+   "store": "Costa Coffee - Carshalton High St",
+   "name": "Frappe Friday"
+  }
+ }
+}
