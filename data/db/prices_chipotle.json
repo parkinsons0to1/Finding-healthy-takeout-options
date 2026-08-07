@@ -1,0 +1,42 @@
+{
+ "chain_id": "chipotle",
+ "fetched_at": "2026-08-07T12:11:31Z",
+ "store": "Chipotle Mexican Grill - Dulwich",
+ "stores": [
+  "Chipotle Mexican Grill - Dulwich"
+ ],
+ "basis": "delivery",
+ "item_count": 5,
+ "prices": {
+  "barbacoa": {
+   "price_gbp": 14.9,
+   "basis": "delivery",
+   "store": "Chipotle Mexican Grill - Dulwich",
+   "name": "Barbacoa"
+  },
+  "sofritas (braised tofu)": {
+   "price_gbp": 13.5,
+   "basis": "delivery",
+   "store": "Chipotle Mexican Grill - Dulwich",
+   "name": "Sofritas (braised tofu)"
+  },
+  "chicken": {
+   "price_gbp": 13.5,
+   "basis": "delivery",
+   "store": "Chipotle Mexican Grill - Dulwich",
+   "name": "Chicken"
+  },
+  "steak": {
+   "price_gbp": 14.9,
+   "basis": "delivery",
+   "store": "Chipotle Mexican Grill - Dulwich",
+   "name": "Steak"
+  },
+  "carnitas": {
+   "price_gbp": 14.5,
+   "basis": "delivery",
+   "store": "Chipotle Mexican Grill - Dulwich",
+   "name": "Carnitas"
+  }
+ }
+}
