@@ -1,0 +1,474 @@
+{
+ "chain_id": "ask_italian",
+ "fetched_at": "2026-08-07T16:52:26Z",
+ "store": "ASK Italian - Epsom (KT19 8DD)",
+ "stores": [
+  "ASK Italian - Epsom (KT19 8DD)"
+ ],
+ "basis": "collection",
+ "item_count": 78,
+ "prices": {
+  "italian olives": {
+   "price_gbp": 4.25,
+   "basis": "collection",
+   "store": "ASK Italian - Epsom (KT19 8DD)",
+   "name": "Italian Olives"
+  },
+  "new garlic bread": {
+   "price_gbp": 6.95,
+   "basis": "collection",
+   "store": "ASK Italian - Epsom (KT19 8DD)",
+   "name": "NEW Garlic Bread"
+  },
+  "new mozzarella garlic bread": {
+   "price_gbp": 7.95,
+   "basis": "collection",
+   "store": "ASK Italian - Epsom (KT19 8DD)",
+   "name": "NEW Mozzarella Garlic Bread"
+  },
+  "tomato & cheese dough bites": {
+   "price_gbp": 9.5,
+   "basis": "collection",
+   "store": "ASK Italian - Epsom (KT19 8DD)",
+   "name": "Tomato & Cheese Dough Bites"
+  },
+  "'nduja & cheese dough bites": {
+   "price_gbp": 9.5,
+   "basis": "collection",
+   "store": "ASK Italian - Epsom (KT19 8DD)",
+   "name": "'Nduja & Cheese Dough Bites"
+  },
+  "pesto & cheese dough bites": {
+   "price_gbp": 9.5,
+   "basis": "collection",
+   "store": "ASK Italian - Epsom (KT19 8DD)",
+   "name": "Pesto & Cheese Dough Bites"
+  },
+  "rosemary & olive oil bread": {
+   "price_gbp": 6.75,
+   "basis": "collection",
+   "store": "ASK Italian - Epsom (KT19 8DD)",
+   "name": "Rosemary & Olive Oil Bread"
+  },
+  "antipasti classico": {
+   "price_gbp": 14.95,
+   "basis": "collection",
+   "store": "ASK Italian - Epsom (KT19 8DD)",
+   "name": "Antipasti Classico"
+  },
+  "crispy pepperoni": {
+   "price_gbp": 3.95,
+   "basis": "collection",
+   "store": "ASK Italian - Epsom (KT19 8DD)",
+   "name": "Crispy Pepperoni"
+  },
+  "chicken lecca-lecca x3": {
+   "price_gbp": 8.25,
+   "basis": "collection",
+   "store": "ASK Italian - Epsom (KT19 8DD)",
+   "name": "Chicken Lecca-Lecca x3"
+  },
+  "chicken lecca-lecca x5": {
+   "price_gbp": 9.75,
+   "basis": "collection",
+   "store": "ASK Italian - Epsom (KT19 8DD)",
+   "name": "Chicken Lecca-Lecca x5"
+  },
+  "large calamari": {
+   "price_gbp": 14.95,
+   "basis": "collection",
+   "store": "ASK Italian - Epsom (KT19 8DD)",
+   "name": "Large Calamari"
+  },
+  "small calamari": {
+   "price_gbp": 8.95,
+   "basis": "collection",
+   "store": "ASK Italian - Epsom (KT19 8DD)",
+   "name": "Small Calamari"
+  },
+  "trio of arancini": {
+   "price_gbp": 7.95,
+   "basis": "collection",
+   "store": "ASK Italian - Epsom (KT19 8DD)",
+   "name": "Trio of Arancini"
+  },
+  "pollo piccante crocchettes - summer special": {
+   "price_gbp": 8.5,
+   "basis": "collection",
+   "store": "ASK Italian - Epsom (KT19 8DD)",
+   "name": "Pollo Piccante Crocchettes - Summer Special"
+  },
+  "chips": {
+   "price_gbp": 5.25,
+   "basis": "collection",
+   "store": "ASK Italian - Epsom (KT19 8DD)",
+   "name": "Chips"
+  },
+  "zucchini fritti": {
+   "price_gbp": 5.25,
+   "basis": "collection",
+   "store": "ASK Italian - Epsom (KT19 8DD)",
+   "name": "Zucchini Fritti"
+  },
+  "side salad": {
+   "price_gbp": 5.25,
+   "basis": "collection",
+   "store": "ASK Italian - Epsom (KT19 8DD)",
+   "name": "Side Salad"
+  },
+  "vegan lecca-lecca x3": {
+   "price_gbp": 8.25,
+   "basis": "collection",
+   "store": "ASK Italian - Epsom (KT19 8DD)",
+   "name": "Vegan Lecca-Lecca x3"
+  },
+  "vegan lecca-lecca x5": {
+   "price_gbp": 9.75,
+   "basis": "collection",
+   "store": "ASK Italian - Epsom (KT19 8DD)",
+   "name": "Vegan Lecca-Lecca x5"
+  },
+  "vegan margherita pizza": {
+   "price_gbp": 14.25,
+   "basis": "collection",
+   "store": "ASK Italian - Epsom (KT19 8DD)",
+   "name": "Vegan Margherita Pizza"
+  },
+  "vegan lentil ragu": {
+   "price_gbp": 14.75,
+   "basis": "collection",
+   "store": "ASK Italian - Epsom (KT19 8DD)",
+   "name": "Vegan Lentil Ragu"
+  },
+  "vegan spaghetti pomodoro pasta": {
+   "price_gbp": 13.95,
+   "basis": "collection",
+   "store": "ASK Italian - Epsom (KT19 8DD)",
+   "name": "Vegan Spaghetti Pomodoro Pasta"
+  },
+  "primavera": {
+   "price_gbp": 16.25,
+   "basis": "collection",
+   "store": "ASK Italian - Epsom (KT19 8DD)",
+   "name": "Primavera"
+  },
+  "fiery trio de carne": {
+   "price_gbp": 18.25,
+   "basis": "collection",
+   "store": "ASK Italian - Epsom (KT19 8DD)",
+   "name": "Fiery Trio De Carne"
+  },
+  "pollo roquito": {
+   "price_gbp": 17.75,
+   "basis": "collection",
+   "store": "ASK Italian - Epsom (KT19 8DD)",
+   "name": "Pollo Roquito"
+  },
+  "salami misti": {
+   "price_gbp": 17.95,
+   "basis": "collection",
+   "store": "ASK Italian - Epsom (KT19 8DD)",
+   "name": "Salami Misti"
+  },
+  "margherita": {
+   "price_gbp": 14.25,
+   "basis": "collection",
+   "store": "ASK Italian - Epsom (KT19 8DD)",
+   "name": "Margherita"
+  },
+  "stromboli": {
+   "price_gbp": 16.5,
+   "basis": "collection",
+   "store": "ASK Italian - Epsom (KT19 8DD)",
+   "name": "Stromboli"
+  },
+  "stromboli with chillies": {
+   "price_gbp": 16.5,
+   "basis": "collection",
+   "store": "ASK Italian - Epsom (KT19 8DD)",
+   "name": "Stromboli with Chillies"
+  },
+  "pollo coppa e funghi": {
+   "price_gbp": 16.95,
+   "basis": "collection",
+   "store": "ASK Italian - Epsom (KT19 8DD)",
+   "name": "Pollo Coppa E Funghi"
+  },
+  "truffle funghi": {
+   "price_gbp": 16.95,
+   "basis": "collection",
+   "store": "ASK Italian - Epsom (KT19 8DD)",
+   "name": "Truffle Funghi"
+  },
+  "pomodoro pesto": {
+   "price_gbp": 13.5,
+   "basis": "collection",
+   "store": "ASK Italian - Epsom (KT19 8DD)",
+   "name": "Pomodoro Pesto"
+  },
+  "calzone carne piccante": {
+   "price_gbp": 18.25,
+   "basis": "collection",
+   "store": "ASK Italian - Epsom (KT19 8DD)",
+   "name": "Calzone Carne Piccante"
+  },
+  "garlic king prawn tagliatelle": {
+   "price_gbp": 19.25,
+   "basis": "collection",
+   "store": "ASK Italian - Epsom (KT19 8DD)",
+   "name": "Garlic King Prawn Tagliatelle"
+  },
+  "burrata & pancetta carbonara": {
+   "price_gbp": 17.95,
+   "basis": "collection",
+   "store": "ASK Italian - Epsom (KT19 8DD)",
+   "name": "Burrata & Pancetta Carbonara"
+  },
+  "'nduja & luganica sausage tagliatelle": {
+   "price_gbp": 18.75,
+   "basis": "collection",
+   "store": "ASK Italian - Epsom (KT19 8DD)",
+   "name": "'Nduja & Luganica Sausage Tagliatelle"
+  },
+  "slow-cooked beef pappardelle": {
+   "price_gbp": 18.5,
+   "basis": "collection",
+   "store": "ASK Italian - Epsom (KT19 8DD)",
+   "name": "Slow-cooked Beef Pappardelle"
+  },
+  "pesto stracciatella tagliatelle": {
+   "price_gbp": 18.5,
+   "basis": "collection",
+   "store": "ASK Italian - Epsom (KT19 8DD)",
+   "name": "Pesto Stracciatella Tagliatelle"
+  },
+  "lasagne grande": {
+   "price_gbp": 20.95,
+   "basis": "collection",
+   "store": "ASK Italian - Epsom (KT19 8DD)",
+   "name": "Lasagne Grande"
+  },
+  "manzo piccante": {
+   "price_gbp": 16.95,
+   "basis": "collection",
+   "store": "ASK Italian - Epsom (KT19 8DD)",
+   "name": "Manzo Piccante"
+  },
+  "fettuccine bolognese": {
+   "price_gbp": 15.95,
+   "basis": "collection",
+   "store": "ASK Italian - Epsom (KT19 8DD)",
+   "name": "Fettuccine Bolognese"
+  },
+  "spaghetti al pomodoro with burrata": {
+   "price_gbp": 16.45,
+   "basis": "collection",
+   "store": "ASK Italian - Epsom (KT19 8DD)",
+   "name": "Spaghetti Al Pomodoro with Burrata"
+  },
+  "linguine carbonara": {
+   "price_gbp": 16.75,
+   "basis": "collection",
+   "store": "ASK Italian - Epsom (KT19 8DD)",
+   "name": "Linguine Carbonara"
+  },
+  "fettuccine lentil ragu": {
+   "price_gbp": 14.75,
+   "basis": "collection",
+   "store": "ASK Italian - Epsom (KT19 8DD)",
+   "name": "Fettuccine Lentil Ragu"
+  },
+  "spaghetti bolognese": {
+   "price_gbp": 15.95,
+   "basis": "collection",
+   "store": "ASK Italian - Epsom (KT19 8DD)",
+   "name": "Spaghetti Bolognese"
+  },
+  "linguine con frutti di mare": {
+   "price_gbp": 17.5,
+   "basis": "collection",
+   "store": "ASK Italian - Epsom (KT19 8DD)",
+   "name": "Linguine Con Frutti Di Mare"
+  },
+  "lasagne": {
+   "price_gbp": 16.95,
+   "basis": "collection",
+   "store": "ASK Italian - Epsom (KT19 8DD)",
+   "name": "Lasagne"
+  },
+  "funghi della casa": {
+   "price_gbp": 15.5,
+   "basis": "collection",
+   "store": "ASK Italian - Epsom (KT19 8DD)",
+   "name": "Funghi Della Casa"
+  },
+  "vegetarian linguine carbonara": {
+   "price_gbp": 16.75,
+   "basis": "collection",
+   "store": "ASK Italian - Epsom (KT19 8DD)",
+   "name": "Vegetarian Linguine Carbonara"
+  },
+  "funghi della casa with chicken": {
+   "price_gbp": 18.0,
+   "basis": "collection",
+   "store": "ASK Italian - Epsom (KT19 8DD)",
+   "name": "Funghi Della Casa with Chicken"
+  },
+  "spaghetti al pomodoro": {
+   "price_gbp": 13.95,
+   "basis": "collection",
+   "store": "ASK Italian - Epsom (KT19 8DD)",
+   "name": "Spaghetti Al Pomodoro"
+  },
+  "pollo milanese with chips": {
+   "price_gbp": 18.25,
+   "basis": "collection",
+   "store": "ASK Italian - Epsom (KT19 8DD)",
+   "name": "Pollo Milanese with Chips"
+  },
+  "pollo milanese with potatoes": {
+   "price_gbp": 18.25,
+   "basis": "collection",
+   "store": "ASK Italian - Epsom (KT19 8DD)",
+   "name": "Pollo Milanese with Potatoes"
+  },
+  "tuscan chicken orzotto": {
+   "price_gbp": 18.75,
+   "basis": "collection",
+   "store": "ASK Italian - Epsom (KT19 8DD)",
+   "name": "Tuscan Chicken Orzotto"
+  },
+  "garden grain bowl": {
+   "price_gbp": 15.25,
+   "basis": "collection",
+   "store": "ASK Italian - Epsom (KT19 8DD)",
+   "name": "Garden Grain Bowl"
+  },
+  "smoky chilli chicken salad": {
+   "price_gbp": 17.25,
+   "basis": "collection",
+   "store": "ASK Italian - Epsom (KT19 8DD)",
+   "name": "Smoky Chilli Chicken Salad"
+  },
+  "tiramisu": {
+   "price_gbp": 7.95,
+   "basis": "collection",
+   "store": "ASK Italian - Epsom (KT19 8DD)",
+   "name": "Tiramisu"
+  },
+  "biscoff cheesecake": {
+   "price_gbp": 7.5,
+   "basis": "collection",
+   "store": "ASK Italian - Epsom (KT19 8DD)",
+   "name": "Biscoff Cheesecake"
+  },
+  "caramello chocolate torta": {
+   "price_gbp": 7.95,
+   "basis": "collection",
+   "store": "ASK Italian - Epsom (KT19 8DD)",
+   "name": "Caramello Chocolate Torta"
+  },
+  "spaghetti & mighty meatballs": {
+   "price_gbp": 4.5,
+   "basis": "collection",
+   "store": "ASK Italian - Epsom (KT19 8DD)",
+   "name": "Spaghetti & Mighty Meatballs"
+  },
+  "presto pesto chicken with curly pasta": {
+   "price_gbp": 4.5,
+   "basis": "collection",
+   "store": "ASK Italian - Epsom (KT19 8DD)",
+   "name": "Presto pesto Chicken with curly pasta"
+  },
+  "creamy cheesy carbonara with curly pasta": {
+   "price_gbp": 4.5,
+   "basis": "collection",
+   "store": "ASK Italian - Epsom (KT19 8DD)",
+   "name": "Creamy cheesy carbonara with curly pasta"
+  },
+  "happy face pizza": {
+   "price_gbp": 4.5,
+   "basis": "collection",
+   "store": "ASK Italian - Epsom (KT19 8DD)",
+   "name": "Happy Face Pizza"
+  },
+  "non-gluten margherita": {
+   "price_gbp": 14.25,
+   "basis": "collection",
+   "store": "ASK Italian - Epsom (KT19 8DD)",
+   "name": "Non-Gluten Margherita"
+  },
+  "non-gluten stromboli": {
+   "price_gbp": 16.5,
+   "basis": "collection",
+   "store": "ASK Italian - Epsom (KT19 8DD)",
+   "name": "Non-Gluten Stromboli"
+  },
+  "non-gluten carbonara": {
+   "price_gbp": 16.25,
+   "basis": "collection",
+   "store": "ASK Italian - Epsom (KT19 8DD)",
+   "name": "Non-Gluten Carbonara"
+  },
+  "non-gluten pomodoro": {
+   "price_gbp": 13.75,
+   "basis": "collection",
+   "store": "ASK Italian - Epsom (KT19 8DD)",
+   "name": "Non-Gluten Pomodoro"
+  },
+  "non-gluten bolognese": {
+   "price_gbp": 15.5,
+   "basis": "collection",
+   "store": "ASK Italian - Epsom (KT19 8DD)",
+   "name": "Non-Gluten Bolognese"
+  },
+  "non-gluten vegan lentil ragu": {
+   "price_gbp": 14.5,
+   "basis": "collection",
+   "store": "ASK Italian - Epsom (KT19 8DD)",
+   "name": "Non-Gluten Vegan Lentil Ragu"
+  },
+  "san pellegrino limonata (lemon) 330ml": {
+   "price_gbp": 3.95,
+   "basis": "collection",
+   "store": "ASK Italian - Epsom (KT19 8DD)",
+   "name": "San Pellegrino Limonata (Lemon) 330ML"
+  },
+  "san pellegrino aranciata rossa (blood orange) 330ml": {
+   "price_gbp": 3.95,
+   "basis": "collection",
+   "store": "ASK Italian - Epsom (KT19 8DD)",
+   "name": "San Pellegrino Aranciata Rossa (Blood Orange) 330ML"
+  },
+  "appletiser - 275 ml": {
+   "price_gbp": 3.95,
+   "basis": "collection",
+   "store": "ASK Italian - Epsom (KT19 8DD)",
+   "name": "Appletiser - 275 ml"
+  },
+  "coca cola- 330ml": {
+   "price_gbp": 3.95,
+   "basis": "collection",
+   "store": "ASK Italian - Epsom (KT19 8DD)",
+   "name": "Coca Cola- 330ml"
+  },
+  "diet coke- 330ml": {
+   "price_gbp": 3.95,
+   "basis": "collection",
+   "store": "ASK Italian - Epsom (KT19 8DD)",
+   "name": "Diet Coke- 330ml"
+  },
+  "coke zero- 330ml": {
+   "price_gbp": 3.95,
+   "basis": "collection",
+   "store": "ASK Italian - Epsom (KT19 8DD)",
+   "name": "Coke Zero- 330ml"
+  },
+  "sprite- 330ml": {
+   "price_gbp": 3.95,
+   "basis": "collection",
+   "store": "ASK Italian - Epsom (KT19 8DD)",
+   "name": "Sprite- 330ml"
+  }
+ }
+}

@@ -340,6 +340,45 @@ def test_convenience_retailers_are_not_treated_as_unrankable_food_chains():
         assert chain_id in SUPERMARKET_CHAINS, chain_id
 
 
+def test_price_caches_carry_no_zero_priced_or_channel_misattributed_rows():
+    """Two defects found in the same review pass, both about a scraped price
+    file claiming something buyable that isn't:
+
+    Pret's Just Eat catalogue lists a real, non-DealOnly "Allergen Guide"
+    entry at a literal £0.00 — an informational link, not a free item.
+    `price is None` alone let it through.
+
+    Zizzi's collection-channel API serves items self-labelled "DELIVERY
+    EXCLUSIVE" in their own name, unhidden and fully priced — the only
+    signal they can't actually be bought in the shop is that literal string.
+    Serving one at basis="collection" would tell a customer they can walk in
+    and buy something Zizzi's own data says they can't.
+
+    Checks the committed cache files directly (skips a chain not yet run in
+    this checkout), the same style `test_live_prices_take_precedence_over_
+    estimates` uses, so a regenerated file is caught same as a code change."""
+    import json
+    import pathlib
+
+    db = pathlib.Path(__file__).resolve().parents[1] / "data" / "db"
+
+    cache = db / "prices_pret.json"
+    if cache.exists():
+        rows = json.loads(cache.read_text()).get("prices", {})
+        zero = [n for n, v in rows.items() if v["price_gbp"] <= 0]
+        assert not zero, f"pret: zero-priced non-food rows leaked in: {zero}"
+
+    cache = db / "prices_zizzi.json"
+    if cache.exists():
+        rows = json.loads(cache.read_text()).get("prices", {})
+        collection_only_exclusives = [
+            v["name"] for v in rows.values()
+            if v.get("basis") == "collection"
+            and v["name"].upper().startswith("DELIVERY EXCLUSIVE")]
+        assert not collection_only_exclusives, \
+            f"zizzi: delivery-exclusive items served as collection: {collection_only_exclusives}"
+
+
 def _run_all() -> int:
     failures = 0
     for name, fn in sorted(globals().items()):
