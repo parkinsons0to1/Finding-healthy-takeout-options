@@ -18,20 +18,17 @@ from .base import fetch_protected, session
 from .generic_pdf import fetch_from_pdf
 
 #: chain_id -> (landing page or PDF, link-matching hint, label)
+#:
+#: five_guys and krispy_kreme moved to scrapers/chains/ — both publish two
+#: nutrition blocks per row (per-serving/per-portion AND per-100g) and this
+#: generic first-header-match parser cannot reliably tell them apart (see the
+#: module docstrings in chains/five_guys.py and chains/krispy_kreme.py for
+#: what went wrong and why a bespoke column-position parser was needed).
 PDF_CHAINS: dict[str, tuple[str, str, str]] = {
-    "five_guys": (
-        "https://www.fiveguys.co.uk/nutrition",
-        r"allergen|nutrition",
-        "brand PDF (Five Guys UK allergen & nutrition)"),
     "starbucks": (
         "https://www.starbucks.co.uk/nutrition",
         r"allergen|nutrition",
         "brand PDF (Starbucks UK allergen book)"),
-    "krispy_kreme": (
-        "https://krispykreme.co.uk/media/wysiwyg/PDFs/"
-        "UK_Drinks_Allergen_Nutrition_Book_310726.pdf",
-        r"allergen|nutrition",
-        "brand PDF (Krispy Kreme UK nutrition book)"),
 }
 
 _PDF_LINK = re.compile(r'href="([^"]+\.pdf[^"]*)"', re.I)

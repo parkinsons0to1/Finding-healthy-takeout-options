@@ -118,11 +118,15 @@ _NON_PRODUCT_CATEGORY_RE = re.compile(
 
 #: **Per-100g rows, which cannot be ranked against a per-item price.**
 #:
-#: Some chains publish nutrition per 100g rather than per portion — Five Guys'
-#: entire UK table is per 100g, as is Krispy Kreme's. Their protein *share* is
-#: still true, so they sail through the 35% gate, but protein-per-pound is
-#: nonsense: it divides 100g of food by the price of a whole one. A Five Guys
-#: Hamburger reads as 314 kcal when the burger is roughly 700.
+#: Some chains publish nutrition per 100g rather than per portion — Hotel
+#: Chocolat's entire table is per 100g. Their protein *share* is still true,
+#: so they sail through the 35% gate, but protein-per-pound is nonsense: it
+#: divides 100g of food by the price of a whole one.
+#:
+#: Five Guys and Krispy Kreme used to be per-100g here too, but both actually
+#: publish per-serving/per-portion nutrition right next to the per-100g
+#: numbers in the same PDF table — the bug was in column selection, not a
+#: missing source. See scrapers/chains/five_guys.py and krispy_kreme.py.
 #:
 #: The negative lookbehind matters — Papa John's says "whole pizza, 1100g, 10
 #: slices", which contains "100g" and is emphatically per-item.
