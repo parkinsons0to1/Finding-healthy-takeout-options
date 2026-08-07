@@ -1,0 +1,96 @@
+{
+ "chain_id": "tortilla",
+ "fetched_at": "2026-08-07T16:50:34Z",
+ "store": "Tortilla - Wimbledon",
+ "stores": [
+  "Tortilla - Wimbledon"
+ ],
+ "basis": "collection",
+ "item_count": 14,
+ "prices": {
+  "chicken asado (medium burrito/bowl)": {
+   "price_gbp": 11.7,
+   "basis": "collection",
+   "store": "Tortilla - Wimbledon",
+   "name": "Chicken Asado (MeDiuM Burrito/Bowl)"
+  },
+  "beef barbacoa (medium burrito/bowl)": {
+   "price_gbp": 13.3,
+   "basis": "collection",
+   "store": "Tortilla - Wimbledon",
+   "name": "Beef Barbacoa (MeDiuM Burrito/Bowl)"
+  },
+  "pork carnitas (medium burrito/bowl)": {
+   "price_gbp": 11.7,
+   "basis": "collection",
+   "store": "Tortilla - Wimbledon",
+   "name": "Pork Carnitas (MeDiuM Burrito/Bowl)"
+  },
+  "grilled veg (filling) (medium burrito/bowl)": {
+   "price_gbp": 11.7,
+   "basis": "collection",
+   "store": "Tortilla - Wimbledon",
+   "name": "Grilled Veg (filling) (MeDiuM Burrito/Bowl)"
+  },
+  "vegan chilli (medium burrito/bowl)": {
+   "price_gbp": 11.7,
+   "basis": "collection",
+   "store": "Tortilla - Wimbledon",
+   "name": "Vegan Chilli (MeDiuM Burrito/Bowl)"
+  },
+  "chicken asado (medium salad)": {
+   "price_gbp": 11.7,
+   "basis": "collection",
+   "store": "Tortilla - Wimbledon",
+   "name": "Chicken Asado (MeDiuM salaD)"
+  },
+  "barbacoa beef (medium salad)": {
+   "price_gbp": 13.3,
+   "basis": "collection",
+   "store": "Tortilla - Wimbledon",
+   "name": "Barbacoa Beef (MeDiuM salaD)"
+  },
+  "pork carnitas (medium salad)": {
+   "price_gbp": 11.7,
+   "basis": "collection",
+   "store": "Tortilla - Wimbledon",
+   "name": "Pork Carnitas (MeDiuM salaD)"
+  },
+  "grilled veg (filling) (medium salad)": {
+   "price_gbp": 11.7,
+   "basis": "collection",
+   "store": "Tortilla - Wimbledon",
+   "name": "Grilled Veg (filling) (MeDiuM salaD)"
+  },
+  "vegan chilli (medium salad)": {
+   "price_gbp": 11.7,
+   "basis": "collection",
+   "store": "Tortilla - Wimbledon",
+   "name": "Vegan Chilli (MeDiuM salaD)"
+  },
+  "chicken asado (protein pots)": {
+   "price_gbp": 6.2,
+   "basis": "collection",
+   "store": "Tortilla - Wimbledon",
+   "name": "Chicken Asado (protein pots)"
+  },
+  "beef barbacoa (protein pots)": {
+   "price_gbp": 7.5,
+   "basis": "collection",
+   "store": "Tortilla - Wimbledon",
+   "name": "Beef Barbacoa (protein pots)"
+  },
+  "pork carnitas (protein pots)": {
+   "price_gbp": 6.2,
+   "basis": "collection",
+   "store": "Tortilla - Wimbledon",
+   "name": "Pork Carnitas (protein pots)"
+  },
+  "vegan chilli (protein pots)": {
+   "price_gbp": 6.2,
+   "basis": "collection",
+   "store": "Tortilla - Wimbledon",
+   "name": "Vegan Chilli (protein pots)"
+  }
+ }
+}
