@@ -26,9 +26,15 @@ from scripts.halal.sources import hmc_registry, just_eat       # noqa: E402
 
 def test_price_lookup_does_not_substring_match_portions():
     """'2 Hot Wings' was matching the '12 Hot Wings' price (£8.79 for a
-    2-piece), badly distorting protein-per-pound."""
+    2-piece), badly distorting protein-per-pound.
+
+    The assertion is deliberately about *which row* was matched, not about a
+    pound value: the live adapter reprices these every run (the 12-wing
+    estimate of £10.99 turned out to be £9.99 collection), and pinning the
+    number would make this test fail on a price change rather than on the
+    defect it exists to catch."""
     twelve = price_for("popeyes", "12 Hot Wings")
-    assert twelve and twelve.price_gbp == 10.99
+    assert twelve is not None, "'12 Hot Wings' lost its price"
     two = price_for("popeyes", "2 Hot Wings")
     assert two is None, f"'2 Hot Wings' wrongly priced at {two.price_gbp}"
 
