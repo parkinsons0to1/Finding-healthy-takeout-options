@@ -1,0 +1,10 @@
+{
+  "chain_id": "morleys",
+  "status": "unresolved",
+  "source_url": "https://www.morleyschicken.com/allergens",
+  "source_type": "",
+  "label": "Morley's Chicken \u2014 not yet found",
+  "item_count": 0,
+  "samples": [],
+  "notes": "UNRESOLVED \u2014 not yet found. morleyschicken.com is a Wix site. Fetched / , /allergens and /our-food-2 (all HTTP 200, 0.5-1.2 MB of HTML each): zero occurrences of \"kcal\", \"protein\" or \"calor\" in any of them, and no PDF links and no data iframes (the only iframes are Instagram reels). The allergen page content is rendered from Wix app data (warmupData / wixapps / dataset markers present) rather than static HTML, so a browser render or the underlying Wix Data collection endpoint may expose more than the raw HTML does \u2014 that was not reachable here (Playwright/Chromium gets ERR_CONNECTION_RESET through this environment's proxy). No brand statement found about whether nutrition is published. NEXT STEPS: render the Wix page and capture its /_api/ data calls, or check the Morley's ordering app."
+}

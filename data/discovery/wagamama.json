@@ -1,0 +1,36 @@
+{
+  "chain_id": "wagamama",
+  "status": "verified",
+  "source_url": "https://menus.tenkites.com/wagamamauk/wagamamainternalallergymatrix",
+  "source_type": "html_table",
+  "label": "wagamama allergen & nutrition matrix (Tenkites), linked from wagamama.com/allergen-information",
+  "item_count": 172,
+  "samples": [
+    {
+      "name": "buldak fire wings",
+      "kcal": 780.0,
+      "protein_g": 68.6
+    },
+    {
+      "name": "buldak bibimbap",
+      "kcal": 1012.0,
+      "protein_g": 38.8
+    },
+    {
+      "name": "spicy smashed cucumber",
+      "kcal": 224.0,
+      "protein_g": 3.2
+    },
+    {
+      "name": "wok-fried greens",
+      "kcal": 163.0,
+      "protein_g": 4.1
+    },
+    {
+      "name": "edamame with salt",
+      "kcal": 280.0,
+      "protein_g": 24.0
+    }
+  ],
+  "notes": "Server-rendered Tenkites k10 matrix. Each recipe row carries data-nutrient-name=\"energy (kcal)\" / \"protein (g)\" / \"carb (g)\" / \"fat (g)\" / \"salt (g)\" / \"fibre (g)\" divs and the dish name in span.k10-w-recipe__name. Note the sibling URL wagamamaallergentablet returns a Tenkites 404."
+}

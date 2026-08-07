@@ -1,0 +1,18 @@
+{
+  "chain_id": "hotel_chocolat",
+  "status": "verified",
+  "source_url": "https://www.hotelchocolat.com/mobify/proxy/api/product/shopper-products/v1/organizations/f_ecom_aazp_prd/products",
+  "source_type": "json_api",
+  "label": "Hotel Chocolat UK catalogue via Salesforce Commerce API (SCAPI) product custom attributes, per 100g",
+  "item_count": 402,
+  "basis": "per 100g",
+  "samples": [
+    {"name": "Black Cat Martini", "kcal": 527.0, "protein_g": 6.1},
+    {"name": "Whisky & Amaretto in Caramel", "kcal": 516.0, "protein_g": 5.8},
+    {"name": "Florentine Isabelle Selector", "kcal": 578.0, "protein_g": 10.1},
+    {"name": "Dark Chocolate Covered Ginger", "kcal": 407.0, "protein_g": 3.0},
+    {"name": "40% Milk Chocolate Slab", "kcal": 577.0, "protein_g": 7.3},
+    {"name": "Gianduja Chocolate Selector", "kcal": 615.0, "protein_g": 10.2}
+  ],
+  "notes": "VERIFIED. hotelchocolat.com/uk is a Salesforce PWA Kit storefront; there is no nutrition PDF and the human-facing page /uk/i/allergens-nutritional-information.html renders to one line of text ('Home / Nutritional Page') because everything is client-side. Macros live as SFCC custom attributes on VARIANT products: c_nutritionEnergyKcal, c_nutritionProtein, c_nutritionFat, c_nutritionCarbohydrates, c_nutritionSalt, c_nutritionSugars, c_nutritionFibre, c_nutritionSaturatedFat, c_ingredients. Field names were recovered by downloading the product-detail JS chunk /mobify/bundle/2499/7334.js and reading its getValue table. TRAP 1: the SSR'd <script id=\"mobify-data\"> blob on a product page carries the MASTER product (id ending 'm', e.g. 111465m) which has ZERO c_nutrition* attributes - only the variant (111465) has them, so reading the HTML alone falsely suggests no macros exist. TRAP 2: the SLAS client fa5e84ab-faf5-44e5-bde7-7e94f935b661 is a PRIVATE client - the public-client guest PKCE flow (/oauth2/authorize?hint=guest) returns 401 'incorrect client type'. The working guest token comes from the PWA Kit private-client proxy: POST https://www.hotelchocolat.com/mobify/slas/private/shopper/auth/v1/organizations/f_ecom_aazp_prd/oauth2/token with grant_type=client_credentials&channel_id=HotelChocolat (open, no secret needed, plain requests works). TRAP 3: /mobify/proxy/ocapi/... is Cloudflare-403 even with curl_cffi impersonation; /mobify/proxy/api/... (SCAPI) is not. Enumeration via product-search?refine=cgid=root (743 hits -> 463 distinct representedProducts ids), then products?ids= in batches of 24; 439 of 463 carry both kcal and protein, 402 after name dedup. All values are PER 100G (site header 'Per 100g'), not per portion. The site's Algolia index (app 1VVF4VUUP0) was also checked and contains NO nutrition fields."
+}

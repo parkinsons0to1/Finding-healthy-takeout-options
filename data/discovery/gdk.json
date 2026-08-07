@@ -1,0 +1,10 @@
+{
+  "chain_id": "gdk",
+  "status": "unresolved",
+  "source_url": "https://gdk.com/gb/allergen-information",
+  "source_type": "",
+  "label": "German Doner Kebab UK \u2014 not yet found",
+  "item_count": 0,
+  "samples": [],
+  "notes": "UNRESOLVED \u2014 not yet found. Checked: gdk.com geo-redirects US-proxied clients to /us/, the UK site is under /gb/ (gdk.com/gb, /gb/menu, /gb/allergen-information, /gb/our-food) and all of those fetch fine as plain HTTP 200 \u2014 Cloudflare was NOT a blocker this time. /gb/allergen-information renders a full server-side allergen matrix (contains / may-contain dots per product) with zero occurrences of \"kcal\"/\"energy\"/nutrition numbers. /gb/menu lists ~90 product URLs (gdk.com/gb/menu/gdk-<slug>); a sample product page (gdk-doner-gym-box) ships CSS classes .kcal-wrapper and .table-10-col-row, so the template CAN render a kcal table, but the rendered markup contains no such table and no numbers. Also checked order.gdk.com / www.order.gdk.com/takeaway (a store-picker page, no menu payload) and media.gdk.com (only a halal certificates PDF linked). No nutrition PDF found on gdk.com or media.gdk.com. NOT CHECKED / NEXT STEPS: render a /gb/menu/<product> page in a real browser to see whether the .kcal-wrapper table is populated by JS (Playwright is unusable here \u2014 Chromium gets ERR_CONNECTION_RESET through the proxy); inspect the GDK app (app store build) or a live store menu on the ordering platform; venue partners publish GDK menus with macros (e.g. theo2.co.uk asset PDF listing the Doner Gym Box) which would be third-party, not brand-official. No brand statement about nutrition publication was found either way."
+}

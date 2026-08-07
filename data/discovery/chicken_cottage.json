@@ -1,0 +1,10 @@
+{
+  "chain_id": "chicken_cottage",
+  "status": "unresolved",
+  "source_url": "https://chickencottage.com/allergens/",
+  "source_type": "",
+  "label": "Chicken Cottage \u2014 not yet found",
+  "item_count": 0,
+  "samples": [],
+  "notes": "UNRESOLVED \u2014 not yet found. chickencottage.com (WordPress) fetches fine. /allergens/ is HTTP 200 with zero occurrences of \"kcal\" or \"protein\" and no PDF links in the page body. Enumerated the whole WP media library via /wp-json/wp/v2/media (5 pages, 98 PDFs total) plus targeted searches for nutrition/nutritional/allergen: there is no asset with \"nutrition\" in its name; the newest allergen asset is /wp-content/uploads/2024/11/Allergen-Chart-Nov-2024.pdf, which I downloaded and read \u2014 it is a YES/NO/MAY matrix over the 14 allergens per product with no energy or protein columns. Also tried /nutrition and /menu (404). This is NOT a claim that Chicken Cottage publishes no nutrition data. NEXT STEPS: their ordering platform / app, franchisee packs, or an emailed request; also worth checking whether an in-store nutrition sheet exists as an image asset (several allergen charts are published as .jpg rather than PDF)."
+}

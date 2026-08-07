@@ -1,0 +1,10 @@
+{
+  "chain_id": "sushi_gourmet",
+  "status": "unresolved",
+  "source_url": "",
+  "source_type": null,
+  "label": null,
+  "item_count": 0,
+  "samples": [],
+  "notes": "NOT YET FOUND - not a claim that none exists. No brand-hosted UK nutrition source located. Searches returned only Open Food Facts barcode entries (3760228710453, 3701292626059, 3760228715687 etc - packaged retail sushi with per-100g panels transcribed by volunteers) and fatsecret. Sushi Gourmet operates as in-supermarket sushi counters, so per-item data may live on the host retailer's site or on pack labels rather than a chain site. NEXT STEPS: identify the operating company's UK website; check whether the host supermarkets (the counters appear in Tesco/Sainsbury's-style stores) publish the counter range; and consider the Open Food Facts API as a documented per-100g fallback if brand data cannot be found."
+}

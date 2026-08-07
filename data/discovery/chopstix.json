@@ -1,0 +1,36 @@
+{
+  "chain_id": "chopstix",
+  "status": "verified",
+  "source_url": "https://chopstixnoodles.co.uk/wp-content/uploads/2026/07/NUTRITIONAL-VALUES-V21-JULY-2026.pdf",
+  "source_type": "pdf",
+  "label": "Chopstix Nutritional Data V21 (July 2026)",
+  "item_count": 141,
+  "samples": [
+    {
+      "name": "Vegetable Chow Mein - TASTER BASE",
+      "kcal": 123.0,
+      "protein_g": 3.7
+    },
+    {
+      "name": "Vegetable Chow Mein - Small",
+      "kcal": 246.0,
+      "protein_g": 7.4
+    },
+    {
+      "name": "Vegetable Chow Mein - Regular",
+      "kcal": 308.0,
+      "protein_g": 9.3
+    },
+    {
+      "name": "Vegetable Chow Mein - Large",
+      "kcal": 369.0,
+      "protein_g": 11.1
+    },
+    {
+      "name": "Egg Fried Rice - TASTER BASE",
+      "kcal": 186.0,
+      "protein_g": 3.2
+    }
+  ],
+  "notes": "Linked from https://chopstixnoodles.co.uk/allergen-info/ (that page also links a separate allergen-only PDF, CUSTOMER-ALLERGENS-NON-QR-V21-JULY-2026.pdf - do not confuse them). 2 pages. GOTCHA: generic_pdf returns only 6 junk rows because it takes row[0] as the product name, but column 0 holds a 90-degree ROTATED section label (BASE CHOICE, TOPPING CHOICES, SIDE CHOICES, STIR MIX IN, DIPS, FLAVOUR BOOST) spanning many rows; the real name is in column 1 (Meal Components (per serving size)). Match the name column by header text instead. Columns: kJ, kcal, Fats, Sat Fats, Carbohydrate, Sugars, Fibre, Protein, Salt. Rows are build-your-own components at 4 portion sizes (TASTER BASE / Small / Regular / Large). Versioned filename under /wp-content/uploads/YYYY/MM/. All 141 pass protein*4<=kcal*1.15."
+}

@@ -1,0 +1,4918 @@
+{
+ "chain_id": "nandos",
+ "built_at": "2026-07-28T19:43:30Z",
+ "store_count": 491,
+ "halal_count": 110,
+ "stores": {
+  "baker-street": {
+   "chain_id": "nandos",
+   "slug": "baker-street",
+   "name": "Baker Street",
+   "postcode": "W1U 6RS",
+   "url": "https://www.nandos.co.uk/restaurants/baker-street",
+   "halal": true,
+   "lat": null,
+   "lng": null
+  },
+  "berners-street": {
+   "chain_id": "nandos",
+   "slug": "berners-street",
+   "name": "Berners Street",
+   "postcode": "W1T 3LA",
+   "url": "https://www.nandos.co.uk/restaurants/berners-street",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "clink-street": {
+   "chain_id": "nandos",
+   "slug": "clink-street",
+   "name": "Clink Street",
+   "postcode": "SE1 9DG",
+   "url": "https://www.nandos.co.uk/restaurants/clink-street",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "covent-garden": {
+   "chain_id": "nandos",
+   "slug": "covent-garden",
+   "name": "Covent Garden",
+   "postcode": "WC2N 4HG",
+   "url": "https://www.nandos.co.uk/restaurants/covent-garden",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "earls-court": {
+   "chain_id": "nandos",
+   "slug": "earls-court",
+   "name": "Earl&#x27;s Court",
+   "postcode": "SW5 9QF",
+   "url": "https://www.nandos.co.uk/restaurants/earls-court",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "glasshouse-street": {
+   "chain_id": "nandos",
+   "slug": "glasshouse-street",
+   "name": "Glasshouse Street",
+   "postcode": "W1B 5DR",
+   "url": "https://www.nandos.co.uk/restaurants/glasshouse-street",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "gloucester-road": {
+   "chain_id": "nandos",
+   "slug": "gloucester-road",
+   "name": "Gloucester Road",
+   "postcode": "SW7 4ST",
+   "url": "https://www.nandos.co.uk/restaurants/gloucester-road",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "great-portland-street": {
+   "chain_id": "nandos",
+   "slug": "great-portland-street",
+   "name": "Great Portland Street",
+   "postcode": "W1W 5QZ",
+   "url": "https://www.nandos.co.uk/restaurants/great-portland-street",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "holborn": {
+   "chain_id": "nandos",
+   "slug": "holborn",
+   "name": "Holborn",
+   "postcode": "WC1A 2EA",
+   "url": "https://www.nandos.co.uk/restaurants/holborn",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "kings-cross": {
+   "chain_id": "nandos",
+   "slug": "kings-cross",
+   "name": "Kings Cross",
+   "postcode": "N1 9AA",
+   "url": "https://www.nandos.co.uk/restaurants/kings-cross",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "liverpool-street-station": {
+   "chain_id": "nandos",
+   "slug": "liverpool-street-station",
+   "name": "Liverpool Street Station",
+   "postcode": "EC2M 7PY",
+   "url": "https://www.nandos.co.uk/restaurants/liverpool-street-station",
+   "halal": true,
+   "lat": null,
+   "lng": null
+  },
+  "middlesex-street": {
+   "chain_id": "nandos",
+   "slug": "middlesex-street",
+   "name": "Middlesex Street",
+   "postcode": "E1 7HY",
+   "url": "https://www.nandos.co.uk/restaurants/middlesex-street",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "old-street": {
+   "chain_id": "nandos",
+   "slug": "old-street",
+   "name": "Old Street",
+   "postcode": "EC1V 1JN",
+   "url": "https://www.nandos.co.uk/restaurants/old-street",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "paddington": {
+   "chain_id": "nandos",
+   "slug": "paddington",
+   "name": "Paddington",
+   "postcode": "W2 1JA",
+   "url": "https://www.nandos.co.uk/restaurants/paddington",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "soho": {
+   "chain_id": "nandos",
+   "slug": "soho",
+   "name": "Soho",
+   "postcode": "W1D 3JF",
+   "url": "https://www.nandos.co.uk/restaurants/soho",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "brunswick": {
+   "chain_id": "nandos",
+   "slug": "brunswick",
+   "name": "The Brunswick",
+   "postcode": "WC1N 1AE",
+   "url": "https://www.nandos.co.uk/restaurants/brunswick",
+   "halal": true,
+   "lat": null,
+   "lng": null
+  },
+  "victoria-cardinal-place": {
+   "chain_id": "nandos",
+   "slug": "victoria-cardinal-place",
+   "name": "Victoria - Cardinal Place",
+   "postcode": "SW1E 5JE",
+   "url": "https://www.nandos.co.uk/restaurants/victoria-cardinal-place",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "victoria-wilton-road": {
+   "chain_id": "nandos",
+   "slug": "victoria-wilton-road",
+   "name": "Victoria - Wilton Road",
+   "postcode": "SW1V 1DZ",
+   "url": "https://www.nandos.co.uk/restaurants/victoria-wilton-road",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "bishops-stortford": {
+   "chain_id": "nandos",
+   "slug": "bishops-stortford",
+   "name": "Bishop&#x27;s Stortford",
+   "postcode": "CM23 3UH",
+   "url": "https://www.nandos.co.uk/restaurants/bishops-stortford",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "brent-cross": {
+   "chain_id": "nandos",
+   "slug": "brent-cross",
+   "name": "Brent Cross",
+   "postcode": "NW4 3FP",
+   "url": "https://www.nandos.co.uk/restaurants/brent-cross",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "camden": {
+   "chain_id": "nandos",
+   "slug": "camden",
+   "name": "Camden",
+   "postcode": "NW1 7BY",
+   "url": "https://www.nandos.co.uk/restaurants/camden",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "cheshunt-retail-park": {
+   "chain_id": "nandos",
+   "slug": "cheshunt-retail-park",
+   "name": "Cheshunt Retail Park",
+   "postcode": "EN8 0TA",
+   "url": "https://www.nandos.co.uk/restaurants/cheshunt-retail-park",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "colindale": {
+   "chain_id": "nandos",
+   "slug": "colindale",
+   "name": "Colindale",
+   "postcode": "NW9 0AS",
+   "url": "https://www.nandos.co.uk/restaurants/colindale",
+   "halal": true,
+   "lat": null,
+   "lng": null
+  },
+  "enfield-retail-park": {
+   "chain_id": "nandos",
+   "slug": "enfield-retail-park",
+   "name": "Enfield - Retail Park",
+   "postcode": "EN1 1TH",
+   "url": "https://www.nandos.co.uk/restaurants/enfield-retail-park",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "euston": {
+   "chain_id": "nandos",
+   "slug": "euston",
+   "name": "Euston",
+   "postcode": "NW1 2RT",
+   "url": "https://www.nandos.co.uk/restaurants/euston",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "farringdon": {
+   "chain_id": "nandos",
+   "slug": "farringdon",
+   "name": "Farringdon",
+   "postcode": "EC1M 5QP",
+   "url": "https://www.nandos.co.uk/restaurants/farringdon",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "finchley-great-north-leisure": {
+   "chain_id": "nandos",
+   "slug": "finchley-great-north-leisure",
+   "name": "Finchley - Great North Leisure",
+   "postcode": "N12 0GL",
+   "url": "https://www.nandos.co.uk/restaurants/finchley-great-north-leisure",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "finchley-high-road": {
+   "chain_id": "nandos",
+   "slug": "finchley-high-road",
+   "name": "Finchley - High Road",
+   "postcode": "N12 9QG",
+   "url": "https://www.nandos.co.uk/restaurants/finchley-high-road",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "finsbury-park": {
+   "chain_id": "nandos",
+   "slug": "finsbury-park",
+   "name": "Finsbury Park",
+   "postcode": "N4 3HB",
+   "url": "https://www.nandos.co.uk/restaurants/finsbury-park",
+   "halal": true,
+   "lat": null,
+   "lng": null
+  },
+  "greenford": {
+   "chain_id": "nandos",
+   "slug": "greenford",
+   "name": "Greenford",
+   "postcode": "UB6 0UW",
+   "url": "https://www.nandos.co.uk/restaurants/greenford",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "holloway-road": {
+   "chain_id": "nandos",
+   "slug": "holloway-road",
+   "name": "Holloway Road",
+   "postcode": "N7 8FB",
+   "url": "https://www.nandos.co.uk/restaurants/holloway-road",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "islington": {
+   "chain_id": "nandos",
+   "slug": "islington",
+   "name": "Islington",
+   "postcode": "N1 2XQ",
+   "url": "https://www.nandos.co.uk/restaurants/islington",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "kensal-rise": {
+   "chain_id": "nandos",
+   "slug": "kensal-rise",
+   "name": "Kensal Rise",
+   "postcode": "NW10 3NB",
+   "url": "https://www.nandos.co.uk/restaurants/kensal-rise",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "kentish-town": {
+   "chain_id": "nandos",
+   "slug": "kentish-town",
+   "name": "Kentish Town",
+   "postcode": "NW5 2JU",
+   "url": "https://www.nandos.co.uk/restaurants/kentish-town",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "kilburn": {
+   "chain_id": "nandos",
+   "slug": "kilburn",
+   "name": "Kilburn",
+   "postcode": "NW6 2DG",
+   "url": "https://www.nandos.co.uk/restaurants/kilburn",
+   "halal": true,
+   "lat": null,
+   "lng": null
+  },
+  "kingsbury": {
+   "chain_id": "nandos",
+   "slug": "kingsbury",
+   "name": "Kingsbury",
+   "postcode": "NW9 9HN",
+   "url": "https://www.nandos.co.uk/restaurants/kingsbury",
+   "halal": true,
+   "lat": null,
+   "lng": null
+  },
+  "loughton": {
+   "chain_id": "nandos",
+   "slug": "loughton",
+   "name": "Loughton",
+   "postcode": "IG10 1AA",
+   "url": "https://www.nandos.co.uk/restaurants/loughton",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "southgate": {
+   "chain_id": "nandos",
+   "slug": "southgate",
+   "name": "Southgate",
+   "postcode": "N14 5BJ",
+   "url": "https://www.nandos.co.uk/restaurants/southgate",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "stanmore": {
+   "chain_id": "nandos",
+   "slug": "stanmore",
+   "name": "Stanmore",
+   "postcode": "HA7 4EB",
+   "url": "https://www.nandos.co.uk/restaurants/stanmore",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "stevenage-roaring-meg": {
+   "chain_id": "nandos",
+   "slug": "stevenage-roaring-meg",
+   "name": "Stevenage Roaring Meg - Retail Park",
+   "postcode": "SG1 1XN",
+   "url": "https://www.nandos.co.uk/restaurants/stevenage-roaring-meg",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "stoke-newington": {
+   "chain_id": "nandos",
+   "slug": "stoke-newington",
+   "name": "Stoke Newington",
+   "postcode": "N16 0UH",
+   "url": "https://www.nandos.co.uk/restaurants/stoke-newington",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "swiss-cottage": {
+   "chain_id": "nandos",
+   "slug": "swiss-cottage",
+   "name": "Swiss Cottage",
+   "postcode": "NW3 6LU",
+   "url": "https://www.nandos.co.uk/restaurants/swiss-cottage",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "walthamstow": {
+   "chain_id": "nandos",
+   "slug": "walthamstow",
+   "name": "Walthamstow",
+   "postcode": "E17 7FD",
+   "url": "https://www.nandos.co.uk/restaurants/walthamstow",
+   "halal": true,
+   "lat": null,
+   "lng": null
+  },
+  "wembley-designer-outlet": {
+   "chain_id": "nandos",
+   "slug": "wembley-designer-outlet",
+   "name": "Wembley - Designer Outlet",
+   "postcode": "HA9 0PA",
+   "url": "https://www.nandos.co.uk/restaurants/wembley-designer-outlet",
+   "halal": true,
+   "lat": null,
+   "lng": null
+  },
+  "wembley-park": {
+   "chain_id": "nandos",
+   "slug": "wembley-park",
+   "name": "Wembley Park",
+   "postcode": "NW10 0TL",
+   "url": "https://www.nandos.co.uk/restaurants/wembley-park",
+   "halal": true,
+   "lat": null,
+   "lng": null
+  },
+  "west-hampstead": {
+   "chain_id": "nandos",
+   "slug": "west-hampstead",
+   "name": "West Hampstead",
+   "postcode": "NW6 1LU",
+   "url": "https://www.nandos.co.uk/restaurants/west-hampstead",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "wood-green": {
+   "chain_id": "nandos",
+   "slug": "wood-green",
+   "name": "Wood Green",
+   "postcode": "N22 6EJ",
+   "url": "https://www.nandos.co.uk/restaurants/wood-green",
+   "halal": true,
+   "lat": null,
+   "lng": null
+  },
+  "balham": {
+   "chain_id": "nandos",
+   "slug": "balham",
+   "name": "Balham",
+   "postcode": "SW12 9AA",
+   "url": "https://www.nandos.co.uk/restaurants/balham",
+   "halal": true,
+   "lat": null,
+   "lng": null
+  },
+  "battersea-power-station": {
+   "chain_id": "nandos",
+   "slug": "battersea-power-station",
+   "name": "Battersea Power Station",
+   "postcode": "SW11 8DD",
+   "url": "https://www.nandos.co.uk/restaurants/battersea-power-station",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "brixton": {
+   "chain_id": "nandos",
+   "slug": "brixton",
+   "name": "Brixton",
+   "postcode": "SW9 9SP",
+   "url": "https://www.nandos.co.uk/restaurants/brixton",
+   "halal": true,
+   "lat": null,
+   "lng": null
+  },
+  "camberwell": {
+   "chain_id": "nandos",
+   "slug": "camberwell",
+   "name": "Camberwell",
+   "postcode": "SE5 8RX",
+   "url": "https://www.nandos.co.uk/restaurants/camberwell",
+   "halal": true,
+   "lat": null,
+   "lng": null
+  },
+  "catford": {
+   "chain_id": "nandos",
+   "slug": "catford",
+   "name": "Catford",
+   "postcode": "SE6 4HW",
+   "url": "https://www.nandos.co.uk/restaurants/catford",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "clapham-high-street": {
+   "chain_id": "nandos",
+   "slug": "clapham-high-street",
+   "name": "Clapham - High Street",
+   "postcode": "SW4 7TG",
+   "url": "https://www.nandos.co.uk/restaurants/clapham-high-street",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "clapham-northcote-road": {
+   "chain_id": "nandos",
+   "slug": "clapham-northcote-road",
+   "name": "Clapham - Northcote Road",
+   "postcode": "SW11 1NG",
+   "url": "https://www.nandos.co.uk/restaurants/clapham-northcote-road",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "colliers-wood": {
+   "chain_id": "nandos",
+   "slug": "colliers-wood",
+   "name": "Colliers Wood",
+   "postcode": "SW19 2TY",
+   "url": "https://www.nandos.co.uk/restaurants/colliers-wood",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "east-croydon": {
+   "chain_id": "nandos",
+   "slug": "east-croydon",
+   "name": "East Croydon",
+   "postcode": "CR9 2NS",
+   "url": "https://www.nandos.co.uk/restaurants/east-croydon",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "elephant-castle": {
+   "chain_id": "nandos",
+   "slug": "elephant-castle",
+   "name": "Elephant &amp; Castle",
+   "postcode": "SE1 6BA",
+   "url": "https://www.nandos.co.uk/restaurants/elephant-castle",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "gatwick-south-terminal-airside": {
+   "chain_id": "nandos",
+   "slug": "gatwick-south-terminal-airside",
+   "name": "Gatwick - South Terminal",
+   "postcode": "RH6 0NP",
+   "url": "https://www.nandos.co.uk/restaurants/gatwick-south-terminal-airside",
+   "halal": true,
+   "lat": null,
+   "lng": null
+  },
+  "greenwich-cutty-sark": {
+   "chain_id": "nandos",
+   "slug": "greenwich-cutty-sark",
+   "name": "Greenwich - Cutty Sark",
+   "postcode": "SE10 9HT",
+   "url": "https://www.nandos.co.uk/restaurants/greenwich-cutty-sark",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "greenwich-peninsula": {
+   "chain_id": "nandos",
+   "slug": "greenwich-peninsula",
+   "name": "Greenwich - Peninsula",
+   "postcode": "SE10 0QJ",
+   "url": "https://www.nandos.co.uk/restaurants/greenwich-peninsula",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "leatherhead": {
+   "chain_id": "nandos",
+   "slug": "leatherhead",
+   "name": "Leatherhead",
+   "postcode": "KT22 8DN",
+   "url": "https://www.nandos.co.uk/restaurants/leatherhead",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "lewisham": {
+   "chain_id": "nandos",
+   "slug": "lewisham",
+   "name": "Lewisham",
+   "postcode": "SE13 5LQ",
+   "url": "https://www.nandos.co.uk/restaurants/lewisham",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "new-malden": {
+   "chain_id": "nandos",
+   "slug": "new-malden",
+   "name": "New Malden",
+   "postcode": "KT3 4BH",
+   "url": "https://www.nandos.co.uk/restaurants/new-malden",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "peckham": {
+   "chain_id": "nandos",
+   "slug": "peckham",
+   "name": "Peckham",
+   "postcode": "SE15 5EN",
+   "url": "https://www.nandos.co.uk/restaurants/peckham",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "putney": {
+   "chain_id": "nandos",
+   "slug": "putney",
+   "name": "Putney",
+   "postcode": "SW15 2SW",
+   "url": "https://www.nandos.co.uk/restaurants/putney",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "southwark-arches-london": {
+   "chain_id": "nandos",
+   "slug": "southwark-arches-london",
+   "name": "Southwark Arches",
+   "postcode": "SE1 0XH",
+   "url": "https://www.nandos.co.uk/restaurants/southwark-arches-london",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "streatham": {
+   "chain_id": "nandos",
+   "slug": "streatham",
+   "name": "Streatham",
+   "postcode": "SW16 1EX",
+   "url": "https://www.nandos.co.uk/restaurants/streatham",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "sutton-oldfields-road": {
+   "chain_id": "nandos",
+   "slug": "sutton-oldfields-road",
+   "name": "Sutton - Oldfields Road",
+   "postcode": "SM1 2NB",
+   "url": "https://www.nandos.co.uk/restaurants/sutton-oldfields-road",
+   "halal": true,
+   "lat": null,
+   "lng": null
+  },
+  "teddington": {
+   "chain_id": "nandos",
+   "slug": "teddington",
+   "name": "Teddington",
+   "postcode": "TW11 8EW",
+   "url": "https://www.nandos.co.uk/restaurants/teddington",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "o2": {
+   "chain_id": "nandos",
+   "slug": "o2",
+   "name": "The O2",
+   "postcode": "SE10 0AX",
+   "url": "https://www.nandos.co.uk/restaurants/o2",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "tooting": {
+   "chain_id": "nandos",
+   "slug": "tooting",
+   "name": "Tooting",
+   "postcode": "SW17 7EW",
+   "url": "https://www.nandos.co.uk/restaurants/tooting",
+   "halal": true,
+   "lat": null,
+   "lng": null
+  },
+  "vauxhall-arches": {
+   "chain_id": "nandos",
+   "slug": "vauxhall-arches",
+   "name": "Vauxhall Arches",
+   "postcode": "SW8 1SS",
+   "url": "https://www.nandos.co.uk/restaurants/vauxhall-arches",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "wandsworth": {
+   "chain_id": "nandos",
+   "slug": "wandsworth",
+   "name": "Wandsworth",
+   "postcode": "SW18 4TF",
+   "url": "https://www.nandos.co.uk/restaurants/wandsworth",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "waterloo": {
+   "chain_id": "nandos",
+   "slug": "waterloo",
+   "name": "Waterloo",
+   "postcode": "SE1 7BH",
+   "url": "https://www.nandos.co.uk/restaurants/waterloo",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "wimbledon": {
+   "chain_id": "nandos",
+   "slug": "wimbledon",
+   "name": "Wimbledon",
+   "postcode": "SW19 1QN",
+   "url": "https://www.nandos.co.uk/restaurants/wimbledon",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "beckton": {
+   "chain_id": "nandos",
+   "slug": "beckton",
+   "name": "Beckton",
+   "postcode": "E6 7ER",
+   "url": "https://www.nandos.co.uk/restaurants/beckton",
+   "halal": true,
+   "lat": null,
+   "lng": null
+  },
+  "bethnal-green": {
+   "chain_id": "nandos",
+   "slug": "bethnal-green",
+   "name": "Bethnal Green",
+   "postcode": "E2 0AH",
+   "url": "https://www.nandos.co.uk/restaurants/bethnal-green",
+   "halal": true,
+   "lat": null,
+   "lng": null
+  },
+  "canary-wharf-cabot-place": {
+   "chain_id": "nandos",
+   "slug": "canary-wharf-cabot-place",
+   "name": "Canary Wharf - Cabot Place",
+   "postcode": "E14 4QT",
+   "url": "https://www.nandos.co.uk/restaurants/canary-wharf-cabot-place",
+   "halal": true,
+   "lat": null,
+   "lng": null
+  },
+  "canary-wharf-jubilee-place": {
+   "chain_id": "nandos",
+   "slug": "canary-wharf-jubilee-place",
+   "name": "Canary Wharf - Jubilee Place",
+   "postcode": "E14 5NY",
+   "url": "https://www.nandos.co.uk/restaurants/canary-wharf-jubilee-place",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "dalston": {
+   "chain_id": "nandos",
+   "slug": "dalston",
+   "name": "Dalston",
+   "postcode": "E8 2NS",
+   "url": "https://www.nandos.co.uk/restaurants/dalston",
+   "halal": true,
+   "lat": null,
+   "lng": null
+  },
+  "goodmayes-retail-park": {
+   "chain_id": "nandos",
+   "slug": "goodmayes-retail-park",
+   "name": "Goodmayes Retail Park",
+   "postcode": "RM6 4HX",
+   "url": "https://www.nandos.co.uk/restaurants/goodmayes-retail-park",
+   "halal": true,
+   "lat": null,
+   "lng": null
+  },
+  "lakeside-food-court": {
+   "chain_id": "nandos",
+   "slug": "lakeside-food-court",
+   "name": "Lakeside - Food Court",
+   "postcode": "RM20 2ZP",
+   "url": "https://www.nandos.co.uk/restaurants/lakeside-food-court",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "lime-street-london": {
+   "chain_id": "nandos",
+   "slug": "lime-street-london",
+   "name": "Lime Street",
+   "postcode": "EC3M 7HR",
+   "url": "https://www.nandos.co.uk/restaurants/lime-street-london",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "mile-end": {
+   "chain_id": "nandos",
+   "slug": "mile-end",
+   "name": "Mile End",
+   "postcode": "E3 4PL",
+   "url": "https://www.nandos.co.uk/restaurants/mile-end",
+   "halal": true,
+   "lat": null,
+   "lng": null
+  },
+  "one-new-change": {
+   "chain_id": "nandos",
+   "slug": "one-new-change",
+   "name": "One New Change",
+   "postcode": "EC4M 9AF",
+   "url": "https://www.nandos.co.uk/restaurants/one-new-change",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "south-woodford": {
+   "chain_id": "nandos",
+   "slug": "south-woodford",
+   "name": "South Woodford",
+   "postcode": "E18 2NA",
+   "url": "https://www.nandos.co.uk/restaurants/south-woodford",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "spitalfields": {
+   "chain_id": "nandos",
+   "slug": "spitalfields",
+   "name": "Spitalfields",
+   "postcode": "E1 6NF",
+   "url": "https://www.nandos.co.uk/restaurants/spitalfields",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "stratford": {
+   "chain_id": "nandos",
+   "slug": "stratford",
+   "name": "Stratford",
+   "postcode": "E15 4LJ",
+   "url": "https://www.nandos.co.uk/restaurants/stratford",
+   "halal": true,
+   "lat": null,
+   "lng": null
+  },
+  "westfield-stratford-city": {
+   "chain_id": "nandos",
+   "slug": "westfield-stratford-city",
+   "name": "Westfield Stratford City",
+   "postcode": "E20 1ET",
+   "url": "https://www.nandos.co.uk/restaurants/westfield-stratford-city",
+   "halal": true,
+   "lat": null,
+   "lng": null
+  },
+  "whitechapel": {
+   "chain_id": "nandos",
+   "slug": "whitechapel",
+   "name": "Whitechapel",
+   "postcode": "E1 4TW",
+   "url": "https://www.nandos.co.uk/restaurants/whitechapel",
+   "halal": true,
+   "lat": null,
+   "lng": null
+  },
+  "woolwich": {
+   "chain_id": "nandos",
+   "slug": "woolwich",
+   "name": "Woolwich",
+   "postcode": "SE18 6LQ",
+   "url": "https://www.nandos.co.uk/restaurants/woolwich",
+   "halal": true,
+   "lat": null,
+   "lng": null
+  },
+  "bayswater": {
+   "chain_id": "nandos",
+   "slug": "bayswater",
+   "name": "Bayswater",
+   "postcode": "W2 4UA",
+   "url": "https://www.nandos.co.uk/restaurants/bayswater",
+   "halal": true,
+   "lat": null,
+   "lng": null
+  },
+  "chiswick": {
+   "chain_id": "nandos",
+   "slug": "chiswick",
+   "name": "Chiswick",
+   "postcode": "W4 2DR",
+   "url": "https://www.nandos.co.uk/restaurants/chiswick",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "ealing-bond-street": {
+   "chain_id": "nandos",
+   "slug": "ealing-bond-street",
+   "name": "Ealing - Bond Street",
+   "postcode": "W5 5AP",
+   "url": "https://www.nandos.co.uk/restaurants/ealing-bond-street",
+   "halal": true,
+   "lat": null,
+   "lng": null
+  },
+  "ealing-common": {
+   "chain_id": "nandos",
+   "slug": "ealing-common",
+   "name": "Ealing Common",
+   "postcode": "W5 3NU",
+   "url": "https://www.nandos.co.uk/restaurants/ealing-common",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "fulham-broadway": {
+   "chain_id": "nandos",
+   "slug": "fulham-broadway",
+   "name": "Fulham Broadway",
+   "postcode": "SW6 1BY",
+   "url": "https://www.nandos.co.uk/restaurants/fulham-broadway",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "hammersmith": {
+   "chain_id": "nandos",
+   "slug": "hammersmith",
+   "name": "Hammersmith - Broadway",
+   "postcode": "W6 7AB",
+   "url": "https://www.nandos.co.uk/restaurants/hammersmith",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "kensington-high-street": {
+   "chain_id": "nandos",
+   "slug": "kensington-high-street",
+   "name": "Kensington High Street",
+   "postcode": "W8 6SA",
+   "url": "https://www.nandos.co.uk/restaurants/kensington-high-street",
+   "halal": true,
+   "lat": null,
+   "lng": null
+  },
+  "notting-hill": {
+   "chain_id": "nandos",
+   "slug": "notting-hill",
+   "name": "Notting Hill",
+   "postcode": "W11 3HT",
+   "url": "https://www.nandos.co.uk/restaurants/notting-hill",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "park-royal": {
+   "chain_id": "nandos",
+   "slug": "park-royal",
+   "name": "Park Royal",
+   "postcode": "W3 0PA",
+   "url": "https://www.nandos.co.uk/restaurants/park-royal",
+   "halal": true,
+   "lat": null,
+   "lng": null
+  },
+  "shepherds-bush": {
+   "chain_id": "nandos",
+   "slug": "shepherds-bush",
+   "name": "Shepherd&#x27;s Bush",
+   "postcode": "W12 7JA",
+   "url": "https://www.nandos.co.uk/restaurants/shepherds-bush",
+   "halal": true,
+   "lat": null,
+   "lng": null
+  },
+  "south-ruislip": {
+   "chain_id": "nandos",
+   "slug": "south-ruislip",
+   "name": "South Ruislip",
+   "postcode": "HA4 0FY",
+   "url": "https://www.nandos.co.uk/restaurants/south-ruislip",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "st-christophers-place": {
+   "chain_id": "nandos",
+   "slug": "st-christophers-place",
+   "name": "St Christopher&#x27;s Place",
+   "postcode": "W1U 1EG",
+   "url": "https://www.nandos.co.uk/restaurants/st-christophers-place",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "westfield-london": {
+   "chain_id": "nandos",
+   "slug": "westfield-london",
+   "name": "Westfield London",
+   "postcode": "W12 7GF",
+   "url": "https://www.nandos.co.uk/restaurants/westfield-london",
+   "halal": true,
+   "lat": null,
+   "lng": null
+  },
+  "aintree": {
+   "chain_id": "nandos",
+   "slug": "aintree",
+   "name": "Aintree",
+   "postcode": "L9 5AN",
+   "url": "https://www.nandos.co.uk/restaurants/aintree",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "ashton-moss": {
+   "chain_id": "nandos",
+   "slug": "ashton-moss",
+   "name": "Ashton Moss",
+   "postcode": "OL7 0PG",
+   "url": "https://www.nandos.co.uk/restaurants/ashton-moss",
+   "halal": true,
+   "lat": null,
+   "lng": null
+  },
+  "barnsley": {
+   "chain_id": "nandos",
+   "slug": "barnsley",
+   "name": "Barnsley",
+   "postcode": "S70 1GW",
+   "url": "https://www.nandos.co.uk/restaurants/barnsley",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "bishop-auckland": {
+   "chain_id": "nandos",
+   "slug": "bishop-auckland",
+   "name": "Bishop Auckland",
+   "postcode": "DL14 9AA",
+   "url": "https://www.nandos.co.uk/restaurants/bishop-auckland",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "blackburn": {
+   "chain_id": "nandos",
+   "slug": "blackburn",
+   "name": "Blackburn",
+   "postcode": "BB1 1DG",
+   "url": "https://www.nandos.co.uk/restaurants/blackburn",
+   "halal": true,
+   "lat": null,
+   "lng": null
+  },
+  "blackpool": {
+   "chain_id": "nandos",
+   "slug": "blackpool",
+   "name": "Blackpool",
+   "postcode": "FY1 1HJ",
+   "url": "https://www.nandos.co.uk/restaurants/blackpool",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "blackpool-squires-gate": {
+   "chain_id": "nandos",
+   "slug": "blackpool-squires-gate",
+   "name": "Blackpool - Squires Gate",
+   "postcode": "FY4 2AY",
+   "url": "https://www.nandos.co.uk/restaurants/blackpool-squires-gate",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "boldon": {
+   "chain_id": "nandos",
+   "slug": "boldon",
+   "name": "Boldon",
+   "postcode": "NE35 9PB",
+   "url": "https://www.nandos.co.uk/restaurants/boldon",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "bolton-middlebrook": {
+   "chain_id": "nandos",
+   "slug": "bolton-middlebrook",
+   "name": "Bolton - Middlebrook",
+   "postcode": "BL6 6JA",
+   "url": "https://www.nandos.co.uk/restaurants/bolton-middlebrook",
+   "halal": true,
+   "lat": null,
+   "lng": null
+  },
+  "bolton-vaults": {
+   "chain_id": "nandos",
+   "slug": "bolton-vaults",
+   "name": "Bolton Vaults",
+   "postcode": "BL1 2AL",
+   "url": "https://www.nandos.co.uk/restaurants/bolton-vaults",
+   "halal": true,
+   "lat": null,
+   "lng": null
+  },
+  "bradford-centenary-square": {
+   "chain_id": "nandos",
+   "slug": "bradford-centenary-square",
+   "name": "Bradford - Centenary Square",
+   "postcode": "BD1 1SD",
+   "url": "https://www.nandos.co.uk/restaurants/bradford-centenary-square",
+   "halal": true,
+   "lat": null,
+   "lng": null
+  },
+  "bradford-leisure-exchange": {
+   "chain_id": "nandos",
+   "slug": "bradford-leisure-exchange",
+   "name": "Bradford - Leisure Exchange",
+   "postcode": "BD1 5LD",
+   "url": "https://www.nandos.co.uk/restaurants/bradford-leisure-exchange",
+   "halal": true,
+   "lat": null,
+   "lng": null
+  },
+  "bromborough": {
+   "chain_id": "nandos",
+   "slug": "bromborough",
+   "name": "Bromborough",
+   "postcode": "CH62 3PN",
+   "url": "https://www.nandos.co.uk/restaurants/bromborough",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "burnley-pioneer-place": {
+   "chain_id": "nandos",
+   "slug": "burnley-pioneer-place",
+   "name": "Burnley - Pioneer Place",
+   "postcode": "BB11 1FB",
+   "url": "https://www.nandos.co.uk/restaurants/burnley-pioneer-place",
+   "halal": true,
+   "lat": null,
+   "lng": null
+  },
+  "bury-manchester": {
+   "chain_id": "nandos",
+   "slug": "bury-manchester",
+   "name": "Bury",
+   "postcode": "BL9 0ND",
+   "url": "https://www.nandos.co.uk/restaurants/bury-manchester",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "carlisle": {
+   "chain_id": "nandos",
+   "slug": "carlisle",
+   "name": "Carlisle",
+   "postcode": "CA1 1QN",
+   "url": "https://www.nandos.co.uk/restaurants/carlisle",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "castleford": {
+   "chain_id": "nandos",
+   "slug": "castleford",
+   "name": "Castleford",
+   "postcode": "WF10 4TA",
+   "url": "https://www.nandos.co.uk/restaurants/castleford",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "cheshire-oaks": {
+   "chain_id": "nandos",
+   "slug": "cheshire-oaks",
+   "name": "Cheshire Oaks",
+   "postcode": "CH65 9HD",
+   "url": "https://www.nandos.co.uk/restaurants/cheshire-oaks",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "chester": {
+   "chain_id": "nandos",
+   "slug": "chester",
+   "name": "Chester",
+   "postcode": "CH1 1NG",
+   "url": "https://www.nandos.co.uk/restaurants/chester",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "chorley-market-walk": {
+   "chain_id": "nandos",
+   "slug": "chorley-market-walk",
+   "name": "Chorley - Market Walk",
+   "postcode": "PR7 1FD",
+   "url": "https://www.nandos.co.uk/restaurants/chorley-market-walk",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "cramlington": {
+   "chain_id": "nandos",
+   "slug": "cramlington",
+   "name": "Cramlington",
+   "postcode": "NE23 6UT",
+   "url": "https://www.nandos.co.uk/restaurants/cramlington",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "darlington": {
+   "chain_id": "nandos",
+   "slug": "darlington",
+   "name": "Darlington",
+   "postcode": "DL1 5RD",
+   "url": "https://www.nandos.co.uk/restaurants/darlington",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "denton": {
+   "chain_id": "nandos",
+   "slug": "denton",
+   "name": "Denton",
+   "postcode": "M34 3JP",
+   "url": "https://www.nandos.co.uk/restaurants/denton",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "doncaster": {
+   "chain_id": "nandos",
+   "slug": "doncaster",
+   "name": "Doncaster",
+   "postcode": "DN4 7NW",
+   "url": "https://www.nandos.co.uk/restaurants/doncaster",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "doncaster-york-road": {
+   "chain_id": "nandos",
+   "slug": "doncaster-york-road",
+   "name": "Doncaster - York Road",
+   "postcode": "DN5 8AS",
+   "url": "https://www.nandos.co.uk/restaurants/doncaster-york-road",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "durham": {
+   "chain_id": "nandos",
+   "slug": "durham",
+   "name": "Durham",
+   "postcode": "DH1 1SQ",
+   "url": "https://www.nandos.co.uk/restaurants/durham",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "gateshead": {
+   "chain_id": "nandos",
+   "slug": "gateshead",
+   "name": "Gateshead",
+   "postcode": "NE8 1AG",
+   "url": "https://www.nandos.co.uk/restaurants/gateshead",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "halifax": {
+   "chain_id": "nandos",
+   "slug": "halifax",
+   "name": "Halifax",
+   "postcode": "HX1 1YA",
+   "url": "https://www.nandos.co.uk/restaurants/halifax",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "hartlepool": {
+   "chain_id": "nandos",
+   "slug": "hartlepool",
+   "name": "Hartlepool",
+   "postcode": "TS24 0XR",
+   "url": "https://www.nandos.co.uk/restaurants/hartlepool",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "headingley": {
+   "chain_id": "nandos",
+   "slug": "headingley",
+   "name": "Headingley",
+   "postcode": "LS6 2AF",
+   "url": "https://www.nandos.co.uk/restaurants/headingley",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "huddersfield": {
+   "chain_id": "nandos",
+   "slug": "huddersfield",
+   "name": "Huddersfield",
+   "postcode": "HD1 1BR",
+   "url": "https://www.nandos.co.uk/restaurants/huddersfield",
+   "halal": true,
+   "lat": null,
+   "lng": null
+  },
+  "hull-kingswood": {
+   "chain_id": "nandos",
+   "slug": "hull-kingswood",
+   "name": "Hull - Kingswood",
+   "postcode": "HU7 3DB",
+   "url": "https://www.nandos.co.uk/restaurants/hull-kingswood",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "hull-princes-quay": {
+   "chain_id": "nandos",
+   "slug": "hull-princes-quay",
+   "name": "Hull - Princes Quay",
+   "postcode": "HU1 2PQ",
+   "url": "https://www.nandos.co.uk/restaurants/hull-princes-quay",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "hull-st-stephens": {
+   "chain_id": "nandos",
+   "slug": "hull-st-stephens",
+   "name": "Hull - St Stephen&#x27;s",
+   "postcode": "HU2 8LN",
+   "url": "https://www.nandos.co.uk/restaurants/hull-st-stephens",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "lancaster": {
+   "chain_id": "nandos",
+   "slug": "lancaster",
+   "name": "Lancaster",
+   "postcode": "LA1 1HZ",
+   "url": "https://www.nandos.co.uk/restaurants/lancaster",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "leeds-briggate": {
+   "chain_id": "nandos",
+   "slug": "leeds-briggate",
+   "name": "Leeds - Briggate",
+   "postcode": "LS1 6BR",
+   "url": "https://www.nandos.co.uk/restaurants/leeds-briggate",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "leeds-cardigan-fields": {
+   "chain_id": "nandos",
+   "slug": "leeds-cardigan-fields",
+   "name": "Leeds - Cardigan Fields",
+   "postcode": "LS4 2DG",
+   "url": "https://www.nandos.co.uk/restaurants/leeds-cardigan-fields",
+   "halal": true,
+   "lat": null,
+   "lng": null
+  },
+  "leeds-j27": {
+   "chain_id": "nandos",
+   "slug": "leeds-j27",
+   "name": "Leeds - J27",
+   "postcode": "WF17 9TB",
+   "url": "https://www.nandos.co.uk/restaurants/leeds-j27",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "leeds-skelton-lake": {
+   "chain_id": "nandos",
+   "slug": "leeds-skelton-lake",
+   "name": "Leeds - Skelton Lake",
+   "postcode": "LS9 0AS",
+   "url": "https://www.nandos.co.uk/restaurants/leeds-skelton-lake",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "leeds-light": {
+   "chain_id": "nandos",
+   "slug": "leeds-light",
+   "name": "Leeds - The Light",
+   "postcode": "LS1 8TL",
+   "url": "https://www.nandos.co.uk/restaurants/leeds-light",
+   "halal": true,
+   "lat": null,
+   "lng": null
+  },
+  "leeds-thorpe-park": {
+   "chain_id": "nandos",
+   "slug": "leeds-thorpe-park",
+   "name": "Leeds - Thorpe Park",
+   "postcode": "LS15 8GG",
+   "url": "https://www.nandos.co.uk/restaurants/leeds-thorpe-park",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "leeds-trinity": {
+   "chain_id": "nandos",
+   "slug": "leeds-trinity",
+   "name": "Leeds - Trinity",
+   "postcode": "LS1 5AT",
+   "url": "https://www.nandos.co.uk/restaurants/leeds-trinity",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "leeds-white-rose": {
+   "chain_id": "nandos",
+   "slug": "leeds-white-rose",
+   "name": "Leeds - White Rose",
+   "postcode": "LS11 8LU",
+   "url": "https://www.nandos.co.uk/restaurants/leeds-white-rose",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "leigh": {
+   "chain_id": "nandos",
+   "slug": "leigh",
+   "name": "Leigh",
+   "postcode": "WN7 4PE",
+   "url": "https://www.nandos.co.uk/restaurants/leigh",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "liverpool-edge-lane": {
+   "chain_id": "nandos",
+   "slug": "liverpool-edge-lane",
+   "name": "Liverpool - Edge Lane",
+   "postcode": "L13 1AE",
+   "url": "https://www.nandos.co.uk/restaurants/liverpool-edge-lane",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "liverpool-one": {
+   "chain_id": "nandos",
+   "slug": "liverpool-one",
+   "name": "Liverpool ONE",
+   "postcode": "L1 8JF",
+   "url": "https://www.nandos.co.uk/restaurants/liverpool-one",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "liverpool-queen-square": {
+   "chain_id": "nandos",
+   "slug": "liverpool-queen-square",
+   "name": "Liverpool - Queen Square",
+   "postcode": "L1 1RH",
+   "url": "https://www.nandos.co.uk/restaurants/liverpool-queen-square",
+   "halal": true,
+   "lat": null,
+   "lng": null
+  },
+  "liverpool-stonedale": {
+   "chain_id": "nandos",
+   "slug": "liverpool-stonedale",
+   "name": "Liverpool - Stonedale",
+   "postcode": "L11 9DH",
+   "url": "https://www.nandos.co.uk/restaurants/liverpool-stonedale",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "manchester-arndale": {
+   "chain_id": "nandos",
+   "slug": "manchester-arndale",
+   "name": "Manchester - Arndale",
+   "postcode": "M4 3AQ",
+   "url": "https://www.nandos.co.uk/restaurants/manchester-arndale",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "manchester-fallowfield": {
+   "chain_id": "nandos",
+   "slug": "manchester-fallowfield",
+   "name": "Manchester - Fallowfield",
+   "postcode": "M14 6SS",
+   "url": "https://www.nandos.co.uk/restaurants/manchester-fallowfield",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "manchester-fort": {
+   "chain_id": "nandos",
+   "slug": "manchester-fort",
+   "name": "Manchester - Fort",
+   "postcode": "M8 8LN",
+   "url": "https://www.nandos.co.uk/restaurants/manchester-fort",
+   "halal": true,
+   "lat": null,
+   "lng": null
+  },
+  "manchester-oxford-road": {
+   "chain_id": "nandos",
+   "slug": "manchester-oxford-road",
+   "name": "Manchester - Oxford Road",
+   "postcode": "M1 5QS",
+   "url": "https://www.nandos.co.uk/restaurants/manchester-oxford-road",
+   "halal": true,
+   "lat": null,
+   "lng": null
+  },
+  "manchester-parrs-wood": {
+   "chain_id": "nandos",
+   "slug": "manchester-parrs-wood",
+   "name": "Manchester - Parrs Wood",
+   "postcode": "M20 5PG",
+   "url": "https://www.nandos.co.uk/restaurants/manchester-parrs-wood",
+   "halal": true,
+   "lat": null,
+   "lng": null
+  },
+  "manchester-piccadilly": {
+   "chain_id": "nandos",
+   "slug": "manchester-piccadilly",
+   "name": "Manchester - Piccadilly",
+   "postcode": "M1 1LU",
+   "url": "https://www.nandos.co.uk/restaurants/manchester-piccadilly",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "manchester-printworks": {
+   "chain_id": "nandos",
+   "slug": "manchester-printworks",
+   "name": "Manchester - Printworks",
+   "postcode": "M4 2BS",
+   "url": "https://www.nandos.co.uk/restaurants/manchester-printworks",
+   "halal": true,
+   "lat": null,
+   "lng": null
+  },
+  "manchester-spinningfields": {
+   "chain_id": "nandos",
+   "slug": "manchester-spinningfields",
+   "name": "Manchester - Spinningfields",
+   "postcode": "M3 3HF",
+   "url": "https://www.nandos.co.uk/restaurants/manchester-spinningfields",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "manchester-the-snow-centre": {
+   "chain_id": "nandos",
+   "slug": "manchester-the-snow-centre",
+   "name": "Manchester - The Snow Centre",
+   "postcode": "M41 7JA",
+   "url": "https://www.nandos.co.uk/restaurants/manchester-the-snow-centre",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "nandos-manchester-trafford-centre": {
+   "chain_id": "nandos",
+   "slug": "nandos-manchester-trafford-centre",
+   "name": "Manchester - Trafford Centre",
+   "postcode": "M17 8AA",
+   "url": "https://www.nandos.co.uk/restaurants/nandos-manchester-trafford-centre",
+   "halal": true,
+   "lat": null,
+   "lng": null
+  },
+  "manchester-trafford-retail-park": {
+   "chain_id": "nandos",
+   "slug": "manchester-trafford-retail-park",
+   "name": "Manchester - Trafford Retail Park",
+   "postcode": "M41 7FP",
+   "url": "https://www.nandos.co.uk/restaurants/manchester-trafford-retail-park",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "manchester-white-city": {
+   "chain_id": "nandos",
+   "slug": "manchester-white-city",
+   "name": "Manchester - White City",
+   "postcode": "M16 0RP",
+   "url": "https://www.nandos.co.uk/restaurants/manchester-white-city",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "mansfield": {
+   "chain_id": "nandos",
+   "slug": "mansfield",
+   "name": "Mansfield",
+   "postcode": "NG18 1BU",
+   "url": "https://www.nandos.co.uk/restaurants/mansfield",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "metrocentre-blue-mall": {
+   "chain_id": "nandos",
+   "slug": "metrocentre-blue-mall",
+   "name": "Metro Centre - Blue Mall",
+   "postcode": "NE11 9YZ",
+   "url": "https://www.nandos.co.uk/restaurants/metrocentre-blue-mall",
+   "halal": true,
+   "lat": null,
+   "lng": null
+  },
+  "metrocentre-qube": {
+   "chain_id": "nandos",
+   "slug": "metrocentre-qube",
+   "name": "Metro Centre - Qube",
+   "postcode": "NE11 9XZ",
+   "url": "https://www.nandos.co.uk/restaurants/metrocentre-qube",
+   "halal": true,
+   "lat": null,
+   "lng": null
+  },
+  "middlesbrough": {
+   "chain_id": "nandos",
+   "slug": "middlesbrough",
+   "name": "Middlesbrough",
+   "postcode": "TS4 2AG",
+   "url": "https://www.nandos.co.uk/restaurants/middlesbrough",
+   "halal": true,
+   "lat": null,
+   "lng": null
+  },
+  "new-brighton": {
+   "chain_id": "nandos",
+   "slug": "new-brighton",
+   "name": "New Brighton",
+   "postcode": "CH45 2PB",
+   "url": "https://www.nandos.co.uk/restaurants/new-brighton",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "newcastle-central": {
+   "chain_id": "nandos",
+   "slug": "newcastle-central",
+   "name": "Newcastle - Central",
+   "postcode": "NE1 1TT",
+   "url": "https://www.nandos.co.uk/restaurants/newcastle-central",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "newcastle-eldon-square": {
+   "chain_id": "nandos",
+   "slug": "newcastle-eldon-square",
+   "name": "Newcastle - Eldon Square",
+   "postcode": "NE1 7JD",
+   "url": "https://www.nandos.co.uk/restaurants/newcastle-eldon-square",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "newcastle-kingston-park": {
+   "chain_id": "nandos",
+   "slug": "newcastle-kingston-park",
+   "name": "Newcastle - Kingston Park",
+   "postcode": "NE3 2BF",
+   "url": "https://www.nandos.co.uk/restaurants/newcastle-kingston-park",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "newcastle-silverlink": {
+   "chain_id": "nandos",
+   "slug": "newcastle-silverlink",
+   "name": "Newcastle - Silverlink",
+   "postcode": "NE28 9ND",
+   "url": "https://www.nandos.co.uk/restaurants/newcastle-silverlink",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "newcastle-gate": {
+   "chain_id": "nandos",
+   "slug": "newcastle-gate",
+   "name": "Newcastle - The Gate",
+   "postcode": "NE1 5XE",
+   "url": "https://www.nandos.co.uk/restaurants/newcastle-gate",
+   "halal": true,
+   "lat": null,
+   "lng": null
+  },
+  "oldham-elk-mill": {
+   "chain_id": "nandos",
+   "slug": "oldham-elk-mill",
+   "name": "Oldham - Elk Mill",
+   "postcode": "OL2 5HX",
+   "url": "https://www.nandos.co.uk/restaurants/oldham-elk-mill",
+   "halal": true,
+   "lat": null,
+   "lng": null
+  },
+  "oldham-old-town-hall": {
+   "chain_id": "nandos",
+   "slug": "oldham-old-town-hall",
+   "name": "Oldham - Old Town Hall",
+   "postcode": "OL1 1RA",
+   "url": "https://www.nandos.co.uk/restaurants/oldham-old-town-hall",
+   "halal": true,
+   "lat": null,
+   "lng": null
+  },
+  "preston-deepdale": {
+   "chain_id": "nandos",
+   "slug": "preston-deepdale",
+   "name": "Preston - Deepdale",
+   "postcode": "PR1 6QY",
+   "url": "https://www.nandos.co.uk/restaurants/preston-deepdale",
+   "halal": true,
+   "lat": null,
+   "lng": null
+  },
+  "preston-market-place": {
+   "chain_id": "nandos",
+   "slug": "preston-market-place",
+   "name": "Preston - Market Place",
+   "postcode": "PR1 2AP",
+   "url": "https://www.nandos.co.uk/restaurants/preston-market-place",
+   "halal": true,
+   "lat": null,
+   "lng": null
+  },
+  "rochdale": {
+   "chain_id": "nandos",
+   "slug": "rochdale",
+   "name": "Rochdale",
+   "postcode": "OL16 1BE",
+   "url": "https://www.nandos.co.uk/restaurants/rochdale",
+   "halal": true,
+   "lat": null,
+   "lng": null
+  },
+  "rotherham-parkgate": {
+   "chain_id": "nandos",
+   "slug": "rotherham-parkgate",
+   "name": "Rotherham - Parkgate",
+   "postcode": "S60 1TG",
+   "url": "https://www.nandos.co.uk/restaurants/rotherham-parkgate",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "salford-quays": {
+   "chain_id": "nandos",
+   "slug": "salford-quays",
+   "name": "Salford Quays",
+   "postcode": "M50 3UB",
+   "url": "https://www.nandos.co.uk/restaurants/salford-quays",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "sheffield-crystal-peaks": {
+   "chain_id": "nandos",
+   "slug": "sheffield-crystal-peaks",
+   "name": "Sheffield - Crystal Peaks",
+   "postcode": "S20 7JL",
+   "url": "https://www.nandos.co.uk/restaurants/sheffield-crystal-peaks",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "sheffield-ecclesall-road": {
+   "chain_id": "nandos",
+   "slug": "sheffield-ecclesall-road",
+   "name": "Sheffield - Ecclesall Road",
+   "postcode": "S11 8PP",
+   "url": "https://www.nandos.co.uk/restaurants/sheffield-ecclesall-road",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "sheffield-meadowhall": {
+   "chain_id": "nandos",
+   "slug": "sheffield-meadowhall",
+   "name": "Sheffield - Meadowhall",
+   "postcode": "S9 1EP",
+   "url": "https://www.nandos.co.uk/restaurants/sheffield-meadowhall",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "sheffield-moor": {
+   "chain_id": "nandos",
+   "slug": "sheffield-moor",
+   "name": "Sheffield - The Moor",
+   "postcode": "S1 4PA",
+   "url": "https://www.nandos.co.uk/restaurants/sheffield-moor",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "sheffield-valley-centertainment": {
+   "chain_id": "nandos",
+   "slug": "sheffield-valley-centertainment",
+   "name": "Sheffield - Valley Centertainment",
+   "postcode": "S9 2EP",
+   "url": "https://www.nandos.co.uk/restaurants/sheffield-valley-centertainment",
+   "halal": true,
+   "lat": null,
+   "lng": null
+  },
+  "sheffield-west-street": {
+   "chain_id": "nandos",
+   "slug": "sheffield-west-street",
+   "name": "Sheffield - West Street",
+   "postcode": "S1 4EZ",
+   "url": "https://www.nandos.co.uk/restaurants/sheffield-west-street",
+   "halal": true,
+   "lat": null,
+   "lng": null
+  },
+  "southport": {
+   "chain_id": "nandos",
+   "slug": "southport",
+   "name": "Southport",
+   "postcode": "PR8 1SA",
+   "url": "https://www.nandos.co.uk/restaurants/southport",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "speke-new-mersey": {
+   "chain_id": "nandos",
+   "slug": "speke-new-mersey",
+   "name": "Speke - New Mersey",
+   "postcode": "L24 8QB",
+   "url": "https://www.nandos.co.uk/restaurants/speke-new-mersey",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "st-helens": {
+   "chain_id": "nandos",
+   "slug": "st-helens",
+   "name": "St Helens",
+   "postcode": "WA10 1BF",
+   "url": "https://www.nandos.co.uk/restaurants/st-helens",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "stockport": {
+   "chain_id": "nandos",
+   "slug": "stockport",
+   "name": "Stockport",
+   "postcode": "SK1 2HH",
+   "url": "https://www.nandos.co.uk/restaurants/stockport",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "stockton-heath": {
+   "chain_id": "nandos",
+   "slug": "stockton-heath",
+   "name": "Stockton Heath",
+   "postcode": "WA4 6LG",
+   "url": "https://www.nandos.co.uk/restaurants/stockton-heath",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "sunderland": {
+   "chain_id": "nandos",
+   "slug": "sunderland",
+   "name": "Sunderland",
+   "postcode": "SR1 1TX",
+   "url": "https://www.nandos.co.uk/restaurants/sunderland",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "teesside-retail-park": {
+   "chain_id": "nandos",
+   "slug": "teesside-retail-park",
+   "name": "Teesside Retail Park",
+   "postcode": "TS17 7BT",
+   "url": "https://www.nandos.co.uk/restaurants/teesside-retail-park",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "wakefield": {
+   "chain_id": "nandos",
+   "slug": "wakefield",
+   "name": "Wakefield",
+   "postcode": "WF2 9SD",
+   "url": "https://www.nandos.co.uk/restaurants/wakefield",
+   "halal": true,
+   "lat": null,
+   "lng": null
+  },
+  "walkden": {
+   "chain_id": "nandos",
+   "slug": "walkden",
+   "name": "Walkden",
+   "postcode": "M28 3UD",
+   "url": "https://www.nandos.co.uk/restaurants/walkden",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "warrington-golden-square": {
+   "chain_id": "nandos",
+   "slug": "warrington-golden-square",
+   "name": "Warrington - Golden Square",
+   "postcode": "WA1 1QB",
+   "url": "https://www.nandos.co.uk/restaurants/warrington-golden-square",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "warrington-junction-9-retail-park": {
+   "chain_id": "nandos",
+   "slug": "warrington-junction-9-retail-park",
+   "name": "Warrington - Junction 9 Retail Park",
+   "postcode": "WA2 8TW",
+   "url": "https://www.nandos.co.uk/restaurants/warrington-junction-9-retail-park",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "widnes": {
+   "chain_id": "nandos",
+   "slug": "widnes",
+   "name": "Widnes",
+   "postcode": "WA8 0TA",
+   "url": "https://www.nandos.co.uk/restaurants/widnes",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "wigan": {
+   "chain_id": "nandos",
+   "slug": "wigan",
+   "name": "Wigan",
+   "postcode": "WN5 0UH",
+   "url": "https://www.nandos.co.uk/restaurants/wigan",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "york": {
+   "chain_id": "nandos",
+   "slug": "york",
+   "name": "York - City Centre",
+   "postcode": "YO1 8RZ",
+   "url": "https://www.nandos.co.uk/restaurants/york",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "york-vangarde-monks-cross": {
+   "chain_id": "nandos",
+   "slug": "york-vangarde-monks-cross",
+   "name": "York - Vangarde Monks Cross",
+   "postcode": "YO32 9AE",
+   "url": "https://www.nandos.co.uk/restaurants/york-vangarde-monks-cross",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "altrincham": {
+   "chain_id": "nandos",
+   "slug": "altrincham",
+   "name": "Altrincham",
+   "postcode": "WA14 1EJ",
+   "url": "https://www.nandos.co.uk/restaurants/altrincham",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "aylesbury": {
+   "chain_id": "nandos",
+   "slug": "aylesbury",
+   "name": "Aylesbury",
+   "postcode": "HP20 1UR",
+   "url": "https://www.nandos.co.uk/restaurants/aylesbury",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "banbury": {
+   "chain_id": "nandos",
+   "slug": "banbury",
+   "name": "Banbury",
+   "postcode": "OX16 2PA",
+   "url": "https://www.nandos.co.uk/restaurants/banbury",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "bedford": {
+   "chain_id": "nandos",
+   "slug": "bedford",
+   "name": "Bedford",
+   "postcode": "MK40 1RN",
+   "url": "https://www.nandos.co.uk/restaurants/bedford",
+   "halal": true,
+   "lat": null,
+   "lng": null
+  },
+  "bedford-interchange-retail-park": {
+   "chain_id": "nandos",
+   "slug": "bedford-interchange-retail-park",
+   "name": "Bedford - Interchange Retail Park",
+   "postcode": "MK42 7AZ",
+   "url": "https://www.nandos.co.uk/restaurants/bedford-interchange-retail-park",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "birmingham-broad-street": {
+   "chain_id": "nandos",
+   "slug": "birmingham-broad-street",
+   "name": "Birmingham - Broad Street",
+   "postcode": "B15 1DA",
+   "url": "https://www.nandos.co.uk/restaurants/birmingham-broad-street",
+   "halal": true,
+   "lat": null,
+   "lng": null
+  },
+  "birmingham-bullring": {
+   "chain_id": "nandos",
+   "slug": "birmingham-bullring",
+   "name": "Birmingham - Bullring",
+   "postcode": "B5 4BP",
+   "url": "https://www.nandos.co.uk/restaurants/birmingham-bullring",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "birmingham-fort": {
+   "chain_id": "nandos",
+   "slug": "birmingham-fort",
+   "name": "Birmingham - Fort",
+   "postcode": "B24 9FP",
+   "url": "https://www.nandos.co.uk/restaurants/birmingham-fort",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "birmingham-grand-central": {
+   "chain_id": "nandos",
+   "slug": "birmingham-grand-central",
+   "name": "Birmingham - Grand Central",
+   "postcode": "B2 4XJ",
+   "url": "https://www.nandos.co.uk/restaurants/birmingham-grand-central",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "birmingham-mailbox": {
+   "chain_id": "nandos",
+   "slug": "birmingham-mailbox",
+   "name": "Birmingham - Mailbox",
+   "postcode": "B1 1RF",
+   "url": "https://www.nandos.co.uk/restaurants/birmingham-mailbox",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "birmingham-new-street": {
+   "chain_id": "nandos",
+   "slug": "birmingham-new-street",
+   "name": "Birmingham - New Street",
+   "postcode": "B2 4DU",
+   "url": "https://www.nandos.co.uk/restaurants/birmingham-new-street",
+   "halal": true,
+   "lat": null,
+   "lng": null
+  },
+  "birmingham-perry-barr": {
+   "chain_id": "nandos",
+   "slug": "birmingham-perry-barr",
+   "name": "Birmingham - Perry Barr",
+   "postcode": "B42 1AA",
+   "url": "https://www.nandos.co.uk/restaurants/birmingham-perry-barr",
+   "halal": true,
+   "lat": null,
+   "lng": null
+  },
+  "birmingham-resorts-world": {
+   "chain_id": "nandos",
+   "slug": "birmingham-resorts-world",
+   "name": "Birmingham - Resorts World",
+   "postcode": "B40 1PU",
+   "url": "https://www.nandos.co.uk/restaurants/birmingham-resorts-world",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "birmingham-star-city": {
+   "chain_id": "nandos",
+   "slug": "birmingham-star-city",
+   "name": "Birmingham - Star City",
+   "postcode": "B7 5SB",
+   "url": "https://www.nandos.co.uk/restaurants/birmingham-star-city",
+   "halal": true,
+   "lat": null,
+   "lng": null
+  },
+  "burton-upon-trent": {
+   "chain_id": "nandos",
+   "slug": "burton-upon-trent",
+   "name": "Burton Upon Trent",
+   "postcode": "DE14 1NQ",
+   "url": "https://www.nandos.co.uk/restaurants/burton-upon-trent",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "cambridge-retail-park": {
+   "chain_id": "nandos",
+   "slug": "cambridge-retail-park",
+   "name": "Cambridge - Retail Park",
+   "postcode": "CB5 8JL",
+   "url": "https://www.nandos.co.uk/restaurants/cambridge-retail-park",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "cheltenham": {
+   "chain_id": "nandos",
+   "slug": "cheltenham",
+   "name": "Cheltenham",
+   "postcode": "GL50 4EQ",
+   "url": "https://www.nandos.co.uk/restaurants/cheltenham",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "chesterfield": {
+   "chain_id": "nandos",
+   "slug": "chesterfield",
+   "name": "Chesterfield",
+   "postcode": "S40 2EZ",
+   "url": "https://www.nandos.co.uk/restaurants/chesterfield",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "corby": {
+   "chain_id": "nandos",
+   "slug": "corby",
+   "name": "Corby",
+   "postcode": "NN17 1QG",
+   "url": "https://www.nandos.co.uk/restaurants/corby",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "coventry-arena": {
+   "chain_id": "nandos",
+   "slug": "coventry-arena",
+   "name": "Coventry - Arena",
+   "postcode": "CV6 6AS",
+   "url": "https://www.nandos.co.uk/restaurants/coventry-arena",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "coventry-city": {
+   "chain_id": "nandos",
+   "slug": "coventry-city",
+   "name": "Coventry - City",
+   "postcode": "CV1 1FE",
+   "url": "https://www.nandos.co.uk/restaurants/coventry-city",
+   "halal": true,
+   "lat": null,
+   "lng": null
+  },
+  "coventry-showcase": {
+   "chain_id": "nandos",
+   "slug": "coventry-showcase",
+   "name": "Coventry - Showcase",
+   "postcode": "CV2 2SZ",
+   "url": "https://www.nandos.co.uk/restaurants/coventry-showcase",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "crewe": {
+   "chain_id": "nandos",
+   "slug": "crewe",
+   "name": "Crewe",
+   "postcode": "CW1 2AQ",
+   "url": "https://www.nandos.co.uk/restaurants/crewe",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "derby-derbion": {
+   "chain_id": "nandos",
+   "slug": "derby-derbion",
+   "name": "Derby - Derbion",
+   "postcode": "DE1 2NQ",
+   "url": "https://www.nandos.co.uk/restaurants/derby-derbion",
+   "halal": true,
+   "lat": null,
+   "lng": null
+  },
+  "derby-market-place": {
+   "chain_id": "nandos",
+   "slug": "derby-market-place",
+   "name": "Derby - Market Place",
+   "postcode": "DE1 3AH",
+   "url": "https://www.nandos.co.uk/restaurants/derby-market-place",
+   "halal": true,
+   "lat": null,
+   "lng": null
+  },
+  "derby-meteor": {
+   "chain_id": "nandos",
+   "slug": "derby-meteor",
+   "name": "Derby - Meteor",
+   "postcode": "DE21 4SY",
+   "url": "https://www.nandos.co.uk/restaurants/derby-meteor",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "dudley": {
+   "chain_id": "nandos",
+   "slug": "dudley",
+   "name": "Dudley",
+   "postcode": "DY1 4TB",
+   "url": "https://www.nandos.co.uk/restaurants/dudley",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "harrogate": {
+   "chain_id": "nandos",
+   "slug": "harrogate",
+   "name": "Harrogate",
+   "postcode": "HG1 2RE",
+   "url": "https://www.nandos.co.uk/restaurants/harrogate",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "hereford": {
+   "chain_id": "nandos",
+   "slug": "hereford",
+   "name": "Hereford",
+   "postcode": "HR4 9HX",
+   "url": "https://www.nandos.co.uk/restaurants/hereford",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "huntingdon": {
+   "chain_id": "nandos",
+   "slug": "huntingdon",
+   "name": "Huntingdon",
+   "postcode": "PE29 7EG",
+   "url": "https://www.nandos.co.uk/restaurants/huntingdon",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "kettering": {
+   "chain_id": "nandos",
+   "slug": "kettering",
+   "name": "Kettering",
+   "postcode": "NN15 6YA",
+   "url": "https://www.nandos.co.uk/restaurants/kettering",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "kidderminster": {
+   "chain_id": "nandos",
+   "slug": "kidderminster",
+   "name": "Kidderminster",
+   "postcode": "DY10 1BY",
+   "url": "https://www.nandos.co.uk/restaurants/kidderminster",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "leamington-spa": {
+   "chain_id": "nandos",
+   "slug": "leamington-spa",
+   "name": "Leamington Spa",
+   "postcode": "CV32 4NG",
+   "url": "https://www.nandos.co.uk/restaurants/leamington-spa",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "leicester-fosse-park": {
+   "chain_id": "nandos",
+   "slug": "leicester-fosse-park",
+   "name": "Leicester - Fosse Park",
+   "postcode": "LE191HY",
+   "url": "https://www.nandos.co.uk/restaurants/leicester-fosse-park",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "leicester-freemans": {
+   "chain_id": "nandos",
+   "slug": "leicester-freemans",
+   "name": "Leicester - Freemans",
+   "postcode": "LE2 7LB",
+   "url": "https://www.nandos.co.uk/restaurants/leicester-freemans",
+   "halal": true,
+   "lat": null,
+   "lng": null
+  },
+  "leicester-granby-street": {
+   "chain_id": "nandos",
+   "slug": "leicester-granby-street",
+   "name": "Leicester - Granby Street",
+   "postcode": "LE1 1DH",
+   "url": "https://www.nandos.co.uk/restaurants/leicester-granby-street",
+   "halal": true,
+   "lat": null,
+   "lng": null
+  },
+  "leicester-highcross": {
+   "chain_id": "nandos",
+   "slug": "leicester-highcross",
+   "name": "Leicester - Highcross",
+   "postcode": "LE1 4FP",
+   "url": "https://www.nandos.co.uk/restaurants/leicester-highcross",
+   "halal": true,
+   "lat": null,
+   "lng": null
+  },
+  "leicester-meridian": {
+   "chain_id": "nandos",
+   "slug": "leicester-meridian",
+   "name": "Leicester - Meridian",
+   "postcode": "LE19 1JZ",
+   "url": "https://www.nandos.co.uk/restaurants/leicester-meridian",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "loughborough": {
+   "chain_id": "nandos",
+   "slug": "loughborough",
+   "name": "Loughborough",
+   "postcode": "LE11 1TH",
+   "url": "https://www.nandos.co.uk/restaurants/loughborough",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "luton": {
+   "chain_id": "nandos",
+   "slug": "luton",
+   "name": "Luton",
+   "postcode": "LU1 2NB",
+   "url": "https://www.nandos.co.uk/restaurants/luton",
+   "halal": true,
+   "lat": null,
+   "lng": null
+  },
+  "luton-hatters-way-retail-park": {
+   "chain_id": "nandos",
+   "slug": "luton-hatters-way-retail-park",
+   "name": "Luton - Hatters Way Retail Park",
+   "postcode": "LU4 8FD",
+   "url": "https://www.nandos.co.uk/restaurants/luton-hatters-way-retail-park",
+   "halal": true,
+   "lat": null,
+   "lng": null
+  },
+  "merry-hill": {
+   "chain_id": "nandos",
+   "slug": "merry-hill",
+   "name": "Merry Hill",
+   "postcode": "DY5 1SJ",
+   "url": "https://www.nandos.co.uk/restaurants/merry-hill",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "milton-keynes-kingston-centre": {
+   "chain_id": "nandos",
+   "slug": "milton-keynes-kingston-centre",
+   "name": "Milton Keynes - Kingston Centre",
+   "postcode": "MK10 0BA",
+   "url": "https://www.nandos.co.uk/restaurants/milton-keynes-kingston-centre",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "milton-keynes-stadium": {
+   "chain_id": "nandos",
+   "slug": "milton-keynes-stadium",
+   "name": "Milton Keynes - Stadium",
+   "postcode": "MK1 1ST",
+   "url": "https://www.nandos.co.uk/restaurants/milton-keynes-stadium",
+   "halal": true,
+   "lat": null,
+   "lng": null
+  },
+  "milton-keynes-centre": {
+   "chain_id": "nandos",
+   "slug": "milton-keynes-centre",
+   "name": "Milton Keynes - The Centre",
+   "postcode": "MK9 3ES",
+   "url": "https://www.nandos.co.uk/restaurants/milton-keynes-centre",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "milton-keynes-hub": {
+   "chain_id": "nandos",
+   "slug": "milton-keynes-hub",
+   "name": "Milton Keynes - The Hub",
+   "postcode": "MK9 2FB",
+   "url": "https://www.nandos.co.uk/restaurants/milton-keynes-hub",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "milton-keynes-xscape": {
+   "chain_id": "nandos",
+   "slug": "milton-keynes-xscape",
+   "name": "Milton Keynes - Xscape",
+   "postcode": "MK9 3XS",
+   "url": "https://www.nandos.co.uk/restaurants/milton-keynes-xscape",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "northampton": {
+   "chain_id": "nandos",
+   "slug": "northampton",
+   "name": "Northampton - Market Square",
+   "postcode": "NN1 2DA",
+   "url": "https://www.nandos.co.uk/restaurants/northampton",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "northampton-sixfields": {
+   "chain_id": "nandos",
+   "slug": "northampton-sixfields",
+   "name": "Northampton - Sixfields",
+   "postcode": "NN5 5QJ",
+   "url": "https://www.nandos.co.uk/restaurants/northampton-sixfields",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "nottingham-cornerhouse": {
+   "chain_id": "nandos",
+   "slug": "nottingham-cornerhouse",
+   "name": "Nottingham - Cornerhouse",
+   "postcode": "NG1 4DB",
+   "url": "https://www.nandos.co.uk/restaurants/nottingham-cornerhouse",
+   "halal": true,
+   "lat": null,
+   "lng": null
+  },
+  "nottingham-giltbrook": {
+   "chain_id": "nandos",
+   "slug": "nottingham-giltbrook",
+   "name": "Nottingham - Giltbrook",
+   "postcode": "NG16 2RP",
+   "url": "https://www.nandos.co.uk/restaurants/nottingham-giltbrook",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "nottingham-market-square": {
+   "chain_id": "nandos",
+   "slug": "nottingham-market-square",
+   "name": "Nottingham - Market Square",
+   "postcode": "NG1 6HL",
+   "url": "https://www.nandos.co.uk/restaurants/nottingham-market-square",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "nottingham-showcase": {
+   "chain_id": "nandos",
+   "slug": "nottingham-showcase",
+   "name": "Nottingham - Showcase",
+   "postcode": "NG7 2UW",
+   "url": "https://www.nandos.co.uk/restaurants/nottingham-showcase",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "nottingham-victoria-park": {
+   "chain_id": "nandos",
+   "slug": "nottingham-victoria-park",
+   "name": "Nottingham - Victoria Park",
+   "postcode": "NG4 2PA",
+   "url": "https://www.nandos.co.uk/restaurants/nottingham-victoria-park",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "peterborough": {
+   "chain_id": "nandos",
+   "slug": "peterborough",
+   "name": "Peterborough",
+   "postcode": "PE1 1XH",
+   "url": "https://www.nandos.co.uk/restaurants/peterborough",
+   "halal": true,
+   "lat": null,
+   "lng": null
+  },
+  "peterborough-hampton": {
+   "chain_id": "nandos",
+   "slug": "peterborough-hampton",
+   "name": "Peterborough - Hampton",
+   "postcode": "PE7 8FD",
+   "url": "https://www.nandos.co.uk/restaurants/peterborough-hampton",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "redditch": {
+   "chain_id": "nandos",
+   "slug": "redditch",
+   "name": "Redditch",
+   "postcode": "B97 4HA",
+   "url": "https://www.nandos.co.uk/restaurants/redditch",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "rugby": {
+   "chain_id": "nandos",
+   "slug": "rugby",
+   "name": "Rugby",
+   "postcode": "CV21 1SR",
+   "url": "https://www.nandos.co.uk/restaurants/rugby",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "rushden-lakes": {
+   "chain_id": "nandos",
+   "slug": "rushden-lakes",
+   "name": "Rushden Lakes",
+   "postcode": "NN10 6FT",
+   "url": "https://www.nandos.co.uk/restaurants/rushden-lakes",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "selly-oak": {
+   "chain_id": "nandos",
+   "slug": "selly-oak",
+   "name": "Selly Oak",
+   "postcode": "B29 6SQ",
+   "url": "https://www.nandos.co.uk/restaurants/selly-oak",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "shirley": {
+   "chain_id": "nandos",
+   "slug": "shirley",
+   "name": "Shirley",
+   "postcode": "B90 3AQ",
+   "url": "https://www.nandos.co.uk/restaurants/shirley",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "shrewsbury": {
+   "chain_id": "nandos",
+   "slug": "shrewsbury",
+   "name": "Shrewsbury",
+   "postcode": "SY3 7ET",
+   "url": "https://www.nandos.co.uk/restaurants/shrewsbury",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "solihull": {
+   "chain_id": "nandos",
+   "slug": "solihull",
+   "name": "Solihull",
+   "postcode": "B91 3GS",
+   "url": "https://www.nandos.co.uk/restaurants/solihull",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "stafford": {
+   "chain_id": "nandos",
+   "slug": "stafford",
+   "name": "Stafford",
+   "postcode": "ST16 2HQ",
+   "url": "https://www.nandos.co.uk/restaurants/stafford",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "stoke-etruria-mills": {
+   "chain_id": "nandos",
+   "slug": "stoke-etruria-mills",
+   "name": "Stoke - Etruria Mills",
+   "postcode": "ST1 5NS",
+   "url": "https://www.nandos.co.uk/restaurants/stoke-etruria-mills",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "stoke-potteries-centre": {
+   "chain_id": "nandos",
+   "slug": "stoke-potteries-centre",
+   "name": "Stoke - Potteries Centre",
+   "postcode": "ST1 1PS",
+   "url": "https://www.nandos.co.uk/restaurants/stoke-potteries-centre",
+   "halal": true,
+   "lat": null,
+   "lng": null
+  },
+  "stratford-upon-avon": {
+   "chain_id": "nandos",
+   "slug": "stratford-upon-avon",
+   "name": "Stratford Upon Avon",
+   "postcode": "CV37 6JW",
+   "url": "https://www.nandos.co.uk/restaurants/stratford-upon-avon",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "sutton-coldfield": {
+   "chain_id": "nandos",
+   "slug": "sutton-coldfield",
+   "name": "Sutton Coldfield",
+   "postcode": "B72 1PH",
+   "url": "https://www.nandos.co.uk/restaurants/sutton-coldfield",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "tamworth": {
+   "chain_id": "nandos",
+   "slug": "tamworth",
+   "name": "Tamworth",
+   "postcode": "B78 3HD",
+   "url": "https://www.nandos.co.uk/restaurants/tamworth",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "telford": {
+   "chain_id": "nandos",
+   "slug": "telford",
+   "name": "Telford",
+   "postcode": "TF3 4EJ",
+   "url": "https://www.nandos.co.uk/restaurants/telford",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "walsall": {
+   "chain_id": "nandos",
+   "slug": "walsall",
+   "name": "Walsall",
+   "postcode": "WS2 8LR",
+   "url": "https://www.nandos.co.uk/restaurants/walsall",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "wednesbury-junction-9": {
+   "chain_id": "nandos",
+   "slug": "wednesbury-junction-9",
+   "name": "Wednesbury - Junction 9",
+   "postcode": "WS10 9QY",
+   "url": "https://www.nandos.co.uk/restaurants/wednesbury-junction-9",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "west-bromwich": {
+   "chain_id": "nandos",
+   "slug": "west-bromwich",
+   "name": "West Bromwich",
+   "postcode": "B70 7PP",
+   "url": "https://www.nandos.co.uk/restaurants/west-bromwich",
+   "halal": true,
+   "lat": null,
+   "lng": null
+  },
+  "wolverhampton-bentley-bridge": {
+   "chain_id": "nandos",
+   "slug": "wolverhampton-bentley-bridge",
+   "name": "Wolverhampton - Bentley Bridge",
+   "postcode": "WV11 1TZ",
+   "url": "https://www.nandos.co.uk/restaurants/wolverhampton-bentley-bridge",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "wolverhampton-queen-street": {
+   "chain_id": "nandos",
+   "slug": "wolverhampton-queen-street",
+   "name": "Wolverhampton - Queen Street",
+   "postcode": "WV1 3JW",
+   "url": "https://www.nandos.co.uk/restaurants/wolverhampton-queen-street",
+   "halal": true,
+   "lat": null,
+   "lng": null
+  },
+  "worcester": {
+   "chain_id": "nandos",
+   "slug": "worcester",
+   "name": "Worcester",
+   "postcode": "WR1 2NA",
+   "url": "https://www.nandos.co.uk/restaurants/worcester",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "addlestone": {
+   "chain_id": "nandos",
+   "slug": "addlestone",
+   "name": "Addlestone",
+   "postcode": "KT15 2GN",
+   "url": "https://www.nandos.co.uk/restaurants/addlestone",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "aldershot": {
+   "chain_id": "nandos",
+   "slug": "aldershot",
+   "name": "Aldershot",
+   "postcode": "GU11 1NX",
+   "url": "https://www.nandos.co.uk/restaurants/aldershot",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "ashford": {
+   "chain_id": "nandos",
+   "slug": "ashford",
+   "name": "Ashford",
+   "postcode": "TN25 4BN",
+   "url": "https://www.nandos.co.uk/restaurants/ashford",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "ashford-designer-outlet": {
+   "chain_id": "nandos",
+   "slug": "ashford-designer-outlet",
+   "name": "Ashford Designer Outlet",
+   "postcode": "TN24 0SD",
+   "url": "https://www.nandos.co.uk/restaurants/ashford-designer-outlet",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "barking": {
+   "chain_id": "nandos",
+   "slug": "barking",
+   "name": "Barking",
+   "postcode": "IG11 8RU",
+   "url": "https://www.nandos.co.uk/restaurants/barking",
+   "halal": true,
+   "lat": null,
+   "lng": null
+  },
+  "basildon-east-square": {
+   "chain_id": "nandos",
+   "slug": "basildon-east-square",
+   "name": "Basildon - East Square",
+   "postcode": "SS14 1HS",
+   "url": "https://www.nandos.co.uk/restaurants/basildon-east-square",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "basildon-festival-leisure": {
+   "chain_id": "nandos",
+   "slug": "basildon-festival-leisure",
+   "name": "Basildon - Festival Leisure",
+   "postcode": "SS14 3WB",
+   "url": "https://www.nandos.co.uk/restaurants/basildon-festival-leisure",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "basildon-mayflower-retail-park": {
+   "chain_id": "nandos",
+   "slug": "basildon-mayflower-retail-park",
+   "name": "Basildon - Mayflower Retail Park",
+   "postcode": "SS14 3HZ",
+   "url": "https://www.nandos.co.uk/restaurants/basildon-mayflower-retail-park",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "basingstoke-festival-place": {
+   "chain_id": "nandos",
+   "slug": "basingstoke-festival-place",
+   "name": "Basingstoke - Festival Place",
+   "postcode": "RG21 7BB",
+   "url": "https://www.nandos.co.uk/restaurants/basingstoke-festival-place",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "basingstoke-st-michaels": {
+   "chain_id": "nandos",
+   "slug": "basingstoke-st-michaels",
+   "name": "Basingstoke - St Michael&#x27;s",
+   "postcode": "RG22 4AN",
+   "url": "https://www.nandos.co.uk/restaurants/basingstoke-st-michaels",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "beaconsfield-services": {
+   "chain_id": "nandos",
+   "slug": "beaconsfield-services",
+   "name": "Beaconsfield Services",
+   "postcode": "HP9 2SE",
+   "url": "https://www.nandos.co.uk/restaurants/beaconsfield-services",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "beckenham": {
+   "chain_id": "nandos",
+   "slug": "beckenham",
+   "name": "Beckenham",
+   "postcode": "BR3 1AH",
+   "url": "https://www.nandos.co.uk/restaurants/beckenham",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "bexleyheath": {
+   "chain_id": "nandos",
+   "slug": "bexleyheath",
+   "name": "Bexleyheath",
+   "postcode": "DA6 7DZ",
+   "url": "https://www.nandos.co.uk/restaurants/bexleyheath",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "bicester-pioneer-square": {
+   "chain_id": "nandos",
+   "slug": "bicester-pioneer-square",
+   "name": "Bicester Pioneer Square",
+   "postcode": "OX26 6JW",
+   "url": "https://www.nandos.co.uk/restaurants/bicester-pioneer-square",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "bluewater-plaza": {
+   "chain_id": "nandos",
+   "slug": "bluewater-plaza",
+   "name": "Bluewater - The Plaza",
+   "postcode": "DA9 9SG",
+   "url": "https://www.nandos.co.uk/restaurants/bluewater-plaza",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "bluewater-winter-garden": {
+   "chain_id": "nandos",
+   "slug": "bluewater-winter-garden",
+   "name": "Bluewater - Winter Garden",
+   "postcode": "DA9 9SF",
+   "url": "https://www.nandos.co.uk/restaurants/bluewater-winter-garden",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "bognor-arun-retail-park": {
+   "chain_id": "nandos",
+   "slug": "bognor-arun-retail-park",
+   "name": "Bognor - Arun Retail Park",
+   "postcode": "PO22 9NF",
+   "url": "https://www.nandos.co.uk/restaurants/bognor-arun-retail-park",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "borehamwood": {
+   "chain_id": "nandos",
+   "slug": "borehamwood",
+   "name": "Borehamwood",
+   "postcode": "WD6 1AG",
+   "url": "https://www.nandos.co.uk/restaurants/borehamwood",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "bournemouth-bh2": {
+   "chain_id": "nandos",
+   "slug": "bournemouth-bh2",
+   "name": "Bournemouth - BH2",
+   "postcode": "BH2 5AU",
+   "url": "https://www.nandos.co.uk/restaurants/bournemouth-bh2",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "bracknell": {
+   "chain_id": "nandos",
+   "slug": "bracknell",
+   "name": "Bracknell",
+   "postcode": "RG12 1BG",
+   "url": "https://www.nandos.co.uk/restaurants/bracknell",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "braintree": {
+   "chain_id": "nandos",
+   "slug": "braintree",
+   "name": "Braintree",
+   "postcode": "CM77 8YH",
+   "url": "https://www.nandos.co.uk/restaurants/braintree",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "brentwood": {
+   "chain_id": "nandos",
+   "slug": "brentwood",
+   "name": "Brentwood",
+   "postcode": "CM14 4RR",
+   "url": "https://www.nandos.co.uk/restaurants/brentwood",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "brighton-duke-street": {
+   "chain_id": "nandos",
+   "slug": "brighton-duke-street",
+   "name": "Brighton - Duke Street",
+   "postcode": "BN1 1AG",
+   "url": "https://www.nandos.co.uk/restaurants/brighton-duke-street",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "brighton-london-road": {
+   "chain_id": "nandos",
+   "slug": "brighton-london-road",
+   "name": "Brighton - London Road",
+   "postcode": "BN1 4JH",
+   "url": "https://www.nandos.co.uk/restaurants/brighton-london-road",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "brighton-marina": {
+   "chain_id": "nandos",
+   "slug": "brighton-marina",
+   "name": "Brighton - Marina",
+   "postcode": "BN2 5WA",
+   "url": "https://www.nandos.co.uk/restaurants/brighton-marina",
+   "halal": true,
+   "lat": null,
+   "lng": null
+  },
+  "bromley-st-marks-square": {
+   "chain_id": "nandos",
+   "slug": "bromley-st-marks-square",
+   "name": "Bromley - St Mark&#x27;s Square",
+   "postcode": "BR2 9UY",
+   "url": "https://www.nandos.co.uk/restaurants/bromley-st-marks-square",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "bromley-widmore-road": {
+   "chain_id": "nandos",
+   "slug": "bromley-widmore-road",
+   "name": "Bromley - Widmore Road",
+   "postcode": "BR1 1RL",
+   "url": "https://www.nandos.co.uk/restaurants/bromley-widmore-road",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "camberley": {
+   "chain_id": "nandos",
+   "slug": "camberley",
+   "name": "Camberley",
+   "postcode": "GU15 3GP",
+   "url": "https://www.nandos.co.uk/restaurants/camberley",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "canterbury": {
+   "chain_id": "nandos",
+   "slug": "canterbury",
+   "name": "Canterbury",
+   "postcode": "CT1 2BG",
+   "url": "https://www.nandos.co.uk/restaurants/canterbury",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "chatham": {
+   "chain_id": "nandos",
+   "slug": "chatham",
+   "name": "Chatham",
+   "postcode": "ME4 4LL",
+   "url": "https://www.nandos.co.uk/restaurants/chatham",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "chelmsford": {
+   "chain_id": "nandos",
+   "slug": "chelmsford",
+   "name": "Chelmsford",
+   "postcode": "CM2 6QR",
+   "url": "https://www.nandos.co.uk/restaurants/chelmsford",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "chichester": {
+   "chain_id": "nandos",
+   "slug": "chichester",
+   "name": "Chichester",
+   "postcode": "PO19 8EL",
+   "url": "https://www.nandos.co.uk/restaurants/chichester",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "cobham-services": {
+   "chain_id": "nandos",
+   "slug": "cobham-services",
+   "name": "Cobham Services",
+   "postcode": "KT11 3DB",
+   "url": "https://www.nandos.co.uk/restaurants/cobham-services",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "crawley": {
+   "chain_id": "nandos",
+   "slug": "crawley",
+   "name": "Crawley",
+   "postcode": "RH10 8LR",
+   "url": "https://www.nandos.co.uk/restaurants/crawley",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "crayford": {
+   "chain_id": "nandos",
+   "slug": "crayford",
+   "name": "Crayford",
+   "postcode": "DA1 4LD",
+   "url": "https://www.nandos.co.uk/restaurants/crayford",
+   "halal": true,
+   "lat": null,
+   "lng": null
+  },
+  "croydon-colonnades": {
+   "chain_id": "nandos",
+   "slug": "croydon-colonnades",
+   "name": "Croydon - Colonnades",
+   "postcode": "CR0 4RQ",
+   "url": "https://www.nandos.co.uk/restaurants/croydon-colonnades",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "croydon-high-street": {
+   "chain_id": "nandos",
+   "slug": "croydon-high-street",
+   "name": "Croydon - High Street",
+   "postcode": "CR0 1GT",
+   "url": "https://www.nandos.co.uk/restaurants/croydon-high-street",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "croydon-valley-leisure-park": {
+   "chain_id": "nandos",
+   "slug": "croydon-valley-leisure-park",
+   "name": "Croydon - Valley Leisure Park",
+   "postcode": "CR0 4YA",
+   "url": "https://www.nandos.co.uk/restaurants/croydon-valley-leisure-park",
+   "halal": true,
+   "lat": null,
+   "lng": null
+  },
+  "didcot": {
+   "chain_id": "nandos",
+   "slug": "didcot",
+   "name": "Didcot",
+   "postcode": "OX11 7LG",
+   "url": "https://www.nandos.co.uk/restaurants/didcot",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "dorchester": {
+   "chain_id": "nandos",
+   "slug": "dorchester",
+   "name": "Dorchester",
+   "postcode": "DT1 1QR",
+   "url": "https://www.nandos.co.uk/restaurants/dorchester",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "dover-st-james": {
+   "chain_id": "nandos",
+   "slug": "dover-st-james",
+   "name": "Dover - St James",
+   "postcode": "CT16 1QD",
+   "url": "https://www.nandos.co.uk/restaurants/dover-st-james",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "eastbourne": {
+   "chain_id": "nandos",
+   "slug": "eastbourne",
+   "name": "Eastbourne",
+   "postcode": "BN21 3NW",
+   "url": "https://www.nandos.co.uk/restaurants/eastbourne",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "eastleigh": {
+   "chain_id": "nandos",
+   "slug": "eastleigh",
+   "name": "Eastleigh",
+   "postcode": "SO50 5SF",
+   "url": "https://www.nandos.co.uk/restaurants/eastleigh",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "edgware": {
+   "chain_id": "nandos",
+   "slug": "edgware",
+   "name": "Edgware",
+   "postcode": "HA8 7JG",
+   "url": "https://www.nandos.co.uk/restaurants/edgware",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "eltham": {
+   "chain_id": "nandos",
+   "slug": "eltham",
+   "name": "Eltham",
+   "postcode": "SE9 1BJ",
+   "url": "https://www.nandos.co.uk/restaurants/eltham",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "enfield-town": {
+   "chain_id": "nandos",
+   "slug": "enfield-town",
+   "name": "Enfield - Town",
+   "postcode": "EN2 6LE",
+   "url": "https://www.nandos.co.uk/restaurants/enfield-town",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "epsom": {
+   "chain_id": "nandos",
+   "slug": "epsom",
+   "name": "Epsom",
+   "postcode": "KT19 8AS",
+   "url": "https://www.nandos.co.uk/restaurants/epsom",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "exeter-marsh-barton": {
+   "chain_id": "nandos",
+   "slug": "exeter-marsh-barton",
+   "name": "Exeter - Marsh Barton",
+   "postcode": "EX2 8AA",
+   "url": "https://www.nandos.co.uk/restaurants/exeter-marsh-barton",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "fareham": {
+   "chain_id": "nandos",
+   "slug": "fareham",
+   "name": "Fareham",
+   "postcode": "PO16 0BX",
+   "url": "https://www.nandos.co.uk/restaurants/fareham",
+   "halal": true,
+   "lat": null,
+   "lng": null
+  },
+  "farnham-brightwells-yard": {
+   "chain_id": "nandos",
+   "slug": "farnham-brightwells-yard",
+   "name": "Farnham - Brightwells Yard",
+   "postcode": "GU9 7SF",
+   "url": "https://www.nandos.co.uk/restaurants/farnham-brightwells-yard",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "feltham": {
+   "chain_id": "nandos",
+   "slug": "feltham",
+   "name": "Feltham",
+   "postcode": "TW13 4BS",
+   "url": "https://www.nandos.co.uk/restaurants/feltham",
+   "halal": true,
+   "lat": null,
+   "lng": null
+  },
+  "guildford": {
+   "chain_id": "nandos",
+   "slug": "guildford",
+   "name": "Guildford",
+   "postcode": "GU1 4EH",
+   "url": "https://www.nandos.co.uk/restaurants/guildford",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "harrow-station-road": {
+   "chain_id": "nandos",
+   "slug": "harrow-station-road",
+   "name": "Harrow - Station Road",
+   "postcode": "HA1 2DX",
+   "url": "https://www.nandos.co.uk/restaurants/harrow-station-road",
+   "halal": true,
+   "lat": null,
+   "lng": null
+  },
+  "harrow-st-george": {
+   "chain_id": "nandos",
+   "slug": "harrow-st-george",
+   "name": "Harrow - St George",
+   "postcode": "HA1 1HS",
+   "url": "https://www.nandos.co.uk/restaurants/harrow-st-george",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "hatfield": {
+   "chain_id": "nandos",
+   "slug": "hatfield",
+   "name": "Hatfield",
+   "postcode": "AL10 0XR",
+   "url": "https://www.nandos.co.uk/restaurants/hatfield",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "hempstead-valley": {
+   "chain_id": "nandos",
+   "slug": "hempstead-valley",
+   "name": "Hempstead Valley",
+   "postcode": "ME7 3PD",
+   "url": "https://www.nandos.co.uk/restaurants/hempstead-valley",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "high-wycombe": {
+   "chain_id": "nandos",
+   "slug": "high-wycombe",
+   "name": "High Wycombe",
+   "postcode": "HP11 2DB",
+   "url": "https://www.nandos.co.uk/restaurants/high-wycombe",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "hornchurch": {
+   "chain_id": "nandos",
+   "slug": "hornchurch",
+   "name": "Hornchurch",
+   "postcode": "RM11 1TX",
+   "url": "https://www.nandos.co.uk/restaurants/hornchurch",
+   "halal": true,
+   "lat": null,
+   "lng": null
+  },
+  "horsham": {
+   "chain_id": "nandos",
+   "slug": "horsham",
+   "name": "Horsham",
+   "postcode": "RH12 1HH",
+   "url": "https://www.nandos.co.uk/restaurants/horsham",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "hounslow": {
+   "chain_id": "nandos",
+   "slug": "hounslow",
+   "name": "Hounslow",
+   "postcode": "TW3 1RH",
+   "url": "https://www.nandos.co.uk/restaurants/hounslow",
+   "halal": true,
+   "lat": null,
+   "lng": null
+  },
+  "hove": {
+   "chain_id": "nandos",
+   "slug": "hove",
+   "name": "Hove",
+   "postcode": "BN3 7PN",
+   "url": "https://www.nandos.co.uk/restaurants/hove",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "ilford": {
+   "chain_id": "nandos",
+   "slug": "ilford",
+   "name": "Ilford",
+   "postcode": "IG1 1BP",
+   "url": "https://www.nandos.co.uk/restaurants/ilford",
+   "halal": true,
+   "lat": null,
+   "lng": null
+  },
+  "kingston-upon-thames": {
+   "chain_id": "nandos",
+   "slug": "kingston-upon-thames",
+   "name": "Kingston",
+   "postcode": "KT1 1LQ",
+   "url": "https://www.nandos.co.uk/restaurants/kingston-upon-thames",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "lakeside": {
+   "chain_id": "nandos",
+   "slug": "lakeside",
+   "name": "Lakeside - The Boardwalk",
+   "postcode": "RM20 2ZP",
+   "url": "https://www.nandos.co.uk/restaurants/lakeside",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "maidenhead-king-street": {
+   "chain_id": "nandos",
+   "slug": "maidenhead-king-street",
+   "name": "Maidenhead - King Street",
+   "postcode": "SL6 1JR",
+   "url": "https://www.nandos.co.uk/restaurants/maidenhead-king-street",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "maidstone": {
+   "chain_id": "nandos",
+   "slug": "maidstone",
+   "name": "Maidstone",
+   "postcode": "ME14 1PF",
+   "url": "https://www.nandos.co.uk/restaurants/maidstone",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "newbury": {
+   "chain_id": "nandos",
+   "slug": "newbury",
+   "name": "Newbury",
+   "postcode": "RG14 5EN",
+   "url": "https://www.nandos.co.uk/restaurants/newbury",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "orpington-nugent-shopping": {
+   "chain_id": "nandos",
+   "slug": "orpington-nugent-shopping",
+   "name": "Orpington - Nugent Shopping",
+   "postcode": "BR5 3RP",
+   "url": "https://www.nandos.co.uk/restaurants/orpington-nugent-shopping",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "orpington-walnuts-centre": {
+   "chain_id": "nandos",
+   "slug": "orpington-walnuts-centre",
+   "name": "Orpington - Walnuts Centre",
+   "postcode": "BR6 0TW",
+   "url": "https://www.nandos.co.uk/restaurants/orpington-walnuts-centre",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "oxford-cowley-road": {
+   "chain_id": "nandos",
+   "slug": "oxford-cowley-road",
+   "name": "Oxford - Cowley Road",
+   "postcode": "OX4 1JB",
+   "url": "https://www.nandos.co.uk/restaurants/oxford-cowley-road",
+   "halal": true,
+   "lat": null,
+   "lng": null
+  },
+  "oxford-george-street": {
+   "chain_id": "nandos",
+   "slug": "oxford-george-street",
+   "name": "Oxford - George Street",
+   "postcode": "OX1 2BQ",
+   "url": "https://www.nandos.co.uk/restaurants/oxford-george-street",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "portsmouth": {
+   "chain_id": "nandos",
+   "slug": "portsmouth",
+   "name": "Portsmouth",
+   "postcode": "PO1 3TR",
+   "url": "https://www.nandos.co.uk/restaurants/portsmouth",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "reading-friar-street": {
+   "chain_id": "nandos",
+   "slug": "reading-friar-street",
+   "name": "Reading - Friar Street",
+   "postcode": "RG1 1DX",
+   "url": "https://www.nandos.co.uk/restaurants/reading-friar-street",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "reading-gateway": {
+   "chain_id": "nandos",
+   "slug": "reading-gateway",
+   "name": "Reading - Gateway",
+   "postcode": "RG2 0GG",
+   "url": "https://www.nandos.co.uk/restaurants/reading-gateway",
+   "halal": true,
+   "lat": null,
+   "lng": null
+  },
+  "reading-oracle-centre": {
+   "chain_id": "nandos",
+   "slug": "reading-oracle-centre",
+   "name": "Reading - Oracle Centre",
+   "postcode": "RG1 2AG",
+   "url": "https://www.nandos.co.uk/restaurants/reading-oracle-centre",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "reigate": {
+   "chain_id": "nandos",
+   "slug": "reigate",
+   "name": "Reigate",
+   "postcode": "RH2 9AE",
+   "url": "https://www.nandos.co.uk/restaurants/reigate",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "richmond": {
+   "chain_id": "nandos",
+   "slug": "richmond",
+   "name": "Richmond",
+   "postcode": "TW10 6UA",
+   "url": "https://www.nandos.co.uk/restaurants/richmond",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "romford": {
+   "chain_id": "nandos",
+   "slug": "romford",
+   "name": "Romford",
+   "postcode": "RM1 1AU",
+   "url": "https://www.nandos.co.uk/restaurants/romford",
+   "halal": true,
+   "lat": null,
+   "lng": null
+  },
+  "salisbury": {
+   "chain_id": "nandos",
+   "slug": "salisbury",
+   "name": "Salisbury",
+   "postcode": "SP1 2AJ",
+   "url": "https://www.nandos.co.uk/restaurants/salisbury",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "sevenoaks": {
+   "chain_id": "nandos",
+   "slug": "sevenoaks",
+   "name": "Sevenoaks",
+   "postcode": "TN13 1DA",
+   "url": "https://www.nandos.co.uk/restaurants/sevenoaks",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "sittingbourne": {
+   "chain_id": "nandos",
+   "slug": "sittingbourne",
+   "name": "Sittingbourne",
+   "postcode": "ME10 3JY",
+   "url": "https://www.nandos.co.uk/restaurants/sittingbourne",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "slough-high-street": {
+   "chain_id": "nandos",
+   "slug": "slough-high-street",
+   "name": "Slough - High Street",
+   "postcode": "SL1 1JU",
+   "url": "https://www.nandos.co.uk/restaurants/slough-high-street",
+   "halal": true,
+   "lat": null,
+   "lng": null
+  },
+  "southampton-guildhall": {
+   "chain_id": "nandos",
+   "slug": "southampton-guildhall",
+   "name": "Southampton - Guildhall",
+   "postcode": "SO14 7DU",
+   "url": "https://www.nandos.co.uk/restaurants/southampton-guildhall",
+   "halal": true,
+   "lat": null,
+   "lng": null
+  },
+  "southampton-wq-leisure": {
+   "chain_id": "nandos",
+   "slug": "southampton-wq-leisure",
+   "name": "Southampton - WQ Leisure",
+   "postcode": "SO15 1DE",
+   "url": "https://www.nandos.co.uk/restaurants/southampton-wq-leisure",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "southampton-wq-shopping": {
+   "chain_id": "nandos",
+   "slug": "southampton-wq-shopping",
+   "name": "Southampton - WQ Shopping",
+   "postcode": "SO15 1QF",
+   "url": "https://www.nandos.co.uk/restaurants/southampton-wq-shopping",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "south-aylesford": {
+   "chain_id": "nandos",
+   "slug": "south-aylesford",
+   "name": "South Aylesford",
+   "postcode": "ME20 7TP",
+   "url": "https://www.nandos.co.uk/restaurants/south-aylesford",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "southend": {
+   "chain_id": "nandos",
+   "slug": "southend",
+   "name": "Southend",
+   "postcode": "SS1 1NT",
+   "url": "https://www.nandos.co.uk/restaurants/southend",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "south-harrow": {
+   "chain_id": "nandos",
+   "slug": "south-harrow",
+   "name": "South Harrow",
+   "postcode": "HA2 8JA",
+   "url": "https://www.nandos.co.uk/restaurants/south-harrow",
+   "halal": true,
+   "lat": null,
+   "lng": null
+  },
+  "staines": {
+   "chain_id": "nandos",
+   "slug": "staines",
+   "name": "Staines",
+   "postcode": "TW18 4BL",
+   "url": "https://www.nandos.co.uk/restaurants/staines",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "st-albans": {
+   "chain_id": "nandos",
+   "slug": "st-albans",
+   "name": "St Albans",
+   "postcode": "AL1 3YJ",
+   "url": "https://www.nandos.co.uk/restaurants/st-albans",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "sutton-high-street": {
+   "chain_id": "nandos",
+   "slug": "sutton-high-street",
+   "name": "Sutton - High Street",
+   "postcode": "SM1 1DF",
+   "url": "https://www.nandos.co.uk/restaurants/sutton-high-street",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "swindon-orbital": {
+   "chain_id": "nandos",
+   "slug": "swindon-orbital",
+   "name": "Swindon - Orbital",
+   "postcode": "SN25 4AN",
+   "url": "https://www.nandos.co.uk/restaurants/swindon-orbital",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "swindon-regent-circus": {
+   "chain_id": "nandos",
+   "slug": "swindon-regent-circus",
+   "name": "Swindon - Regent Circus",
+   "postcode": "SN1 1FA",
+   "url": "https://www.nandos.co.uk/restaurants/swindon-regent-circus",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "sydenham": {
+   "chain_id": "nandos",
+   "slug": "sydenham",
+   "name": "Sydenham",
+   "postcode": "SE26 4QD",
+   "url": "https://www.nandos.co.uk/restaurants/sydenham",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "taplow-bishop-centre": {
+   "chain_id": "nandos",
+   "slug": "taplow-bishop-centre",
+   "name": "Taplow - Bishop Centre",
+   "postcode": "SL6 0NY",
+   "url": "https://www.nandos.co.uk/restaurants/taplow-bishop-centre",
+   "halal": true,
+   "lat": null,
+   "lng": null
+  },
+  "thanet": {
+   "chain_id": "nandos",
+   "slug": "thanet",
+   "name": "Thanet",
+   "postcode": "CT10 2BF",
+   "url": "https://www.nandos.co.uk/restaurants/thanet",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "thurrock": {
+   "chain_id": "nandos",
+   "slug": "thurrock",
+   "name": "Thurrock",
+   "postcode": "RM20 1WN",
+   "url": "https://www.nandos.co.uk/restaurants/thurrock",
+   "halal": true,
+   "lat": null,
+   "lng": null
+  },
+  "tunbridge-wells": {
+   "chain_id": "nandos",
+   "slug": "tunbridge-wells",
+   "name": "Tunbridge Wells",
+   "postcode": "TN1 2AB",
+   "url": "https://www.nandos.co.uk/restaurants/tunbridge-wells",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "twickenham": {
+   "chain_id": "nandos",
+   "slug": "twickenham",
+   "name": "Twickenham",
+   "postcode": "TW1 3SH",
+   "url": "https://www.nandos.co.uk/restaurants/twickenham",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "uxbridge": {
+   "chain_id": "nandos",
+   "slug": "uxbridge",
+   "name": "Uxbridge",
+   "postcode": "UB8 1LB",
+   "url": "https://www.nandos.co.uk/restaurants/uxbridge",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "walton-thames": {
+   "chain_id": "nandos",
+   "slug": "walton-thames",
+   "name": "Walton-on-Thames",
+   "postcode": "KT12 1GH",
+   "url": "https://www.nandos.co.uk/restaurants/walton-thames",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "watford-garston": {
+   "chain_id": "nandos",
+   "slug": "watford-garston",
+   "name": "Watford - Garston",
+   "postcode": "WD25 7JZ",
+   "url": "https://www.nandos.co.uk/restaurants/watford-garston",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "watford-high-street": {
+   "chain_id": "nandos",
+   "slug": "watford-high-street",
+   "name": "Watford - High Street",
+   "postcode": "WD17 1AZ",
+   "url": "https://www.nandos.co.uk/restaurants/watford-high-street",
+   "halal": true,
+   "lat": null,
+   "lng": null
+  },
+  "watford-met-quarter": {
+   "chain_id": "nandos",
+   "slug": "watford-met-quarter",
+   "name": "Watford - Met Quarter",
+   "postcode": "WD17 2EN",
+   "url": "https://www.nandos.co.uk/restaurants/watford-met-quarter",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "wembley": {
+   "chain_id": "nandos",
+   "slug": "wembley",
+   "name": "Wembley - High Road",
+   "postcode": "HA9 6AH",
+   "url": "https://www.nandos.co.uk/restaurants/wembley",
+   "halal": true,
+   "lat": null,
+   "lng": null
+  },
+  "weston-super-mare": {
+   "chain_id": "nandos",
+   "slug": "weston-super-mare",
+   "name": "Weston-super-Mare",
+   "postcode": "BS23 1FF",
+   "url": "https://www.nandos.co.uk/restaurants/weston-super-mare",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "whiteley": {
+   "chain_id": "nandos",
+   "slug": "whiteley",
+   "name": "Whiteley",
+   "postcode": "PO15 7FD",
+   "url": "https://www.nandos.co.uk/restaurants/whiteley",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "winchester": {
+   "chain_id": "nandos",
+   "slug": "winchester",
+   "name": "Winchester",
+   "postcode": "SO23 9LA",
+   "url": "https://www.nandos.co.uk/restaurants/winchester",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "windsor": {
+   "chain_id": "nandos",
+   "slug": "windsor",
+   "name": "Windsor",
+   "postcode": "SL4 1PL",
+   "url": "https://www.nandos.co.uk/restaurants/windsor",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "woking": {
+   "chain_id": "nandos",
+   "slug": "woking",
+   "name": "Woking",
+   "postcode": "GU21 5AB",
+   "url": "https://www.nandos.co.uk/restaurants/woking",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "wokingham": {
+   "chain_id": "nandos",
+   "slug": "wokingham",
+   "name": "Wokingham",
+   "postcode": "RG40 1AP",
+   "url": "https://www.nandos.co.uk/restaurants/wokingham",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "worcester-park": {
+   "chain_id": "nandos",
+   "slug": "worcester-park",
+   "name": "Worcester Park",
+   "postcode": "KT4 8HX",
+   "url": "https://www.nandos.co.uk/restaurants/worcester-park",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "worthing": {
+   "chain_id": "nandos",
+   "slug": "worthing",
+   "name": "Worthing",
+   "postcode": "BN11 1YJ",
+   "url": "https://www.nandos.co.uk/restaurants/worthing",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "yate": {
+   "chain_id": "nandos",
+   "slug": "yate",
+   "name": "Yate",
+   "postcode": "BS37 4AS",
+   "url": "https://www.nandos.co.uk/restaurants/yate",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "yeovil": {
+   "chain_id": "nandos",
+   "slug": "yeovil",
+   "name": "Yeovil",
+   "postcode": "BA20 1NB",
+   "url": "https://www.nandos.co.uk/restaurants/yeovil",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "bath": {
+   "chain_id": "nandos",
+   "slug": "bath",
+   "name": "Bath - Kingsmead",
+   "postcode": "BA1 2BX",
+   "url": "https://www.nandos.co.uk/restaurants/bath",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "bath-vaults": {
+   "chain_id": "nandos",
+   "slug": "bath-vaults",
+   "name": "Bath - Vaults",
+   "postcode": "BA1 1SX",
+   "url": "https://www.nandos.co.uk/restaurants/bath-vaults",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "bournemouth-castlepoint": {
+   "chain_id": "nandos",
+   "slug": "bournemouth-castlepoint",
+   "name": "Bournemouth - Castlepoint",
+   "postcode": "BH8 9UZ",
+   "url": "https://www.nandos.co.uk/restaurants/bournemouth-castlepoint",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "bridgwater": {
+   "chain_id": "nandos",
+   "slug": "bridgwater",
+   "name": "Bridgwater",
+   "postcode": "TA6 3FQ",
+   "url": "https://www.nandos.co.uk/restaurants/bridgwater",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "bristol-abbey-wood": {
+   "chain_id": "nandos",
+   "slug": "bristol-abbey-wood",
+   "name": "Bristol - Abbey Wood",
+   "postcode": "BS34 7JL",
+   "url": "https://www.nandos.co.uk/restaurants/bristol-abbey-wood",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "bristol-aspects-leisure-park": {
+   "chain_id": "nandos",
+   "slug": "bristol-aspects-leisure-park",
+   "name": "Bristol - Aspects Leisure Park",
+   "postcode": "BS15 9LA",
+   "url": "https://www.nandos.co.uk/restaurants/bristol-aspects-leisure-park",
+   "halal": true,
+   "lat": null,
+   "lng": null
+  },
+  "bristol-cabot-circus": {
+   "chain_id": "nandos",
+   "slug": "bristol-cabot-circus",
+   "name": "Bristol - Cabot Circus",
+   "postcode": "BS1 3BX",
+   "url": "https://www.nandos.co.uk/restaurants/bristol-cabot-circus",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "bristol-cribbs-mall": {
+   "chain_id": "nandos",
+   "slug": "bristol-cribbs-mall",
+   "name": "Bristol - Cribbs Mall",
+   "postcode": "BS34 5UR",
+   "url": "https://www.nandos.co.uk/restaurants/bristol-cribbs-mall",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "bristol-cribbs-venue": {
+   "chain_id": "nandos",
+   "slug": "bristol-cribbs-venue",
+   "name": "Bristol - Cribbs Venue",
+   "postcode": "BS10 7SR",
+   "url": "https://www.nandos.co.uk/restaurants/bristol-cribbs-venue",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "bristol-park-street": {
+   "chain_id": "nandos",
+   "slug": "bristol-park-street",
+   "name": "Bristol - Park Street",
+   "postcode": "BS1 5NT",
+   "url": "https://www.nandos.co.uk/restaurants/bristol-park-street",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "exeter-princesshay": {
+   "chain_id": "nandos",
+   "slug": "exeter-princesshay",
+   "name": "Exeter - Princess Hay",
+   "postcode": "EX1 1GE",
+   "url": "https://www.nandos.co.uk/restaurants/exeter-princesshay",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "gloucester-quays": {
+   "chain_id": "nandos",
+   "slug": "gloucester-quays",
+   "name": "Gloucester Quays",
+   "postcode": "GL1 5SH",
+   "url": "https://www.nandos.co.uk/restaurants/gloucester-quays",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "oxford-westgate": {
+   "chain_id": "nandos",
+   "slug": "oxford-westgate",
+   "name": "Oxford - Westgate",
+   "postcode": "OX1 1NZ",
+   "url": "https://www.nandos.co.uk/restaurants/oxford-westgate",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "plymouth-barbican-leisure": {
+   "chain_id": "nandos",
+   "slug": "plymouth-barbican-leisure",
+   "name": "Plymouth - Barbican Leisure",
+   "postcode": "PL4 0LG",
+   "url": "https://www.nandos.co.uk/restaurants/plymouth-barbican-leisure",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "plymouth-drake-circus-barcode": {
+   "chain_id": "nandos",
+   "slug": "plymouth-drake-circus-barcode",
+   "name": "Plymouth - Drake Circus Barcode",
+   "postcode": "PL4 0FE",
+   "url": "https://www.nandos.co.uk/restaurants/plymouth-drake-circus-barcode",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "poole": {
+   "chain_id": "nandos",
+   "slug": "poole",
+   "name": "Poole",
+   "postcode": "BH12 4NY",
+   "url": "https://www.nandos.co.uk/restaurants/poole",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "taunton": {
+   "chain_id": "nandos",
+   "slug": "taunton",
+   "name": "Taunton",
+   "postcode": "TA1 1LH",
+   "url": "https://www.nandos.co.uk/restaurants/taunton",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "trowbridge": {
+   "chain_id": "nandos",
+   "slug": "trowbridge",
+   "name": "Trowbridge",
+   "postcode": "BA14 8AH",
+   "url": "https://www.nandos.co.uk/restaurants/trowbridge",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "bury-st-edmunds": {
+   "chain_id": "nandos",
+   "slug": "bury-st-edmunds",
+   "name": "Bury St Edmund&#x27;s",
+   "postcode": "IP33 3DG",
+   "url": "https://www.nandos.co.uk/restaurants/bury-st-edmunds",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "cambridge-leisure": {
+   "chain_id": "nandos",
+   "slug": "cambridge-leisure",
+   "name": "Cambridge - Leisure",
+   "postcode": "CB1 7DY",
+   "url": "https://www.nandos.co.uk/restaurants/cambridge-leisure",
+   "halal": true,
+   "lat": null,
+   "lng": null
+  },
+  "cambridge-st-andrews-street": {
+   "chain_id": "nandos",
+   "slug": "cambridge-st-andrews-street",
+   "name": "Cambridge - St Andrew&#x27;s Street",
+   "postcode": "CB2 3AR",
+   "url": "https://www.nandos.co.uk/restaurants/cambridge-st-andrews-street",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "colchester": {
+   "chain_id": "nandos",
+   "slug": "colchester",
+   "name": "Colchester - Head Street",
+   "postcode": "CO1 1NX",
+   "url": "https://www.nandos.co.uk/restaurants/colchester",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "colchester-tollgate": {
+   "chain_id": "nandos",
+   "slug": "colchester-tollgate",
+   "name": "Colchester - Tollgate",
+   "postcode": "CO3 8PB",
+   "url": "https://www.nandos.co.uk/restaurants/colchester-tollgate",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "ely": {
+   "chain_id": "nandos",
+   "slug": "ely",
+   "name": "Ely",
+   "postcode": "CB6 2FE",
+   "url": "https://www.nandos.co.uk/restaurants/ely",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "harlow": {
+   "chain_id": "nandos",
+   "slug": "harlow",
+   "name": "Harlow",
+   "postcode": "CM20 1AN",
+   "url": "https://www.nandos.co.uk/restaurants/harlow",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "hemel-hempstead": {
+   "chain_id": "nandos",
+   "slug": "hemel-hempstead",
+   "name": "Hemel Hempstead",
+   "postcode": "HP2 4JW",
+   "url": "https://www.nandos.co.uk/restaurants/hemel-hempstead",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "ipswich-cardinal-park": {
+   "chain_id": "nandos",
+   "slug": "ipswich-cardinal-park",
+   "name": "Ipswich - Cardinal Park",
+   "postcode": "IP1 1AX",
+   "url": "https://www.nandos.co.uk/restaurants/ipswich-cardinal-park",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "ipswich-euro-retail": {
+   "chain_id": "nandos",
+   "slug": "ipswich-euro-retail",
+   "name": "Ipswich - Euro Retail Park",
+   "postcode": "IP3 9SN",
+   "url": "https://www.nandos.co.uk/restaurants/ipswich-euro-retail",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "kings-lynn": {
+   "chain_id": "nandos",
+   "slug": "kings-lynn",
+   "name": "King&#x27;s Lynn",
+   "postcode": "PE30 1AY",
+   "url": "https://www.nandos.co.uk/restaurants/kings-lynn",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "lincoln": {
+   "chain_id": "nandos",
+   "slug": "lincoln",
+   "name": "Lincoln",
+   "postcode": "LN1 1YX",
+   "url": "https://www.nandos.co.uk/restaurants/lincoln",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "norwich-red-lion": {
+   "chain_id": "nandos",
+   "slug": "norwich-red-lion",
+   "name": "Norwich - Red Lion",
+   "postcode": "NR1 3QF",
+   "url": "https://www.nandos.co.uk/restaurants/norwich-red-lion",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "norwich-riverside": {
+   "chain_id": "nandos",
+   "slug": "norwich-riverside",
+   "name": "Norwich - Riverside",
+   "postcode": "NR1 1WX",
+   "url": "https://www.nandos.co.uk/restaurants/norwich-riverside",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "stevenage": {
+   "chain_id": "nandos",
+   "slug": "stevenage",
+   "name": "Stevenage - Leisure Park",
+   "postcode": "SG1 2UA",
+   "url": "https://www.nandos.co.uk/restaurants/stevenage",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "aberdeen-belmont-street": {
+   "chain_id": "nandos",
+   "slug": "aberdeen-belmont-street",
+   "name": "Aberdeen - Belmont Street",
+   "postcode": "AB10 1LB",
+   "url": "https://www.nandos.co.uk/restaurants/aberdeen-belmont-street",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "aberdeen-union-square": {
+   "chain_id": "nandos",
+   "slug": "aberdeen-union-square",
+   "name": "Aberdeen - Union Square",
+   "postcode": "AB11 5RG",
+   "url": "https://www.nandos.co.uk/restaurants/aberdeen-union-square",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "clydebank": {
+   "chain_id": "nandos",
+   "slug": "clydebank",
+   "name": "Clydebank",
+   "postcode": "G81 2RZ",
+   "url": "https://www.nandos.co.uk/restaurants/clydebank",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "dundee-camperdown": {
+   "chain_id": "nandos",
+   "slug": "dundee-camperdown",
+   "name": "Dundee - Camperdown",
+   "postcode": "DD2 3SQ",
+   "url": "https://www.nandos.co.uk/restaurants/dundee-camperdown",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "dundee-nethergate": {
+   "chain_id": "nandos",
+   "slug": "dundee-nethergate",
+   "name": "Dundee - Nethergate",
+   "postcode": "DD1 4EY",
+   "url": "https://www.nandos.co.uk/restaurants/dundee-nethergate",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "east-kilbride": {
+   "chain_id": "nandos",
+   "slug": "east-kilbride",
+   "name": "East Kilbride",
+   "postcode": "G74 1LL",
+   "url": "https://www.nandos.co.uk/restaurants/east-kilbride",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "edinburgh-chambers-street": {
+   "chain_id": "nandos",
+   "slug": "edinburgh-chambers-street",
+   "name": "Edinburgh - Chambers Street",
+   "postcode": "EH1 1JB",
+   "url": "https://www.nandos.co.uk/restaurants/edinburgh-chambers-street",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "edinburgh-craigleith": {
+   "chain_id": "nandos",
+   "slug": "edinburgh-craigleith",
+   "name": "Edinburgh - Craigleith",
+   "postcode": "EH4 2LN",
+   "url": "https://www.nandos.co.uk/restaurants/edinburgh-craigleith",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "edinburgh-fort-kinnaird": {
+   "chain_id": "nandos",
+   "slug": "edinburgh-fort-kinnaird",
+   "name": "Edinburgh - Fort Kinnaird",
+   "postcode": "EH15 3RD",
+   "url": "https://www.nandos.co.uk/restaurants/edinburgh-fort-kinnaird",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "edinburgh-fountain-park": {
+   "chain_id": "nandos",
+   "slug": "edinburgh-fountain-park",
+   "name": "Edinburgh - Fountain Park",
+   "postcode": "EH11 1AF",
+   "url": "https://www.nandos.co.uk/restaurants/edinburgh-fountain-park",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "edinburgh-lothian-road": {
+   "chain_id": "nandos",
+   "slug": "edinburgh-lothian-road",
+   "name": "Edinburgh - Lothian Road",
+   "postcode": "EH3 9AZ",
+   "url": "https://www.nandos.co.uk/restaurants/edinburgh-lothian-road",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "edinburgh-ocean-terminal": {
+   "chain_id": "nandos",
+   "slug": "edinburgh-ocean-terminal",
+   "name": "Edinburgh - Ocean Terminal",
+   "postcode": "EH6 6JJ",
+   "url": "https://www.nandos.co.uk/restaurants/edinburgh-ocean-terminal",
+   "halal": true,
+   "lat": null,
+   "lng": null
+  },
+  "edinburgh-omni-centre": {
+   "chain_id": "nandos",
+   "slug": "edinburgh-omni-centre",
+   "name": "Edinburgh - Omni Centre",
+   "postcode": "EH1 3AA",
+   "url": "https://www.nandos.co.uk/restaurants/edinburgh-omni-centre",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "edinburgh-straiton-park": {
+   "chain_id": "nandos",
+   "slug": "edinburgh-straiton-park",
+   "name": "Edinburgh - Straiton Park",
+   "postcode": "EH20 9PW",
+   "url": "https://www.nandos.co.uk/restaurants/edinburgh-straiton-park",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "edinburgh-the-gyle": {
+   "chain_id": "nandos",
+   "slug": "edinburgh-the-gyle",
+   "name": "Edinburgh - The Gyle",
+   "postcode": "EH12 9JR",
+   "url": "https://www.nandos.co.uk/restaurants/edinburgh-the-gyle",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "falkirk": {
+   "chain_id": "nandos",
+   "slug": "falkirk",
+   "name": "Falkirk",
+   "postcode": "FK1 1LW",
+   "url": "https://www.nandos.co.uk/restaurants/falkirk",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "fife-leisure": {
+   "chain_id": "nandos",
+   "slug": "fife-leisure",
+   "name": "Fife Leisure",
+   "postcode": "KY11 8EX",
+   "url": "https://www.nandos.co.uk/restaurants/fife-leisure",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "glasgow-braehead": {
+   "chain_id": "nandos",
+   "slug": "glasgow-braehead",
+   "name": "Glasgow - Braehead",
+   "postcode": "G51 4BN",
+   "url": "https://www.nandos.co.uk/restaurants/glasgow-braehead",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "glasgow-fort": {
+   "chain_id": "nandos",
+   "slug": "glasgow-fort",
+   "name": "Glasgow - Fort",
+   "postcode": "G34 9DY",
+   "url": "https://www.nandos.co.uk/restaurants/glasgow-fort",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "glasgow-sauchiehall-street": {
+   "chain_id": "nandos",
+   "slug": "glasgow-sauchiehall-street",
+   "name": "Glasgow - Sauchiehall Street",
+   "postcode": "G2 3EZ",
+   "url": "https://www.nandos.co.uk/restaurants/glasgow-sauchiehall-street",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "glasgow-silverburn": {
+   "chain_id": "nandos",
+   "slug": "glasgow-silverburn",
+   "name": "Glasgow - Silverburn",
+   "postcode": "G53 6AG",
+   "url": "https://www.nandos.co.uk/restaurants/glasgow-silverburn",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "glasgow-springfield-quay": {
+   "chain_id": "nandos",
+   "slug": "glasgow-springfield-quay",
+   "name": "Glasgow - Springfield Quay",
+   "postcode": "G5 8NP",
+   "url": "https://www.nandos.co.uk/restaurants/glasgow-springfield-quay",
+   "halal": true,
+   "lat": null,
+   "lng": null
+  },
+  "glasgow-st-enoch-east-end-leisure": {
+   "chain_id": "nandos",
+   "slug": "glasgow-st-enoch-east-end-leisure",
+   "name": "Glasgow - St Enoch East End Leisure",
+   "postcode": "G1 4BW",
+   "url": "https://www.nandos.co.uk/restaurants/glasgow-st-enoch-east-end-leisure",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "glasgow-st-enoch-square": {
+   "chain_id": "nandos",
+   "slug": "glasgow-st-enoch-square",
+   "name": "Glasgow - St Enoch Square",
+   "postcode": "G1 4BW",
+   "url": "https://www.nandos.co.uk/restaurants/glasgow-st-enoch-square",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "glasgow-waterloo-street": {
+   "chain_id": "nandos",
+   "slug": "glasgow-waterloo-street",
+   "name": "Glasgow - Waterloo Street",
+   "postcode": "G2 6AY",
+   "url": "https://www.nandos.co.uk/restaurants/glasgow-waterloo-street",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "glasgow-west-end": {
+   "chain_id": "nandos",
+   "slug": "glasgow-west-end",
+   "name": "Glasgow - West End",
+   "postcode": "G12 8BE",
+   "url": "https://www.nandos.co.uk/restaurants/glasgow-west-end",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "glasgow-soar": {
+   "chain_id": "nandos",
+   "slug": "glasgow-soar",
+   "name": "Glasgow - XSITE",
+   "postcode": "PA4 8XQ",
+   "url": "https://www.nandos.co.uk/restaurants/glasgow-soar",
+   "halal": true,
+   "lat": null,
+   "lng": null
+  },
+  "hamilton": {
+   "chain_id": "nandos",
+   "slug": "hamilton",
+   "name": "Hamilton",
+   "postcode": "ML3 6AD",
+   "url": "https://www.nandos.co.uk/restaurants/hamilton",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "inverness": {
+   "chain_id": "nandos",
+   "slug": "inverness",
+   "name": "Inverness",
+   "postcode": "IV2 7GD",
+   "url": "https://www.nandos.co.uk/restaurants/inverness",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "kilmarnock": {
+   "chain_id": "nandos",
+   "slug": "kilmarnock",
+   "name": "Kilmarnock",
+   "postcode": "KA1 3XB",
+   "url": "https://www.nandos.co.uk/restaurants/kilmarnock",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "livingston": {
+   "chain_id": "nandos",
+   "slug": "livingston",
+   "name": "Livingston",
+   "postcode": "EH54 6HR",
+   "url": "https://www.nandos.co.uk/restaurants/livingston",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "paisley": {
+   "chain_id": "nandos",
+   "slug": "paisley",
+   "name": "Paisley",
+   "postcode": "PA1 2AB",
+   "url": "https://www.nandos.co.uk/restaurants/paisley",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "perth": {
+   "chain_id": "nandos",
+   "slug": "perth",
+   "name": "Perth",
+   "postcode": "PH1 3EE",
+   "url": "https://www.nandos.co.uk/restaurants/perth",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "st-andrews": {
+   "chain_id": "nandos",
+   "slug": "st-andrews",
+   "name": "St Andrews",
+   "postcode": "KY16 9NU",
+   "url": "https://www.nandos.co.uk/restaurants/st-andrews",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "stirling": {
+   "chain_id": "nandos",
+   "slug": "stirling",
+   "name": "Stirling",
+   "postcode": "FK8 1QZ",
+   "url": "https://www.nandos.co.uk/restaurants/stirling",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "bridgend": {
+   "chain_id": "nandos",
+   "slug": "bridgend",
+   "name": "Bridgend",
+   "postcode": "CF32 9SU",
+   "url": "https://www.nandos.co.uk/restaurants/bridgend",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "broughton-park": {
+   "chain_id": "nandos",
+   "slug": "broughton-park",
+   "name": "Broughton Park",
+   "postcode": "CH4 0DE",
+   "url": "https://www.nandos.co.uk/restaurants/broughton-park",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "cardiff-capital-retail-park": {
+   "chain_id": "nandos",
+   "slug": "cardiff-capital-retail-park",
+   "name": "Cardiff Capital Retail Park",
+   "postcode": "CF11 8EG",
+   "url": "https://www.nandos.co.uk/restaurants/cardiff-capital-retail-park",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "cardiff-mermaid-quay": {
+   "chain_id": "nandos",
+   "slug": "cardiff-mermaid-quay",
+   "name": "Cardiff - Mermaid Quay",
+   "postcode": "CF10 5BZ",
+   "url": "https://www.nandos.co.uk/restaurants/cardiff-mermaid-quay",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "cardiff-old-brewery-quarter": {
+   "chain_id": "nandos",
+   "slug": "cardiff-old-brewery-quarter",
+   "name": "Cardiff - Old Brewery Quarter",
+   "postcode": "CF10 1FG",
+   "url": "https://www.nandos.co.uk/restaurants/cardiff-old-brewery-quarter",
+   "halal": true,
+   "lat": null,
+   "lng": null
+  },
+  "cardiff-st-davids": {
+   "chain_id": "nandos",
+   "slug": "cardiff-st-davids",
+   "name": "Cardiff - St David&#x27;s",
+   "postcode": "CF10 2EF",
+   "url": "https://www.nandos.co.uk/restaurants/cardiff-st-davids",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "llanelli": {
+   "chain_id": "nandos",
+   "slug": "llanelli",
+   "name": "Llanelli",
+   "postcode": "SA15 3YF",
+   "url": "https://www.nandos.co.uk/restaurants/llanelli",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "merthyr-tydfil": {
+   "chain_id": "nandos",
+   "slug": "merthyr-tydfil",
+   "name": "Merthyr Tydfil",
+   "postcode": "CF48 1UT",
+   "url": "https://www.nandos.co.uk/restaurants/merthyr-tydfil",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "nantgarw": {
+   "chain_id": "nandos",
+   "slug": "nantgarw",
+   "name": "Nantgarw",
+   "postcode": "CF15 7QX",
+   "url": "https://www.nandos.co.uk/restaurants/nantgarw",
+   "halal": true,
+   "lat": null,
+   "lng": null
+  },
+  "newport-friars-walk": {
+   "chain_id": "nandos",
+   "slug": "newport-friars-walk",
+   "name": "Newport - Friars Walk",
+   "postcode": "NP20 1DS",
+   "url": "https://www.nandos.co.uk/restaurants/newport-friars-walk",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "newport-retail-park": {
+   "chain_id": "nandos",
+   "slug": "newport-retail-park",
+   "name": "Newport - Retail Park",
+   "postcode": "NP19 4QR",
+   "url": "https://www.nandos.co.uk/restaurants/newport-retail-park",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "swansea-fforestfach-retail-park": {
+   "chain_id": "nandos",
+   "slug": "swansea-fforestfach-retail-park",
+   "name": "Swansea - Fforestfach Retail Park",
+   "postcode": "SA5 4BB",
+   "url": "https://www.nandos.co.uk/restaurants/swansea-fforestfach-retail-park",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "swansea-morfa-retail-park": {
+   "chain_id": "nandos",
+   "slug": "swansea-morfa-retail-park",
+   "name": "Swansea - Morfa Retail Park",
+   "postcode": "SA1 7BP",
+   "url": "https://www.nandos.co.uk/restaurants/swansea-morfa-retail-park",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "swansea-city-gates": {
+   "chain_id": "nandos",
+   "slug": "swansea-city-gates",
+   "name": "Swansea - The City Gates",
+   "postcode": "SA1 1EE",
+   "url": "https://www.nandos.co.uk/restaurants/swansea-city-gates",
+   "halal": true,
+   "lat": null,
+   "lng": null
+  },
+  "talbot-green": {
+   "chain_id": "nandos",
+   "slug": "talbot-green",
+   "name": "Talbot Green",
+   "postcode": "CF72 8LW",
+   "url": "https://www.nandos.co.uk/restaurants/talbot-green",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "wrexham": {
+   "chain_id": "nandos",
+   "slug": "wrexham",
+   "name": "Wrexham",
+   "postcode": "LL13 8DB",
+   "url": "https://www.nandos.co.uk/restaurants/wrexham",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "antrim-junction": {
+   "chain_id": "nandos",
+   "slug": "antrim-junction",
+   "name": "Antrim The Junction",
+   "postcode": "BT41 4LL",
+   "url": "https://www.nandos.co.uk/restaurants/antrim-junction",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "belfast-abbey-centre": {
+   "chain_id": "nandos",
+   "slug": "belfast-abbey-centre",
+   "name": "Belfast - Abbey Centre",
+   "postcode": "BT37 9UH",
+   "url": "https://www.nandos.co.uk/restaurants/belfast-abbey-centre",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "belfast-bedford-street": {
+   "chain_id": "nandos",
+   "slug": "belfast-bedford-street",
+   "name": "Belfast - Bedford Street",
+   "postcode": "BT2 8HS",
+   "url": "https://www.nandos.co.uk/restaurants/belfast-bedford-street",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "belfast-boucher-crescent": {
+   "chain_id": "nandos",
+   "slug": "belfast-boucher-crescent",
+   "name": "Belfast - Boucher Crescent",
+   "postcode": "BT12 6HU",
+   "url": "https://www.nandos.co.uk/restaurants/belfast-boucher-crescent",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "belfast-forestside": {
+   "chain_id": "nandos",
+   "slug": "belfast-forestside",
+   "name": "Belfast - Forestside",
+   "postcode": "BT8 6FX",
+   "url": "https://www.nandos.co.uk/restaurants/belfast-forestside",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "belfast-the-o2": {
+   "chain_id": "nandos",
+   "slug": "belfast-the-o2",
+   "name": "Belfast - The O2",
+   "postcode": "BT3 9QQ",
+   "url": "https://www.nandos.co.uk/restaurants/belfast-the-o2",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "belfast-victoria-square": {
+   "chain_id": "nandos",
+   "slug": "belfast-victoria-square",
+   "name": "Belfast - Victoria Square",
+   "postcode": "BT1 4QG",
+   "url": "https://www.nandos.co.uk/restaurants/belfast-victoria-square",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "coleraine": {
+   "chain_id": "nandos",
+   "slug": "coleraine",
+   "name": "Coleraine",
+   "postcode": "BT51 3QQ",
+   "url": "https://www.nandos.co.uk/restaurants/coleraine",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "derry": {
+   "chain_id": "nandos",
+   "slug": "derry",
+   "name": "Derry",
+   "postcode": "BT48 6PE",
+   "url": "https://www.nandos.co.uk/restaurants/derry",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "lisburn-sprucefield": {
+   "chain_id": "nandos",
+   "slug": "lisburn-sprucefield",
+   "name": "Lisburn - Sprucefield",
+   "postcode": "BT27 5UJ",
+   "url": "https://www.nandos.co.uk/restaurants/lisburn-sprucefield",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "rushmere-centre": {
+   "chain_id": "nandos",
+   "slug": "rushmere-centre",
+   "name": "Rushmere Centre",
+   "postcode": "BT64 1AA",
+   "url": "https://www.nandos.co.uk/restaurants/rushmere-centre",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "page-65c4b9826ea4aabb": {
+   "chain_id": "nandos",
+   "slug": "page-65c4b9826ea4aabb",
+   "name": "Page 65C4B9826Ea4Aabb",
+   "postcode": null,
+   "url": "https://www.nandos.co.uk/restaurants/page-65c4b9826ea4aabb",
+   "halal": false,
+   "lat": null,
+   "lng": null
+  },
+  "search": {
+   "chain_id": "nandos",
+   "slug": "search",
+   "name": "Search",
+   "postcode": null,
+   "url": "https://www.nandos.co.uk/restaurants/search",
+   "halal": true,
+   "lat": null,
+   "lng": null
+  },
+  "img": {
+   "chain_id": "nandos",
+   "slug": "img",
+   "name": "Img",
+   "postcode": null,
+   "url": "https://www.nandos.co.uk/restaurants/img",
+   "halal": true,
+   "lat": null,
+   "lng": null
+  }
+ }
+}

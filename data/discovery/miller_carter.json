@@ -1,0 +1,36 @@
+{
+  "chain_id": "miller_carter",
+  "status": "verified",
+  "source_url": "https://allergens.mbplc.io/AllergenGuideMillerandCarterEstate.html",
+  "source_type": "html_table",
+  "label": "Miller & Carter allergen & nutrition guide (Mitchells & Butlers)",
+  "item_count": 290,
+  "samples": [
+    {
+      "name": "Cheesy Garlic Bread (V)",
+      "kcal": 596.0,
+      "protein_g": 23.0
+    },
+    {
+      "name": "Cheesy Garlic Bread To Share (V)",
+      "kcal": 1192.0,
+      "protein_g": 47.0
+    },
+    {
+      "name": "Pea & Mozzerella Arancini (V) (GF)",
+      "kcal": 315.0,
+      "protein_g": 7.8
+    },
+    {
+      "name": "Halloumi Fries (V)",
+      "kcal": 540.0,
+      "protein_g": 30.0
+    },
+    {
+      "name": "Nocellara Olives (VE) (GF)",
+      "kcal": 179.0,
+      "protein_g": 1.1
+    }
+  ],
+  "notes": "Per-portion kJ/kcal, fat, saturates, carbohydrate, sugars, protein, salt embedded per dish in the group-wide M&B guide (one static HTML page per brand estate, no JS needed). 6 row(s) rejected by the protein*4<=kcal*1.15 gate (menu 'swap' rows carrying negative deltas)."
+}

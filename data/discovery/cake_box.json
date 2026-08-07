@@ -1,0 +1,10 @@
+{
+  "chain_id": "cake_box",
+  "status": "unresolved",
+  "source_url": "https://www.cakebox.com/ingredients",
+  "source_type": null,
+  "label": null,
+  "item_count": 0,
+  "samples": [],
+  "notes": "NOT YET FOUND - not a claim that none exists. Checked cakebox.com (the live site; cakebox.co.uk returns 403). Homepage and category pages (/cheesecakes, /treats, /celebration-cakes/*) contain zero 'protein', 'kcal' or 'energy' occurrences. https://www.cakebox.com/ingredients returns 200 and does contain 18 'protein' hits, but ALL of them are ingredient-declaration text ('Milk Protein', 'Concentrated Whey Protein') inside recipe ingredient lists - it is an ingredients/allergens page, not a nutrition table. No PDF links found anywhere on the site. NEXT STEPS: check for an app or online-ordering subdomain, store-level printed sheets, and whether slices (which third parties list with macros, e.g. Biscoff Crunch Slice 391 kcal / 4 g protein) are covered by a supplier spec sheet published elsewhere."
+}

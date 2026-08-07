@@ -1,0 +1,8 @@
+requests>=2.31
+pdfplumber>=0.11
+cffi>=1.16
+# optional, for the Firestore sink:
+# firebase-admin>=6.5
+# dev only, for screenshots:
+# playwright>=1.40
+curl_cffi>=0.7    # browser TLS handshake for Cloudflare-protected chains

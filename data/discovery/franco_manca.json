@@ -1,0 +1,11 @@
+{
+  "chain_id": "franco_manca",
+  "status": "unresolved",
+  "source_url": null,
+  "source_type": null,
+  "label": null,
+  "item_count": 0,
+  "basis": null,
+  "samples": [],
+  "notes": "NOT YET FOUND - do not conclude anything about what Franco Manca publishes. Checked, all with fetch_protected: (1) https://www.francomanca.co.uk/nutritional-information/ - resolves to the allergens page; its only document link is the allergen list PDF. (2) https://www.francomanca.co.uk/allergens/ and /menu/ - /menu/ has 79 'kcal' occurrences (UK menu calorie labelling) but zero 'protein'. (3) https://www.francomanca.co.uk/wp-content/uploads/2026/08/FM-ALLERGEN-LIST-JULY-2026-v2.pdf (18 pages) and the 2025/03 FM-MENU-L0325-ALLERGENS.pdf - parsed with pdfplumber: zero occurrences of kcal, protein or energy. (4) FM-MENU-OL1125NC.pdf (menu) - 1 kcal hit, 0 protein. (5) WordPress REST media listing https://www.francomanca.co.uk/wp-json/wp/v2/media?per_page=100&media_type=application returned 56 documents, all FM-MENU-* or FM-ALLERGEN-LIST-* or gender pay reports - no file with 'nutrition' in the name, and ?search=nutrition returned 0. NEXT STEPS: page 2+ of the WP media endpoint was not enumerated; try the WP posts/pages endpoints for a nutrition page; check the Franco Manca app and their Deliveroo/UberEats/JustEat listings for a publisher-supplied nutrition feed; and email/contact-form the brand, since kcal-only menu labelling does not tell us whether a fuller table exists elsewhere."
+}

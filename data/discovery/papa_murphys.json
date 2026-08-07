@@ -1,0 +1,37 @@
+{
+  "chain_id": "papa_murphys",
+  "status": "verified",
+  "source_url": "https://www.nutritionix.com/papa-murphys/menu/premium",
+  "source_type": "html_table",
+  "label": "Papa Murphy's Interactive Nutrition Menu (Nutritionix), linked from papamurphys.com/nutrition",
+  "item_count": 173,
+  "basis": "per serving (pizza rows are PER SLICE, e.g. 1 slice = 1/12th of a Family pizza; slice basis is stated in the section headings)",
+  "samples": [
+    {
+      "name": "All Meat - Family Slice",
+      "kcal": 340.0,
+      "protein_g": 12.0
+    },
+    {
+      "name": "Bacon Cheeseburger (Limited Availability) - Family Slice",
+      "kcal": 360.0,
+      "protein_g": 13.0
+    },
+    {
+      "name": "BBQ Chicken - Family Slice",
+      "kcal": 330.0,
+      "protein_g": 14.0
+    },
+    {
+      "name": "C.Y.O. Multi Topping - Family Slice",
+      "kcal": 270.0,
+      "protein_g": 9.0
+    },
+    {
+      "name": "C.Y.O. Single Topping - Family Slice",
+      "kcal": 270.0,
+      "protein_g": 9.0
+    }
+  ],
+  "notes": "Papa Murphy's is a US chain - this is US data, no UK menu found. papamurphys.com/nutrition/ embeds the Nutritionix Interactive Nutrition Menu via an iframe to https://restaurant.nutritionix.com/papa-murphys/landing (loader: https://nix-vue-inm.s3.amazonaws.com/loader.js). The iframe app is JS-only and its S3 bundles 403, but Nutritionix serves the SAME brand data server-rendered as a plain HTML table at the /menu/premium URL above - no API key needed, though fetch_protected + a papamurphys.com Referer is required. Table columns: 0 name, 1 Calories, 2 Total Fat, 3 Sat Fat, 4 Trans Fat, 5 Cholesterol, 6 Sodium, 7 Carbs, 8 Fiber, 9 Sugars, 10 Protein. 173 rows pass the protein*4<=kcal*1.15 gate. Item names carry a trailing '[more info]' that must be stripped. Section headings (subCategory rows) state the serving basis and should be captured for basis-per-row. A working parser is at scratchpad/pm_parse.py."
+}

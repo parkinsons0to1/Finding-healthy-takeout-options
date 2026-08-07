@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>MacroMeter — measure your macros per pound</title>
+<link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+<header class="top">
+  <div class="wrap">
+    <h1><span class="logo">🌡️</span> MacroMeter</h1>
+    <p class="tag">The most protein per pound near you — after discounts, filtered by your diet.</p>
+  </div>
+</header>
+
+<main class="wrap">
+  <section class="panel" aria-label="Search">
+    <div class="loc-row">
+      <button id="useLocation" class="btn primary" type="button">
+        Use my location
+      </button>
+      <span class="or">or</span>
+      <input id="postcode" type="text" inputmode="text" autocomplete="postal-code"
+             placeholder="Postcode or place — e.g. SM1 4FR, or St Ives Cornwall"
+             aria-label="Postcode or place name">
+      <button id="go" class="btn" type="button">Search</button>
+    </div>
+
+    <div class="filters">
+      <fieldset>
+        <legend>Diet</legend>
+        <div class="chips" id="dietChips">
+          <label><input type="checkbox" value="halal"><span>Halal</span></label>
+          <label><input type="checkbox" value="vegetarian"><span>Vegetarian</span></label>
+          <label><input type="checkbox" value="vegan"><span>Vegan</span></label>
+          <label><input type="checkbox" value="kosher"><span>Kosher</span></label>
+        </div>
+      </fieldset>
+
+      <fieldset>
+        <legend>Minimum protein <output id="shareOut">35%</output> of calories</legend>
+        <input id="share" type="range" min="0" max="60" step="5" value="35">
+      </fieldset>
+
+      <fieldset>
+        <legend>Search radius <output id="radiusOut">1 mile</output></legend>
+        <input id="radius" type="range" min="0.5" max="5" step="0.5" value="1">
+      </fieldset>
+
+      <fieldset>
+        <legend>Rank by</legend>
+        <select id="sortBy">
+          <option value="protein_per_pound">Protein per £ (default)</option>
+          <option value="kcal_per_pound">Calories per £ (bulking)</option>
+        </select>
+      </fieldset>
+    </div>
+    <p class="hint" id="strictHint">
+      <label><input type="checkbox" id="strictHalal" checked>
+      Strict halal — hide outlets we can't verify</label>
+    </p>
+  </section>
+
+  <section id="status" class="status" role="status" aria-live="polite"></section>
+
+  <nav class="tabs" id="tabs" hidden>
+    <button class="tab active" data-tab="takeaway">Takeaway</button>
+    <button class="tab" data-tab="mealdeals">Meal deals</button>
+  </nav>
+
+  <section id="results" class="results" aria-label="Results"></section>
+  <section id="mealdeals" class="results" aria-label="Meal deals" hidden></section>
+
+  <section id="context" class="context" hidden></section>
+</main>
+
+<footer class="wrap foot">
+  <p><strong>Prices are estimates.</strong> Nutrition is scraped from each
+     chain's own published data; per-outlet live pricing is still in progress,
+     so treat the final price as indicative and check in store.</p>
+  <p>Halal status is resolved per outlet from brand and certifier sources, with
+     the evidence shown on each result. Where we can't verify, we say so rather
+     than guess — <em>always confirm in store if it matters to you.</em></p>
+</footer>
+
+<script src="/app.js"></script>
+</body>
+</html>

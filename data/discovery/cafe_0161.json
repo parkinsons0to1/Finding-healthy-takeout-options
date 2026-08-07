@@ -1,0 +1,10 @@
+{
+  "chain_id": "cafe_0161",
+  "status": "unresolved",
+  "source_url": "",
+  "source_type": null,
+  "label": null,
+  "item_count": 0,
+  "samples": [],
+  "notes": "NOT YET FOUND - not a claim that none exists. Could not reach the brand site at all: cafe0161.com and www.cafe0161.com both failed with proxy tunnel errors (502 Bad Gateway from the agent proxy), so no page was ever retrieved and nothing about the site's contents has been established. Web search for 'Cafe 0161 nutrition' returned no results for this business - only unrelated US cafes and a NYC schools menu PDF. NEXT STEPS: retry the domain when the proxy is healthy, confirm the correct domain for this Manchester vegan chain, and check their social/ordering platforms."
+}

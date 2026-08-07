@@ -1,0 +1,36 @@
+{
+  "chain_id": "wingstop",
+  "status": "verified",
+  "source_url": "https://web.archive.org/web/20230319072145if_/https://www.wingstop.co.uk/content/wingstop-uk-allergen-info-v2.pdf",
+  "source_type": "pdf",
+  "label": "Wingstop UK \"Allergen & Nutritional Information\" brand PDF (V7, 16/05/2022), served from the Internet Archive because the live copy of the same wingstop.co.uk URL now 403s",
+  "item_count": 83,
+  "samples": [
+    {
+      "name": "WINGS (10 Pieces)",
+      "kcal": 782.0,
+      "protein_g": 103.0
+    },
+    {
+      "name": "BONELESS (10 Pieces)",
+      "kcal": 526.0,
+      "protein_g": 42.0
+    },
+    {
+      "name": "TENDERS (5 Pieces)",
+      "kcal": 562.0,
+      "protein_g": 43.0
+    },
+    {
+      "name": "BIG FLAVOUR BURGER (240g)",
+      "kcal": 629.0,
+      "protein_g": 23.0
+    },
+    {
+      "name": "24 Pieces Wings Platter (1110g)",
+      "kcal": 1874.0,
+      "protein_g": 248.0
+    }
+  ],
+  "notes": "HOW FOUND: www.wingstop.co.uk is an Angular SPA with no macros in HTML. Its allergen page reads download_url from /assets/i18n/en.json, which in the current build points at https://staging.wingstop.sa/content/staging/Allergens/ALLERGEN_INFORMATION.pdf \u2014 a Saudi *staging* asset, i.e. the shipped UK build links the wrong file. The real UK document is https://www.wingstop.co.uk/content/wingstop-uk-allergen-info-v2.pdf; that path today returns a CloudFront/S3 403 AccessDenied (object gone) for both plain requests and curl_cffi TLS impersonation, and brute-forcing v3/v4/other filenames under /content/ and /content/prod/Info/ all 403. The Wayback CDX index has exactly one 200 capture of it (20230319072145) and that snapshot is used here. STALENESS WARNING: the document itself is dated 16/05/2022 (V7) \u2014 treat these macros as the newest OFFICIAL figures found, not as current. FORMAT TRAP: nutrition is transposed \u2014 one product per column block, with rows Energy/Fat/.../Protein/Salt, and column 1 is always Per 100g with the remaining columns per-serving. generic_pdf.fetch_from_pdf returns 0 rows because there is no product-name column. Several pages carry TWO product blocks side by side; these are split by cropping the page at width/2. Detect the block count from the line starting \"Nutritional Information\" (counting occurrences of that phrase in the whole page text is wrong \u2014 the page footer repeats it). 84 rows parsed, 83 kept after dedupe; plausibility check protein*4 <= kcal*1.15 removed 0 (1 dropped as a duplicate name+basis). STILL OPEN: the live ordering API base is https://nomnom-prod.wingstop.co.uk/api (found in chunk-QKOB7SFS.js, envName wingstopuk-prod, tenant wingstopuk; second base https://prod-api.wingstop.co.uk). Every path tried (/restaurants, /restaurants/byslug/..., /menu, /products, /v1/*) answers {\"message\":\"route not found\"} or a 503 listener page, so the correct route/headers were not identified. Playwright could not be used to observe the real calls \u2014 Chromium gets ERR_CONNECTION_RESET through this environment's proxy."
+}

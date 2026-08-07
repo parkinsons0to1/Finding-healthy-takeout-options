@@ -1,0 +1,36 @@
+{
+  "chain_id": "beefeater",
+  "status": "verified",
+  "source_url": "https://www.beefeater.co.uk/en-gb/allergy-nutrition/bg-1482392-web",
+  "source_type": "html_table",
+  "label": "Beefeater Autumn Winter 25 allergy & nutrition guide (Whitbread)",
+  "item_count": 180,
+  "samples": [
+    {
+      "name": "ADD HOISIN SAUCE",
+      "kcal": 68.0,
+      "protein_g": 0.5
+    },
+    {
+      "name": "ADD HONEY & MUSTARD SAUCE",
+      "kcal": 139.0,
+      "protein_g": 0.4
+    },
+    {
+      "name": "ADD HONEY SRIRACHA SAUCE",
+      "kcal": 66.0,
+      "protein_g": 0.5
+    },
+    {
+      "name": "ADD MANGO, PEACH & HABANERO SAUCE",
+      "kcal": 35.0,
+      "protein_g": 0.2
+    },
+    {
+      "name": "ADD SIGNATURE BBQ SAUCE",
+      "kcal": 36.0,
+      "protein_g": 0.4
+    }
+  ],
+  "notes": "Whitbread publishes one static HTML guide per menu at /en-gb/allergy-nutrition/<code>-web; each dish carries a per-portion NandATable with Energy kJ/kcal, Fat, Saturates, Carbohydrates, Sugars, Protein, Salt. Sibling menus (breakfast, NGCI, Christmas, and for Brewers Fayre a Northern Ireland set) are linked from the /en-gb/allergy-nutrition index page and use the identical format."
+}

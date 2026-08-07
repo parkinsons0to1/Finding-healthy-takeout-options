@@ -1,0 +1,36 @@
+{
+  "chain_id": "itsu",
+  "status": "verified",
+  "source_url": "https://www.itsu.com/menu/",
+  "source_type": "html_table",
+  "label": "itsu menu \u2014 per-product nutrition facts pages",
+  "item_count": 116,
+  "samples": [
+    {
+      "name": "miso soup",
+      "kcal": 32.0,
+      "protein_g": 2.8
+    },
+    {
+      "name": "spicy miso soup",
+      "kcal": 72.0,
+      "protein_g": 4.4
+    },
+    {
+      "name": "loaded chicken miso soup",
+      "kcal": 137.0,
+      "protein_g": 22.9
+    },
+    {
+      "name": "king prawn miso soup",
+      "kcal": 101.0,
+      "protein_g": 18.0
+    },
+    {
+      "name": "detox miso noodle soup",
+      "kcal": 190.0,
+      "protein_g": 6.9
+    }
+  ],
+  "notes": "The /menu/ listing page (server-rendered Nuxt) yields 118 product URLs of the form /menu/<category>/<slug>/ and shows kcal only. Each product page carries a <dl class=\"nutrition-facts\"> with dt/dd pairs: energy (kcal), fat (g), of which saturates (g), protein (g), carbohydrates (g), of which sugars (g), fibre (g), salt (g), plant points. All 118 products resolved to both kcal and protein."
+}

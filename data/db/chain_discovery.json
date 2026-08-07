@@ -1,0 +1,606 @@
+{
+ "generated_at": "2026-08-06T14:08:03Z",
+ "results": [
+  {
+   "chain_id": "burger_king",
+   "name": "Burger King",
+   "kind": "menu",
+   "best": {
+    "url": "https://www.burgerking.co.uk/nutrition",
+    "type": "js_only",
+    "status": 200
+   },
+   "tried": 13
+  },
+  {
+   "chain_id": "gdk",
+   "name": "German Doner Kebab",
+   "kind": "menu",
+   "best": {
+    "url": "https://www.gdk.com/nutrition",
+    "type": "js_only",
+    "status": 200
+   },
+   "tried": 13
+  },
+  {
+   "chain_id": "five_guys",
+   "name": "Five Guys",
+   "kind": "menu",
+   "best": {
+    "url": "https://www.fiveguys.co.uk/nutrition",
+    "type": "pdf",
+    "status": 200,
+    "pdf_url": "https://www.fiveguys.co.uk/wp-content/uploads/sites/30/2026/08/FGUK_FOH_allergen_ingredient_nutrition_Myprotein_shake_DIGITAL_20260805.pdf"
+   },
+   "tried": 12
+  },
+  {
+   "chain_id": "nandos",
+   "name": "Nando's",
+   "kind": "menu",
+   "best": {
+    "url": "https://www.nandos.co.uk/allergens",
+    "type": "js_only",
+    "status": 200
+   },
+   "tried": 13
+  },
+  {
+   "chain_id": "wingstop",
+   "name": "Wingstop",
+   "kind": "menu",
+   "best": {
+    "url": "https://www.wingstop.co.uk/nutrition",
+    "type": "js_only",
+    "status": 200
+   },
+   "tried": 12
+  },
+  {
+   "chain_id": "slim_chickens",
+   "name": "Slim Chickens",
+   "kind": "menu",
+   "best": {
+    "type": "dead"
+   },
+   "tried": 12
+  },
+  {
+   "chain_id": "shake_shack",
+   "name": "Shake Shack",
+   "kind": "menu",
+   "best": {
+    "url": "https://www.shakeshack.co.uk/allergen-information",
+    "via": "tls-impersonation",
+    "type": "pdf",
+    "status": 200,
+    "pdf_url": "https://www.shakeshack.co.uk/wp-content/uploads/2026/05/Shake-Shack-Allergens-Info-May-2026.pdf"
+   },
+   "tried": 12
+  },
+  {
+   "chain_id": "wimpy",
+   "name": "Wimpy",
+   "kind": "menu",
+   "best": {
+    "type": "dead"
+   },
+   "tried": 12
+  },
+  {
+   "chain_id": "chicken_cottage",
+   "name": "Chicken Cottage",
+   "kind": "menu",
+   "best": {
+    "url": "https://chickencottage.com/allergens",
+    "type": "js_only",
+    "status": 200
+   },
+   "tried": 12
+  },
+  {
+   "chain_id": "dixy_chicken",
+   "name": "Dixy Chicken",
+   "kind": "menu",
+   "best": {
+    "type": "dead"
+   },
+   "tried": 12
+  },
+  {
+   "chain_id": "morleys",
+   "name": "Morley's",
+   "kind": "menu",
+   "best": {
+    "url": "https://morleyschicken.com/allergens",
+    "type": "js_only",
+    "status": 200
+   },
+   "tried": 12
+  },
+  {
+   "chain_id": "pepes_piri_piri",
+   "name": "Pepe's Piri Piri",
+   "kind": "menu",
+   "best": {
+    "type": "dead"
+   },
+   "tried": 12
+  },
+  {
+   "chain_id": "dominos",
+   "name": "Domino's",
+   "kind": "menu",
+   "best": {
+    "url": "https://www.dominos.co.uk/nutrition",
+    "type": "blocked",
+    "status": 403
+   },
+   "tried": 13
+  },
+  {
+   "chain_id": "pizza_hut",
+   "name": "Pizza Hut",
+   "kind": "menu",
+   "best": {
+    "url": "https://www.pizzahut.co.uk/nutrition",
+    "type": "js_only",
+    "status": 200
+   },
+   "tried": 12
+  },
+  {
+   "chain_id": "pizza_express",
+   "name": "PizzaExpress",
+   "kind": "menu",
+   "best": {
+    "type": "dead"
+   },
+   "tried": 12
+  },
+  {
+   "chain_id": "franco_manca",
+   "name": "Franco Manca",
+   "kind": "menu",
+   "best": {
+    "url": "https://www.francomanca.co.uk/nutritional-information",
+    "type": "pdf",
+    "status": 200,
+    "pdf_url": "https://www.francomanca.co.uk/wp-content/uploads/2026/08/FM-ALLERGEN-LIST-JULY-2026-v2.pdf"
+   },
+   "tried": 12
+  },
+  {
+   "chain_id": "zizzi",
+   "name": "Zizzi",
+   "kind": "menu",
+   "best": {
+    "url": "https://www.zizzi.co.uk/allergens",
+    "type": "html_table",
+    "status": 200,
+    "numeric_cells": 390
+   },
+   "tried": 12
+  },
+  {
+   "chain_id": "ask_italian",
+   "name": "ASK Italian",
+   "kind": "menu",
+   "best": {
+    "url": "https://www.askitalian.co.uk/nutrition",
+    "type": "js_only",
+    "status": 200
+   },
+   "tried": 12
+  },
+  {
+   "chain_id": "papa_murphys",
+   "name": "Papa Murphy's",
+   "kind": "menu",
+   "best": {
+    "url": "https://www.papamurphys.com/nutrition",
+    "type": "js_only",
+    "status": 200
+   },
+   "tried": 12
+  },
+  {
+   "chain_id": "pret",
+   "name": "Pret A Manger",
+   "kind": "menu",
+   "best": {
+    "url": "https://www.pret.co.uk/nutrition",
+    "type": "js_only",
+    "status": 200
+   },
+   "tried": 12
+  },
+  {
+   "chain_id": "itsu",
+   "name": "itsu",
+   "kind": "menu",
+   "best": {
+    "url": "https://www.itsu.com/nutrition",
+    "type": "js_only",
+    "status": 200,
+    "numeric_cells": 0
+   },
+   "tried": 12
+  },
+  {
+   "chain_id": "leon",
+   "name": "LEON",
+   "kind": "menu",
+   "best": {
+    "url": "https://leon.co/allergens",
+    "type": "js_only",
+    "status": 200,
+    "numeric_cells": 0
+   },
+   "tried": 12
+  },
+  {
+   "chain_id": "wagamama",
+   "name": "wagamama",
+   "kind": "menu",
+   "best": {
+    "url": "https://www.wagamama.com/allergen-information",
+    "type": "js_only",
+    "status": 200,
+    "numeric_cells": 0
+   },
+   "tried": 12
+  },
+  {
+   "chain_id": "yo_sushi",
+   "name": "YO! Sushi",
+   "kind": "menu",
+   "best": {
+    "url": "https://yosushi.com/nutrition",
+    "type": "js_only",
+    "status": 200
+   },
+   "tried": 12
+  },
+  {
+   "chain_id": "wasabi",
+   "name": "Wasabi",
+   "kind": "menu",
+   "best": {
+    "type": "dead"
+   },
+   "tried": 12
+  },
+  {
+   "chain_id": "chopstix",
+   "name": "Chopstix",
+   "kind": "menu",
+   "best": {
+    "url": "https://chopstixgroup.com/nutrition",
+    "type": "pdf",
+    "status": 200,
+    "pdf_url": "https://chopstixgroup.com/nutrition"
+   },
+   "tried": 12
+  },
+  {
+   "chain_id": "tortilla",
+   "name": "Tortilla",
+   "kind": "menu",
+   "best": {
+    "url": "https://tortilla.co.uk/nutritional-information",
+    "type": "js_only",
+    "status": 200
+   },
+   "tried": 12
+  },
+  {
+   "chain_id": "chipotle",
+   "name": "Chipotle",
+   "kind": "menu",
+   "best": {
+    "url": "https://www.chipotle.co.uk/allergens",
+    "type": "pdf",
+    "status": 200,
+    "pdf_url": "https://www.chipotle.co.uk/content/dam/chipotle/menu/nutrition/2025/Chipotle-Handheld-%20Menu-105x297-UK-Digital-1025-WRF-26-.pdf"
+   },
+   "tried": 12
+  },
+  {
+   "chain_id": "wok_to_walk",
+   "name": "Wok to Walk",
+   "kind": "menu",
+   "best": {
+    "type": "dead"
+   },
+   "tried": 12
+  },
+  {
+   "chain_id": "kokoro",
+   "name": "Kokoro",
+   "kind": "menu",
+   "best": {
+    "type": "dead"
+   },
+   "tried": 12
+  },
+  {
+   "chain_id": "sushi_gourmet",
+   "name": "Sushi Gourmet",
+   "kind": "menu",
+   "best": {
+    "url": "https://sushigourmet.co.uk/nutrition",
+    "type": "js_only",
+    "status": 200
+   },
+   "tried": 12
+  },
+  {
+   "chain_id": "yo_to_go",
+   "name": "YO! To Go",
+   "kind": "menu",
+   "best": {
+    "url": "https://yosushi.com/nutrition",
+    "type": "js_only",
+    "status": 200
+   },
+   "tried": 12
+  },
+  {
+   "chain_id": "gails",
+   "name": "GAIL's",
+   "kind": "menu",
+   "best": {
+    "url": "https://gailsbread.co.uk/allergens",
+    "type": "js_only",
+    "status": 200,
+    "numeric_cells": 0
+   },
+   "tried": 12
+  },
+  {
+   "chain_id": "warrens",
+   "name": "Warrens Bakery",
+   "kind": "menu",
+   "best": {
+    "type": "dead"
+   },
+   "tried": 12
+  },
+  {
+   "chain_id": "paul",
+   "name": "PAUL",
+   "kind": "menu",
+   "best": {
+    "url": "https://www.paul-uk.com/allergens",
+    "type": "js_only",
+    "status": 200
+   },
+   "tried": 12
+  },
+  {
+   "chain_id": "cake_box",
+   "name": "Cake Box",
+   "kind": "menu",
+   "best": {
+    "url": "https://www.eggfreecake.co.uk/nutrition",
+    "type": "js_only",
+    "status": 200
+   },
+   "tried": 12
+  },
+  {
+   "chain_id": "batchd",
+   "name": "Batch'd",
+   "kind": "menu",
+   "best": {
+    "type": "dead"
+   },
+   "tried": 12
+  },
+  {
+   "chain_id": "cafe_0161",
+   "name": "Cafe 0161",
+   "kind": "menu",
+   "best": {
+    "type": "dead"
+   },
+   "tried": 12
+  },
+  {
+   "chain_id": "chaiiwala",
+   "name": "Chaiiwala",
+   "kind": "menu",
+   "best": {
+    "url": "https://chaiiwala.co.uk/allergens",
+    "type": "js_only",
+    "status": 200
+   },
+   "tried": 12
+  },
+  {
+   "chain_id": "wetherspoons",
+   "name": "Wetherspoon",
+   "kind": "menu",
+   "best": {
+    "url": "https://www.jdwetherspoon.com/allergen-information",
+    "type": "js_only",
+    "status": 200
+   },
+   "tried": 13
+  },
+  {
+   "chain_id": "harvester",
+   "name": "Harvester",
+   "kind": "menu",
+   "best": {
+    "url": "https://www.harvester.co.uk/nutrition",
+    "type": "js_only",
+    "status": 200
+   },
+   "tried": 12
+  },
+  {
+   "chain_id": "toby_carvery",
+   "name": "Toby Carvery",
+   "kind": "menu",
+   "best": {
+    "url": "https://www.tobycarvery.co.uk/nutrition",
+    "type": "js_only",
+    "status": 200
+   },
+   "tried": 12
+  },
+  {
+   "chain_id": "beefeater",
+   "name": "Beefeater",
+   "kind": "menu",
+   "best": {
+    "type": "dead"
+   },
+   "tried": 12
+  },
+  {
+   "chain_id": "brewers_fayre",
+   "name": "Brewers Fayre",
+   "kind": "menu",
+   "best": {
+    "type": "dead"
+   },
+   "tried": 12
+  },
+  {
+   "chain_id": "hungry_horse",
+   "name": "Hungry Horse",
+   "kind": "menu",
+   "best": {
+    "url": "https://www.hungryhorse.co.uk/allergens",
+    "type": "js_only",
+    "status": 200
+   },
+   "tried": 12
+  },
+  {
+   "chain_id": "miller_carter",
+   "name": "Miller & Carter",
+   "kind": "menu",
+   "best": {
+    "type": "dead"
+   },
+   "tried": 12
+  },
+  {
+   "chain_id": "frankie_bennys",
+   "name": "Frankie & Benny's",
+   "kind": "menu",
+   "best": {
+    "type": "dead"
+   },
+   "tried": 12
+  },
+  {
+   "chain_id": "tgi_fridays",
+   "name": "TGI Fridays",
+   "kind": "menu",
+   "best": {
+    "url": "https://www.tgifridays.co.uk/allergens",
+    "type": "js_only",
+    "status": 200
+   },
+   "tried": 12
+  },
+  {
+   "chain_id": "taco_bell",
+   "name": "Taco Bell",
+   "kind": "menu",
+   "best": {
+    "url": "https://www.tacobell.co.uk/nutrition",
+    "type": "js_only",
+    "status": 200
+   },
+   "tried": 12
+  },
+  {
+   "chain_id": "costa",
+   "name": "Costa Coffee",
+   "kind": "drinks",
+   "best": {
+    "type": "dead"
+   },
+   "tried": 12
+  },
+  {
+   "chain_id": "starbucks",
+   "name": "Starbucks",
+   "kind": "drinks",
+   "best": {
+    "url": "https://www.starbucks.co.uk/nutrition",
+    "type": "pdf",
+    "status": 200,
+    "pdf_url": "https://www.starbucks.co.uk/sites/starbucks-uk-pwa/files/2026-04/SUM26_UK_AllergenBook_CORE_BEVERAGE_v02.pdf"
+   },
+   "tried": 12
+  },
+  {
+   "chain_id": "caffe_nero",
+   "name": "Caff\u00e8 Nero",
+   "kind": "drinks",
+   "best": {
+    "type": "dead"
+   },
+   "tried": 12
+  },
+  {
+   "chain_id": "tim_hortons",
+   "name": "Tim Hortons",
+   "kind": "drinks",
+   "best": {
+    "type": "dead"
+   },
+   "tried": 12
+  },
+  {
+   "chain_id": "black_sheep_coffee",
+   "name": "Black Sheep Coffee",
+   "kind": "drinks",
+   "best": {
+    "type": "dead"
+   },
+   "tried": 12
+  },
+  {
+   "chain_id": "coffee_1",
+   "name": "Coffee #1",
+   "kind": "drinks",
+   "best": {
+    "url": "https://www.coffee1.co.uk/food/nutrition",
+    "type": "js_only",
+    "status": 200
+   },
+   "tried": 12
+  },
+  {
+   "chain_id": "krispy_kreme",
+   "name": "Krispy Kreme",
+   "kind": "drinks",
+   "best": {
+    "url": "https://www.krispykreme.co.uk/nutritionals",
+    "via": "tls-impersonation",
+    "type": "pdf",
+    "status": 200,
+    "pdf_url": "https://krispykreme.co.uk/media/wysiwyg/PDFs/UK_Drinks_Allergen_Nutrition_Book_310726.pdf"
+   },
+   "tried": 12
+  },
+  {
+   "chain_id": "hotel_chocolat",
+   "name": "Hotel Chocolat",
+   "kind": "drinks",
+   "best": {
+    "type": "dead"
+   },
+   "tried": 12
+  }
+ ]
+}

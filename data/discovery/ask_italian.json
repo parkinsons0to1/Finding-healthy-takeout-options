@@ -1,0 +1,37 @@
+{
+  "chain_id": "ask_italian",
+  "status": "verified",
+  "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
+  "source_type": "pdf",
+  "label": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
+  "item_count": 348,
+  "basis": "per serving",
+  "samples": [
+    {
+      "name": "Summer Specials Grande Fritto Misto",
+      "kcal": 864.0,
+      "protein_g": 35.0
+    },
+    {
+      "name": "Summer Specials Lemon Meringue Pie Sundae",
+      "kcal": 648.0,
+      "protein_g": 9.2
+    },
+    {
+      "name": "Summer Specials Non Gluten Prosciutto, Truffle &",
+      "kcal": 1396.0,
+      "protein_g": 44.0
+    },
+    {
+      "name": "Summer Specials Pollo Piccante Crocchettes",
+      "kcal": 391.0,
+      "protein_g": 15.0
+    },
+    {
+      "name": "Summer Specials Prosciutto, Truffle & Stracciatella",
+      "kcal": 1087.0,
+      "protein_g": 52.0
+    }
+  ],
+  "notes": "Linked from https://www.askitalian.co.uk/allergens (needs fetch_protected). IMPORTANT: generic_pdf.parse_pdf FAILS here (returns 29 junk rows whose names are section headings) because the tables have no ruling lines and pdfplumber's extract_tables cannot see them. Parsed instead from page TEXT: each data line is '<Menu Section> <Dish> ' followed by exactly 16 numbers - cols 0-7 Per 100g (kJ, kcal, fat, sat, carb, sugar, protein, salt) and cols 8-15 Per Portion (same order). kcal=index 9, protein=index 14 give per-portion values. 348 rows pass the protein*4<=kcal*1.15 gate. Names still carry the menu-section prefix and long dish names wrap, so a name-continuation fix is needed. Sibling PDF c476e315..= 'Concept Stores' menu, same layout. A working text parser is at scratchpad/ask_parse.py."
+}

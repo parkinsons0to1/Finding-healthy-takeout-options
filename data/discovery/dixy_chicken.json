@@ -1,0 +1,10 @@
+{
+  "chain_id": "dixy_chicken",
+  "status": "unresolved",
+  "source_url": "https://dixychicken.co.uk/",
+  "source_type": "",
+  "label": "Dixy Chicken \u2014 not yet found (site unreachable from here)",
+  "item_count": 0,
+  "samples": [],
+  "notes": "UNRESOLVED \u2014 not yet found. Could not reach the brand site at all from this environment: https://dixychicken.co.uk/ and https://www.dixychicken.co.uk/ both fail with ConnectionResetError(104) on plain requests AND return None from fetch_protected (all three curl_cffi browser TLS profiles failed); https://dixy.co.uk/ fails with a 502 from the agent proxy on CONNECT. So the brand domain was never actually inspected \u2014 nothing at all can be concluded about what Dixy publishes. NEXT STEPS: retry from a network that can reach the domain, confirm the correct official domain, and then look for a nutrition/allergen page or PDF."
+}

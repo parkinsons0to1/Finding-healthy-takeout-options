@@ -1,0 +1,36 @@
+{
+  "chain_id": "pret",
+  "status": "verified",
+  "source_url": "https://www.pret.co.uk/_next/data/uxR8wnvQ4-y36UFGGixz_/en-GB/products/categories/{category}.json",
+  "source_type": "json_api",
+  "label": "Pret A Manger Next.js _next/data product JSON",
+  "item_count": 198,
+  "samples": [
+    {
+      "name": "Coconut & Quinoa Porridge",
+      "kcal": 275.0,
+      "protein_g": 6.1
+    },
+    {
+      "name": "Pret's Proper Porridge",
+      "kcal": 216.0,
+      "protein_g": 8.7
+    },
+    {
+      "name": "All Butter Croissant",
+      "kcal": 291.0,
+      "protein_g": 6.5
+    },
+    {
+      "name": "Almond Croissant ",
+      "kcal": 382.0,
+      "protein_g": 7.8
+    },
+    {
+      "name": "Chocolate Croissant",
+      "kcal": 350.0,
+      "protein_g": 5.9
+    }
+  ],
+  "notes": "Next.js SSP JSON endpoint. 8 category slugs: breakfast, cold-drinks, fruit-and-fruit-pots, hot-drinks, hot-food, sandwiches-baguettes-wraps-and-flatbreads, super-plates-salads-and-protein-pots, sweet-and-savoury-snacks. Each product has nutritionals[] rows of {nutrient, per100g, perServing}; used perServing. Build id uxR8wnvQ4-y36UFGGixz_ is volatile - re-read from https://www.pret.co.uk/ __NEXT_DATA__ buildId. Also carries allergens, suitableForVegans/Vegetarians, averageWeight. All 198 passed protein*4<=kcal*1.15."
+}

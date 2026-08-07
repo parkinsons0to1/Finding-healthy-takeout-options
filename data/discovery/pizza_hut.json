@@ -1,0 +1,20 @@
+{
+  "chain_id": "pizza_hut",
+  "status": "verified",
+  "source_url": "https://assets.ctfassets.net/gsh8f6v1sw3c/6XUgXQCKklvPyrUmgIVshd/6948068493acdb56f38be1f2360388d0/DELEX_AIN_Booklet_C3_2026_V1_1.pdf",
+  "source_type": "pdf",
+  "label": "Pizza Hut Delivery UK — Allergens & Nutrition booklet (valid from July 2026)",
+  "item_count": 559,
+  "basis": "per whole product (serves count recorded in serving_desc)",
+  "samples": [
+    {"name": "Margherita — Small Handcrafted", "kcal": 759, "protein_g": 35},
+    {"name": "Single - BBQ Chicken Wings (4 Wings)", "kcal": 245, "protein_g": 23},
+    {"name": "Duo - Breaded Chicken Strips (7 Strips)", "kcal": 566, "protein_g": 45},
+    {"name": "Halloumi Fries (5) (Oven Cooked)", "kcal": 275, "protein_g": 14},
+    {"name": "Loaded Cheesy Bite Bites", "kcal": 590, "protein_g": 31},
+    {"name": "Chicken Supreme — Large Handcrafted", "kcal": 1655, "protein_g": 82},
+    {"name": "Mac n' Cheese", "kcal": 438, "protein_g": 19},
+    {"name": "Vanilla Ice Cream", "kcal": 76, "protein_g": 1.3}
+  ],
+  "notes": "SOLVED. Found via Contentful, not via the ordering API. How: the SPA bundle main.*.js exposes contentfulCms.deliveryApiKey (RPf5VzSzPkQcidaDhZVqur2FGDY7Mlc3hhxK-YTgGIg) and space gsh8f6v1sw3c; listing https://cdn.contentful.com/spaces/gsh8f6v1sw3c/environments/master/assets returns 1968 assets of which 31 are PDFs, and exactly one is the current nutrition booklet titled 'Allergens & Nutrition' (DELEX_AIN_Booklet_C3_2026_V1_1.pdf, valid from July 2026). Pages 0-3 are the allergen/ingredient matrix; pages 4-9 are full nutrition tables with Energy(kcal)/Fat/Saturated Fat/Carbohydrate/Sugar/PROTEIN/Salt, per whole product and again per serving. An older 31-page 'Allergen & Nutrition October 2024' PDF is also in the space and parses the same way. GRAPHQL LEAD RESOLVED AS A DEAD END FOR PROTEIN (record this so nobody redoes it): the storefront endpoint https://www.pizzahut.co.uk/ph_uk/storefront/graphql IS fully unlockable without an account - POST https://www.pizzahut.co.uk/v1/oidc/oauth2/token with form body grant_type=guest&client_id=ph_uk_web and header originatingAppId: ph_uk_web returns an access_token; sending it as Authorization: Bearer <tok> turns every UNAUTHORIZED into real data (stores, storeByNumber(...).menuByChannel(channel:WEB), ~790 productVariants per store). But although the schema defines ProductVariant.nutrition -> Nutrition.nutritionalValues -> NutritionalValuePerBasis{protein ...}, that field is null on 792/792 variants; the only populated nutrition data is the string list nutritionInformation: ['calories:2231','serves:3'] - energy and serves only, no protein. Also confirmed dead: /order/pdfs/Nutritional-Information.pdf serves the SPA shell, and the DINE-IN_AIN_Booklet (Pizza Hut Restaurants, a separate company) is allergens/ingredients only. PDF traps handled in the adapter: the Category and Product-name columns are rotated 90 degrees so extract_tables returns them character- and line-reversed (rebuilt from char geometry: sort glyphs by top descending, wrapped lines by x0 ascending); column headers are rotated too so no header ever literally contains 'kcal' or 'protein' and column order must be positional; each page yields both a 'Nutrition Per Whole Product' (11 col) and a 'Nutrition Per Serving' (7 col) table."
+}

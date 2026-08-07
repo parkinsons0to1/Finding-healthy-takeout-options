@@ -1,0 +1,36 @@
+{
+  "chain_id": "toby_carvery",
+  "status": "verified",
+  "source_url": "https://allergens.mbplc.io/AllergenGuideTobyEstate.html",
+  "source_type": "html_table",
+  "label": "Toby Carvery allergen & nutrition guide (Mitchells & Butlers)",
+  "item_count": 362,
+  "samples": [
+    {
+      "name": "Add on Large Honey-glazed Parsnips (V)",
+      "kcal": 313.0,
+      "protein_g": 3.2
+    },
+    {
+      "name": "Add on Large Sprouts (V)",
+      "kcal": 104.0,
+      "protein_g": 5.7
+    },
+    {
+      "name": "Add on Large Red Cabbage (V)",
+      "kcal": 81.0,
+      "protein_g": 2.1
+    },
+    {
+      "name": "Add on Large Potato & Parsnip Bake (V)",
+      "kcal": 383.0,
+      "protein_g": 8.8
+    },
+    {
+      "name": "Bacon",
+      "kcal": 94.0,
+      "protein_g": 8.3
+    }
+  ],
+  "notes": "Per-portion kJ/kcal, fat, saturates, carbohydrate, sugars, protein, salt embedded per dish in the group-wide M&B guide (one static HTML page per brand estate, no JS needed). 16 row(s) rejected by the protein*4<=kcal*1.15 gate (menu 'swap' rows carrying negative deltas)."
+}

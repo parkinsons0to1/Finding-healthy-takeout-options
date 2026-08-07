@@ -1,0 +1,36 @@
+{
+  "chain_id": "gails",
+  "status": "verified",
+  "source_url": "https://gails.com/products/gails-sourdough-650g",
+  "source_type": "json_api",
+  "label": "GAILs window.allergenProducts inline JSON (Shopify theme global)",
+  "item_count": 211,
+  "samples": [
+    {
+      "name": "6 Parmesan Chicken",
+      "kcal": 675.0,
+      "protein_g": 35.0
+    },
+    {
+      "name": "Strawberry + Ricotta Cake",
+      "kcal": 342.0,
+      "protein_g": 5.6
+    },
+    {
+      "name": "DNU Carrot Soup",
+      "kcal": 117.0,
+      "protein_g": 1.2
+    },
+    {
+      "name": "4 Ham And Cheese Sandwich Box",
+      "kcal": 558.0,
+      "protein_g": 24.0
+    },
+    {
+      "name": "10 heritage tomato bagel halve",
+      "kcal": 535.0,
+      "protein_g": 15.0
+    }
+  ],
+  "notes": "gailsbread.co.uk 301s to gails.com (Shopify). Nutrition is NOT in products.json (body_html has none) - it is a theme-global JS variable window.allergenProducts embedded in page HTML: array of 885 PLU rows with PLU, PLUDescription, MajorGroupName, SalesGroupName, AllergenId, Energy (kcal), Energy (kJ), Total Fat (g), Saturates (g), Carbohydrate, Total Sugars (g), Protein (g), Fibre (g), Salt (mg). 469 rows have both kcal and protein and pass the plausibility gate; 212 of those have InUse=true (filter on InUse to drop delisted/DNU rows). Regex must brace-match the array - a non-greedy [.*?] fails. Variable appears on any gails.com page carrying the theme. ADAPTER: ships with include_delisted=False, so fetch() returns the 211 InUse rows; pass include_delisted=True for all 469."
+}

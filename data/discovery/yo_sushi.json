@@ -1,0 +1,36 @@
+{
+  "chain_id": "yo_sushi",
+  "status": "verified",
+  "source_url": "https://menus.tenkites.com/yosushi/allergenpageyosushi",
+  "source_type": "html_table",
+  "label": "YO! Sushi live Tenkites allergen & nutrition menu (server-rendered HTML)",
+  "item_count": 165,
+  "samples": [
+    {
+      "name": "Chicken Katsu Curry Large",
+      "kcal": 922,
+      "protein_g": 31.3
+    },
+    {
+      "name": "Pumpkin Katsu Curry Large",
+      "kcal": 735,
+      "protein_g": 11.6
+    },
+    {
+      "name": "Prawn Katsu Curry Large",
+      "kcal": 699,
+      "protein_g": 16.7
+    },
+    {
+      "name": "Chicken Katsu Curry Regular",
+      "kcal": 543,
+      "protein_g": 16.8
+    },
+    {
+      "name": "Prawn Katsu Curry Regular",
+      "kcal": 447,
+      "protein_g": 10.4
+    }
+  ],
+  "notes": "PREFERRED (live). https://yosushi.com/legal/allergen-information links three Tenkites menus: /yosushi/allergenpageyosushi (restaurants), /yosushi/kiosk02 (Tesco kiosks), /yoireland03 (Ireland - excluded, non-UK). Tenkites renders SERVER-SIDE, so no JSON API and no browser are needed; the GB menu is one ~14MB HTML doc. Each recipe card has <span class='k10-w-recipe__name'> then a k10-recipe__nutrients-table holding a row of k10-recipe__nutrient-name labels and a positionally-aligned row of k10-recipe__nutrient-value cells. TRAPS: the name and its table are NOT in the same container - take the last name occurring BEFORE each table offset; values carry thousands separators ('3,825') that must be stripped or every 4-digit value is lost; the header is 'Energy (kCal)', lowercase k capital C. Restaurant + Tesco kiosk give 165 unique items. FALLBACK, also verified: the official PDF https://yosushi.com/getattachment/1542b7f9-5733-4588-8297-21c764126bad/Allergen-and-Nutritional-Report-December-2022.pdf?lang=en-GB yields 111 items but is dated Dec 2022. generic_pdf.parse_pdf returns 0 on it (text pages, no table objects); parse by regex on name + 12 numbers, kcal=idx0 protein=idx9. All rows pass protein*4<=kcal*1.15."
+}

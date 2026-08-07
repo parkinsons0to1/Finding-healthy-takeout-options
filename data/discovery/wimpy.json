@@ -1,0 +1,41 @@
+{
+  "chain_id": "wimpy",
+  "status": "verified",
+  "source_url": "https://wimpy-uk.s3-eu-west-2.amazonaws.com/static/Nutrition%20Guide.pdf",
+  "source_type": "pdf",
+  "label": "Wimpy UK \"Allergen & Nutritional Guide\" PDF (brand asset on their own S3 bucket wimpy-uk.s3-eu-west-2.amazonaws.com)",
+  "item_count": 156,
+  "samples": [
+    {
+      "name": "Wimpy Cheeseburger",
+      "kcal": 440.0,
+      "protein_g": 22.5
+    },
+    {
+      "name": "Original Halfpounder",
+      "kcal": 880.0,
+      "protein_g": 50.9
+    },
+    {
+      "name": "Quarterpounder Bacon & Cheese Burger",
+      "kcal": 621.0,
+      "protein_g": 36.4
+    },
+    {
+      "name": "5 Chicken Strips",
+      "kcal": 470.0,
+      "protein_g": 28.7
+    },
+    {
+      "name": "Original Quarterpounder Cheese",
+      "kcal": 610.0,
+      "protein_g": 30.6
+    },
+    {
+      "name": "Junior Cheeseburger",
+      "kcal": 284.0,
+      "protein_g": 14.8
+    }
+  ],
+  "notes": "2-page brand PDF, per-portion values. Column headers are rotated 90 degrees and pdfplumber returns them mirrored (\")lack( ygrenE\"), and extract_tables() splits each menu section into a values table plus a separate allergen table, so generic_pdf.fetch_from_pdf returns 0 rows here. Parsed instead from extract_text() lines with the regex \"<name> <9 numbers>\" (kJ, kcal, fat, saturates, carbs, sugars, fibre, protein, salt) \u2014 name and numbers come off the same text line so column alignment cannot drift. 197 matching lines, 156 unique items. Guards applied: kJ/kcal ratio must sit in 3.5-5.0, and protein*4 <= kcal*1.15 \u2014 0 violations. Cross-check: Wimpy Cheeseburger 440 kcal matches the figure published on wimpy.uk.com menu pages."
+}

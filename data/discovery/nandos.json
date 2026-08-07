@@ -1,0 +1,36 @@
+{
+  "chain_id": "nandos",
+  "status": "verified",
+  "source_url": "https://www.nandos.co.uk/food/menu/page-data/index/page-data.json",
+  "source_type": "json_api",
+  "label": "Nando's UK menu page Gatsby page-data JSON (nutritionalInfo.factsForPortionSizes per product)",
+  "item_count": 148,
+  "samples": [
+    {
+      "name": "1/4 Chicken",
+      "kcal": 284,
+      "protein_g": 40.0
+    },
+    {
+      "name": "Whole Chicken",
+      "kcal": 1136,
+      "protein_g": 160.1
+    },
+    {
+      "name": "Chicken Butterfly",
+      "kcal": 332,
+      "protein_g": 59.4
+    },
+    {
+      "name": "10 Chicken Wings",
+      "kcal": 786,
+      "protein_g": 106.4
+    },
+    {
+      "name": "4 Boneless Chicken Thighs",
+      "kcal": 578,
+      "protein_g": 70.1
+    }
+  ],
+  "notes": "nandos.co.uk/food/menu is a Gatsby SPA whose HTML contains no macros (0 occurrences of 'protein'). The Gatsby data payload at /food/menu/page-data/index/page-data.json carries full per-item nutritionalInfo: energyKcal, proteinMg, fatMg, totalCarbsMg, saltMg, plus allergens and diet flags. 183 nutrition blocks, 148 unique product names with BOTH kcal and protein. Plausibility check protein*4 <= kcal*1.15 passed on all rows (0 violations). Protein converted mg -> g. Unauthenticated GET; the page-data path is Gatsby-build dependent, re-resolve from the menu page if it 404s."
+}

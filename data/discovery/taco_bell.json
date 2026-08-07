@@ -1,0 +1,41 @@
+{
+  "chain_id": "taco_bell",
+  "status": "verified",
+  "source_url": "https://www.nutritionix.com/taco-bell-uk/menu/premium",
+  "source_type": "html_table",
+  "label": "Taco Bell UK official nutrition portal, hosted on Nutritionix and embedded as the iframe on tacobell.co.uk/nutrition-information/",
+  "item_count": 518,
+  "samples": [
+    {
+      "name": "Crispy Chicken Burrito",
+      "kcal": 578.0,
+      "protein_g": 25.0
+    },
+    {
+      "name": "BBQ Habanero Burrito - Chicken",
+      "kcal": 396.0,
+      "protein_g": 15.0
+    },
+    {
+      "name": "BBQ Habanero Burrito - Beef",
+      "kcal": 421.0,
+      "protein_g": 13.0
+    },
+    {
+      "name": "3x Chocolate Churro Bites",
+      "kcal": 193.0,
+      "protein_g": 2.3
+    },
+    {
+      "name": "6x Chocolate Churro Bites",
+      "kcal": 386.0,
+      "protein_g": 4.5
+    },
+    {
+      "name": "BBQ Habanero Tenders (3)",
+      "kcal": 338.0,
+      "protein_g": 25.0
+    }
+  ],
+  "notes": "tacobell.co.uk/nutrition-information/ contains no macros itself \u2014 it is a wrapper whose only content is <iframe src=\"https://www.nutritionix.com/taco-bell-uk/menu/premium\">. That iframe URL serves the full brand menu as a static HTML table (no JS needed): columns inmGrid_c0 name, c1 Energy kJ, c2 Energy kcal, c3 fat, c4 saturates, c5 carbohydrate, c6 sugars, c7 fibre, c8 protein, c9 salt. Parsed 521 rows, 518 unique items with both kcal and protein. Plausibility check protein*4 <= kcal*1.15 flags exactly 1 row, \"Jalapenos, Single Portion\" (1 kcal / 0.5 g protein) \u2014 a rounding artifact on a near-zero item, not a column misread. bs4 is not installed in this env; parsed with regex over the td headers attributes."
+}
