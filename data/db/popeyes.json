@@ -1,7 +1,7 @@
 {
  "chain_id": "popeyes",
- "item_count": 197,
- "fetched_at": "2026-07-28T18:52:57Z",
+ "item_count": 196,
+ "fetched_at": "2026-08-07T11:38:40Z",
  "items": {
   "9c9db5cb-26ac-ec11-997e-281878fa753e": {
    "chain_id": "popeyes",
@@ -25,7 +25,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "796a9fcc-70c6-ec11-997e-281878fa375b": {
@@ -50,7 +50,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "efaf4f4a-f536-f011-8f66-6045bd0e96f9": {
@@ -75,7 +75,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "ff6abc78-5b6f-ef11-9c35-0022484164a9": {
@@ -100,7 +100,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "398cb063-c356-ee11-9937-6045bd100097": {
@@ -125,7 +125,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "2356b5f7-76b9-ec11-997e-281878fa753e": {
@@ -144,7 +144,7 @@
    "allergens": [],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "b09db5cb-26ac-ec11-997e-281878fa753e": {
@@ -166,7 +166,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "6dc23e05-fe36-f011-8f66-6045bd0e96f9": {
@@ -188,7 +188,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "d2cfa9c0-0717-f111-9a49-7ced8d6b4a04": {
@@ -213,7 +213,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "2256b5f7-76b9-ec11-997e-281878fa753e": {
@@ -232,7 +232,7 @@
    "allergens": [],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "b29db5cb-26ac-ec11-997e-281878fa753e": {
@@ -251,7 +251,7 @@
    "allergens": [],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "7a6a9fcc-70c6-ec11-997e-281878fa375b": {
@@ -275,7 +275,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "b19db5cb-26ac-ec11-997e-281878fa753e": {
@@ -298,7 +298,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "88a48e84-0717-f111-9a49-7ced8d6b4a04": {
@@ -323,7 +323,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "9b9db5cb-26ac-ec11-997e-281878fa753e": {
@@ -348,7 +348,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "e7d72b66-0b4a-f111-8fcb-7c1e5202e9af": {
@@ -373,7 +373,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "101a1e4e-4449-ec11-981f-281878b15953": {
@@ -392,7 +392,7 @@
    "allergens": [],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "f8828c02-e949-f111-8fcb-7c1e5202e9af": {
@@ -415,8 +415,10 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
-   "quality_flags": []
+   "fetched_at": "2026-08-07T11:38:40Z",
+   "quality_flags": [
+    "implausible-kcal"
+   ]
   },
   "617cd640-24ac-ec11-997e-281878fa753e": {
    "chain_id": "popeyes",
@@ -438,7 +440,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "7d99cb7a-35cc-ef11-88cf-000d3ad4bb8c": {
@@ -461,7 +463,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "bc9db5cb-26ac-ec11-997e-281878fa753e": {
@@ -484,7 +486,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "e88e3d33-6303-ed11-b47a-c8966551c0e0": {
@@ -507,7 +509,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "ba9db5cb-26ac-ec11-997e-281878fa753e": {
@@ -530,7 +532,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "b42b0f44-0417-f111-9a49-7ced8d6b4a04": {
@@ -553,7 +555,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "c0a5d924-586f-ef11-9c35-0022484164a9": {
@@ -577,7 +579,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "651fea50-b7fb-ee11-96f5-0022484208e1": {
@@ -600,7 +602,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "36a55f0a-0517-f111-9a49-7ced8d6b4a04": {
@@ -623,7 +625,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "d89e8340-596f-ef11-9c35-0022484164a9": {
@@ -647,7 +649,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "bb9db5cb-26ac-ec11-997e-281878fa753e": {
@@ -670,8 +672,10 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
-   "quality_flags": []
+   "fetched_at": "2026-08-07T11:38:40Z",
+   "quality_flags": [
+    "implausible-kcal"
+   ]
   },
   "6033e1d4-16d1-ec11-b656-281878faad97": {
    "chain_id": "popeyes",
@@ -694,7 +698,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "79aa60c3-13eb-ec11-b47a-281878fa2670": {
@@ -713,7 +717,7 @@
    "allergens": [],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "9080ec37-1eb8-ec11-997e-281878fa753e": {
@@ -734,7 +738,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "73dd3cbc-c09a-ef11-88cf-6045bdf2317a": {
@@ -755,7 +759,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "5f33e1d4-16d1-ec11-b656-281878faad97": {
@@ -778,7 +782,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "02562ab3-3477-ef11-9c38-6045bd127f28": {
@@ -797,7 +801,7 @@
    "allergens": [],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "8f80ec37-1eb8-ec11-997e-281878fa753e": {
@@ -818,7 +822,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "f6496b0a-5a1e-ef11-86d2-0022484317e2": {
@@ -837,7 +841,7 @@
    "allergens": [],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "d6f834e4-591e-ef11-86d2-0022484317e2": {
@@ -856,7 +860,7 @@
    "allergens": [],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "5d6392b2-9fa7-ed11-ba77-281878b14e13": {
@@ -875,7 +879,7 @@
    "allergens": [],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "bbeae6e9-9fa7-ed11-ba77-281878b14e13": {
@@ -894,7 +898,7 @@
    "allergens": [],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "1c9bc726-7e23-f111-9a4b-6045bd11ab87": {
@@ -913,7 +917,7 @@
    "allergens": [],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "8d9dd8ad-0156-ee11-9937-6045bd100097": {
@@ -932,7 +936,7 @@
    "allergens": [],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "34e0274d-44cf-ee11-85f9-6045bd131c0f": {
@@ -953,7 +957,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "f1138294-f5ce-ed11-9f73-6045bdd146a2": {
@@ -976,7 +980,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "ce9d97c4-f5ce-ed11-9f73-6045bdd146a2": {
@@ -997,7 +1001,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "bcb648ef-f5ce-ed11-9f73-6045bdd146a2": {
@@ -1018,7 +1022,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "61762524-4478-f011-b8ec-7c1e522f6094": {
@@ -1042,7 +1046,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "ba0fb15d-4478-f011-b8ec-7c1e522f6094": {
@@ -1065,7 +1069,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "e3475e5f-2c17-ed11-bd6e-c8966551c5f4": {
@@ -1084,7 +1088,7 @@
    "allergens": [],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "f8418671-2e17-ed11-bd6e-c8966551c5f4": {
@@ -1103,7 +1107,7 @@
    "allergens": [],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "a691dcbe-2e17-ed11-bd6e-c8966551c5f4": {
@@ -1122,7 +1126,7 @@
    "allergens": [],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "88e6a32b-2f17-ed11-bd6e-c8966551c5f4": {
@@ -1141,7 +1145,7 @@
    "allergens": [],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "0d652fb3-2f17-ed11-bd6e-c8966551c5f4": {
@@ -1160,7 +1164,7 @@
    "allergens": [],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "a4610181-2f17-ed11-bd6e-c8966551c5f4": {
@@ -1179,7 +1183,7 @@
    "allergens": [],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "16097a73-4478-f011-b8ec-7c1e522f6094": {
@@ -1204,7 +1208,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "1c14dcea-2f17-ed11-bd6e-c8966551c5f4": {
@@ -1223,7 +1227,7 @@
    "allergens": [],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "59d36a3f-4478-f011-b8ec-7c1e522f6094": {
@@ -1247,7 +1251,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "86d98fba-4478-f011-b8ec-7c1e522f6094": {
@@ -1269,7 +1273,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "f35edac8-4478-f011-b8ec-7c1e522f6094": {
@@ -1290,7 +1294,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "8e80ec37-1eb8-ec11-997e-281878fa753e": {
@@ -1311,7 +1315,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "6133e1d4-16d1-ec11-b656-281878faad97": {
@@ -1336,7 +1340,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "182a6d96-f023-ef11-86c3-6045bd0f04a9": {
@@ -1361,7 +1365,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "74dd3cbc-c09a-ef11-88cf-6045bdf2317a": {
@@ -1385,7 +1389,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "7f9db5cb-26ac-ec11-997e-281878fa753e": {
@@ -1404,7 +1408,7 @@
    "allergens": [],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "e54f84bd-8b44-f111-8ef3-6045bdf17e21": {
@@ -1423,7 +1427,7 @@
    "allergens": [],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "b4c3889b-9e44-f111-8ef3-6045bdf17e21": {
@@ -1442,7 +1446,7 @@
    "allergens": [],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "6cea4a3f-28ac-ec11-997e-281878fa753e": {
@@ -1461,7 +1465,7 @@
    "allergens": [],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "6ff85ece-a917-f111-9a48-7c1e520454e2": {
@@ -1480,7 +1484,7 @@
    "allergens": [],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "f53e9ec4-8f42-ef11-991a-002248417ef0": {
@@ -1499,7 +1503,7 @@
    "allergens": [],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "21e9330b-9042-ef11-991a-002248417ef0": {
@@ -1518,7 +1522,7 @@
    "allergens": [],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "a786b513-7e44-f111-8ef3-6045bdf17e21": {
@@ -1537,7 +1541,7 @@
    "allergens": [],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "198869ef-8f42-ef11-991a-002248417ef0": {
@@ -1556,7 +1560,7 @@
    "allergens": [],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "72dd3cbc-c09a-ef11-88cf-6045bdf2317a": {
@@ -1575,7 +1579,7 @@
    "allergens": [],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "95c41d51-bceb-ec11-b47a-281878fa2670": {
@@ -1594,7 +1598,7 @@
    "allergens": [],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "497404a8-a2b1-ec11-997e-281878fa753e": {
@@ -1613,7 +1617,7 @@
    "allergens": [],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "df6aa7aa-a6b1-ec11-997e-281878fa753e": {
@@ -1632,7 +1636,7 @@
    "allergens": [],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "e16aa7aa-a6b1-ec11-997e-281878fa753e": {
@@ -1651,7 +1655,7 @@
    "allergens": [],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "598a76cc-f7ea-ec11-b47a-281878fa2670": {
@@ -1670,7 +1674,7 @@
    "allergens": [],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "14147c0e-79d6-f011-8d4c-7c1e5202e640": {
@@ -1689,7 +1693,7 @@
    "allergens": [],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "95f011ee-76b2-ec11-997e-281878fa753e": {
@@ -1708,7 +1712,7 @@
    "allergens": [],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "e36aa7aa-a6b1-ec11-997e-281878fa753e": {
@@ -1727,7 +1731,7 @@
    "allergens": [],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "655a1ab6-665d-f011-91ba-7c1e521d74fb": {
@@ -1751,7 +1755,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "645a1ab6-665d-f011-91ba-7c1e521d74fb": {
@@ -1775,7 +1779,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "3355d0e4-3131-ee11-a3f1-0022483fcd28": {
@@ -1799,7 +1803,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "393574b3-9e44-f111-8ef3-6045bdf17e21": {
@@ -1818,7 +1822,7 @@
    "allergens": [],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "6233e1d4-16d1-ec11-b656-281878faad97": {
@@ -1840,7 +1844,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "40c2603e-1eb8-ec11-997e-281878fa753e": {
@@ -1859,7 +1863,7 @@
    "allergens": [],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "6333e1d4-16d1-ec11-b656-281878faad97": {
@@ -1880,7 +1884,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "d75660ce-424b-ee11-9937-00224840c21d": {
@@ -1901,7 +1905,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "39c45d14-6f44-f111-8ef3-6045bdf17e21": {
@@ -1926,7 +1930,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "d79a0f1d-134a-f111-8fcb-7c1e5202e9af": {
@@ -1951,7 +1955,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "9dfbdaca-7144-f111-8ef3-6045bdf17e21": {
@@ -1976,7 +1980,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "5ff854ed-224a-f111-8fcb-7c1e5202e9af": {
@@ -2001,7 +2005,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "1fe9e690-100e-f011-8b3c-6045bdd14eaf": {
@@ -2026,7 +2030,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "81248575-0281-f111-b33b-6045bdd2a223": {
@@ -2051,7 +2055,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "03d50073-2981-f111-b33b-6045bdd2a223": {
@@ -2076,57 +2080,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
-   "quality_flags": []
-  },
-  "83bd1e0b-f716-f111-9a49-7ced8d6b4a04": {
-   "chain_id": "popeyes",
-   "item_id": "83bd1e0b-f716-f111-9a49-7ced8d6b4a04",
-   "name": "Honey BBQ Sandwich",
-   "category": "Sandwiches",
-   "serving_desc": null,
-   "kcal": 718.0,
-   "protein_g": 39.9,
-   "carbs_g": 49.9,
-   "fat_g": 46.6,
-   "salt_g": 2.7,
-   "vegetarian": false,
-   "vegan": false,
-   "allergens": [
-    "cereals_containing_gluten",
-    "eggs",
-    "milk",
-    "mustard",
-    "wheat"
-   ],
-   "source": "live-scrape Popeyes UK ordering API",
-   "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
-   "quality_flags": []
-  },
-  "152f3586-fa16-f111-9a49-7ced8d6b4a04": {
-   "chain_id": "popeyes",
-   "item_id": "152f3586-fa16-f111-9a49-7ced8d6b4a04",
-   "name": "Honey BBQ Superstack Sandwich",
-   "category": "Sandwiches",
-   "serving_desc": null,
-   "kcal": 825.0,
-   "protein_g": 0.0,
-   "carbs_g": 0.0,
-   "fat_g": 0.0,
-   "salt_g": 2.7,
-   "vegetarian": false,
-   "vegan": false,
-   "allergens": [
-    "cereals_containing_gluten",
-    "eggs",
-    "milk",
-    "mustard",
-    "wheat"
-   ],
-   "source": "live-scrape Popeyes UK ordering API",
-   "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "ec10cd68-f4b0-ec11-997e-281878fa753e": {
@@ -2149,7 +2103,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "66aceeb6-100e-f011-8b3c-6045bdd14eaf": {
@@ -2174,7 +2128,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "bd9db5cb-26ac-ec11-997e-281878fa753e": {
@@ -2199,7 +2153,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "869db5cb-26ac-ec11-997e-281878fa753e": {
@@ -2224,7 +2178,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "c819fded-d710-f111-a69a-7c1e5203362b": {
@@ -2249,7 +2203,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "a59fb8d8-93fc-ee11-96f5-0022484208e1": {
@@ -2274,7 +2228,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "859db5cb-26ac-ec11-997e-281878fa753e": {
@@ -2299,7 +2253,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "939db5cb-26ac-ec11-997e-281878fa753e": {
@@ -2324,7 +2278,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "c719fded-d710-f111-a69a-7c1e5203362b": {
@@ -2349,7 +2303,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "a69fb8d8-93fc-ee11-96f5-0022484208e1": {
@@ -2374,7 +2328,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "b59db5cb-26ac-ec11-997e-281878fa753e": {
@@ -2397,7 +2351,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "b89db5cb-26ac-ec11-997e-281878fa753e": {
@@ -2420,7 +2374,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "44110cd6-566f-ef11-9c35-0022484164a9": {
@@ -2442,7 +2396,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "8b9db5cb-26ac-ec11-997e-281878fa753e": {
@@ -2465,7 +2419,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "a79db5cb-26ac-ec11-997e-281878fa753e": {
@@ -2489,7 +2443,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "aa9db5cb-26ac-ec11-997e-281878fa753e": {
@@ -2511,7 +2465,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "a99db5cb-26ac-ec11-997e-281878fa753e": {
@@ -2535,7 +2489,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "e12255e5-2032-ef11-86c3-6045bd0f01d1": {
@@ -2560,7 +2514,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "73caa9a1-bc32-ef11-86c3-6045bd0f01d1": {
@@ -2583,7 +2537,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "b90c7bb0-bc32-ef11-86c3-6045bd0f01d1": {
@@ -2605,7 +2559,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "a2890cc1-bc32-ef11-86c3-6045bd0f01d1": {
@@ -2630,7 +2584,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "895da692-7d44-f111-8ef3-6045bdf17e21": {
@@ -2653,7 +2607,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "d063eccc-bc32-ef11-86c3-6045bd0f01d1": {
@@ -2676,7 +2630,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "675a1ab6-665d-f011-91ba-7c1e521d74fb": {
@@ -2697,7 +2651,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "7144f6d9-bc32-ef11-86c3-6045bd0f01d1": {
@@ -2720,7 +2674,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "979537e9-bc32-ef11-86c3-6045bd0f01d1": {
@@ -2741,7 +2695,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "1f3e08f6-bc32-ef11-86c3-6045bd0f01d1": {
@@ -2762,7 +2716,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "eb2fd177-7d44-f111-8ef3-6045bdf17e21": {
@@ -2786,7 +2740,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "665a1ab6-665d-f011-91ba-7c1e521d74fb": {
@@ -2807,7 +2761,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "88cbeb75-2132-ef11-86c3-6045bd0f01d1": {
@@ -2830,7 +2784,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "cb4d754f-7824-ee11-a9bd-00224840eb22": {
@@ -2851,7 +2805,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "ab9db5cb-26ac-ec11-997e-281878fa753e": {
@@ -2872,7 +2826,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "13a4d9ae-32f2-ec11-b47a-c8966551c0e0": {
@@ -2891,7 +2845,7 @@
    "allergens": [],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "c189cdcb-7e66-ee11-b006-6045bdd231f5": {
@@ -2912,7 +2866,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "ce8168bb-c734-ed11-a27c-281878b16a32": {
@@ -2934,7 +2888,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "77d1b2c2-3cc2-ec11-997e-281878fa375b": {
@@ -2955,7 +2909,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "e33dde08-110e-f011-8b3c-6045bdd14eaf": {
@@ -2974,7 +2928,7 @@
    "allergens": [],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "86517a41-d53a-f011-8f67-6045bd132dab": {
@@ -2996,7 +2950,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "e6374538-28ac-ec11-997e-281878fa753e": {
@@ -3015,7 +2969,7 @@
    "allergens": [],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "e7374538-28ac-ec11-997e-281878fa753e": {
@@ -3034,7 +2988,7 @@
    "allergens": [],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "ad9db5cb-26ac-ec11-997e-281878fa753e": {
@@ -3056,7 +3010,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "a57a26b9-32f2-ec11-b47a-c8966551c0e0": {
@@ -3078,7 +3032,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "b6350e61-e949-f111-8fcb-7c1e5202e9af": {
@@ -3102,8 +3056,10 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
-   "quality_flags": []
+   "fetched_at": "2026-08-07T11:38:40Z",
+   "quality_flags": [
+    "implausible-kcal"
+   ]
   },
   "a3a95fc8-40cc-ef11-88cf-000d3ad4bb8c": {
    "chain_id": "popeyes",
@@ -3126,7 +3082,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "5686f8e5-40cc-ef11-88cf-000d3ad4bb8c": {
@@ -3150,7 +3106,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "1013ee68-a0c3-f011-8195-00224840ca7f": {
@@ -3174,8 +3130,10 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
-   "quality_flags": []
+   "fetched_at": "2026-08-07T11:38:40Z",
+   "quality_flags": [
+    "implausible-kcal"
+   ]
   },
   "aac92371-4e43-ed11-a27c-281878b115d1": {
    "chain_id": "popeyes",
@@ -3198,7 +3156,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "b24ecd85-bdc4-ed11-9f72-6045bdf242ae": {
@@ -3222,7 +3180,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "9365c790-a0c3-f011-8195-00224840ca7f": {
@@ -3246,8 +3204,10 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
-   "quality_flags": []
+   "fetched_at": "2026-08-07T11:38:40Z",
+   "quality_flags": [
+    "implausible-kcal"
+   ]
   },
   "afa5d3f8-a901-ed11-b47a-c8966551c0e0": {
    "chain_id": "popeyes",
@@ -3270,8 +3230,10 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
-   "quality_flags": []
+   "fetched_at": "2026-08-07T11:38:40Z",
+   "quality_flags": [
+    "implausible-kcal"
+   ]
   },
   "1013ff5f-bc05-ed11-b47a-c8966551c0e0": {
    "chain_id": "popeyes",
@@ -3294,8 +3256,10 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
-   "quality_flags": []
+   "fetched_at": "2026-08-07T11:38:40Z",
+   "quality_flags": [
+    "implausible-kcal"
+   ]
   },
   "19f9cc6f-bc05-ed11-b47a-c8966551c0e0": {
    "chain_id": "popeyes",
@@ -3318,8 +3282,10 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
-   "quality_flags": []
+   "fetched_at": "2026-08-07T11:38:40Z",
+   "quality_flags": [
+    "implausible-kcal"
+   ]
   },
   "092abd76-bc05-ed11-b47a-c8966551c0e0": {
    "chain_id": "popeyes",
@@ -3342,8 +3308,10 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
-   "quality_flags": []
+   "fetched_at": "2026-08-07T11:38:40Z",
+   "quality_flags": [
+    "implausible-kcal"
+   ]
   },
   "e3df6cf4-9dc3-f011-8195-00224840ca7f": {
    "chain_id": "popeyes",
@@ -3366,8 +3334,10 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
-   "quality_flags": []
+   "fetched_at": "2026-08-07T11:38:40Z",
+   "quality_flags": [
+    "implausible-kcal"
+   ]
   },
   "a547c735-a0c3-f011-8195-00224840ca7f": {
    "chain_id": "popeyes",
@@ -3390,8 +3360,10 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
-   "quality_flags": []
+   "fetched_at": "2026-08-07T11:38:40Z",
+   "quality_flags": [
+    "implausible-kcal"
+   ]
   },
   "c699a7a6-bc05-ed11-b47a-c8966551c0e0": {
    "chain_id": "popeyes",
@@ -3414,8 +3386,10 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
-   "quality_flags": []
+   "fetched_at": "2026-08-07T11:38:40Z",
+   "quality_flags": [
+    "implausible-kcal"
+   ]
   },
   "29d9c78a-bc05-ed11-b47a-c8966551c0e0": {
    "chain_id": "popeyes",
@@ -3438,8 +3412,10 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
-   "quality_flags": []
+   "fetched_at": "2026-08-07T11:38:40Z",
+   "quality_flags": [
+    "implausible-kcal"
+   ]
   },
   "150026cd-7344-f111-8ef3-6045bdf17e21": {
    "chain_id": "popeyes",
@@ -3463,7 +3439,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "d814d1d1-16dc-f011-8d4c-7c1e5202d26f": {
@@ -3488,7 +3464,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "99502bdc-c3bc-ed11-9f72-6045bdf242ae": {
@@ -3513,16 +3489,16 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
-  "e7ca794f-0017-f111-9a49-7ced8d6b4a04": {
+  "97c812c3-398b-f111-9b33-000d3a7fbb02": {
    "chain_id": "popeyes",
-   "item_id": "e7ca794f-0017-f111-9a49-7ced8d6b4a04",
-   "name": "Honey BBQ Shatter Crunch Wrap",
+   "item_id": "97c812c3-398b-f111-9b33-000d3a7fbb02",
+   "name": "Classic Shatter Crunch Wrap S",
    "category": "Signature Wraps",
    "serving_desc": null,
-   "kcal": 422.0,
+   "kcal": 441.0,
    "protein_g": 22.5,
    "carbs_g": 43.3,
    "fat_g": 24.6,
@@ -3538,7 +3514,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "2d98287f-15dc-f011-8d4c-7c1e5202d26f": {
@@ -3563,7 +3539,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "30768722-87b9-f011-8194-7c1e520456c8": {
@@ -3587,7 +3563,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "3274a596-cad9-f011-8d4c-000d3ad6073d": {
@@ -3612,7 +3588,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "351c22de-16dc-f011-8d4c-7c1e5202d26f": {
@@ -3637,7 +3613,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "1bc13ad1-15dc-f011-8d4c-7c1e5202d26f": {
@@ -3662,7 +3638,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "9e502bdc-c3bc-ed11-9f72-6045bdf242ae": {
@@ -3687,7 +3663,32 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
+   "quality_flags": []
+  },
+  "93a10320-3d8b-f111-9b33-000d3a7fbb02": {
+   "chain_id": "popeyes",
+   "item_id": "93a10320-3d8b-f111-9b33-000d3a7fbb02",
+   "name": "Spicy Shatter Crunch Wrap S",
+   "category": "Signature Wraps",
+   "serving_desc": null,
+   "kcal": 442.0,
+   "protein_g": 22.7,
+   "carbs_g": 43.7,
+   "fat_g": 24.7,
+   "salt_g": 3.2,
+   "vegetarian": false,
+   "vegan": false,
+   "allergens": [
+    "cereals_containing_gluten",
+    "eggs",
+    "milk",
+    "mustard",
+    "wheat"
+   ],
+   "source": "live-scrape Popeyes UK ordering API",
+   "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "1cfec93f-5728-f111-8ef3-6045bdc1cff1": {
@@ -3711,7 +3712,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "083f375d-5728-f111-8ef3-6045bdc1cff1": {
@@ -3736,7 +3737,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "197f51ff-5628-f111-8ef3-6045bdc1cff1": {
@@ -3761,7 +3762,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "8516f6cf-5728-f111-8ef3-6045bdc1cff1": {
@@ -3785,7 +3786,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "4646f497-4128-f111-8ef3-6045bdc1cff1": {
@@ -3810,7 +3811,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "c10395d3-4128-f111-8ef3-6045bdc1cff1": {
@@ -3836,7 +3837,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "48c4e6ee-8823-f111-9a4b-6045bd11ab87": {
@@ -3861,7 +3862,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "5801f311-8923-f111-9a4b-6045bd11ab87": {
@@ -3887,7 +3888,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "dbe2c56b-4228-f111-8ef3-6045bdc1cff1": {
@@ -3911,7 +3912,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "25b29992-8923-f111-9a4b-6045bd11ab87": {
@@ -3935,7 +3936,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "baf90231-4128-f111-8ef3-6045bdc1cff1": {
@@ -3959,7 +3960,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "c04a09b6-8823-f111-9a4b-6045bd11ab87": {
@@ -3983,7 +3984,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "f91a09d9-39bf-ed11-9f72-6045bdf242ae": {
@@ -4011,7 +4012,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "22f2f588-4d28-f111-8ef3-6045bdc1cff1": {
@@ -4035,7 +4036,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "ae40ba72-4728-f111-8ef3-6045bdc1cff1": {
@@ -4060,7 +4061,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "a9e799bf-4728-f111-8ef3-6045bdc1cff1": {
@@ -4085,7 +4086,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "b8005ab5-6128-f111-8ef3-6045bdc1cff1": {
@@ -4109,7 +4110,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "5d17fd80-6028-f111-8ef3-6045bdc1cff1": {
@@ -4134,7 +4135,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "0f83ba1e-6128-f111-8ef3-6045bdc1cff1": {
@@ -4159,7 +4160,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "9daf9e23-34bf-ed11-9f72-6045bdf242ae": {
@@ -4178,7 +4179,7 @@
    "allergens": [],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "5cb245be-5528-f111-8ef3-6045bdc1cff1": {
@@ -4201,7 +4202,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "88dba2f3-5728-f111-8ef3-6045bdc1cff1": {
@@ -4225,7 +4226,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "9eeecee5-5528-f111-8ef3-6045bdc1cff1": {
@@ -4248,7 +4249,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "bdb6c47c-4e28-f111-8ef3-6045bdc1cff1": {
@@ -4272,7 +4273,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "8de1a7cb-33bf-ed11-9f72-6045bdf242ae": {
@@ -4291,7 +4292,7 @@
    "allergens": [],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "619a377e-c89a-ef11-88cf-6045bdf2317a": {
@@ -4310,7 +4311,7 @@
    "allergens": [],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "417e3473-37bf-ed11-9f72-6045bdf242ae": {
@@ -4334,7 +4335,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "b45a5147-2476-f111-b337-000d3ad55f6e": {
@@ -4358,7 +4359,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "c5a5a269-bf9a-ef11-88cf-6045bdf2317a": {
@@ -4382,7 +4383,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "11c84d80-bf9a-ef11-88cf-6045bdf2317a": {
@@ -4406,7 +4407,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "0d78583f-4acf-ee11-85f9-6045bd131c0f": {
@@ -4431,7 +4432,7 @@
    ],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   },
   "49ca854e-d542-ef11-991a-002248417ef0": {
@@ -4450,7 +4451,7 @@
    "allergens": [],
    "source": "live-scrape Popeyes UK ordering API",
    "source_url": "https://pe-uk-ordering-api-fd-eecsdkg6btfeg0cc.z01.azurefd.net/en/ordering/menu/allergensandnutritions",
-   "fetched_at": "2026-07-28T18:52:57Z",
+   "fetched_at": "2026-08-07T11:38:40Z",
    "quality_flags": []
   }
  }

@@ -287,6 +287,45 @@ def test_pizza_toppings_are_not_orderable_but_chicken_strips_are():
                               "chain_id": chain}), f"{chain}/{name}"
 
 
+def test_popeyes_bundles_with_copied_nutrition_are_flagged():
+    """Popeyes' feed has a second, sharper version of its known kcal fault: a
+    piece-count SKU can carry a DIFFERENT SKU's nutrition wholesale. Five
+    Boneless bundle sizes (6 to 20 pieces) all report the identical 35.6g
+    protein; "10 Hot Wings" copies "8 Hot Wings"' 75.0g. Neither trips the
+    existing kcal-vs-protein ratio check, because the copied row is internally
+    consistent — it is just the wrong row. It only shows up across rows: two
+    different piece counts of the same product cannot have the same protein.
+
+    These ranked in the top 15 of a real search before the fix, at up to 66%
+    protein-by-calories for breaded fried chicken."""
+    from scripts.scrapers.popeyes import _flag_family_inconsistencies
+
+    rows = [
+        {"name": "1 Classic Tender", "kcal": 156.0, "protein_g": 12.0},
+        {"name": "3 Classic Tenders & a dip", "kcal": 233.0, "protein_g": 35.6},
+        {"name": "5 Classic Tenders & a dip", "kcal": 383.0, "protein_g": 59.4},
+        {"name": "6 Boneless & a dip", "kcal": 225.0, "protein_g": 35.6},
+        {"name": "8 Boneless & a dip", "kcal": 298.0, "protein_g": 35.6},
+        {"name": "8 Hot Wings", "kcal": 739.0, "protein_g": 75.0},
+        {"name": "10 Hot Wings", "kcal": 924.0, "protein_g": 75.0},
+        {"name": "12 Hot Wings", "kcal": 1109.0, "protein_g": 112.0},
+    ]
+    _flag_family_inconsistencies(rows)
+    flagged = {r["name"] for r in rows
+              if "implausible-kcal" in (r.get("quality_flags") or [])}
+
+    assert flagged == {"3 Classic Tenders & a dip", "5 Classic Tenders & a dip",
+                       "6 Boneless & a dip", "8 Boneless & a dip",
+                       "8 Hot Wings", "10 Hot Wings"}
+    # "8 Hot Wings" and "10 Hot Wings" collide on the same 75.0g, so both are
+    # flagged — the check cannot tell which one is genuine from a pairwise
+    # collision alone, only that two different piece counts cannot share it.
+    # The single-tender anchor and a wing count with its own unique, plausibly
+    # scaled protein must survive: a scalpel for a specific fault, not a net.
+    assert "1 Classic Tender" not in flagged
+    assert "12 Hot Wings" not in flagged
+
+
 def _run_all() -> int:
     failures = 0
     for name, fn in sorted(globals().items()):
