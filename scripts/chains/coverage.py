@@ -78,7 +78,18 @@ def live_priced() -> dict[str, dict]:
 
 
 def _why_unrankable(chain_id: str) -> str:
-    """The commonest reason this chain's rows were rejected, stated plainly."""
+    """The commonest reason this chain's rows were rejected, stated plainly.
+
+    For the per-100g case specifically, checks whether fixing it would even
+    matter: protein *share* is scale-invariant (it cancels the /100g), so it
+    can be read off the existing rows even though absolute kcal/protein can't
+    be. Hotel Chocolat's highest-protein row is Iced Chocolate at 16% — well
+    under the ranking floor — so getting real portion weights would spend
+    engineering time to move zero items into the ranking. Better to say so
+    than to leave a "needs portion weights" note that reads as a to-do with a
+    payoff that doesn't exist.
+    """
+    from scripts.api.scoring import DEFAULT_MIN_PROTEIN_SHARE
     from scripts.api.search import _PER_100_RE, load_menu
 
     items = load_menu(chain_id)
@@ -86,6 +97,14 @@ def _why_unrankable(chain_id: str) -> str:
                   if isinstance(i.get("serving_desc"), str)
                   and _PER_100_RE.search(i["serving_desc"]))
     if per_100 > len(items) / 2:
+        shares = [i["protein_g"] * 4 / i["kcal"] for i in items
+                 if i.get("kcal") and i.get("protein_g") is not None]
+        best = max(shares) if shares else 0.0
+        if best < DEFAULT_MIN_PROTEIN_SHARE:
+            return (f"nutrition is per 100g, but even its best item is only "
+                    f"{best:.0%} protein by calories (floor is "
+                    f"{DEFAULT_MIN_PROTEIN_SHARE:.0%}) — real portion weights "
+                    f"would not add any rankable items")
         return ("nutrition is published per 100g, which cannot be ranked "
                 "against a whole-item price; needs portion weights")
     no_macros = sum(1 for i in items
