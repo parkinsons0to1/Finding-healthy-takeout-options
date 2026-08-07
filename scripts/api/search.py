@@ -102,8 +102,18 @@ _NOT_A_PURCHASE_RE = re.compile(
 #: PizzaExpress files toppings under "Extra Toppings" and Wasabi files
 #: condiments under "optional sauce & dressing" — a bare "Chicken" row there is
 #: a pizza topping, not a dish, and reads as ~100% protein.
+#:
+#: The pub and casual-dining chains name these sections imaginatively —
+#: Frankie & Benny's "Go on… add a little extra!", Harvester's "KIDS MEAL DEAL
+#: / 1. CHOOSE YOUR MAIN", Wetherspoon's "CHILDREN'S MENU / Step 1",
+#: Beefeater's "Upgrade" — and they nest the section inside a path, so an
+#: anchored `^extras?$` missed nearly all of them. A "choose your …" or
+#: numbered step is a builder for one priced meal, not a shelf of things you
+#: can buy; a bare "Chicken breast" from one is 77% protein by calories.
 _NON_PRODUCT_CATEGORY_RE = re.compile(
-    r"extra topping|^extras?$|optional sauce|dressing|condiment|dips?$", re.I)
+    r"\btoppings?\b|\bextras?\b|\badd[- ]?ons?\b|add a little extra"
+    r"|\bchoose your\b|\bstep\s*\d|\bupgrade\b"
+    r"|optional sauce|dressing|condiment|dips?$", re.I)
 
 
 #: **Per-100g rows, which cannot be ranked against a per-item price.**
@@ -167,6 +177,12 @@ def _is_orderable(item: dict) -> bool:
     name = (item.get("name") or "").strip()
     lowered = name.lower()
     if not name or not item.get("kcal") or item.get("protein_g") is None:
+        return False
+    # A 1-2 kcal row is a garnish or a diet drink, not a meal, and dividing by
+    # it produces a meaningless protein share ("Pepsi Max Cherry - Regular",
+    # 2 kcal, reads as 100% protein). Kept deliberately far below any real
+    # dish: the lightest genuine item in the whole database is ~40 kcal.
+    if float(item["kcal"]) < 20:
         return False
     if "implausible-kcal" in (item.get("quality_flags") or []):
         return False
