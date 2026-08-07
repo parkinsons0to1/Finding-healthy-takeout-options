@@ -71,6 +71,45 @@ def fetch_protected(url: str, timeout: int = 90, referer: str | None = None):
     return None
 
 
+def post_protected(url: str, data=None, headers: dict | None = None,
+                   timeout: int = 90):
+    """POST to a host that hangs or resets plain `requests` connections.
+
+    Some ordering platforms (Taco Bell UK's `order.tacobell.co.uk`, on the
+    same Yum! storefront-GraphQL stack as Pizza Hut) don't 403 a bad client —
+    the TCP connection is accepted and then simply never answers, so plain
+    `requests` times out rather than failing fast. `curl_cffi`'s browser TLS
+    fingerprint gets an immediate reply. Still plain HTTP underneath: no
+    browser, no JS execution, no automation.
+
+    `data` is sent as the raw request body (pass pre-serialized JSON bytes
+    or str — this does not set Content-Type for you, put it in `headers`).
+    Returns the response, or None if every profile failed.
+    """
+    try:
+        from curl_cffi import requests as cffi_requests
+    except ImportError:
+        return None
+
+    proxy = os.environ.get("HTTPS_PROXY") or os.environ.get("https_proxy")
+    kwargs = {"timeout": timeout, "data": data, "headers": headers}
+    if proxy:
+        kwargs["proxies"] = {"http": proxy, "https": proxy}
+    ca = os.environ.get("REQUESTS_CA_BUNDLE") or "/root/.ccr/ca-bundle.crt"
+    if os.path.exists(ca):
+        kwargs["verify"] = ca
+
+    for profile in _IMPERSONATE_PROFILES:
+        try:
+            r = cffi_requests.post(url, impersonate=profile,
+                                   **{k: v for k, v in kwargs.items() if v is not None})
+            if r.status_code == 200:
+                return r
+        except Exception:
+            continue
+    return None
+
+
 def item(chain_id, name, source, source_url, **kw) -> dict:
     d = {f: kw.get(f) for f in NORMALIZED_FIELDS}
     d.update(chain_id=chain_id, name=name, source=source, source_url=source_url,

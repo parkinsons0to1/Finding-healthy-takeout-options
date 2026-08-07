@@ -12,6 +12,17 @@ Discovery notes:
     Note kcal is the *second* energy column — taking the first would report
     kilojoules as calories and quadruple every item's energy.
   * Values are per serving.
+
+TRAP — the name cell is not clean text: it flattens THREE things
+    Cell 0 holds ``<a class="nmItem" title="NAME">NAME</a>`` (the real name,
+    repeated in a `title` attribute), then a sibling
+    ``<a class="moreInfo">[more info]</a>``, and for meal-combo rows a further
+    plain-text ingredient list ("Beef BBQ Habanero Burrito, Crunchy Taco
+    Supreme w/ Beef, Large Fries…"). Stripping tags and reading the cell as
+    text concatenates all three, so "BBQ Habanero Burrito Deluxe Box Plus
+    with Fries - Beef (Large)" grows a trailing sentence describing its own
+    contents. The `title` attribute on the `nmItem` anchor is the clean name;
+    read it directly rather than the cell's flattened text.
 """
 from __future__ import annotations
 
@@ -26,10 +37,23 @@ SOURCE_URL = "https://www.nutritionix.com/taco-bell-uk/menu/premium"
 
 _ROW = re.compile(r"<tr[^>]*>(.*?)</tr>", re.S | re.I)
 _CELL = re.compile(r"<t[dh][^>]*>(.*?)</t[dh]>", re.S | re.I)
+_NAME_TITLE = re.compile(r'class="nmItem"[^>]*\btitle="([^"]*)"', re.I)
 
 
 def _text(fragment: str) -> str:
     return html.unescape(re.sub(r"<[^>]+>", " ", fragment)).strip()
+
+
+def _name(name_cell_html: str) -> str:
+    """The clean item name, from the nmItem anchor's title attribute — see
+    the flattened-name trap above. Falls back to the flattened text (trimmed
+    at the first "[more info]") if a row's markup ever lacks that anchor."""
+    m = _NAME_TITLE.search(name_cell_html)
+    if m:
+        return html.unescape(re.sub(r"\s+", " ", m.group(1))).strip()
+    text = _text(name_cell_html)
+    text = re.sub(r"\s*\[?more info\]?.*$", "", text, flags=re.I)
+    return re.sub(r"\s+", " ", text).strip()
 
 
 def fetch() -> list[dict]:
@@ -40,10 +64,11 @@ def fetch() -> list[dict]:
     out: list[dict] = []
     seen: set[str] = set()
     for row_html in _ROW.findall(r.text):
-        cells = [_text(c) for c in _CELL.findall(row_html)]
+        cell_html = _CELL.findall(row_html)
+        cells = [_text(c) for c in cell_html]
         if len(cells) < 9:
             continue
-        name = re.sub(r"\s+", " ", cells[0])
+        name = _name(cell_html[0])
         kcal = to_float(cells[2])
         protein = to_float(cells[8])
         if not name or kcal is None or protein is None:
