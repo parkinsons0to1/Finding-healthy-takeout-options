@@ -48,6 +48,22 @@
    "chain_id": "greggs",
    "postcode": "SM1 1NR",
    "name": "Greggs"
+  },
+  "nandos|SM11DF|nando's": {
+   "status": "not_halal",
+   "tier": "brand_per_outlet",
+   "stored_at": 1786085847.471739,
+   "chain_id": "nandos",
+   "postcode": "SM1 1DF",
+   "name": "Nando's"
+  },
+  "pret|SM11EX|pret a manger": {
+   "status": "not_halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786085855.9255614,
+   "chain_id": "pret",
+   "postcode": "SM1 1EX",
+   "name": "Pret A Manger"
   }
  }
 }
