@@ -40,6 +40,31 @@ def _normalise(name: str) -> str:
     return " ".join(re.sub(r"[^a-z0-9 ]+", " ", name.lower()).split())
 
 
+#: Words that carry no product identity, so a name that differs only by these
+#: is the same thing. Kept deliberately tiny: every word added here is a word
+#: two different products are allowed to differ by, which is how "2 Hot Wings"
+#: came to be priced at the 12-wing price in the first place.
+#:
+#: "base" earns its place because the two sources describe a Papa John's pizza
+#: with the same three dimensions in different orders and vocabularies —
+#: nutrition says "All The Meats — Original Base - Large", the ordering API
+#: says "All the Meats™ - Large Original". Dropping it matched 51 more pizzas.
+_NOISE_WORDS = frozenset({"base", "the", "a", "an", "of", "our", "new"})
+
+
+def _token_key(name: str) -> frozenset[str]:
+    """An order-independent identity for a product name.
+
+    Numbers survive as their own tokens, so a portion count can never be
+    matched away — that is the safety property this whole module rests on.
+    Trailing plurals are folded ("wings"/"wing", "meats"/"meat") because the
+    two feeds disagree about them and nothing is distinguished by one.
+    """
+    words = [w for w in _normalise(name).split() if w not in _NOISE_WORDS]
+    return frozenset(w[:-1] if len(w) > 3 and w.endswith("s") else w
+                     for w in words)
+
+
 @dataclasses.dataclass(frozen=True)
 class PriceQuote:
     price_gbp: float
@@ -237,6 +262,19 @@ def _live_table(chain_id: str) -> dict[str, dict] | None:
             for name, row in (payload.get("prices") or {}).items()}
 
 
+@functools.lru_cache(maxsize=64)
+def _live_index(chain_id: str) -> dict[frozenset[str], dict]:
+    """The live table again, keyed by token identity rather than exact string.
+
+    First row wins on a collision, so a later near-duplicate can never quietly
+    reprice an item that already matched exactly.
+    """
+    index: dict[frozenset[str], dict] = {}
+    for name, row in (_live_table(chain_id) or {}).items():
+        index.setdefault(_token_key(name), row)
+    return index
+
+
 def _live_price(chain_id: str, item_name: str) -> PriceQuote | None:
     table = _live_table(chain_id)
     if not table:
@@ -246,11 +284,7 @@ def _live_price(chain_id: str, item_name: str) -> PriceQuote | None:
     if row is None:
         # Whole-word match only — the same rule as the estimate table, where a
         # substring test priced "2 Hot Wings" at the 12-wing price.
-        words = set(key.split())
-        for candidate, value in table.items():
-            if words and set(candidate.split()) == words:
-                row = value
-                break
+        row = _live_index(chain_id).get(_token_key(item_name))
     if row is None:
         return None
     return PriceQuote(
@@ -274,10 +308,9 @@ def price_for(chain_id: str, item_name: str) -> PriceQuote | None:
         # Tolerate minor naming drift, but only on whole-word matches. A naive
         # substring test makes "2 hot wings" match "12 hot wings" and price a
         # 2-piece at the 12-piece price, which badly distorts the ranking.
-        key_words = set(key.split())
+        key_words = _token_key(item_name)
         for name, p in table.items():
-            name_words = set(_normalise(name).split())
-            if key_words == name_words:
+            if key_words == _token_key(name):
                 price = p
                 break
     if price is None:

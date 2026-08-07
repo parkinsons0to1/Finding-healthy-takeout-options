@@ -47,8 +47,17 @@ def load_menu(chain_id: str) -> list[dict]:
 #: Subway's PDF lists every filling and topping ("Ham (2 slices)", "Roast
 #: Chicken Breast Strips") alongside the actual subs; scoring those as meals
 #: puts 29-kcal slices of turkey on the leaderboard.
-_INGREDIENT_WORDS = ("premix", "do not use", "sauce", "dressing", "slices",
-                     "strips", "portion", "scoop", "topping", "cheese triangle")
+#:
+#: These are substring tests, so each word here bans a word rather than a kind
+#: of row — which is why "strips" and "slices" had to come out. Banning
+#: "strips" to exclude Subway's filling silently deleted *chicken strips* from
+#: nine chains (Wetherspoon's southern-fried chicken strips basket, Chopstix
+#: katsu strips, Pepe's tender strips, Pizza Hut's breaded chicken strips…) —
+#: the single food category this product exists to surface. Subway's fillings
+#: are already excluded by `_PRODUCT_SECTIONS` below, which excludes by
+#: section rather than by word and so cannot misfire on another chain.
+_INGREDIENT_WORDS = ("premix", "do not use", "sauce", "dressing",
+                     "portion", "scoop", "topping", "cheese triangle")
 
 #: **Add-ons and modifiers**, which every table-service chain lists alongside
 #: real dishes. They are catastrophic for this ranking specifically: a bare
@@ -68,12 +77,78 @@ _PRODUCT_SECTIONS = {
     "subway": {"subs", "salads", "wraps", "breakfast", "sides"},
 }
 
+#: **Rows that are real food but not a purchase.**
+#:
+#: Papa John's publishes every pizza twice, whole and "(1 slice)" — 240 of its
+#: 480 nutrition rows are slices. You cannot buy one slice, and the ordering
+#: API has no price for one, so a slice row can only ever be priced by
+#: accidentally matching the whole pizza. It is also the single most attractive
+#: row in the file: a slice is a sixth of the calories at (wrongly) the same
+#: price, which would put it straight to the top of protein-per-pound.
+#:
+#: "TEST …" rows are Burger King's own staging data, which ships in their live
+#: nutrition feed ("TEST Chilli Jam & Bacon Double Whopper®"). They read as
+#: perfectly ordinary burgers and cannot be bought anywhere.
+#: Only a *single* slice, never "(4 slices)" — Pizza Hut's "Garlic Bread
+#: (4 slices)" is the portion they sell, and matching any slice count would
+#: throw away real products alongside the phantom ones.
+_NOT_A_PURCHASE_RE = re.compile(
+    r"\(\s*1\s*slice\s*\)"            # "… - Large (1 slice)"
+    r"|\bper\s+slice\b"
+    r"|^\s*TEST\b",
+    re.I)
+
 #: Menu sections that are explicitly components, whatever the item is called.
 #: PizzaExpress files toppings under "Extra Toppings" and Wasabi files
 #: condiments under "optional sauce & dressing" — a bare "Chicken" row there is
 #: a pizza topping, not a dish, and reads as ~100% protein.
 _NON_PRODUCT_CATEGORY_RE = re.compile(
     r"extra topping|^extras?$|optional sauce|dressing|condiment|dips?$", re.I)
+
+
+#: Portion words a component is sized by when it is sized to fit a product
+#: rather than sold on its own.
+_SIZE_ONLY_RE = re.compile(
+    r"^(x?s|small|medium|regular|large|xl|xxl|personal|mini|kids?|junior)$", re.I)
+
+
+@functools.lru_cache(maxsize=32)
+def _component_categories(chain_id: str) -> frozenset[str]:
+    """Categories whose rows are just one product's parts, sized to fit it.
+
+    Domino's publishes every topping as four rows — "Chicken Breast Strips —
+    Large/Medium/Small/Personal", filed under a category of the same name.
+    They are 85 kcal and 88% protein by calories, so they would sit at the top
+    of the leaderboard while being un-orderable: you cannot buy the chicken off
+    a pizza. Its actual pizzas, by contrast, carry a compound suffix
+    ("Chicken Feast — Classic Crust, Large, Standard Mozzarella").
+
+    That difference is the test, and it is derived from the data rather than
+    listed by hand: a category is a component group when every row in it is the
+    category name plus nothing but a size. An allowlist would not scale —
+    Domino's alone has 109 categories — and, more importantly, a hand-listed
+    rule is one we would have to remember to update for the next chain.
+    """
+    groups: dict[str, list[str]] = {}
+    for item in load_menu(chain_id):
+        category = (item.get("category") or "").strip()
+        if category:
+            groups.setdefault(category, []).append((item.get("name") or "").strip())
+
+    out = set()
+    for category, names in groups.items():
+        if not (2 <= len(names) <= 8):
+            continue
+        suffixes = []
+        for name in names:
+            head, sep, tail = name.partition("—")
+            if not sep or head.strip().casefold() != category.casefold():
+                break
+            suffixes.append(tail.strip())
+        else:
+            if suffixes and all(_SIZE_ONLY_RE.match(s) for s in suffixes):
+                out.add(category.casefold())
+    return frozenset(out)
 
 
 def _is_orderable(item: dict) -> bool:
@@ -87,8 +162,13 @@ def _is_orderable(item: dict) -> bool:
         return False
     if _MODIFIER_RE.search(name):
         return False
+    if _NOT_A_PURCHASE_RE.search(name):
+        return False
     category = (item.get("category") or "").strip()
     if category and _NON_PRODUCT_CATEGORY_RE.search(category):
+        return False
+    if category and item.get("chain_id") \
+            and category.casefold() in _component_categories(item["chain_id"]):
         return False
     sections = _PRODUCT_SECTIONS.get(item.get("chain_id"))
     if sections and category.lower() not in sections:

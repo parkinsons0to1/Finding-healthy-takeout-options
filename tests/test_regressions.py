@@ -221,6 +221,72 @@ def test_live_prices_take_precedence_over_estimates():
         assert quote.price_gbp == sample["price_gbp"]
 
 
+def test_single_slice_and_test_rows_are_not_orderable():
+    """Papa John's publishes every pizza twice, whole and '(1 slice)' — 240 of
+    its 480 rows. A slice has a sixth of the calories and can only ever be
+    priced by matching the whole pizza, so it would top protein-per-pound
+    while being unbuyable. Burger King ships staging rows in its live feed."""
+    for name in ["All The Meats — Original Base - Large (1 slice)",
+                 "White Bread / Toast (VE) - per slice",
+                 "TEST Chilli Jam & Bacon Double Whopper®"]:
+        assert not _is_orderable({"name": name, "kcal": 300, "protein_g": 14,
+                                  "chain_id": "papa_johns"}), name
+
+    # A multi-slice portion IS the product — Pizza Hut sells garlic bread by
+    # the four. Filtering every slice count would bin real items.
+    assert _is_orderable({"name": "Garlic Bread (4 slices)", "kcal": 480,
+                          "protein_g": 14, "chain_id": "pizza_hut"})
+
+
+def test_price_join_tolerates_word_order_and_vocabulary():
+    """Nutrition and ordering feeds describe a Papa John's pizza with the same
+    three dimensions in different orders and words — 'All The Meats — Original
+    Base - Large' vs 'All the Meats™ - Large Original'. Matching only on exact
+    strings priced 93 of 480 rows; folding noise words and plurals priced 148
+    of the 240 real ones."""
+    from scripts.api.prices import _token_key
+
+    assert _token_key("All The Meats — Original Base - Large") == \
+        _token_key("All the Meats™ - Large Original")
+    assert _token_key("3 Chicken Wings") == _token_key("3 chicken wing")
+
+    # …but a portion count is never folded away. This is the property the
+    # whole matcher rests on.
+    assert _token_key("2 Hot Wings") != _token_key("12 Hot Wings")
+    assert _token_key("Large Original") != _token_key("Medium Original")
+    assert _token_key("Stuffed Crust") != _token_key("Cheddar Stuffed Crust")
+
+
+def test_pizza_toppings_are_not_orderable_but_chicken_strips_are():
+    """Two halves of the same fix.
+
+    Banning the word "strips" to exclude Subway's fillings silently deleted
+    chicken strips from nine chains — the exact food this product exists to
+    surface. Removing the ban let Domino's *toppings* back in, which are worse:
+    "Chicken Breast Strips — Large" is 85 kcal and 88% protein by calories, so
+    it would top the leaderboard while being un-orderable."""
+    from scripts.api.search import _component_categories
+
+    assert "chicken breast strips" in _component_categories("dominos")
+    assert not _is_orderable({"name": "Chicken Breast Strips — Large",
+                              "kcal": 85, "protein_g": 18.7,
+                              "chain_id": "dominos",
+                              "category": "Chicken Breast Strips"})
+
+    # The pizza itself has a compound suffix, not a bare size, and survives.
+    assert _is_orderable({
+        "name": "Chicken Feast — Classic Crust, Large, Standard Mozzarella",
+        "kcal": 2103, "protein_g": 111.7, "chain_id": "dominos",
+        "category": "Chicken Feast"})
+
+    # Real chicken-strip dishes at other chains must be rankable again.
+    for chain, name in [("wetherspoons", "Southern-fried chicken strips basket"),
+                        ("pizza_hut", "Single - Breaded Chicken Strips (4 Strips)"),
+                        ("chopstix", "Katsu Chicken Strips (5)")]:
+        assert _is_orderable({"name": name, "kcal": 400, "protein_g": 30,
+                              "chain_id": chain}), f"{chain}/{name}"
+
+
 def _run_all() -> int:
     failures = 0
     for name, fn in sorted(globals().items()):
