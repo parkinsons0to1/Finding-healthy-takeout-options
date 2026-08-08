@@ -426,6 +426,31 @@ def test_estimated_prices_carry_no_branch_name():
     assert item.price_store == ""
 
 
+def test_stale_discounts_are_withheld():
+    """discounts.py's own docstring promises stale rules get hidden, but
+    nothing in the module ever checked `last_verified` against anything — a
+    discount would have kept applying forever, verified or not, unlike
+    offers/model.py's limited-time bundles which already enforce this."""
+    import dataclasses
+    import datetime
+    from scripts.api.discounts import Discount, applicable, DEFAULT_ELIGIBILITY
+
+    fresh = Discount("x", "kfc", "test", 10.0, "order", "*",
+                     last_verified=(datetime.date.today()
+                                    - datetime.timedelta(days=5)).isoformat())
+    assert applicable(fresh, "kfc", "anything", DEFAULT_ELIGIBILITY)
+
+    stale = dataclasses.replace(
+        fresh, last_verified=(datetime.date.today()
+                              - datetime.timedelta(days=400)).isoformat())
+    assert not applicable(stale, "kfc", "anything", DEFAULT_ELIGIBILITY), \
+        "a discount unverified for over a year was still served"
+
+    blank = dataclasses.replace(fresh, last_verified="")
+    assert not applicable(blank, "kfc", "anything", DEFAULT_ELIGIBILITY), \
+        "a discount with no verification date was served, not withheld"
+
+
 def _run_all() -> int:
     failures = 0
     for name, fn in sorted(globals().items()):

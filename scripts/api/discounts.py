@@ -18,6 +18,15 @@ rather than applied.
 from __future__ import annotations
 
 import dataclasses
+import datetime
+
+#: A rule unverified for longer than this is withheld rather than applied.
+#: Wider than offers/model.py's 21 days (limited-time offers turn over fast;
+#: an ongoing student/app discount does not), but the point is the same: this
+#: docstring promised staleness gets hidden, and until this constant existed
+#: nothing in the module actually checked `last_verified` against anything —
+#: every rule here would have kept applying forever, verified or not.
+MAX_VERIFICATION_AGE_DAYS = 120
 
 
 @dataclasses.dataclass(frozen=True)
@@ -68,8 +77,19 @@ class Eligibility:
 DEFAULT_ELIGIBILITY = Eligibility()
 
 
+def _is_fresh(rule: Discount, today: datetime.date | None = None) -> bool:
+    today = today or datetime.date.today()
+    try:
+        age = (today - datetime.date.fromisoformat(rule.last_verified)).days
+    except ValueError:
+        return False   # no/unparseable last_verified is not "assume fresh"
+    return age <= MAX_VERIFICATION_AGE_DAYS
+
+
 def applicable(rule: Discount, chain_id: str, item_name: str,
                elig: Eligibility) -> bool:
+    if not _is_fresh(rule):
+        return False
     if rule.chain_id != chain_id:
         return False
     if rule.requires_app and not elig.has_apps:
