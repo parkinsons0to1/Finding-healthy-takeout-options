@@ -36,6 +36,24 @@ TRAP 2 — per-100g block comes FIRST, unlike PizzaExpress
     Cross-check: Complimentary Pasta Crisps = 346 kcal/3.7 g protein per 100 g
     but 38 kcal/0 g per portion.
 
+Dietary flag source
+--------------------
+A SEPARATE document, the "ZIZZI UK ALLERGEN GUIDE 2026 V5" PDF
+(`f5d15b49…`, same Sanity space as the nutrition PDF above but a different
+file — same template ASK Italian's allergen guide uses, both Azzurri Group
+brands), carries the 14-allergen matrix with explicit `Vegetarian` and
+`Vegan` columns, joined here by lower-cased dish name. Unlike
+`ask_italian.py`'s allergen guide, `page.extract_tables()` on THIS document
+does NOT lose the dish name on alternating rows (checked directly: 539 data
+rows across the document, 0 with a missing name) — see `ask_italian.py`'s
+module docstring for the failure mode this would otherwise risk (a "Yes" in
+that column reads as approval to eat something, so a mis-attributed row is a
+real-world mistake, not just a wrong number) — so a straightforward
+extract_tables() read is used here rather than the word-position parser
+`ask_italian.py` needed. "Margherita" -> vegetarian only (real dairy
+cheese); "Vegan Margherita" -> both — confirms the columns mean what they
+say, not merely "name contains the word Vegan".
+
 TRAP 3 — the "Per Portion" spanning header is not on the value columns
     Row 0 of each table is a spanning header (``'APERITIVO', 'Per 100g
     Nutrition', None…, 'Per Portion Nutrition', None…``) and row 1 holds the
@@ -58,6 +76,9 @@ CHAIN = "zizzi"
 SOURCE = "Zizzi Nutrition Guide 2026 UK V2"
 SOURCE_URL = ("https://cdn.sanity.io/files/ysupxjc9/production/"
               "a7bddad7ab274475b481e054916a0f8208c4d24e.pdf")
+#: "ZIZZI UK ALLERGEN GUIDE 2026 V5" — see "Dietary flag source" above.
+_ALLERGEN_PDF_URL = ("https://cdn.sanity.io/files/ysupxjc9/production/"
+                      "f5d15b494f280a2dd142bd1cfdcd0684302fce7f.pdf")
 
 _SYNONYMS = {
     "kcal": ("energy kcal", "kcal", "calories"),
@@ -111,9 +132,59 @@ def _fetch_pdf(url: str) -> bytes | None:
     return None
 
 
+def _diet_flags(raw: bytes) -> dict[str, tuple[bool | None, bool | None]]:
+    """lower-cased dish name -> (vegetarian, vegan), from the allergen guide's
+    14-allergen matrix (a SEPARATE PDF -- see "Dietary flag source" above).
+    Read via extract_tables(); unlike ask_italian.py's allergen guide, this
+    document does not lose the dish name on alternating rows (checked: 539
+    data rows, 0 with a missing name), so no word-position fallback is
+    needed."""
+    import pdfplumber
+
+    out: dict[str, tuple[bool | None, bool | None]] = {}
+    with pdfplumber.open(io.BytesIO(raw)) as pdf:
+        for page in pdf.pages:
+            for table in page.extract_tables():
+                if len(table) < 2:
+                    continue
+                hidx = None
+                for ridx, row in enumerate(table[:3]):
+                    if row and row[0] and "Menu Item Name" in row[0]:
+                        hidx = ridx
+                        break
+                if hidx is None:
+                    continue
+                header = table[hidx]
+                try:
+                    veg_i = header.index("Vegetarian")
+                    vgn_i = header.index("Vegan")
+                except ValueError:
+                    continue
+                for row in table[hidx + 1:]:
+                    if not row or not row[0]:
+                        continue
+                    if veg_i >= len(row) or vgn_i >= len(row):
+                        continue
+                    name = re.sub(r"\s+", " ", str(row[0])).strip().lower()
+                    if not name:
+                        continue
+                    vegetarian = (row[veg_i] or "").strip().lower() == "yes"
+                    vegan = (row[vgn_i] or "").strip().lower() == "yes"
+                    out[name] = (vegetarian or None, vegan or None)
+    return out
+
+
+def _fetch_diet_flags() -> dict[str, tuple[bool | None, bool | None]]:
+    raw = _fetch_pdf(_ALLERGEN_PDF_URL)
+    if raw is None:
+        return {}
+    return _diet_flags(raw)
+
+
 def _parse(raw: bytes) -> list[dict]:
     import pdfplumber
 
+    diet = _fetch_diet_flags()
     out: list[dict] = []
     seen: set[str] = set()
     with pdfplumber.open(io.BytesIO(raw)) as pdf:
@@ -161,10 +232,12 @@ def _parse(raw: bytes) -> list[dict]:
                         idxs = occ.get(field) or []
                         if len(idxs) > pick and idxs[pick] < len(row):
                             extra[field] = to_float(row[idxs[pick]])
+                    vegetarian, vegan = diet.get(key, (None, None))
                     out.append(item(CHAIN, name, SOURCE, SOURCE_URL,
                                     item_id=name, category=category,
                                     serving_desc=basis,
-                                    kcal=kcal, protein_g=protein, **extra))
+                                    kcal=kcal, protein_g=protein,
+                                    vegetarian=vegetarian, vegan=vegan, **extra))
     return out
 
 

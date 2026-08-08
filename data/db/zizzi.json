@@ -1,7 +1,7 @@
 {
  "chain_id": "zizzi",
  "item_count": 385,
- "fetched_at": "2026-08-06T15:00:41Z",
+ "fetched_at": "2026-08-08T12:47:27Z",
  "items": {
   "complimentary-pasta-crisps": {
    "chain_id": "zizzi",
@@ -14,12 +14,12 @@
    "carbs_g": 8.7,
    "fat_g": 0.0,
    "salt_g": 0.36,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:41Z",
+   "fetched_at": "2026-08-08T12:47:27Z",
    "quality_flags": null
   },
   "complimentary-hot-chocolate": {
@@ -33,12 +33,12 @@
    "carbs_g": 3.6,
    "fat_g": 1.0,
    "salt_g": 0.03,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:41Z",
+   "fetched_at": "2026-08-08T12:47:27Z",
    "quality_flags": null
   },
   "pasta-crisps": {
@@ -52,12 +52,12 @@
    "carbs_g": 35.0,
    "fat_g": 1.5,
    "salt_g": 1.5,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:41Z",
+   "fetched_at": "2026-08-08T12:47:27Z",
    "quality_flags": null
   },
   "olive-bowl": {
@@ -71,12 +71,12 @@
    "carbs_g": 0.7,
    "fat_g": 15.0,
    "salt_g": 3.5,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:41Z",
+   "fetched_at": "2026-08-08T12:47:27Z",
    "quality_flags": null
   },
   "dough-crusts": {
@@ -90,12 +90,12 @@
    "carbs_g": 93.0,
    "fat_g": 24.0,
    "salt_g": 3.5,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:41Z",
+   "fetched_at": "2026-08-08T12:47:27Z",
    "quality_flags": null
   },
   "garlic-bread": {
@@ -109,12 +109,12 @@
    "carbs_g": 94.0,
    "fat_g": 17.0,
    "salt_g": 2.3,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:41Z",
+   "fetched_at": "2026-08-08T12:47:27Z",
    "quality_flags": null
   },
   "garlic-bread-with-mozzarella": {
@@ -128,12 +128,12 @@
    "carbs_g": 94.0,
    "fat_g": 19.0,
    "salt_g": 2.7,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:41Z",
+   "fetched_at": "2026-08-08T12:47:27Z",
    "quality_flags": null
   },
   "garlic-bread-with-mozzarella-caramelised-onions": {
@@ -147,12 +147,12 @@
    "carbs_g": 106.0,
    "fat_g": 20.0,
    "salt_g": 3.0,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:41Z",
+   "fetched_at": "2026-08-08T12:47:27Z",
    "quality_flags": null
   },
   "cheesy-chilli-garlic-bread": {
@@ -166,12 +166,12 @@
    "carbs_g": 95.0,
    "fat_g": 27.0,
    "salt_g": 2.8,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:41Z",
+   "fetched_at": "2026-08-08T12:47:27Z",
    "quality_flags": null
   },
   "garlic-mozzarella-bombe": {
@@ -185,12 +185,12 @@
    "carbs_g": 98.0,
    "fat_g": 17.0,
    "salt_g": 2.7,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:41Z",
+   "fetched_at": "2026-08-08T12:47:27Z",
    "quality_flags": null
   },
   "chorizo-mozzarella-bombe": {
@@ -209,7 +209,7 @@
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:41Z",
+   "fetched_at": "2026-08-08T12:47:27Z",
    "quality_flags": null
   },
   "pollo-fritti": {
@@ -228,7 +228,7 @@
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:41Z",
+   "fetched_at": "2026-08-08T12:47:27Z",
    "quality_flags": null
   },
   "take-away-only-pollo-fritti-x-8": {
@@ -247,7 +247,7 @@
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:41Z",
+   "fetched_at": "2026-08-08T12:47:27Z",
    "quality_flags": null
   },
   "bruschetta-classica": {
@@ -261,12 +261,12 @@
    "carbs_g": 57.0,
    "fat_g": 17.0,
    "salt_g": 1.3,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:41Z",
+   "fetched_at": "2026-08-08T12:47:27Z",
    "quality_flags": null
   },
   "calamari-small": {
@@ -285,7 +285,7 @@
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:41Z",
+   "fetched_at": "2026-08-08T12:47:27Z",
    "quality_flags": null
   },
   "calamari-large": {
@@ -304,7 +304,7 @@
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:41Z",
+   "fetched_at": "2026-08-08T12:47:27Z",
    "quality_flags": null
   },
   "crispy-chilli-calamari-small": {
@@ -323,7 +323,7 @@
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:41Z",
+   "fetched_at": "2026-08-08T12:47:27Z",
    "quality_flags": null
   },
   "crispy-chilli-calamari-large": {
@@ -342,7 +342,7 @@
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:41Z",
+   "fetched_at": "2026-08-08T12:47:27Z",
    "quality_flags": null
   },
   "la-bomba-meatballs": {
@@ -361,7 +361,7 @@
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:41Z",
+   "fetched_at": "2026-08-08T12:47:27Z",
    "quality_flags": null
   },
   "aubergine-fritti": {
@@ -375,12 +375,12 @@
    "carbs_g": 34.0,
    "fat_g": 10.0,
    "salt_g": 1.5,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:41Z",
+   "fetched_at": "2026-08-08T12:47:27Z",
    "quality_flags": null
   },
   "chicken-spiedini-with-garlic-aioli": {
@@ -399,7 +399,7 @@
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:41Z",
+   "fetched_at": "2026-08-08T12:47:27Z",
    "quality_flags": null
   },
   "chicken-spiedini-with-calabrese-dip": {
@@ -418,7 +418,7 @@
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:41Z",
+   "fetched_at": "2026-08-08T12:47:27Z",
    "quality_flags": null
   },
   "chicken-spiedini-with-roquito-hot-honey": {
@@ -437,7 +437,7 @@
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:41Z",
+   "fetched_at": "2026-08-08T12:47:27Z",
    "quality_flags": null
   },
   "chicken-spiedini-with-crispy-chilli-oil": {
@@ -456,7 +456,7 @@
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:41Z",
+   "fetched_at": "2026-08-08T12:47:27Z",
    "quality_flags": null
   },
   "chicken-spiedini-with-genovese-pesto": {
@@ -475,7 +475,7 @@
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:41Z",
+   "fetched_at": "2026-08-08T12:47:27Z",
    "quality_flags": null
   },
   "chicken-spiedini-with-fiery-la-bomba": {
@@ -494,7 +494,7 @@
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:41Z",
+   "fetched_at": "2026-08-08T12:47:27Z",
    "quality_flags": null
   },
   "mushroom-brindisi": {
@@ -508,12 +508,12 @@
    "carbs_g": 101.0,
    "fat_g": 17.0,
    "salt_g": 4.5,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:41Z",
+   "fetched_at": "2026-08-08T12:47:27Z",
    "quality_flags": null
   },
   "king-prawn-spiedini": {
@@ -532,7 +532,7 @@
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:41Z",
+   "fetched_at": "2026-08-08T12:47:27Z",
    "quality_flags": null
   },
   "fonduta-formaggi": {
@@ -546,12 +546,12 @@
    "carbs_g": 92.0,
    "fat_g": 41.0,
    "salt_g": 5.3,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:41Z",
+   "fetched_at": "2026-08-08T12:47:27Z",
    "quality_flags": null
   },
   "mozzarella-arancini": {
@@ -565,12 +565,12 @@
    "carbs_g": 29.0,
    "fat_g": 19.0,
    "salt_g": 2.3,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:41Z",
+   "fetched_at": "2026-08-08T12:47:27Z",
    "quality_flags": null
   },
   "take-away-only-double-mozzarella-arancini": {
@@ -584,12 +584,12 @@
    "carbs_g": 54.0,
    "fat_g": 37.0,
    "salt_g": 4.4,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:41Z",
+   "fetched_at": "2026-08-08T12:47:27Z",
    "quality_flags": null
   },
   "burrata-caprese": {
@@ -603,12 +603,12 @@
    "carbs_g": 9.2,
    "fat_g": 34.0,
    "salt_g": 0.91,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:41Z",
+   "fetched_at": "2026-08-08T12:47:27Z",
    "quality_flags": null
   },
   "fonduta-board": {
@@ -622,12 +622,12 @@
    "carbs_g": 214.0,
    "fat_g": 87.0,
    "salt_g": 10.3,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:41Z",
+   "fetched_at": "2026-08-08T12:47:27Z",
    "quality_flags": null
   },
   "grande-antipasto": {
@@ -646,7 +646,7 @@
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:41Z",
+   "fetched_at": "2026-08-08T12:47:27Z",
    "quality_flags": null
   },
   "favourites-board": {
@@ -665,7 +665,7 @@
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:41Z",
+   "fetched_at": "2026-08-08T12:47:27Z",
    "quality_flags": null
   },
   "hot-honey-glazed-duck": {
@@ -684,7 +684,7 @@
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:41Z",
+   "fetched_at": "2026-08-08T12:47:27Z",
    "quality_flags": null
   },
   "pollo-calabrese": {
@@ -703,7 +703,7 @@
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:41Z",
+   "fetched_at": "2026-08-08T12:47:27Z",
    "quality_flags": null
   },
   "funghi-risotto": {
@@ -717,12 +717,12 @@
    "carbs_g": 151.0,
    "fat_g": 26.0,
    "salt_g": 3.1,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:41Z",
+   "fetched_at": "2026-08-08T12:47:27Z",
    "quality_flags": null
   },
   "butter-bean-stufato": {
@@ -736,12 +736,12 @@
    "carbs_g": 140.0,
    "fat_g": 32.0,
    "salt_g": 6.1,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:41Z",
+   "fetched_at": "2026-08-08T12:47:27Z",
    "quality_flags": null
   },
   "mediterranean-sea-bass": {
@@ -760,7 +760,7 @@
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:41Z",
+   "fetched_at": "2026-08-08T12:47:27Z",
    "quality_flags": null
   },
   "pollo-milanese": {
@@ -779,7 +779,7 @@
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:41Z",
+   "fetched_at": "2026-08-08T12:47:27Z",
    "quality_flags": null
   },
   "salmon-pesto-risotto": {
@@ -798,7 +798,7 @@
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:41Z",
+   "fetched_at": "2026-08-08T12:47:27Z",
    "quality_flags": null
   },
   "salmon-tomato-caesar-salad": {
@@ -817,7 +817,7 @@
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:41Z",
+   "fetched_at": "2026-08-08T12:47:27Z",
    "quality_flags": null
   },
   "butter-bean-salad": {
@@ -831,12 +831,12 @@
    "carbs_g": 53.0,
    "fat_g": 9.9,
    "salt_g": 3.1,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:41Z",
+   "fetched_at": "2026-08-08T12:47:27Z",
    "quality_flags": null
   },
   "chicken-caesar-salad": {
@@ -855,7 +855,7 @@
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:41Z",
+   "fetched_at": "2026-08-08T12:47:27Z",
    "quality_flags": null
   },
   "venison-pepperoni": {
@@ -874,7 +874,7 @@
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:42Z",
+   "fetched_at": "2026-08-08T12:47:27Z",
    "quality_flags": null
   },
   "pepperoni-premio": {
@@ -893,7 +893,7 @@
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:42Z",
+   "fetched_at": "2026-08-08T12:47:27Z",
    "quality_flags": null
   },
   "truffle-salami": {
@@ -912,7 +912,7 @@
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:42Z",
+   "fetched_at": "2026-08-08T12:47:27Z",
    "quality_flags": null
   },
   "carne-sofia": {
@@ -931,7 +931,7 @@
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:42Z",
+   "fetched_at": "2026-08-08T12:47:27Z",
    "quality_flags": null
   },
   "pepperoni-campagna": {
@@ -950,7 +950,7 @@
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:42Z",
+   "fetched_at": "2026-08-08T12:47:27Z",
    "quality_flags": null
   },
   "piccante": {
@@ -969,7 +969,7 @@
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:42Z",
+   "fetched_at": "2026-08-08T12:47:27Z",
    "quality_flags": null
   },
   "sticky-pig": {
@@ -988,7 +988,7 @@
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:42Z",
+   "fetched_at": "2026-08-08T12:47:27Z",
    "quality_flags": null
   },
   "chicken-fiery-roquito": {
@@ -1007,7 +1007,7 @@
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:42Z",
+   "fetched_at": "2026-08-08T12:47:27Z",
    "quality_flags": null
   },
   "primavera": {
@@ -1021,12 +1021,12 @@
    "carbs_g": 110.0,
    "fat_g": 64.0,
    "salt_g": 7.6,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:42Z",
+   "fetched_at": "2026-08-08T12:47:27Z",
    "quality_flags": null
   },
   "aubergine-parmigiana": {
@@ -1040,12 +1040,12 @@
    "carbs_g": 134.0,
    "fat_g": 30.0,
    "salt_g": 6.3,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:42Z",
+   "fetched_at": "2026-08-08T12:47:27Z",
    "quality_flags": null
   },
   "pinoli": {
@@ -1059,12 +1059,12 @@
    "carbs_g": 111.0,
    "fat_g": 33.0,
    "salt_g": 4.6,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:42Z",
+   "fetched_at": "2026-08-08T12:47:27Z",
    "quality_flags": null
   },
   "margherita": {
@@ -1078,12 +1078,12 @@
    "carbs_g": 108.0,
    "fat_g": 30.0,
    "salt_g": 3.9,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:42Z",
+   "fetched_at": "2026-08-08T12:47:27Z",
    "quality_flags": null
   },
   "vegan-margherita": {
@@ -1097,12 +1097,12 @@
    "carbs_g": 112.0,
    "fat_g": 35.0,
    "salt_g": 5.4,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:42Z",
+   "fetched_at": "2026-08-08T12:47:27Z",
    "quality_flags": null
   },
   "take-away-only-double-cheese-rustica-margherita": {
@@ -1116,12 +1116,12 @@
    "carbs_g": 98.0,
    "fat_g": 57.0,
    "salt_g": 5.5,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:42Z",
+   "fetched_at": "2026-08-08T12:47:27Z",
    "quality_flags": null
   },
   "take-away-only-rustica-meat-feast": {
@@ -1140,7 +1140,7 @@
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:42Z",
+   "fetched_at": "2026-08-08T12:47:27Z",
    "quality_flags": null
   },
   "non-gluten-venison-pepperoni": {
@@ -1159,7 +1159,7 @@
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:42Z",
+   "fetched_at": "2026-08-08T12:47:27Z",
    "quality_flags": null
   },
   "non-gluten-pepperoni-premio": {
@@ -1178,7 +1178,7 @@
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:42Z",
+   "fetched_at": "2026-08-08T12:47:27Z",
    "quality_flags": null
   },
   "non-gluten-truffle-salami": {
@@ -1197,7 +1197,7 @@
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:42Z",
+   "fetched_at": "2026-08-08T12:47:27Z",
    "quality_flags": null
   },
   "non-gluten-carne-sofia": {
@@ -1216,7 +1216,7 @@
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:42Z",
+   "fetched_at": "2026-08-08T12:47:27Z",
    "quality_flags": null
   },
   "non-gluten-piccante": {
@@ -1235,7 +1235,7 @@
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:42Z",
+   "fetched_at": "2026-08-08T12:47:27Z",
    "quality_flags": null
   },
   "non-gluten-sticky-pig": {
@@ -1254,7 +1254,7 @@
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:42Z",
+   "fetched_at": "2026-08-08T12:47:27Z",
    "quality_flags": null
   },
   "non-gluten-chicken-fiery-roquito": {
@@ -1273,7 +1273,7 @@
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:42Z",
+   "fetched_at": "2026-08-08T12:47:27Z",
    "quality_flags": null
   },
   "non-gluten-primavera": {
@@ -1287,12 +1287,12 @@
    "carbs_g": 113.0,
    "fat_g": 72.0,
    "salt_g": 6.9,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:42Z",
+   "fetched_at": "2026-08-08T12:47:27Z",
    "quality_flags": null
   },
   "non-gluten-aubergine-parmigiana": {
@@ -1306,12 +1306,12 @@
    "carbs_g": 137.0,
    "fat_g": 39.0,
    "salt_g": 5.6,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:42Z",
+   "fetched_at": "2026-08-08T12:47:27Z",
    "quality_flags": null
   },
   "non-gluten-margherita-pizza": {
@@ -1325,12 +1325,12 @@
    "carbs_g": 99.0,
    "fat_g": 38.0,
    "salt_g": 3.2,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:42Z",
+   "fetched_at": "2026-08-08T12:47:27Z",
    "quality_flags": null
   },
   "non-gluten-vegan-margherita-pizza": {
@@ -1344,12 +1344,12 @@
    "carbs_g": 115.0,
    "fat_g": 43.0,
    "salt_g": 4.7,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:42Z",
+   "fetched_at": "2026-08-08T12:47:27Z",
    "quality_flags": null
   },
   "non-gluten-pinoli": {
@@ -1363,12 +1363,12 @@
    "carbs_g": 114.0,
    "fat_g": 42.0,
    "salt_g": 3.8,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:42Z",
+   "fetched_at": "2026-08-08T12:47:27Z",
    "quality_flags": null
   },
   "non-gluten-pepperoni-campagna": {
@@ -1387,7 +1387,7 @@
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:42Z",
+   "fetched_at": "2026-08-08T12:47:27Z",
    "quality_flags": null
   },
   "non-gluten-roast-pollo-pesto": {
@@ -1406,7 +1406,7 @@
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:42Z",
+   "fetched_at": "2026-08-08T12:47:27Z",
    "quality_flags": null
   },
   "take-away-only-double-cheese-non-gluten-margherita": {
@@ -1425,7 +1425,7 @@
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:42Z",
+   "fetched_at": "2026-08-08T12:47:27Z",
    "quality_flags": null
   },
   "take-away-only-non-gluten-meat-feast": {
@@ -1444,7 +1444,7 @@
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:42Z",
+   "fetched_at": "2026-08-08T12:47:27Z",
    "quality_flags": null
   },
   "calzone-carne-piccante": {
@@ -1463,7 +1463,7 @@
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:42Z",
+   "fetched_at": "2026-08-08T12:47:27Z",
    "quality_flags": null
   },
   "calzone-pollo-spinaci": {
@@ -1482,7 +1482,7 @@
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:42Z",
+   "fetched_at": "2026-08-08T12:47:27Z",
    "quality_flags": null
   },
   "classic-margherita": {
@@ -1496,12 +1496,12 @@
    "carbs_g": 90.0,
    "fat_g": 21.0,
    "salt_g": 3.4,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:42Z",
+   "fetched_at": "2026-08-08T12:47:27Z",
    "quality_flags": null
   },
   "classic-vegan-margherita-pizza": {
@@ -1515,12 +1515,12 @@
    "carbs_g": 104.0,
    "fat_g": 19.0,
    "salt_g": 3.9,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:42Z",
+   "fetched_at": "2026-08-08T12:47:27Z",
    "quality_flags": null
   },
   "classic-pinoli": {
@@ -1534,12 +1534,12 @@
    "carbs_g": 110.0,
    "fat_g": 23.0,
    "salt_g": 3.9,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:42Z",
+   "fetched_at": "2026-08-08T12:47:27Z",
    "quality_flags": null
   },
   "classic-pepperoni-campagna": {
@@ -1558,7 +1558,7 @@
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:42Z",
+   "fetched_at": "2026-08-08T12:47:27Z",
    "quality_flags": null
   },
   "pollo-pesto": {
@@ -1577,7 +1577,7 @@
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:42Z",
+   "fetched_at": "2026-08-08T12:47:27Z",
    "quality_flags": null
   },
   "chips": {
@@ -1591,12 +1591,12 @@
    "carbs_g": 83.0,
    "fat_g": 43.0,
    "salt_g": 1.5,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:42Z",
+   "fetched_at": "2026-08-08T12:47:28Z",
    "quality_flags": null
   },
   "take-away-only-chips": {
@@ -1610,12 +1610,12 @@
    "carbs_g": 165.0,
    "fat_g": 85.0,
    "salt_g": 2.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:42Z",
+   "fetched_at": "2026-08-08T12:47:28Z",
    "quality_flags": null
   },
   "take-away-only-seasoned-chips": {
@@ -1629,12 +1629,12 @@
    "carbs_g": 175.0,
    "fat_g": 86.0,
    "salt_g": 6.2,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:42Z",
+   "fetched_at": "2026-08-08T12:47:28Z",
    "quality_flags": null
   },
   "courgette-fritti": {
@@ -1648,12 +1648,12 @@
    "carbs_g": 51.0,
    "fat_g": 28.0,
    "salt_g": 2.4,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:42Z",
+   "fetched_at": "2026-08-08T12:47:28Z",
    "quality_flags": null
   },
   "take-away-only-courgetti-fritti": {
@@ -1667,12 +1667,12 @@
    "carbs_g": 102.0,
    "fat_g": 55.0,
    "salt_g": 4.8,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:42Z",
+   "fetched_at": "2026-08-08T12:47:28Z",
    "quality_flags": null
   },
   "sweet-potato-fries": {
@@ -1686,12 +1686,12 @@
    "carbs_g": 70.0,
    "fat_g": 19.0,
    "salt_g": 1.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:42Z",
+   "fetched_at": "2026-08-08T12:47:28Z",
    "quality_flags": null
   },
   "take-away-only-sweet-potato-fries": {
@@ -1705,12 +1705,12 @@
    "carbs_g": 140.0,
    "fat_g": 37.0,
    "salt_g": 2.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:42Z",
+   "fetched_at": "2026-08-08T12:47:28Z",
    "quality_flags": null
   },
   "loaded-bolognese-chips": {
@@ -1729,7 +1729,7 @@
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:42Z",
+   "fetched_at": "2026-08-08T12:47:28Z",
    "quality_flags": null
   },
   "take-away-only-loaded-bolognese-chips": {
@@ -1748,7 +1748,7 @@
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:42Z",
+   "fetched_at": "2026-08-08T12:47:28Z",
    "quality_flags": null
   },
   "mixed-leaf-salad": {
@@ -1762,12 +1762,12 @@
    "carbs_g": 2.2,
    "fat_g": 4.9,
    "salt_g": 0.29,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:42Z",
+   "fetched_at": "2026-08-08T12:47:28Z",
    "quality_flags": null
   },
   "fresca-greens": {
@@ -1781,12 +1781,12 @@
    "carbs_g": 3.9,
    "fat_g": 7.5,
    "salt_g": 0.12,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:42Z",
+   "fetched_at": "2026-08-08T12:47:28Z",
    "quality_flags": null
   },
   "take-away-only-pulled-pork-la-bomba-chips": {
@@ -1805,7 +1805,7 @@
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:42Z",
+   "fetched_at": "2026-08-08T12:47:28Z",
    "quality_flags": null
   },
   "take-away-only-mac-cheese-bites-x5": {
@@ -1819,12 +1819,12 @@
    "carbs_g": 46.0,
    "fat_g": 18.0,
    "salt_g": 1.8,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:42Z",
+   "fetched_at": "2026-08-08T12:47:28Z",
    "quality_flags": null
   },
   "take-away-only-mac-cheese-bites-x10": {
@@ -1838,12 +1838,12 @@
    "carbs_g": 88.0,
    "fat_g": 35.0,
    "salt_g": 3.5,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:42Z",
+   "fetched_at": "2026-08-08T12:47:28Z",
    "quality_flags": null
   },
   "truffle-carbonara": {
@@ -1862,7 +1862,7 @@
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:42Z",
+   "fetched_at": "2026-08-08T12:47:28Z",
    "quality_flags": null
   },
   "truffle-carbonara-sharepan": {
@@ -1881,7 +1881,7 @@
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:42Z",
+   "fetched_at": "2026-08-08T12:47:28Z",
    "quality_flags": null
   },
   "chianti-beef-ragu": {
@@ -1900,7 +1900,7 @@
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:42Z",
+   "fetched_at": "2026-08-08T12:47:28Z",
    "quality_flags": null
   },
   "chilli-king-prawn": {
@@ -1919,7 +1919,7 @@
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:42Z",
+   "fetched_at": "2026-08-08T12:47:28Z",
    "quality_flags": null
   },
   "meatballs-alla-vodka": {
@@ -1938,7 +1938,7 @@
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:42Z",
+   "fetched_at": "2026-08-08T12:47:28Z",
    "quality_flags": null
   },
   "seafood-vongole": {
@@ -1957,7 +1957,7 @@
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:42Z",
+   "fetched_at": "2026-08-08T12:47:28Z",
    "quality_flags": null
   },
   "chorizo-carbonara": {
@@ -1976,7 +1976,7 @@
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:42Z",
+   "fetched_at": "2026-08-08T12:47:28Z",
    "quality_flags": null
   },
   "pollo-piccante": {
@@ -1995,7 +1995,7 @@
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:42Z",
+   "fetched_at": "2026-08-08T12:47:28Z",
    "quality_flags": null
   },
   "bolognese-classico": {
@@ -2014,7 +2014,7 @@
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:42Z",
+   "fetched_at": "2026-08-08T12:47:28Z",
    "quality_flags": null
   },
   "pesto-rosso": {
@@ -2033,7 +2033,7 @@
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:42Z",
+   "fetched_at": "2026-08-08T12:47:28Z",
    "quality_flags": null
   },
   "pomodoro": {
@@ -2047,12 +2047,12 @@
    "carbs_g": 80.0,
    "fat_g": 19.0,
    "salt_g": 1.8,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:42Z",
+   "fetched_at": "2026-08-08T12:47:28Z",
    "quality_flags": null
   },
   "vegan-pomodoro": {
@@ -2066,12 +2066,12 @@
    "carbs_g": 77.0,
    "fat_g": 25.0,
    "salt_g": 3.8,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:42Z",
+   "fetched_at": "2026-08-08T12:47:28Z",
    "quality_flags": null
   },
   "vegan-lentil-ragu": {
@@ -2085,12 +2085,12 @@
    "carbs_g": 91.0,
    "fat_g": 18.0,
    "salt_g": 2.5,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:42Z",
+   "fetched_at": "2026-08-08T12:47:28Z",
    "quality_flags": null
   },
   "ravioli-di-capra": {
@@ -2104,12 +2104,12 @@
    "carbs_g": 64.0,
    "fat_g": 32.0,
    "salt_g": 3.7,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:42Z",
+   "fetched_at": "2026-08-08T12:47:28Z",
    "quality_flags": null
   },
   "pollo-della-casa": {
@@ -2128,7 +2128,7 @@
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:43Z",
+   "fetched_at": "2026-08-08T12:47:28Z",
    "quality_flags": null
   },
   "six-layer-lasagne": {
@@ -2147,7 +2147,7 @@
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:43Z",
+   "fetched_at": "2026-08-08T12:47:28Z",
    "quality_flags": null
   },
   "even-better-with-more-beef-ragu-more-mozzarella-more-bechamel": {
@@ -2166,7 +2166,7 @@
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:43Z",
+   "fetched_at": "2026-08-08T12:47:28Z",
    "quality_flags": null
   },
   "vegan-rainbow-lasagne": {
@@ -2180,12 +2180,12 @@
    "carbs_g": 83.0,
    "fat_g": 40.0,
    "salt_g": 6.4,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:43Z",
+   "fetched_at": "2026-08-08T12:47:28Z",
    "quality_flags": null
   },
   "non-gluten-truffle-carbonara": {
@@ -2204,7 +2204,7 @@
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:43Z",
+   "fetched_at": "2026-08-08T12:47:28Z",
    "quality_flags": null
   },
   "non-gluten-truffle-carbonara-sharepan": {
@@ -2223,7 +2223,7 @@
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:43Z",
+   "fetched_at": "2026-08-08T12:47:28Z",
    "quality_flags": null
   },
   "non-gluten-chianti-beef-ragu": {
@@ -2242,7 +2242,7 @@
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:43Z",
+   "fetched_at": "2026-08-08T12:47:28Z",
    "quality_flags": null
   },
   "non-gluten-chorizo-carbonara": {
@@ -2261,7 +2261,7 @@
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:43Z",
+   "fetched_at": "2026-08-08T12:47:28Z",
    "quality_flags": null
   },
   "non-gluten-chilli-king-prawn": {
@@ -2280,7 +2280,7 @@
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:43Z",
+   "fetched_at": "2026-08-08T12:47:28Z",
    "quality_flags": null
   },
   "non-gluten-pesto-rosso": {
@@ -2299,7 +2299,7 @@
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:43Z",
+   "fetched_at": "2026-08-08T12:47:28Z",
    "quality_flags": null
   },
   "non-gluten-pollo-piccante": {
@@ -2318,7 +2318,7 @@
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:43Z",
+   "fetched_at": "2026-08-08T12:47:28Z",
    "quality_flags": null
   },
   "non-gluten-bolognese-classico": {
@@ -2337,7 +2337,7 @@
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:43Z",
+   "fetched_at": "2026-08-08T12:47:28Z",
    "quality_flags": null
   },
   "non-gluten-meatballs-alla-vodka": {
@@ -2356,7 +2356,7 @@
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:43Z",
+   "fetched_at": "2026-08-08T12:47:28Z",
    "quality_flags": null
   },
   "non-gluten-seafood-vongole": {
@@ -2375,7 +2375,7 @@
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:43Z",
+   "fetched_at": "2026-08-08T12:47:28Z",
    "quality_flags": null
   },
   "non-gluten-pomodoro": {
@@ -2389,12 +2389,12 @@
    "carbs_g": 100.0,
    "fat_g": 22.0,
    "salt_g": 3.6,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:43Z",
+   "fetched_at": "2026-08-08T12:47:28Z",
    "quality_flags": null
   },
   "non-gluten-vegan-pomodoro": {
@@ -2408,12 +2408,12 @@
    "carbs_g": 100.0,
    "fat_g": 11.0,
    "salt_g": 3.5,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:43Z",
+   "fetched_at": "2026-08-08T12:47:28Z",
    "quality_flags": null
   },
   "non-gluten-lentil-ragu": {
@@ -2427,12 +2427,12 @@
    "carbs_g": 107.0,
    "fat_g": 24.0,
    "salt_g": 2.6,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:43Z",
+   "fetched_at": "2026-08-08T12:47:28Z",
    "quality_flags": null
   },
   "cioccolato-mousse": {
@@ -2451,7 +2451,7 @@
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:43Z",
+   "fetched_at": "2026-08-08T12:47:28Z",
    "quality_flags": null
   },
   "salted-caramel-chocolate-brownie": {
@@ -2465,12 +2465,12 @@
    "carbs_g": 77.0,
    "fat_g": 37.0,
    "salt_g": 1.4,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:43Z",
+   "fetched_at": "2026-08-08T12:47:28Z",
    "quality_flags": null
   },
   "take-away-only-salted-caramel-chocolate-brownie": {
@@ -2484,12 +2484,12 @@
    "carbs_g": 77.0,
    "fat_g": 37.0,
    "salt_g": 1.5,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:43Z",
+   "fetched_at": "2026-08-08T12:47:28Z",
    "quality_flags": null
   },
   "limoncello-basque": {
@@ -2503,12 +2503,12 @@
    "carbs_g": 55.0,
    "fat_g": 28.0,
    "salt_g": 0.6,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:43Z",
+   "fetched_at": "2026-08-08T12:47:28Z",
    "quality_flags": null
   },
   "take-away-only-limoncello-basque": {
@@ -2522,12 +2522,12 @@
    "carbs_g": 47.0,
    "fat_g": 25.0,
    "salt_g": 0.56,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:43Z",
+   "fetched_at": "2026-08-08T12:47:28Z",
    "quality_flags": null
   },
   "raspberry-collins-cheesecake": {
@@ -2541,12 +2541,12 @@
    "carbs_g": 56.0,
    "fat_g": 29.0,
    "salt_g": 0.17,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:43Z",
+   "fetched_at": "2026-08-08T12:47:28Z",
    "quality_flags": null
   },
   "take-away-only-raspberry-collins-cheesecake": {
@@ -2560,12 +2560,12 @@
    "carbs_g": 68.0,
    "fat_g": 29.0,
    "salt_g": 0.17,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:43Z",
+   "fetched_at": "2026-08-08T12:47:28Z",
    "quality_flags": null
   },
   "nemesis": {
@@ -2579,12 +2579,12 @@
    "carbs_g": 53.0,
    "fat_g": 39.0,
    "salt_g": 0.19,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:43Z",
+   "fetched_at": "2026-08-08T12:47:28Z",
    "quality_flags": null
   },
   "take-away-only-nemesis": {
@@ -2598,12 +2598,12 @@
    "carbs_g": 44.0,
    "fat_g": 36.0,
    "salt_g": 0.14,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:43Z",
+   "fetched_at": "2026-08-08T12:47:28Z",
    "quality_flags": null
   },
   "tiramisu": {
@@ -2617,12 +2617,12 @@
    "carbs_g": 34.0,
    "fat_g": 23.0,
    "salt_g": 0.22,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:43Z",
+   "fetched_at": "2026-08-08T12:47:28Z",
    "quality_flags": null
   },
   "take-away-only-tiramisu": {
@@ -2636,12 +2636,12 @@
    "carbs_g": 34.0,
    "fat_g": 23.0,
    "salt_g": 0.22,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:43Z",
+   "fetched_at": "2026-08-08T12:47:28Z",
    "quality_flags": null
   },
   "honeycomb-cheesecake": {
@@ -2655,12 +2655,12 @@
    "carbs_g": 74.0,
    "fat_g": 31.0,
    "salt_g": 1.4,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:43Z",
+   "fetched_at": "2026-08-08T12:47:28Z",
    "quality_flags": null
   },
   "take-away-only-honeycomb-cheesecake": {
@@ -2674,12 +2674,12 @@
    "carbs_g": 70.0,
    "fat_g": 30.0,
    "salt_g": 1.3,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:43Z",
+   "fetched_at": "2026-08-08T12:47:28Z",
    "quality_flags": null
   },
   "candy-floss-dolce": {
@@ -2693,12 +2693,12 @@
    "carbs_g": 48.0,
    "fat_g": 7.7,
    "salt_g": 0.1,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:43Z",
+   "fetched_at": "2026-08-08T12:47:28Z",
    "quality_flags": null
   },
   "fudge-cake": {
@@ -2712,12 +2712,12 @@
    "carbs_g": 97.0,
    "fat_g": 30.0,
    "salt_g": 0.71,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:43Z",
+   "fetched_at": "2026-08-08T12:47:28Z",
    "quality_flags": null
   },
   "take-away-only-fudge-cake": {
@@ -2731,12 +2731,12 @@
    "carbs_g": 97.0,
    "fat_g": 29.0,
    "salt_g": 0.71,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:43Z",
+   "fetched_at": "2026-08-08T12:47:28Z",
    "quality_flags": null
   },
   "chocolate-caramello-sundae": {
@@ -2750,12 +2750,12 @@
    "carbs_g": 76.0,
    "fat_g": 32.0,
    "salt_g": 1.3,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:43Z",
+   "fetched_at": "2026-08-08T12:47:28Z",
    "quality_flags": null
   },
   "take-away-only-mini-biscoff-doughnuts-x3": {
@@ -2769,12 +2769,12 @@
    "carbs_g": 32.0,
    "fat_g": 19.0,
    "salt_g": 0.59,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:43Z",
+   "fetched_at": "2026-08-08T12:47:28Z",
    "quality_flags": null
   },
   "take-away-only-mini-biscoff-doughnuts-x9": {
@@ -2788,12 +2788,12 @@
    "carbs_g": 97.0,
    "fat_g": 56.0,
    "salt_g": 1.8,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:43Z",
+   "fetched_at": "2026-08-08T12:47:28Z",
    "quality_flags": null
   },
   "take-away-only-pistachio-doughnuts-x3": {
@@ -2807,12 +2807,12 @@
    "carbs_g": 35.0,
    "fat_g": 17.0,
    "salt_g": 0.45,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:43Z",
+   "fetched_at": "2026-08-08T12:47:28Z",
    "quality_flags": null
   },
   "take-away-only-pistachio-doughnuts-x9": {
@@ -2826,12 +2826,12 @@
    "carbs_g": 106.0,
    "fat_g": 52.0,
    "salt_g": 1.3,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:43Z",
+   "fetched_at": "2026-08-08T12:47:28Z",
    "quality_flags": null
   },
   "take-away-only-mixed-doughnuts-x9": {
@@ -2845,12 +2845,12 @@
    "carbs_g": 101.0,
    "fat_g": 54.0,
    "salt_g": 1.6,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:43Z",
+   "fetched_at": "2026-08-08T12:47:28Z",
    "quality_flags": null
   },
   "vanilla-gelato": {
@@ -2864,12 +2864,12 @@
    "carbs_g": 8.1,
    "fat_g": 2.7,
    "salt_g": 0.04,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:43Z",
+   "fetched_at": "2026-08-08T12:47:28Z",
    "quality_flags": null
   },
   "chocolate-gelato": {
@@ -2883,12 +2883,12 @@
    "carbs_g": 7.9,
    "fat_g": 3.2,
    "salt_g": 0.05,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:43Z",
+   "fetched_at": "2026-08-08T12:47:28Z",
    "quality_flags": null
   },
   "vegan-salted-caramel-gelato": {
@@ -2902,12 +2902,12 @@
    "carbs_g": 12.0,
    "fat_g": 3.2,
    "salt_g": 0.21,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:43Z",
+   "fetched_at": "2026-08-08T12:47:28Z",
    "quality_flags": null
   },
   "strawberry-sorbet": {
@@ -2921,12 +2921,12 @@
    "carbs_g": 9.2,
    "fat_g": 0.0,
    "salt_g": 0.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:43Z",
+   "fetched_at": "2026-08-08T12:47:28Z",
    "quality_flags": null
   },
   "dragon-fruit-sorbet": {
@@ -2940,12 +2940,12 @@
    "carbs_g": 10.0,
    "fat_g": 0.0,
    "salt_g": 0.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:43Z",
+   "fetched_at": "2026-08-08T12:47:28Z",
    "quality_flags": null
   },
   "vegan-coconut-lime-gelato": {
@@ -2959,12 +2959,12 @@
    "carbs_g": 8.6,
    "fat_g": 3.7,
    "salt_g": 0.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:43Z",
+   "fetched_at": "2026-08-08T12:47:28Z",
    "quality_flags": null
   },
   "wild-strawberry-panna-cotta-gelato": {
@@ -2978,12 +2978,12 @@
    "carbs_g": 8.8,
    "fat_g": 3.6,
    "salt_g": 0.05,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:43Z",
+   "fetched_at": "2026-08-08T12:47:28Z",
    "quality_flags": null
   },
   "add-freshly-baked-bread": {
@@ -2997,12 +2997,12 @@
    "carbs_g": 46.0,
    "fat_g": 4.7,
    "salt_g": 1.5,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:43Z",
+   "fetched_at": "2026-08-08T12:47:28Z",
    "quality_flags": null
   },
   "amarena-cherries": {
@@ -3016,12 +3016,12 @@
    "carbs_g": 5.9,
    "fat_g": 0.0,
    "salt_g": 0.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:43Z",
+   "fetched_at": "2026-08-08T12:47:28Z",
    "quality_flags": null
   },
   "artichoke": {
@@ -3035,12 +3035,12 @@
    "carbs_g": 2.8,
    "fat_g": 10.0,
    "salt_g": 0.68,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:43Z",
+   "fetched_at": "2026-08-08T12:47:28Z",
    "quality_flags": null
   },
   "aubergine-wedges": {
@@ -3054,12 +3054,12 @@
    "carbs_g": 15.0,
    "fat_g": 4.6,
    "salt_g": 0.63,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:43Z",
+   "fetched_at": "2026-08-08T12:47:28Z",
    "quality_flags": null
   },
   "balsamic-onion": {
@@ -3073,12 +3073,12 @@
    "carbs_g": 12.0,
    "fat_g": 1.0,
    "salt_g": 0.3,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:43Z",
+   "fetched_at": "2026-08-08T12:47:28Z",
    "quality_flags": null
   },
   "basil": {
@@ -3092,12 +3092,12 @@
    "carbs_g": 0.0,
    "fat_g": 0.0,
    "salt_g": 0.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:43Z",
+   "fetched_at": "2026-08-08T12:47:28Z",
    "quality_flags": null
   },
   "bolognese": {
@@ -3116,7 +3116,7 @@
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:43Z",
+   "fetched_at": "2026-08-08T12:47:28Z",
    "quality_flags": null
   },
   "burrata": {
@@ -3130,12 +3130,12 @@
    "carbs_g": 2.0,
    "fat_g": 24.0,
    "salt_g": 0.8,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:43Z",
+   "fetched_at": "2026-08-08T12:47:28Z",
    "quality_flags": null
   },
   "caesar-dressing": {
@@ -3149,12 +3149,12 @@
    "carbs_g": 1.8,
    "fat_g": 14.0,
    "salt_g": 0.64,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:43Z",
+   "fetched_at": "2026-08-08T12:47:28Z",
    "quality_flags": null
   },
   "calabrese-dip": {
@@ -3168,12 +3168,12 @@
    "carbs_g": 3.4,
    "fat_g": 1.2,
    "salt_g": 0.23,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:43Z",
+   "fetched_at": "2026-08-08T12:47:28Z",
    "quality_flags": null
   },
   "candied-green-jalapenos": {
@@ -3187,12 +3187,12 @@
    "carbs_g": 4.6,
    "fat_g": 0.0,
    "salt_g": 0.74,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:43Z",
+   "fetched_at": "2026-08-08T12:47:28Z",
    "quality_flags": null
   },
   "candy-floss": {
@@ -3206,12 +3206,12 @@
    "carbs_g": 10.0,
    "fat_g": 0.0,
    "salt_g": 0.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:43Z",
+   "fetched_at": "2026-08-08T12:47:28Z",
    "quality_flags": null
   },
   "casareccia": {
@@ -3225,12 +3225,12 @@
    "carbs_g": 61.0,
    "fat_g": 17.0,
    "salt_g": 0.8,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:43Z",
+   "fetched_at": "2026-08-08T12:47:28Z",
    "quality_flags": null
   },
   "cheese-pour": {
@@ -3244,12 +3244,12 @@
    "carbs_g": 1.3,
    "fat_g": 21.0,
    "salt_g": 1.6,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:43Z",
+   "fetched_at": "2026-08-08T12:47:28Z",
    "quality_flags": null
   },
   "chilli-flakes": {
@@ -3263,12 +3263,12 @@
    "carbs_g": 0.0,
    "fat_g": 0.0,
    "salt_g": 0.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:43Z",
+   "fetched_at": "2026-08-08T12:47:28Z",
    "quality_flags": null
   },
   "cotto-ham": {
@@ -3287,7 +3287,7 @@
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:43Z",
+   "fetched_at": "2026-08-08T12:47:28Z",
    "quality_flags": null
   },
   "crispy-chilli-oil": {
@@ -3301,12 +3301,12 @@
    "carbs_g": 7.4,
    "fat_g": 18.0,
    "salt_g": 0.59,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:43Z",
+   "fetched_at": "2026-08-08T12:47:28Z",
    "quality_flags": null
   },
   "customer-use-only-balsamic-vinegar": {
@@ -3320,12 +3320,12 @@
    "carbs_g": 4.6,
    "fat_g": 0.0,
    "salt_g": 0.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:43Z",
+   "fetched_at": "2026-08-08T12:47:28Z",
    "quality_flags": null
   },
   "customer-use-only-black-pepper": {
@@ -3339,12 +3339,12 @@
    "carbs_g": 0.0,
    "fat_g": 0.0,
    "salt_g": 0.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:43Z",
+   "fetched_at": "2026-08-08T12:47:28Z",
    "quality_flags": null
   },
   "customer-use-only-chilli-oil": {
@@ -3358,12 +3358,12 @@
    "carbs_g": 0.0,
    "fat_g": 7.4,
    "salt_g": 0.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:43Z",
+   "fetched_at": "2026-08-08T12:47:28Z",
    "quality_flags": null
   },
   "customer-use-only-extra-virgin-olive-oil": {
@@ -3377,12 +3377,12 @@
    "carbs_g": 0.0,
    "fat_g": 8.0,
    "salt_g": 0.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:43Z",
+   "fetched_at": "2026-08-08T12:47:28Z",
    "quality_flags": null
   },
   "dark-chocolate": {
@@ -3396,12 +3396,12 @@
    "carbs_g": 0.0,
    "fat_g": 0.0,
    "salt_g": 0.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:43Z",
+   "fetched_at": "2026-08-08T12:47:28Z",
    "quality_flags": null
   },
   "datterini-tomato": {
@@ -3415,12 +3415,12 @@
    "carbs_g": 1.4,
    "fat_g": 0.0,
    "salt_g": 0.04,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:43Z",
+   "fetched_at": "2026-08-08T12:47:28Z",
    "quality_flags": null
   },
   "diced-chorizo": {
@@ -3439,7 +3439,7 @@
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:43Z",
+   "fetched_at": "2026-08-08T12:47:28Z",
    "quality_flags": null
   },
   "fiery-la-bomba": {
@@ -3453,12 +3453,12 @@
    "carbs_g": 2.0,
    "fat_g": 3.4,
    "salt_g": 0.41,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:43Z",
+   "fetched_at": "2026-08-08T12:47:28Z",
    "quality_flags": null
   },
   "fior-di-latte": {
@@ -3472,12 +3472,12 @@
    "carbs_g": 0.7,
    "fat_g": 22.0,
    "salt_g": 0.3,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:44Z",
+   "fetched_at": "2026-08-08T12:47:29Z",
    "quality_flags": null
   },
   "fire-roasted-peppers": {
@@ -3491,12 +3491,12 @@
    "carbs_g": 1.9,
    "fat_g": 0.0,
    "salt_g": 0.63,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:44Z",
+   "fetched_at": "2026-08-08T12:47:29Z",
    "quality_flags": null
   },
   "garlic-aioli": {
@@ -3510,12 +3510,12 @@
    "carbs_g": 3.0,
    "fat_g": 14.0,
    "salt_g": 0.5,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:44Z",
+   "fetched_at": "2026-08-08T12:47:29Z",
    "quality_flags": null
   },
   "garlic-butter": {
@@ -3529,12 +3529,12 @@
    "carbs_g": 1.5,
    "fat_g": 24.0,
    "salt_g": 0.53,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:44Z",
+   "fetched_at": "2026-08-08T12:47:29Z",
    "quality_flags": null
   },
   "genovese-pesto": {
@@ -3548,12 +3548,12 @@
    "carbs_g": 5.0,
    "fat_g": 8.9,
    "salt_g": 0.6,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:44Z",
+   "fetched_at": "2026-08-08T12:47:29Z",
    "quality_flags": null
   },
   "goat-cheese": {
@@ -3567,12 +3567,12 @@
    "carbs_g": 0.5,
    "fat_g": 16.0,
    "salt_g": 0.65,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:44Z",
+   "fetched_at": "2026-08-08T12:47:29Z",
    "quality_flags": null
   },
   "harissa": {
@@ -3586,12 +3586,12 @@
    "carbs_g": 1.0,
    "fat_g": 4.6,
    "salt_g": 0.45,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:44Z",
+   "fetched_at": "2026-08-08T12:47:29Z",
    "quality_flags": null
   },
   "harissa-king-prawn-skewers": {
@@ -3610,7 +3610,7 @@
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:44Z",
+   "fetched_at": "2026-08-08T12:47:29Z",
    "quality_flags": null
   },
   "honeycomb": {
@@ -3624,12 +3624,12 @@
    "carbs_g": 28.0,
    "fat_g": 0.6,
    "salt_g": 0.6,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:44Z",
+   "fetched_at": "2026-08-08T12:47:29Z",
    "quality_flags": null
   },
   "ketchup": {
@@ -3643,12 +3643,12 @@
    "carbs_g": 10.0,
    "fat_g": 0.0,
    "salt_g": 1.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:44Z",
+   "fetched_at": "2026-08-08T12:47:29Z",
    "quality_flags": null
   },
   "lime-cordial-50ml": {
@@ -3662,12 +3662,12 @@
    "carbs_g": 1.2,
    "fat_g": 0.0,
    "salt_g": 0.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:44Z",
+   "fetched_at": "2026-08-08T12:47:29Z",
    "quality_flags": null
   },
   "mafaldine": {
@@ -3681,12 +3681,12 @@
    "carbs_g": 70.0,
    "fat_g": 3.3,
    "salt_g": 0.08,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:44Z",
+   "fetched_at": "2026-08-08T12:47:29Z",
    "quality_flags": null
   },
   "mascarpone": {
@@ -3700,12 +3700,12 @@
    "carbs_g": 0.9,
    "fat_g": 10.0,
    "salt_g": 0.11,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:44Z",
+   "fetched_at": "2026-08-08T12:47:29Z",
    "quality_flags": null
   },
   "meatballs": {
@@ -3724,7 +3724,7 @@
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:44Z",
+   "fetched_at": "2026-08-08T12:47:29Z",
    "quality_flags": null
   },
   "mozzarella": {
@@ -3738,12 +3738,12 @@
    "carbs_g": 0.7,
    "fat_g": 16.0,
    "salt_g": 0.89,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:44Z",
+   "fetched_at": "2026-08-08T12:47:29Z",
    "quality_flags": null
   },
   "mushrooms": {
@@ -3757,12 +3757,12 @@
    "carbs_g": 0.0,
    "fat_g": 0.0,
    "salt_g": 0.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:44Z",
+   "fetched_at": "2026-08-08T12:47:29Z",
    "quality_flags": null
   },
   "nduja": {
@@ -3781,7 +3781,7 @@
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:44Z",
+   "fetched_at": "2026-08-08T12:47:29Z",
    "quality_flags": null
   },
   "olive-oil": {
@@ -3795,12 +3795,12 @@
    "carbs_g": 0.0,
    "fat_g": 8.4,
    "salt_g": 0.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:44Z",
+   "fetched_at": "2026-08-08T12:47:29Z",
    "quality_flags": null
   },
   "olives": {
@@ -3814,12 +3814,12 @@
    "carbs_g": 0.5,
    "fat_g": 11.0,
    "salt_g": 1.3,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:44Z",
+   "fetched_at": "2026-08-08T12:47:29Z",
    "quality_flags": null
   },
   "pancetta-lardons": {
@@ -3838,7 +3838,7 @@
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:44Z",
+   "fetched_at": "2026-08-08T12:47:29Z",
    "quality_flags": null
   },
   "pepperoni": {
@@ -3857,7 +3857,7 @@
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:44Z",
+   "fetched_at": "2026-08-08T12:47:29Z",
    "quality_flags": null
   },
   "pinenuts": {
@@ -3871,12 +3871,12 @@
    "carbs_g": 0.0,
    "fat_g": 2.0,
    "salt_g": 0.01,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:44Z",
+   "fetched_at": "2026-08-08T12:47:29Z",
    "quality_flags": null
   },
   "pizza-olives": {
@@ -3890,12 +3890,12 @@
    "carbs_g": 0.5,
    "fat_g": 11.0,
    "salt_g": 1.3,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:44Z",
+   "fetched_at": "2026-08-08T12:47:29Z",
    "quality_flags": null
   },
   "pizza-sauce": {
@@ -3909,12 +3909,12 @@
    "carbs_g": 1.9,
    "fat_g": 0.0,
    "salt_g": 0.4,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:44Z",
+   "fetched_at": "2026-08-08T12:47:29Z",
    "quality_flags": null
   },
   "pomodoro-sauce": {
@@ -3928,12 +3928,12 @@
    "carbs_g": 7.4,
    "fat_g": 4.1,
    "salt_g": 1.3,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:44Z",
+   "fetched_at": "2026-08-08T12:47:29Z",
    "quality_flags": null
   },
   "prosciutto": {
@@ -3952,7 +3952,7 @@
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:44Z",
+   "fetched_at": "2026-08-08T12:47:29Z",
    "quality_flags": null
   },
   "pulled-harissa-chicken-breast": {
@@ -3971,7 +3971,7 @@
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:44Z",
+   "fetched_at": "2026-08-08T12:47:29Z",
    "quality_flags": null
   },
   "pulled-pork": {
@@ -3990,7 +3990,7 @@
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:44Z",
+   "fetched_at": "2026-08-08T12:47:29Z",
    "quality_flags": null
   },
   "red-orange-baby-plum-tomato": {
@@ -4004,12 +4004,12 @@
    "carbs_g": 2.0,
    "fat_g": 0.0,
    "salt_g": 0.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:44Z",
+   "fetched_at": "2026-08-08T12:47:29Z",
    "quality_flags": null
   },
   "red-chillies": {
@@ -4023,12 +4023,12 @@
    "carbs_g": 0.0,
    "fat_g": 0.0,
    "salt_g": 0.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:44Z",
+   "fetched_at": "2026-08-08T12:47:29Z",
    "quality_flags": null
   },
   "red-onion": {
@@ -4042,12 +4042,12 @@
    "carbs_g": 4.0,
    "fat_g": 0.0,
    "salt_g": 0.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:44Z",
+   "fetched_at": "2026-08-08T12:47:29Z",
    "quality_flags": null
   },
   "riserva-block-cheese": {
@@ -4061,12 +4061,12 @@
    "carbs_g": 0.0,
    "fat_g": 1.2,
    "salt_g": 0.13,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:44Z",
+   "fetched_at": "2026-08-08T12:47:29Z",
    "quality_flags": null
   },
   "riserva-crisp": {
@@ -4080,12 +4080,12 @@
    "carbs_g": 0.0,
    "fat_g": 5.6,
    "salt_g": 0.28,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:44Z",
+   "fetched_at": "2026-08-08T12:47:29Z",
    "quality_flags": null
   },
   "roasted-peppers": {
@@ -4099,12 +4099,12 @@
    "carbs_g": 1.9,
    "fat_g": 0.0,
    "salt_g": 0.63,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:44Z",
+   "fetched_at": "2026-08-08T12:47:29Z",
    "quality_flags": null
   },
   "rocket": {
@@ -4118,12 +4118,12 @@
    "carbs_g": 0.0,
    "fat_g": 0.0,
    "salt_g": 0.01,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:44Z",
+   "fetched_at": "2026-08-08T12:47:29Z",
    "quality_flags": null
   },
   "roquito-chilli-pearl": {
@@ -4137,12 +4137,12 @@
    "carbs_g": 4.1,
    "fat_g": 0.0,
    "salt_g": 0.11,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:44Z",
+   "fetched_at": "2026-08-08T12:47:29Z",
    "quality_flags": null
   },
   "roquito-hot-honey": {
@@ -4156,12 +4156,12 @@
    "carbs_g": 27.0,
    "fat_g": 0.0,
    "salt_g": 0.0,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:44Z",
+   "fetched_at": "2026-08-08T12:47:29Z",
    "quality_flags": null
   },
   "rosemary": {
@@ -4175,12 +4175,12 @@
    "carbs_g": 0.0,
    "fat_g": 0.0,
    "salt_g": 0.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:44Z",
+   "fetched_at": "2026-08-08T12:47:29Z",
    "quality_flags": null
   },
   "sage": {
@@ -4194,12 +4194,12 @@
    "carbs_g": 0.5,
    "fat_g": 0.0,
    "salt_g": 0.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:44Z",
+   "fetched_at": "2026-08-08T12:47:29Z",
    "quality_flags": null
   },
   "salted-caramel-sauce": {
@@ -4213,12 +4213,12 @@
    "carbs_g": 3.1,
    "fat_g": 1.0,
    "salt_g": 0.07,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:44Z",
+   "fetched_at": "2026-08-08T12:47:29Z",
    "quality_flags": null
   },
   "smoked-garlic-oil": {
@@ -4232,12 +4232,12 @@
    "carbs_g": 0.0,
    "fat_g": 14.0,
    "salt_g": 0.11,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:44Z",
+   "fetched_at": "2026-08-08T12:47:29Z",
    "quality_flags": null
   },
   "spaghetti": {
@@ -4251,12 +4251,12 @@
    "carbs_g": 61.0,
    "fat_g": 17.0,
    "salt_g": 0.8,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:44Z",
+   "fetched_at": "2026-08-08T12:47:29Z",
    "quality_flags": null
   },
   "spianata": {
@@ -4275,7 +4275,7 @@
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:44Z",
+   "fetched_at": "2026-08-08T12:47:29Z",
    "quality_flags": null
   },
   "spicy-roquito-chillies": {
@@ -4289,12 +4289,12 @@
    "carbs_g": 2.3,
    "fat_g": 0.0,
    "salt_g": 0.14,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:44Z",
+   "fetched_at": "2026-08-08T12:47:29Z",
    "quality_flags": null
   },
   "spinach": {
@@ -4308,12 +4308,12 @@
    "carbs_g": 0.0,
    "fat_g": 0.0,
    "salt_g": 0.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:44Z",
+   "fetched_at": "2026-08-08T12:47:29Z",
    "quality_flags": null
   },
   "sunblush-baby-tomato": {
@@ -4327,12 +4327,12 @@
    "carbs_g": 1.1,
    "fat_g": 0.0,
    "salt_g": 0.19,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:44Z",
+   "fetched_at": "2026-08-08T12:47:29Z",
    "quality_flags": null
   },
   "tomato-ketchup": {
@@ -4346,12 +4346,12 @@
    "carbs_g": 10.0,
    "fat_g": 0.0,
    "salt_g": 1.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:44Z",
+   "fetched_at": "2026-08-08T12:47:29Z",
    "quality_flags": null
   },
   "torn-chicken-breast": {
@@ -4370,7 +4370,7 @@
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:44Z",
+   "fetched_at": "2026-08-08T12:47:29Z",
    "quality_flags": null
   },
   "truffle-paste": {
@@ -4384,12 +4384,12 @@
    "carbs_g": 0.0,
    "fat_g": 2.4,
    "salt_g": 0.16,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:44Z",
+   "fetched_at": "2026-08-08T12:47:29Z",
    "quality_flags": null
   },
   "vegan-mozzarisella": {
@@ -4403,12 +4403,12 @@
    "carbs_g": 8.5,
    "fat_g": 16.0,
    "salt_g": 1.5,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:44Z",
+   "fetched_at": "2026-08-08T12:47:29Z",
    "quality_flags": null
   },
   "whipping-cream": {
@@ -4422,12 +4422,12 @@
    "carbs_g": 2.6,
    "fat_g": 40.0,
    "salt_g": 0.06,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:44Z",
+   "fetched_at": "2026-08-08T12:47:29Z",
    "quality_flags": null
   },
   "yellow-tomato-pepper-dressing": {
@@ -4441,12 +4441,12 @@
    "carbs_g": 1.6,
    "fat_g": 0.7,
    "salt_g": 0.13,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:44Z",
+   "fetched_at": "2026-08-08T12:47:29Z",
    "quality_flags": null
   },
   "ask-for-double-cheese": {
@@ -4460,12 +4460,12 @@
    "carbs_g": 0.7,
    "fat_g": 16.0,
    "salt_g": 0.89,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:44Z",
+   "fetched_at": "2026-08-08T12:47:29Z",
    "quality_flags": null
   },
   "add-creamy-burrata": {
@@ -4479,12 +4479,12 @@
    "carbs_g": 2.0,
    "fat_g": 24.0,
    "salt_g": 0.8,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:44Z",
+   "fetched_at": "2026-08-08T12:47:29Z",
    "quality_flags": null
   },
   "add-goat-s-cheese": {
@@ -4498,12 +4498,12 @@
    "carbs_g": 0.5,
    "fat_g": 16.0,
    "salt_g": 0.65,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:44Z",
+   "fetched_at": "2026-08-08T12:47:29Z",
    "quality_flags": null
   },
   "add-chicken-skewer": {
@@ -4522,7 +4522,7 @@
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:44Z",
+   "fetched_at": "2026-08-08T12:47:29Z",
    "quality_flags": null
   },
   "add-harissa-king-prawn-skewer": {
@@ -4541,7 +4541,7 @@
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:44Z",
+   "fetched_at": "2026-08-08T12:47:29Z",
    "quality_flags": null
   },
   "add-torn-chicken-breast": {
@@ -4560,7 +4560,7 @@
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:44Z",
+   "fetched_at": "2026-08-08T12:47:29Z",
    "quality_flags": null
   },
   "carrot-cucumber-dough-crust": {
@@ -4574,12 +4574,12 @@
    "carbs_g": 37.0,
    "fat_g": 4.4,
    "salt_g": 1.4,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:44Z",
+   "fetched_at": "2026-08-08T12:47:29Z",
    "quality_flags": null
   },
   "carrot-cucumber-pasta-crisps": {
@@ -4593,12 +4593,12 @@
    "carbs_g": 15.0,
    "fat_g": 1.3,
    "salt_g": 0.7,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:44Z",
+   "fetched_at": "2026-08-08T12:47:29Z",
    "quality_flags": null
   },
   "kids-pizza-margherita": {
@@ -4612,12 +4612,12 @@
    "carbs_g": 54.0,
    "fat_g": 11.0,
    "salt_g": 1.7,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:44Z",
+   "fetched_at": "2026-08-08T12:47:29Z",
    "quality_flags": null
   },
   "kids-non-gluten-margherita-pizza": {
@@ -4631,12 +4631,12 @@
    "carbs_g": 97.0,
    "fat_g": 19.0,
    "salt_g": 1.9,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:44Z",
+   "fetched_at": "2026-08-08T12:47:29Z",
    "quality_flags": null
   },
   "kids-vegan-pizza-margherita": {
@@ -4650,12 +4650,12 @@
    "carbs_g": 58.0,
    "fat_g": 9.6,
    "salt_g": 1.9,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:44Z",
+   "fetched_at": "2026-08-08T12:47:29Z",
    "quality_flags": null
   },
   "kids-non-gluten-vegan-margherita": {
@@ -4669,12 +4669,12 @@
    "carbs_g": 101.0,
    "fat_g": 19.0,
    "salt_g": 2.2,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:44Z",
+   "fetched_at": "2026-08-08T12:47:29Z",
    "quality_flags": null
   },
   "kids-non-gluten-pizza-base-only": {
@@ -4688,12 +4688,12 @@
    "carbs_g": 96.0,
    "fat_g": 11.0,
    "salt_g": 1.3,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:44Z",
+   "fetched_at": "2026-08-08T12:47:29Z",
    "quality_flags": null
   },
   "kids-ham-topping": {
@@ -4712,7 +4712,7 @@
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:44Z",
+   "fetched_at": "2026-08-08T12:47:29Z",
    "quality_flags": null
   },
   "kids-sun-blush-baby-tomato-topping": {
@@ -4726,12 +4726,12 @@
    "carbs_g": 1.1,
    "fat_g": 0.0,
    "salt_g": 0.19,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:44Z",
+   "fetched_at": "2026-08-08T12:47:29Z",
    "quality_flags": null
   },
   "kids-pepperoni-topping": {
@@ -4750,7 +4750,7 @@
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:44Z",
+   "fetched_at": "2026-08-08T12:47:29Z",
    "quality_flags": null
   },
   "kids-olives-topping": {
@@ -4764,12 +4764,12 @@
    "carbs_g": 0.0,
    "fat_g": 5.5,
    "salt_g": 0.67,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:44Z",
+   "fetched_at": "2026-08-08T12:47:29Z",
    "quality_flags": null
   },
   "kids-spinach-topping": {
@@ -4783,12 +4783,12 @@
    "carbs_g": 0.0,
    "fat_g": 0.0,
    "salt_g": 0.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:44Z",
+   "fetched_at": "2026-08-08T12:47:29Z",
    "quality_flags": null
   },
   "kids-chicken-topping": {
@@ -4807,7 +4807,7 @@
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:44Z",
+   "fetched_at": "2026-08-08T12:47:29Z",
    "quality_flags": null
   },
   "kids-mozzarella-topping": {
@@ -4821,12 +4821,12 @@
    "carbs_g": 0.0,
    "fat_g": 7.9,
    "salt_g": 0.45,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:44Z",
+   "fetched_at": "2026-08-08T12:47:29Z",
    "quality_flags": null
   },
   "kids-mushroom-topping": {
@@ -4840,12 +4840,12 @@
    "carbs_g": 0.0,
    "fat_g": 0.0,
    "salt_g": 0.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:44Z",
+   "fetched_at": "2026-08-08T12:47:29Z",
    "quality_flags": null
   },
   "kids-roasted-peppers-topping": {
@@ -4859,12 +4859,12 @@
    "carbs_g": 1.1,
    "fat_g": 0.0,
    "salt_g": 0.38,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:44Z",
+   "fetched_at": "2026-08-08T12:47:29Z",
    "quality_flags": null
   },
   "kids-spaghetti-pomodoro": {
@@ -4878,12 +4878,12 @@
    "carbs_g": 38.0,
    "fat_g": 12.0,
    "salt_g": 1.8,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:44Z",
+   "fetched_at": "2026-08-08T12:47:29Z",
    "quality_flags": null
   },
   "kids-casareccia-pomodoro": {
@@ -4897,12 +4897,12 @@
    "carbs_g": 38.0,
    "fat_g": 12.0,
    "salt_g": 1.8,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:44Z",
+   "fetched_at": "2026-08-08T12:47:29Z",
    "quality_flags": null
   },
   "kids-non-gluten-pomodoro-pasta": {
@@ -4916,12 +4916,12 @@
    "carbs_g": 49.0,
    "fat_g": 5.4,
    "salt_g": 1.6,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:44Z",
+   "fetched_at": "2026-08-08T12:47:29Z",
    "quality_flags": null
   },
   "kids-spaghetti-cheese-sauce": {
@@ -4935,12 +4935,12 @@
    "carbs_g": 31.0,
    "fat_g": 22.0,
    "salt_g": 1.4,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:44Z",
+   "fetched_at": "2026-08-08T12:47:29Z",
    "quality_flags": null
   },
   "kids-casareccia-cheese-pasta": {
@@ -4954,12 +4954,12 @@
    "carbs_g": 31.0,
    "fat_g": 22.0,
    "salt_g": 1.4,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:44Z",
+   "fetched_at": "2026-08-08T12:47:29Z",
    "quality_flags": null
   },
   "kids-non-gluten-cheese-pasta": {
@@ -4973,12 +4973,12 @@
    "carbs_g": 42.0,
    "fat_g": 15.0,
    "salt_g": 1.3,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:44Z",
+   "fetched_at": "2026-08-08T12:47:29Z",
    "quality_flags": null
   },
   "kids-spaghetti-bolognese": {
@@ -4997,7 +4997,7 @@
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:44Z",
+   "fetched_at": "2026-08-08T12:47:29Z",
    "quality_flags": null
   },
   "kids-casareccia-bolognese": {
@@ -5016,7 +5016,7 @@
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:44Z",
+   "fetched_at": "2026-08-08T12:47:29Z",
    "quality_flags": null
   },
   "kids-non-gluten-bolognese-pasta": {
@@ -5035,7 +5035,7 @@
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:44Z",
+   "fetched_at": "2026-08-08T12:47:29Z",
    "quality_flags": null
   },
   "kids-spaghetti-lentil-ragu": {
@@ -5049,12 +5049,12 @@
    "carbs_g": 41.0,
    "fat_g": 15.0,
    "salt_g": 1.2,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:44Z",
+   "fetched_at": "2026-08-08T12:47:29Z",
    "quality_flags": null
   },
   "kids-casareccia-lentil-ragu": {
@@ -5068,12 +5068,12 @@
    "carbs_g": 41.0,
    "fat_g": 15.0,
    "salt_g": 1.2,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:44Z",
+   "fetched_at": "2026-08-08T12:47:29Z",
    "quality_flags": null
   },
   "kids-non-gluten-vegan-lentil-ragu": {
@@ -5087,12 +5087,12 @@
    "carbs_g": 52.0,
    "fat_g": 7.5,
    "salt_g": 1.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:45Z",
+   "fetched_at": "2026-08-08T12:47:29Z",
    "quality_flags": null
   },
   "kids-sweet-potato-fries": {
@@ -5106,12 +5106,12 @@
    "carbs_g": 35.0,
    "fat_g": 9.3,
    "salt_g": 0.5,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:45Z",
+   "fetched_at": "2026-08-08T12:47:29Z",
    "quality_flags": null
   },
   "kids-chips": {
@@ -5125,12 +5125,12 @@
    "carbs_g": 41.0,
    "fat_g": 21.0,
    "salt_g": 0.24,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:45Z",
+   "fetched_at": "2026-08-08T12:47:29Z",
    "quality_flags": null
   },
   "kids-green-beans": {
@@ -5144,12 +5144,12 @@
    "carbs_g": 1.7,
    "fat_g": 0.0,
    "salt_g": 0.01,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:45Z",
+   "fetched_at": "2026-08-08T12:47:29Z",
    "quality_flags": null
   },
   "chilly-billy-ice-lolly": {
@@ -5163,12 +5163,12 @@
    "carbs_g": 10.0,
    "fat_g": 0.0,
    "salt_g": 0.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:45Z",
+   "fetched_at": "2026-08-08T12:47:29Z",
    "quality_flags": null
   },
   "kids-vanilla-gelato": {
@@ -5182,12 +5182,12 @@
    "carbs_g": 8.1,
    "fat_g": 2.7,
    "salt_g": 0.04,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:45Z",
+   "fetched_at": "2026-08-08T12:47:29Z",
    "quality_flags": null
   },
   "kids-chocolate-gelato": {
@@ -5201,12 +5201,12 @@
    "carbs_g": 7.9,
    "fat_g": 3.2,
    "salt_g": 0.05,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:45Z",
+   "fetched_at": "2026-08-08T12:47:29Z",
    "quality_flags": null
   },
   "kids-candy-floss-sundae": {
@@ -5220,12 +5220,12 @@
    "carbs_g": 38.0,
    "fat_g": 5.5,
    "salt_g": 0.1,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:45Z",
+   "fetched_at": "2026-08-08T12:47:29Z",
    "quality_flags": null
   },
   "kids-sugar-cones-salted-caramel-sauce-no-gelato": {
@@ -5239,12 +5239,12 @@
    "carbs_g": 7.9,
    "fat_g": 2.1,
    "salt_g": 0.16,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:45Z",
+   "fetched_at": "2026-08-08T12:47:29Z",
    "quality_flags": null
   },
   "mini-cones-only": {
@@ -5258,12 +5258,12 @@
    "carbs_g": 2.6,
    "fat_g": 0.0,
    "salt_g": 0.02,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:45Z",
+   "fetched_at": "2026-08-08T12:47:29Z",
    "quality_flags": null
   },
   "kids-fruit-pot": {
@@ -5277,12 +5277,12 @@
    "carbs_g": 4.6,
    "fat_g": 0.0,
    "salt_g": 0.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:45Z",
+   "fetched_at": "2026-08-08T12:47:29Z",
    "quality_flags": null
   },
   "kids-chocacino": {
@@ -5296,12 +5296,12 @@
    "carbs_g": 8.6,
    "fat_g": 2.3,
    "salt_g": 0.07,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:45Z",
+   "fetched_at": "2026-08-08T12:47:29Z",
    "quality_flags": null
   },
   "kids-oat-chocacino": {
@@ -5315,12 +5315,12 @@
    "carbs_g": 13.0,
    "fat_g": 2.4,
    "salt_g": 0.1,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:45Z",
+   "fetched_at": "2026-08-08T12:47:29Z",
    "quality_flags": null
   },
   "tiny-tummies-dough-crust": {
@@ -5334,12 +5334,12 @@
    "carbs_g": 30.0,
    "fat_g": 3.1,
    "salt_g": 1.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:45Z",
+   "fetched_at": "2026-08-08T12:47:29Z",
    "quality_flags": null
   },
   "tiny-spaghetti-pomodoro": {
@@ -5353,12 +5353,12 @@
    "carbs_g": 19.0,
    "fat_g": 6.2,
    "salt_g": 0.88,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:45Z",
+   "fetched_at": "2026-08-08T12:47:29Z",
    "quality_flags": null
   },
   "tiny-casareccia-pomodoro": {
@@ -5372,12 +5372,12 @@
    "carbs_g": 19.0,
    "fat_g": 6.2,
    "salt_g": 0.88,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:45Z",
+   "fetched_at": "2026-08-08T12:47:29Z",
    "quality_flags": null
   },
   "tiny-non-gluten-vegan-pomodoro-pasta": {
@@ -5391,12 +5391,12 @@
    "carbs_g": 24.0,
    "fat_g": 2.7,
    "salt_g": 0.8,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:45Z",
+   "fetched_at": "2026-08-08T12:47:29Z",
    "quality_flags": null
   },
   "kids-milk": {
@@ -5410,12 +5410,12 @@
    "carbs_g": 9.2,
    "fat_g": 3.0,
    "salt_g": 0.22,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:45Z",
+   "fetched_at": "2026-08-08T12:47:29Z",
    "quality_flags": null
   },
   "kids-oat-milk": {
@@ -5429,12 +5429,12 @@
    "carbs_g": 14.0,
    "fat_g": 4.4,
    "salt_g": 0.2,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:45Z",
+   "fetched_at": "2026-08-08T12:47:29Z",
    "quality_flags": null
   },
   "kids-flawsome-apple-blackcurrant-carton": {
@@ -5448,12 +5448,12 @@
    "carbs_g": 18.0,
    "fat_g": 0.0,
    "salt_g": 0.0,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:45Z",
+   "fetched_at": "2026-08-08T12:47:29Z",
    "quality_flags": null
   },
   "kids-flawsome-sweet-apple": {
@@ -5467,12 +5467,12 @@
    "carbs_g": 18.0,
    "fat_g": 0.0,
    "salt_g": 0.0,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:45Z",
+   "fetched_at": "2026-08-08T12:47:29Z",
    "quality_flags": null
   },
   "kids-apple-juice": {
@@ -5486,12 +5486,12 @@
    "carbs_g": 20.0,
    "fat_g": 0.0,
    "salt_g": 0.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:45Z",
+   "fetched_at": "2026-08-08T12:47:29Z",
    "quality_flags": null
   },
   "kids-orange-juice": {
@@ -5505,12 +5505,12 @@
    "carbs_g": 19.0,
    "fat_g": 0.0,
    "salt_g": 0.08,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:45Z",
+   "fetched_at": "2026-08-08T12:47:29Z",
    "quality_flags": null
   },
   "strawberry-sparkler": {
@@ -5524,12 +5524,12 @@
    "carbs_g": 11.0,
    "fat_g": 0.0,
    "salt_g": 0.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:45Z",
+   "fetched_at": "2026-08-08T12:47:30Z",
    "quality_flags": null
   },
   "passion-fruit-sparkler": {
@@ -5543,12 +5543,12 @@
    "carbs_g": 17.0,
    "fat_g": 0.0,
    "salt_g": 0.01,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:45Z",
+   "fetched_at": "2026-08-08T12:47:30Z",
    "quality_flags": null
   },
   "morello-cherry-refresher": {
@@ -5562,12 +5562,12 @@
    "carbs_g": 50.0,
    "fat_g": 0.0,
    "salt_g": 0.01,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:45Z",
+   "fetched_at": "2026-08-08T12:47:30Z",
    "quality_flags": null
   },
   "pineapple-and-citrus-refresher": {
@@ -5581,12 +5581,12 @@
    "carbs_g": 48.0,
    "fat_g": 0.0,
    "salt_g": 0.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:45Z",
+   "fetched_at": "2026-08-08T12:47:30Z",
    "quality_flags": null
   },
   "raspberry-rose-lemonade": {
@@ -5600,12 +5600,12 @@
    "carbs_g": 28.0,
    "fat_g": 0.0,
    "salt_g": 0.03,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:45Z",
+   "fetched_at": "2026-08-08T12:47:30Z",
    "quality_flags": null
   },
   "raspberry-mint-cooler": {
@@ -5619,12 +5619,12 @@
    "carbs_g": 15.0,
    "fat_g": 0.0,
    "salt_g": 0.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:45Z",
+   "fetched_at": "2026-08-08T12:47:30Z",
    "quality_flags": null
   },
   "hip-pop-strawberry-pineapple": {
@@ -5638,12 +5638,12 @@
    "carbs_g": 9.2,
    "fat_g": 0.0,
    "salt_g": 0.25,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:45Z",
+   "fetched_at": "2026-08-08T12:47:30Z",
    "quality_flags": null
   },
   "hip-pop-kombucha-blueberry-ginger": {
@@ -5657,12 +5657,12 @@
    "carbs_g": 8.6,
    "fat_g": 0.7,
    "salt_g": 0.25,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:45Z",
+   "fetched_at": "2026-08-08T12:47:30Z",
    "quality_flags": null
   },
   "trip-mindful-blend-blood-orange-rosemary": {
@@ -5676,12 +5676,12 @@
    "carbs_g": 5.8,
    "fat_g": 0.0,
    "salt_g": 0.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:45Z",
+   "fetched_at": "2026-08-08T12:47:30Z",
    "quality_flags": null
   },
   "trip-cbd-blend-raspberry-orange-blossom": {
@@ -5695,12 +5695,12 @@
    "carbs_g": 7.0,
    "fat_g": 0.0,
    "salt_g": 0.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:45Z",
+   "fetched_at": "2026-08-08T12:47:30Z",
    "quality_flags": null
   },
   "original-tonic": {
@@ -5714,12 +5714,12 @@
    "carbs_g": 8.4,
    "fat_g": 0.0,
    "salt_g": 0.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:45Z",
+   "fetched_at": "2026-08-08T12:47:30Z",
    "quality_flags": null
   },
   "raspberry-rose-flavoured-soda-drink": {
@@ -5733,12 +5733,12 @@
    "carbs_g": 8.8,
    "fat_g": 0.0,
    "salt_g": 0.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:45Z",
+   "fetched_at": "2026-08-08T12:47:30Z",
    "quality_flags": null
   },
   "blood-orange-elderflower-tonic": {
@@ -5752,12 +5752,12 @@
    "carbs_g": 8.4,
    "fat_g": 0.0,
    "salt_g": 0.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:45Z",
+   "fetched_at": "2026-08-08T12:47:30Z",
    "quality_flags": null
   },
   "roasted-pineapple-soda": {
@@ -5771,12 +5771,12 @@
    "carbs_g": 9.0,
    "fat_g": 0.0,
    "salt_g": 0.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:45Z",
+   "fetched_at": "2026-08-08T12:47:30Z",
    "quality_flags": null
   },
   "pink-grapefruit-soda": {
@@ -5790,12 +5790,12 @@
    "carbs_g": 9.2,
    "fat_g": 0.0,
    "salt_g": 0.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:45Z",
+   "fetched_at": "2026-08-08T12:47:30Z",
    "quality_flags": null
   },
   "ginger-ale": {
@@ -5809,12 +5809,12 @@
    "carbs_g": 8.4,
    "fat_g": 0.0,
    "salt_g": 0.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:45Z",
+   "fetched_at": "2026-08-08T12:47:30Z",
    "quality_flags": null
   },
   "san-pellegrino-lemon": {
@@ -5828,12 +5828,12 @@
    "carbs_g": 16.0,
    "fat_g": 0.0,
    "salt_g": 0.0,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:45Z",
+   "fetched_at": "2026-08-08T12:47:30Z",
    "quality_flags": null
   },
   "san-pellegrino-blood-orange": {
@@ -5847,12 +5847,12 @@
    "carbs_g": 16.0,
    "fat_g": 0.0,
    "salt_g": 0.0,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:45Z",
+   "fetched_at": "2026-08-08T12:47:30Z",
    "quality_flags": null
   },
   "coke-small": {
@@ -5866,12 +5866,12 @@
    "carbs_g": 36.0,
    "fat_g": 0.0,
    "salt_g": 0.0,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:45Z",
+   "fetched_at": "2026-08-08T12:47:30Z",
    "quality_flags": null
   },
   "coke-large": {
@@ -5885,12 +5885,12 @@
    "carbs_g": 73.0,
    "fat_g": 0.0,
    "salt_g": 0.0,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:45Z",
+   "fetched_at": "2026-08-08T12:47:30Z",
    "quality_flags": null
   },
   "take-away-only-coke": {
@@ -5904,12 +5904,12 @@
    "carbs_g": 36.0,
    "fat_g": 0.0,
    "salt_g": 0.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:45Z",
+   "fetched_at": "2026-08-08T12:47:30Z",
    "quality_flags": null
   },
   "diet-coke-small": {
@@ -5923,12 +5923,12 @@
    "carbs_g": 0.0,
    "fat_g": 0.0,
    "salt_g": 0.0,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:45Z",
+   "fetched_at": "2026-08-08T12:47:30Z",
    "quality_flags": null
   },
   "diet-coke-large": {
@@ -5942,12 +5942,12 @@
    "carbs_g": 0.0,
    "fat_g": 0.0,
    "salt_g": 0.0,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:45Z",
+   "fetched_at": "2026-08-08T12:47:30Z",
    "quality_flags": null
   },
   "coke-zero-small": {
@@ -5961,12 +5961,12 @@
    "carbs_g": 0.0,
    "fat_g": 0.0,
    "salt_g": 0.0,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:45Z",
+   "fetched_at": "2026-08-08T12:47:30Z",
    "quality_flags": null
   },
   "sprite-zero-large": {
@@ -5980,12 +5980,12 @@
    "carbs_g": 0.0,
    "fat_g": 0.0,
    "salt_g": 0.0,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:45Z",
+   "fetched_at": "2026-08-08T12:47:30Z",
    "quality_flags": null
   },
   "sicilian-still-lemonade": {
@@ -5999,12 +5999,12 @@
    "carbs_g": 12.0,
    "fat_g": 1.3,
    "salt_g": 0.0,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:45Z",
+   "fetched_at": "2026-08-08T12:47:30Z",
    "quality_flags": null
   },
   "appletiser": {
@@ -6018,12 +6018,12 @@
    "carbs_g": 30.0,
    "fat_g": 0.0,
    "salt_g": 0.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:45Z",
+   "fetched_at": "2026-08-08T12:47:30Z",
    "quality_flags": null
   },
   "apple-juice": {
@@ -6037,12 +6037,12 @@
    "carbs_g": 25.0,
    "fat_g": 0.0,
    "salt_g": 0.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:45Z",
+   "fetched_at": "2026-08-08T12:47:30Z",
    "quality_flags": null
   },
   "orange-juice": {
@@ -6056,12 +6056,12 @@
    "carbs_g": 24.0,
    "fat_g": 0.0,
    "salt_g": 0.1,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:45Z",
+   "fetched_at": "2026-08-08T12:47:30Z",
    "quality_flags": null
   },
   "belu-water-still-small": {
@@ -6075,12 +6075,12 @@
    "carbs_g": 0.0,
    "fat_g": 0.0,
    "salt_g": 0.0,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:45Z",
+   "fetched_at": "2026-08-08T12:47:30Z",
    "quality_flags": null
   },
   "belu-still-water-large": {
@@ -6094,12 +6094,12 @@
    "carbs_g": 0.0,
    "fat_g": 0.0,
    "salt_g": 0.0,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:45Z",
+   "fetched_at": "2026-08-08T12:47:30Z",
    "quality_flags": null
   },
   "belu-sparkling-water-small": {
@@ -6113,12 +6113,12 @@
    "carbs_g": 0.0,
    "fat_g": 0.0,
    "salt_g": 0.0,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:45Z",
+   "fetched_at": "2026-08-08T12:47:30Z",
    "quality_flags": null
   },
   "belu-sparkling-water-large": {
@@ -6132,12 +6132,12 @@
    "carbs_g": 0.0,
    "fat_g": 0.0,
    "salt_g": 0.0,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:45Z",
+   "fetched_at": "2026-08-08T12:47:30Z",
    "quality_flags": null
   },
   "peroni-zero": {
@@ -6151,12 +6151,12 @@
    "carbs_g": 17.0,
    "fat_g": 0.0,
    "salt_g": 0.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:45Z",
+   "fetched_at": "2026-08-08T12:47:30Z",
    "quality_flags": null
   },
   "americano": {
@@ -6170,12 +6170,12 @@
    "carbs_g": 7.2,
    "fat_g": 0.9,
    "salt_g": 0.16,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:45Z",
+   "fetched_at": "2026-08-08T12:47:30Z",
    "quality_flags": null
   },
   "black-americano": {
@@ -6189,12 +6189,12 @@
    "carbs_g": 4.7,
    "fat_g": 0.0,
    "salt_g": 0.1,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:45Z",
+   "fetched_at": "2026-08-08T12:47:30Z",
    "quality_flags": null
   },
   "cappuccino": {
@@ -6208,12 +6208,12 @@
    "carbs_g": 9.8,
    "fat_g": 1.7,
    "salt_g": 0.21,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:45Z",
+   "fetched_at": "2026-08-08T12:47:30Z",
    "quality_flags": null
   },
   "decaf-americano": {
@@ -6227,12 +6227,12 @@
    "carbs_g": 7.2,
    "fat_g": 0.9,
    "salt_g": 0.16,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:45Z",
+   "fetched_at": "2026-08-08T12:47:30Z",
    "quality_flags": null
   },
   "decaf-black-americano": {
@@ -6246,12 +6246,12 @@
    "carbs_g": 4.7,
    "fat_g": 0.0,
    "salt_g": 0.1,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:45Z",
+   "fetched_at": "2026-08-08T12:47:30Z",
    "quality_flags": null
   },
   "decaf-cappuccino": {
@@ -6265,12 +6265,12 @@
    "carbs_g": 9.8,
    "fat_g": 1.7,
    "salt_g": 0.21,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:45Z",
+   "fetched_at": "2026-08-08T12:47:30Z",
    "quality_flags": null
   },
   "decaf-double-espresso": {
@@ -6284,12 +6284,12 @@
    "carbs_g": 4.7,
    "fat_g": 0.0,
    "salt_g": 0.1,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:45Z",
+   "fetched_at": "2026-08-08T12:47:30Z",
    "quality_flags": null
   },
   "decaf-flat-white": {
@@ -6303,12 +6303,12 @@
    "carbs_g": 15.0,
    "fat_g": 3.5,
    "salt_g": 0.35,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:45Z",
+   "fetched_at": "2026-08-08T12:47:30Z",
    "quality_flags": null
   },
   "decaf-latte": {
@@ -6322,12 +6322,12 @@
    "carbs_g": 15.0,
    "fat_g": 3.5,
    "salt_g": 0.35,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:45Z",
+   "fetched_at": "2026-08-08T12:47:30Z",
    "quality_flags": null
   },
   "decaf-macchiato": {
@@ -6341,12 +6341,12 @@
    "carbs_g": 5.3,
    "fat_g": 0.0,
    "salt_g": 0.12,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:45Z",
+   "fetched_at": "2026-08-08T12:47:30Z",
    "quality_flags": null
   },
   "decaf-mocha": {
@@ -6360,12 +6360,12 @@
    "carbs_g": 16.0,
    "fat_g": 3.0,
    "salt_g": 0.27,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:45Z",
+   "fetched_at": "2026-08-08T12:47:30Z",
    "quality_flags": null
   },
   "decaf-single-espresso": {
@@ -6379,12 +6379,12 @@
    "carbs_g": 4.7,
    "fat_g": 0.0,
    "salt_g": 0.1,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:45Z",
+   "fetched_at": "2026-08-08T12:47:30Z",
    "quality_flags": null
   },
   "double-espresso": {
@@ -6398,12 +6398,12 @@
    "carbs_g": 4.7,
    "fat_g": 0.0,
    "salt_g": 0.1,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:45Z",
+   "fetched_at": "2026-08-08T12:47:30Z",
    "quality_flags": null
   },
   "earl-grey": {
@@ -6417,12 +6417,12 @@
    "carbs_g": 7.2,
    "fat_g": 0.9,
    "salt_g": 0.16,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:45Z",
+   "fetched_at": "2026-08-08T12:47:30Z",
    "quality_flags": null
   },
   "english-breakfast": {
@@ -6436,12 +6436,12 @@
    "carbs_g": 7.2,
    "fat_g": 0.9,
    "salt_g": 0.16,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:45Z",
+   "fetched_at": "2026-08-08T12:47:30Z",
    "quality_flags": null
   },
   "flat-white": {
@@ -6455,12 +6455,12 @@
    "carbs_g": 15.0,
    "fat_g": 3.5,
    "salt_g": 0.35,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:45Z",
+   "fetched_at": "2026-08-08T12:47:30Z",
    "quality_flags": null
   },
   "fresh-mint-tea": {
@@ -6474,12 +6474,12 @@
    "carbs_g": 4.8,
    "fat_g": 0.0,
    "salt_g": 0.1,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:45Z",
+   "fetched_at": "2026-08-08T12:47:30Z",
    "quality_flags": null
   },
   "hot-chocolate": {
@@ -6493,12 +6493,12 @@
    "carbs_g": 33.0,
    "fat_g": 5.8,
    "salt_g": 0.44,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:45Z",
+   "fetched_at": "2026-08-08T12:47:30Z",
    "quality_flags": null
   },
   "hot-cioccolata": {
@@ -6512,12 +6512,12 @@
    "carbs_g": 38.0,
    "fat_g": 13.0,
    "salt_g": 0.35,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:45Z",
+   "fetched_at": "2026-08-08T12:47:30Z",
    "quality_flags": null
   },
   "ice-decaf-latte": {
@@ -6531,12 +6531,12 @@
    "carbs_g": 4.6,
    "fat_g": 1.5,
    "salt_g": 0.11,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:45Z",
+   "fetched_at": "2026-08-08T12:47:30Z",
    "quality_flags": null
   },
   "ice-oat-decaf-latte": {
@@ -6550,12 +6550,12 @@
    "carbs_g": 6.8,
    "fat_g": 2.2,
    "salt_g": 0.1,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:45Z",
+   "fetched_at": "2026-08-08T12:47:30Z",
    "quality_flags": null
   },
   "ice-oat-latte": {
@@ -6569,12 +6569,12 @@
    "carbs_g": 6.8,
    "fat_g": 2.2,
    "salt_g": 0.1,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:45Z",
+   "fetched_at": "2026-08-08T12:47:30Z",
    "quality_flags": null
   },
   "iced-latte": {
@@ -6588,12 +6588,12 @@
    "carbs_g": 4.6,
    "fat_g": 1.5,
    "salt_g": 0.11,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:45Z",
+   "fetched_at": "2026-08-08T12:47:30Z",
    "quality_flags": null
   },
   "latte": {
@@ -6607,12 +6607,12 @@
    "carbs_g": 15.0,
    "fat_g": 3.5,
    "salt_g": 0.35,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:45Z",
+   "fetched_at": "2026-08-08T12:47:30Z",
    "quality_flags": null
   },
   "macchiato": {
@@ -6626,12 +6626,12 @@
    "carbs_g": 11.0,
    "fat_g": 2.3,
    "salt_g": 0.26,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:45Z",
+   "fetched_at": "2026-08-08T12:47:30Z",
    "quality_flags": null
   },
   "mocha": {
@@ -6645,12 +6645,12 @@
    "carbs_g": 16.0,
    "fat_g": 3.0,
    "salt_g": 0.27,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:45Z",
+   "fetched_at": "2026-08-08T12:47:30Z",
    "quality_flags": null
   },
   "oat-americano": {
@@ -6664,12 +6664,12 @@
    "carbs_g": 8.5,
    "fat_g": 1.3,
    "salt_g": 0.16,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:45Z",
+   "fetched_at": "2026-08-08T12:47:30Z",
    "quality_flags": null
   },
   "oat-cappuccino": {
@@ -6683,12 +6683,12 @@
    "carbs_g": 12.0,
    "fat_g": 2.3,
    "salt_g": 0.2,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:45Z",
+   "fetched_at": "2026-08-08T12:47:30Z",
    "quality_flags": null
   },
   "oat-decaf-americano": {
@@ -6702,12 +6702,12 @@
    "carbs_g": 8.5,
    "fat_g": 1.3,
    "salt_g": 0.16,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:45Z",
+   "fetched_at": "2026-08-08T12:47:30Z",
    "quality_flags": null
   },
   "oat-decaf-cappuccino": {
@@ -6721,12 +6721,12 @@
    "carbs_g": 12.0,
    "fat_g": 2.3,
    "salt_g": 0.2,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:45Z",
+   "fetched_at": "2026-08-08T12:47:30Z",
    "quality_flags": null
   },
   "oat-decaf-flat-white": {
@@ -6740,12 +6740,12 @@
    "carbs_g": 20.0,
    "fat_g": 5.0,
    "salt_g": 0.32,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:45Z",
+   "fetched_at": "2026-08-08T12:47:30Z",
    "quality_flags": null
   },
   "oat-decaf-latte": {
@@ -6759,12 +6759,12 @@
    "carbs_g": 20.0,
    "fat_g": 5.0,
    "salt_g": 0.32,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:45Z",
+   "fetched_at": "2026-08-08T12:47:30Z",
    "quality_flags": null
   },
   "oat-decaf-macchiato": {
@@ -6778,12 +6778,12 @@
    "carbs_g": 5.6,
    "fat_g": 0.0,
    "salt_g": 0.11,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:45Z",
+   "fetched_at": "2026-08-08T12:47:30Z",
    "quality_flags": null
   },
   "oat-decaf-mocha": {
@@ -6797,12 +6797,12 @@
    "carbs_g": 19.0,
    "fat_g": 3.9,
    "salt_g": 0.27,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:45Z",
+   "fetched_at": "2026-08-08T12:47:30Z",
    "quality_flags": null
   },
   "oat-flat-white": {
@@ -6816,12 +6816,12 @@
    "carbs_g": 20.0,
    "fat_g": 5.0,
    "salt_g": 0.32,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:45Z",
+   "fetched_at": "2026-08-08T12:47:30Z",
    "quality_flags": null
   },
   "oat-hot-chocolate": {
@@ -6835,12 +6835,12 @@
    "carbs_g": 38.0,
    "fat_g": 7.4,
    "salt_g": 0.42,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:45Z",
+   "fetched_at": "2026-08-08T12:47:30Z",
    "quality_flags": null
   },
   "oat-latte": {
@@ -6854,12 +6854,12 @@
    "carbs_g": 20.0,
    "fat_g": 5.0,
    "salt_g": 0.32,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:45Z",
+   "fetched_at": "2026-08-08T12:47:30Z",
    "quality_flags": null
   },
   "oat-macchiato": {
@@ -6873,12 +6873,12 @@
    "carbs_g": 5.6,
    "fat_g": 0.0,
    "salt_g": 0.11,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:45Z",
+   "fetched_at": "2026-08-08T12:47:30Z",
    "quality_flags": null
   },
   "oat-mocha": {
@@ -6892,12 +6892,12 @@
    "carbs_g": 19.0,
    "fat_g": 3.9,
    "salt_g": 0.27,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:45Z",
+   "fetched_at": "2026-08-08T12:47:30Z",
    "quality_flags": null
   },
   "peppermint": {
@@ -6911,12 +6911,12 @@
    "carbs_g": 7.2,
    "fat_g": 0.9,
    "salt_g": 0.16,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:45Z",
+   "fetched_at": "2026-08-08T12:47:30Z",
    "quality_flags": null
   },
   "pure-green": {
@@ -6930,12 +6930,12 @@
    "carbs_g": 7.2,
    "fat_g": 0.9,
    "salt_g": 0.16,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:45Z",
+   "fetched_at": "2026-08-08T12:47:30Z",
    "quality_flags": null
   },
   "single-espresso": {
@@ -6949,12 +6949,12 @@
    "carbs_g": 4.7,
    "fat_g": 0.0,
    "salt_g": 0.1,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:45Z",
+   "fetched_at": "2026-08-08T12:47:30Z",
    "quality_flags": null
   },
   "sub-oat-milk": {
@@ -6968,12 +6968,12 @@
    "carbs_g": 8.5,
    "fat_g": 2.8,
    "salt_g": 0.13,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:45Z",
+   "fetched_at": "2026-08-08T12:47:30Z",
    "quality_flags": null
   },
   "sugar-stick": {
@@ -6987,12 +6987,12 @@
    "carbs_g": 6.0,
    "fat_g": 0.0,
    "salt_g": 0.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:45Z",
+   "fetched_at": "2026-08-08T12:47:30Z",
    "quality_flags": null
   },
   "hot-honey-pork-belly": {
@@ -7011,7 +7011,7 @@
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:46Z",
+   "fetched_at": "2026-08-08T12:47:31Z",
    "quality_flags": null
   },
   "crab-lemon-arancini": {
@@ -7030,7 +7030,7 @@
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:46Z",
+   "fetched_at": "2026-08-08T12:47:31Z",
    "quality_flags": null
   },
   "chicken-milanese-fonduta": {
@@ -7049,7 +7049,7 @@
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:46Z",
+   "fetched_at": "2026-08-08T12:47:31Z",
    "quality_flags": null
   },
   "quattro-pomodoro": {
@@ -7063,12 +7063,12 @@
    "carbs_g": 108.0,
    "fat_g": 60.0,
    "salt_g": 5.3,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:46Z",
+   "fetched_at": "2026-08-08T12:47:31Z",
    "quality_flags": null
   },
   "non-gluten-quattro-pomodoro": {
@@ -7082,12 +7082,12 @@
    "carbs_g": 110.0,
    "fat_g": 68.0,
    "salt_g": 4.6,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:46Z",
+   "fetched_at": "2026-08-08T12:47:31Z",
    "quality_flags": null
   },
   "tropical-pina-colada-sundae": {
@@ -7101,12 +7101,12 @@
    "carbs_g": 61.0,
    "fat_g": 14.0,
    "salt_g": 0.1,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:46Z",
+   "fetched_at": "2026-08-08T12:47:31Z",
    "quality_flags": null
   },
   "mango-lime-cooler": {
@@ -7120,12 +7120,12 @@
    "carbs_g": 49.0,
    "fat_g": 0.0,
    "salt_g": 0.78,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:46Z",
+   "fetched_at": "2026-08-08T12:47:31Z",
    "quality_flags": null
   },
   "zucca-salad": {
@@ -7139,12 +7139,12 @@
    "carbs_g": 16.0,
    "fat_g": 18.0,
    "salt_g": 0.61,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:46Z",
+   "fetched_at": "2026-08-08T12:47:31Z",
    "quality_flags": null
   },
   "sicilian-lemon-ricotta-gelato": {
@@ -7158,12 +7158,12 @@
    "carbs_g": 8.7,
    "fat_g": 3.6,
    "salt_g": 0.13,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:46Z",
+   "fetched_at": "2026-08-08T12:47:31Z",
    "quality_flags": null
   },
   "crispy-chicken-caesar-pizzanini": {
@@ -7182,7 +7182,7 @@
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:46Z",
+   "fetched_at": "2026-08-08T12:47:31Z",
    "quality_flags": null
   },
   "prosciutto-burrata-pizzanini": {
@@ -7201,7 +7201,7 @@
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:46Z",
+   "fetched_at": "2026-08-08T12:47:31Z",
    "quality_flags": null
   },
   "tomato-pesto-burrata-pizzanini": {
@@ -7215,12 +7215,12 @@
    "carbs_g": 102.0,
    "fat_g": 40.0,
    "salt_g": 3.1,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:46Z",
+   "fetched_at": "2026-08-08T12:47:31Z",
    "quality_flags": null
   },
   "dragon-fruit-wild-strawberry-sundae": {
@@ -7234,12 +7234,12 @@
    "carbs_g": 57.0,
    "fat_g": 11.0,
    "salt_g": 0.15,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:46Z",
+   "fetched_at": "2026-08-08T12:47:31Z",
    "quality_flags": null
   },
   "biscoff-bombolini-each": {
@@ -7253,12 +7253,12 @@
    "carbs_g": 11.0,
    "fat_g": 6.3,
    "salt_g": 0.2,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:46Z",
+   "fetched_at": "2026-08-08T12:47:31Z",
    "quality_flags": null
   },
   "biscoff-bombolini-3-each": {
@@ -7272,12 +7272,12 @@
    "carbs_g": 32.0,
    "fat_g": 19.0,
    "salt_g": 0.59,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:46Z",
+   "fetched_at": "2026-08-08T12:47:31Z",
    "quality_flags": null
   },
   "pistachio-doughnuts-each": {
@@ -7291,12 +7291,12 @@
    "carbs_g": 12.0,
    "fat_g": 5.8,
    "salt_g": 0.15,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:46Z",
+   "fetched_at": "2026-08-08T12:47:31Z",
    "quality_flags": null
   },
   "pistachio-doughnuts-3-each": {
@@ -7310,12 +7310,12 @@
    "carbs_g": 35.0,
    "fat_g": 17.0,
    "salt_g": 0.45,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Zizzi Nutrition Guide 2026 UK V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/a7bddad7ab274475b481e054916a0f8208c4d24e.pdf",
-   "fetched_at": "2026-08-06T15:00:46Z",
+   "fetched_at": "2026-08-08T12:47:31Z",
    "quality_flags": null
   }
  }
