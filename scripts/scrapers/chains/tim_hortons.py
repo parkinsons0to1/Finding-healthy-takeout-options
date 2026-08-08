@@ -17,6 +17,16 @@ extracts perfectly — every cell carries its unit inline ("367Kcal", "5.4g"),
 and `base.to_float` rejects those. This adapter strips the unit before parsing.
 Second trap: the header cells are split over two lines ("Kcal per\\nportion",
 "Protein Per\\nportion (g)"), so headers must be de-newlined before matching.
+
+Dietary flag source
+--------------------
+Pages 0-4's allergen matrix (macro-free, otherwise skipped by this module)
+ends with its own real column, "Suitable for Vegetarians?", holding "Yes"/
+"No"/"Maybe" (checked: exactly those three strings, nothing else, across
+200 distinct item rows). "Yes" -> vegetarian True, "No" -> False; "Maybe"
+(6 rows -- a genuine third state in the source itself, not a parsing gap)
+is left unset rather than guessed either way. No vegan column exists on
+this platform, so `vegan` is never set here.
 """
 from __future__ import annotations
 
@@ -78,12 +88,47 @@ def _download(url: str) -> bytes | None:
     return None
 
 
+def _diet_flags(pdf) -> dict[str, bool | None]:
+    """lower-cased item name -> vegetarian (True/False/None for "Maybe") --
+    see "Dietary flag source" above. A SEPARATE table (the allergen matrix
+    on pages 0-4) to the nutrition tables this module otherwise reads."""
+    out: dict[str, bool | None] = {}
+    for page in pdf.pages:
+        for finder in page.find_tables():
+            table = finder.extract()
+            if not table:
+                continue
+            hidx = next((i for i, row in enumerate(table[:3])
+                        if row and str(row[0] or "").strip() == "ALLERGENS"), None)
+            if hidx is None:
+                continue
+            header = table[hidx]
+            veg_i = next((i for i, h in enumerate(header)
+                         if h and "vegetarians" in str(h).lower()), None)
+            if veg_i is None:
+                continue
+            for row in table[hidx + 1:]:
+                if not row or not row[0] or row[1] is None:
+                    continue    # blank/section-heading row, not a dish
+                name = " ".join(str(row[0]).split()).lower()
+                if not name or veg_i >= len(row):
+                    continue
+                v = str(row[veg_i] or "").strip().lower()
+                if v == "yes":
+                    out[name] = True
+                elif v == "no":
+                    out[name] = False
+                # "maybe" (or anything else) -> leave unset, don't guess
+    return out
+
+
 def parse(raw: bytes, url: str) -> list[dict]:
     import pdfplumber
 
     out: list[dict] = []
     seen: set[str] = set()
     with pdfplumber.open(io.BytesIO(raw)) as pdf:
+        diet = _diet_flags(pdf)
         for page in pdf.pages:
             for table in page.extract_tables():
                 if not table or not table[0]:
@@ -125,7 +170,8 @@ def parse(raw: bytes, url: str) -> list[dict]:
                         kcal=kcal, protein_g=protein,
                         fat_g=_num(row[5]) if len(row) > 5 else None,
                         carbs_g=_num(row[9]) if len(row) > 9 else None,
-                        salt_g=_num(row[16]) if len(row) > 16 else None))
+                        salt_g=_num(row[16]) if len(row) > 16 else None,
+                        vegetarian=diet.get(key)))
     return out
 
 

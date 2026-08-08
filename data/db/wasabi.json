@@ -1,7 +1,7 @@
 {
  "chain_id": "wasabi",
  "item_count": 118,
- "fetched_at": "2026-08-06T14:59:32Z",
+ "fetched_at": "2026-08-08T13:53:01Z",
  "items": {
   "salmon-teriyaki-onigiri": {
    "chain_id": "wasabi",
@@ -14,12 +14,12 @@
    "carbs_g": 33.1,
    "fat_g": 2.8,
    "salt_g": 1.2,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": false,
+   "vegan": false,
    "allergens": null,
    "source": "Wasabi Nutritional Guide (PDF)",
    "source_url": "https://www.wasabi.uk.com/wp-content/uploads/2025/11/WAS_Nutritional_Guide_181125v2.pdf",
-   "fetched_at": "2026-08-06T14:59:32Z",
+   "fetched_at": "2026-08-08T13:53:01Z",
    "quality_flags": null
   },
   "seaweed-onigiri": {
@@ -33,12 +33,12 @@
    "carbs_g": 35.4,
    "fat_g": 1.3,
    "salt_g": 0.7,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Wasabi Nutritional Guide (PDF)",
    "source_url": "https://www.wasabi.uk.com/wp-content/uploads/2025/11/WAS_Nutritional_Guide_181125v2.pdf",
-   "fetched_at": "2026-08-06T14:59:32Z",
+   "fetched_at": "2026-08-08T13:53:01Z",
    "quality_flags": null
   },
   "omakase-box": {
@@ -52,12 +52,12 @@
    "carbs_g": 63.7,
    "fat_g": 11.4,
    "salt_g": 4.9,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": false,
+   "vegan": false,
    "allergens": null,
    "source": "Wasabi Nutritional Guide (PDF)",
    "source_url": "https://www.wasabi.uk.com/wp-content/uploads/2025/11/WAS_Nutritional_Guide_181125v2.pdf",
-   "fetched_at": "2026-08-06T14:59:32Z",
+   "fetched_at": "2026-08-08T13:53:01Z",
    "quality_flags": null
   },
   "omakase-box-excl-dressing": {
@@ -71,12 +71,12 @@
    "carbs_g": 61.5,
    "fat_g": 11.3,
    "salt_g": 2.1,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": false,
+   "vegan": false,
    "allergens": null,
    "source": "Wasabi Nutritional Guide (PDF)",
    "source_url": "https://www.wasabi.uk.com/wp-content/uploads/2025/11/WAS_Nutritional_Guide_181125v2.pdf",
-   "fetched_at": "2026-08-06T14:59:32Z",
+   "fetched_at": "2026-08-08T13:53:01Z",
    "quality_flags": null
   },
   "harmony-set": {
@@ -90,12 +90,12 @@
    "carbs_g": 98.2,
    "fat_g": 15.9,
    "salt_g": 4.7,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": false,
+   "vegan": false,
    "allergens": null,
    "source": "Wasabi Nutritional Guide (PDF)",
    "source_url": "https://www.wasabi.uk.com/wp-content/uploads/2025/11/WAS_Nutritional_Guide_181125v2.pdf",
-   "fetched_at": "2026-08-06T14:59:32Z",
+   "fetched_at": "2026-08-08T13:53:01Z",
    "quality_flags": null
   },
   "harmony-set-excl-dressing": {
@@ -109,12 +109,12 @@
    "carbs_g": 96.9,
    "fat_g": 15.8,
    "salt_g": 3.1,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": false,
+   "vegan": false,
    "allergens": null,
    "source": "Wasabi Nutritional Guide (PDF)",
    "source_url": "https://www.wasabi.uk.com/wp-content/uploads/2025/11/WAS_Nutritional_Guide_181125v2.pdf",
-   "fetched_at": "2026-08-06T14:59:32Z",
+   "fetched_at": "2026-08-08T13:53:01Z",
    "quality_flags": null
   },
   "salmon-sashimi": {
@@ -128,12 +128,12 @@
    "carbs_g": 3.3,
    "fat_g": 10.1,
    "salt_g": 2.5,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": false,
+   "vegan": false,
    "allergens": null,
    "source": "Wasabi Nutritional Guide (PDF)",
    "source_url": "https://www.wasabi.uk.com/wp-content/uploads/2025/11/WAS_Nutritional_Guide_181125v2.pdf",
-   "fetched_at": "2026-08-06T14:59:32Z",
+   "fetched_at": "2026-08-08T13:53:01Z",
    "quality_flags": null
   },
   "salmon-sashimi-excl-dressing": {
@@ -147,12 +147,12 @@
    "carbs_g": 2.2,
    "fat_g": 10.0,
    "salt_g": 0.7,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": false,
+   "vegan": false,
    "allergens": null,
    "source": "Wasabi Nutritional Guide (PDF)",
    "source_url": "https://www.wasabi.uk.com/wp-content/uploads/2025/11/WAS_Nutritional_Guide_181125v2.pdf",
-   "fetched_at": "2026-08-06T14:59:32Z",
+   "fetched_at": "2026-08-08T13:53:01Z",
    "quality_flags": null
   },
   "mixed-maki-set": {
@@ -166,12 +166,12 @@
    "carbs_g": 70.2,
    "fat_g": 11.4,
    "salt_g": 3.9,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": false,
+   "vegan": false,
    "allergens": null,
    "source": "Wasabi Nutritional Guide (PDF)",
    "source_url": "https://www.wasabi.uk.com/wp-content/uploads/2025/11/WAS_Nutritional_Guide_181125v2.pdf",
-   "fetched_at": "2026-08-06T14:59:32Z",
+   "fetched_at": "2026-08-08T13:53:01Z",
    "quality_flags": null
   },
   "mixed-maki-set-excl-dressing": {
@@ -185,12 +185,12 @@
    "carbs_g": 68.8,
    "fat_g": 11.2,
    "salt_g": 2.3,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": false,
+   "vegan": false,
    "allergens": null,
    "source": "Wasabi Nutritional Guide (PDF)",
    "source_url": "https://www.wasabi.uk.com/wp-content/uploads/2025/11/WAS_Nutritional_Guide_181125v2.pdf",
-   "fetched_at": "2026-08-06T14:59:32Z",
+   "fetched_at": "2026-08-08T13:53:01Z",
    "quality_flags": null
   },
   "rainbow-set": {
@@ -204,12 +204,12 @@
    "carbs_g": 79.6,
    "fat_g": 15.0,
    "salt_g": 4.9,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": false,
+   "vegan": false,
    "allergens": null,
    "source": "Wasabi Nutritional Guide (PDF)",
    "source_url": "https://www.wasabi.uk.com/wp-content/uploads/2025/11/WAS_Nutritional_Guide_181125v2.pdf",
-   "fetched_at": "2026-08-06T14:59:32Z",
+   "fetched_at": "2026-08-08T13:53:01Z",
    "quality_flags": null
   },
   "rainbow-set-excl-dressing": {
@@ -223,12 +223,12 @@
    "carbs_g": 78.4,
    "fat_g": 14.8,
    "salt_g": 3.2,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": false,
+   "vegan": false,
    "allergens": null,
    "source": "Wasabi Nutritional Guide (PDF)",
    "source_url": "https://www.wasabi.uk.com/wp-content/uploads/2025/11/WAS_Nutritional_Guide_181125v2.pdf",
-   "fetched_at": "2026-08-06T14:59:32Z",
+   "fetched_at": "2026-08-08T13:53:01Z",
    "quality_flags": null
   },
   "tokyo-salmon-set": {
@@ -242,12 +242,12 @@
    "carbs_g": 73.3,
    "fat_g": 16.1,
    "salt_g": 4.7,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": false,
+   "vegan": false,
    "allergens": null,
    "source": "Wasabi Nutritional Guide (PDF)",
    "source_url": "https://www.wasabi.uk.com/wp-content/uploads/2025/11/WAS_Nutritional_Guide_181125v2.pdf",
-   "fetched_at": "2026-08-06T14:59:32Z",
+   "fetched_at": "2026-08-08T13:53:02Z",
    "quality_flags": null
   },
   "tokyo-salmon-set-excl-dressing": {
@@ -261,12 +261,12 @@
    "carbs_g": 72.3,
    "fat_g": 15.9,
    "salt_g": 3.2,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": false,
+   "vegan": false,
    "allergens": null,
    "source": "Wasabi Nutritional Guide (PDF)",
    "source_url": "https://www.wasabi.uk.com/wp-content/uploads/2025/11/WAS_Nutritional_Guide_181125v2.pdf",
-   "fetched_at": "2026-08-06T14:59:32Z",
+   "fetched_at": "2026-08-08T13:53:02Z",
    "quality_flags": null
   },
   "mini-tokyo-salmon-set": {
@@ -280,12 +280,12 @@
    "carbs_g": 53.1,
    "fat_g": 14.4,
    "salt_g": 3.1,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": false,
+   "vegan": false,
    "allergens": null,
    "source": "Wasabi Nutritional Guide (PDF)",
    "source_url": "https://www.wasabi.uk.com/wp-content/uploads/2025/11/WAS_Nutritional_Guide_181125v2.pdf",
-   "fetched_at": "2026-08-06T14:59:32Z",
+   "fetched_at": "2026-08-08T13:53:02Z",
    "quality_flags": null
   },
   "mini-tokyo-salmon-set-excl-dressing": {
@@ -299,12 +299,12 @@
    "carbs_g": 52.0,
    "fat_g": 14.3,
    "salt_g": 1.5,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": false,
+   "vegan": false,
    "allergens": null,
    "source": "Wasabi Nutritional Guide (PDF)",
    "source_url": "https://www.wasabi.uk.com/wp-content/uploads/2025/11/WAS_Nutritional_Guide_181125v2.pdf",
-   "fetched_at": "2026-08-06T14:59:32Z",
+   "fetched_at": "2026-08-08T13:53:02Z",
    "quality_flags": null
   },
   "spicy-salmon-handroll": {
@@ -318,12 +318,12 @@
    "carbs_g": 55.7,
    "fat_g": 22.7,
    "salt_g": 5.7,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": false,
+   "vegan": false,
    "allergens": null,
    "source": "Wasabi Nutritional Guide (PDF)",
    "source_url": "https://www.wasabi.uk.com/wp-content/uploads/2025/11/WAS_Nutritional_Guide_181125v2.pdf",
-   "fetched_at": "2026-08-06T14:59:32Z",
+   "fetched_at": "2026-08-08T13:53:02Z",
    "quality_flags": null
   },
   "prawn-crunch-dragon-roll": {
@@ -337,12 +337,12 @@
    "carbs_g": 56.2,
    "fat_g": 19.8,
    "salt_g": 2.2,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": false,
+   "vegan": false,
    "allergens": null,
    "source": "Wasabi Nutritional Guide (PDF)",
    "source_url": "https://www.wasabi.uk.com/wp-content/uploads/2025/11/WAS_Nutritional_Guide_181125v2.pdf",
-   "fetched_at": "2026-08-06T14:59:32Z",
+   "fetched_at": "2026-08-08T13:53:02Z",
    "quality_flags": null
   },
   "bang-bang-chicken-dragon-roll": {
@@ -356,12 +356,12 @@
    "carbs_g": 54.4,
    "fat_g": 14.1,
    "salt_g": 2.3,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": false,
+   "vegan": false,
    "allergens": null,
    "source": "Wasabi Nutritional Guide (PDF)",
    "source_url": "https://www.wasabi.uk.com/wp-content/uploads/2025/11/WAS_Nutritional_Guide_181125v2.pdf",
-   "fetched_at": "2026-08-06T14:59:32Z",
+   "fetched_at": "2026-08-08T13:53:02Z",
    "quality_flags": null
   },
   "salmon-nigiri-set": {
@@ -375,12 +375,12 @@
    "carbs_g": 43.0,
    "fat_g": 6.9,
    "salt_g": 3.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": false,
+   "vegan": false,
    "allergens": null,
    "source": "Wasabi Nutritional Guide (PDF)",
    "source_url": "https://www.wasabi.uk.com/wp-content/uploads/2025/11/WAS_Nutritional_Guide_181125v2.pdf",
-   "fetched_at": "2026-08-06T14:59:32Z",
+   "fetched_at": "2026-08-08T13:53:02Z",
    "quality_flags": null
   },
   "salmon-nigiri-set-excl-dressing": {
@@ -394,12 +394,12 @@
    "carbs_g": 41.7,
    "fat_g": 6.8,
    "salt_g": 1.3,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": false,
+   "vegan": false,
    "allergens": null,
    "source": "Wasabi Nutritional Guide (PDF)",
    "source_url": "https://www.wasabi.uk.com/wp-content/uploads/2025/11/WAS_Nutritional_Guide_181125v2.pdf",
-   "fetched_at": "2026-08-06T14:59:32Z",
+   "fetched_at": "2026-08-08T13:53:02Z",
    "quality_flags": null
   },
   "tuna-hosomaki": {
@@ -413,12 +413,12 @@
    "carbs_g": 41.4,
    "fat_g": 0.8,
    "salt_g": 2.8,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": false,
+   "vegan": false,
    "allergens": null,
    "source": "Wasabi Nutritional Guide (PDF)",
    "source_url": "https://www.wasabi.uk.com/wp-content/uploads/2025/11/WAS_Nutritional_Guide_181125v2.pdf",
-   "fetched_at": "2026-08-06T14:59:32Z",
+   "fetched_at": "2026-08-08T13:53:02Z",
    "quality_flags": null
   },
   "tuna-hosomaki-excl-dressing": {
@@ -432,12 +432,12 @@
    "carbs_g": 40.0,
    "fat_g": 0.7,
    "salt_g": 1.2,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": false,
+   "vegan": false,
    "allergens": null,
    "source": "Wasabi Nutritional Guide (PDF)",
    "source_url": "https://www.wasabi.uk.com/wp-content/uploads/2025/11/WAS_Nutritional_Guide_181125v2.pdf",
-   "fetched_at": "2026-08-06T14:59:32Z",
+   "fetched_at": "2026-08-08T13:53:02Z",
    "quality_flags": null
   },
   "salmon-avocado-dragon-rolls": {
@@ -451,12 +451,12 @@
    "carbs_g": 47.6,
    "fat_g": 16.9,
    "salt_g": 1.6,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": false,
+   "vegan": false,
    "allergens": null,
    "source": "Wasabi Nutritional Guide (PDF)",
    "source_url": "https://www.wasabi.uk.com/wp-content/uploads/2025/11/WAS_Nutritional_Guide_181125v2.pdf",
-   "fetched_at": "2026-08-06T14:59:32Z",
+   "fetched_at": "2026-08-08T13:53:02Z",
    "quality_flags": null
   },
   "vegan-yasai-dragon-rolls": {
@@ -470,12 +470,12 @@
    "carbs_g": 48.0,
    "fat_g": 12.3,
    "salt_g": 2.3,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Wasabi Nutritional Guide (PDF)",
    "source_url": "https://www.wasabi.uk.com/wp-content/uploads/2025/11/WAS_Nutritional_Guide_181125v2.pdf",
-   "fetched_at": "2026-08-06T14:59:32Z",
+   "fetched_at": "2026-08-08T13:53:02Z",
    "quality_flags": null
   },
   "salmon-hosomaki-set": {
@@ -489,12 +489,12 @@
    "carbs_g": 41.7,
    "fat_g": 3.9,
    "salt_g": 2.8,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": false,
+   "vegan": false,
    "allergens": null,
    "source": "Wasabi Nutritional Guide (PDF)",
    "source_url": "https://www.wasabi.uk.com/wp-content/uploads/2025/11/WAS_Nutritional_Guide_181125v2.pdf",
-   "fetched_at": "2026-08-06T14:59:32Z",
+   "fetched_at": "2026-08-08T13:53:02Z",
    "quality_flags": null
   },
   "salmon-hosomaki-set-excl-dressing": {
@@ -508,12 +508,12 @@
    "carbs_g": 40.3,
    "fat_g": 3.7,
    "salt_g": 1.2,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": false,
+   "vegan": false,
    "allergens": null,
    "source": "Wasabi Nutritional Guide (PDF)",
    "source_url": "https://www.wasabi.uk.com/wp-content/uploads/2025/11/WAS_Nutritional_Guide_181125v2.pdf",
-   "fetched_at": "2026-08-06T14:59:32Z",
+   "fetched_at": "2026-08-08T13:53:02Z",
    "quality_flags": null
   },
   "vegan-avocado-hosomaki-set": {
@@ -527,12 +527,12 @@
    "carbs_g": 41.9,
    "fat_g": 6.1,
    "salt_g": 2.8,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Wasabi Nutritional Guide (PDF)",
    "source_url": "https://www.wasabi.uk.com/wp-content/uploads/2025/11/WAS_Nutritional_Guide_181125v2.pdf",
-   "fetched_at": "2026-08-06T14:59:32Z",
+   "fetched_at": "2026-08-08T13:53:02Z",
    "quality_flags": null
   },
   "vegan-avocado-hosomaki-set-excl-dressing": {
@@ -546,12 +546,12 @@
    "carbs_g": 40.6,
    "fat_g": 6.0,
    "salt_g": 1.2,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Wasabi Nutritional Guide (PDF)",
    "source_url": "https://www.wasabi.uk.com/wp-content/uploads/2025/11/WAS_Nutritional_Guide_181125v2.pdf",
-   "fetched_at": "2026-08-06T14:59:32Z",
+   "fetched_at": "2026-08-08T13:53:02Z",
    "quality_flags": null
   },
   "vegan-cucumber-hosomaki-set": {
@@ -565,12 +565,12 @@
    "carbs_g": 41.7,
    "fat_g": 0.7,
    "salt_g": 2.8,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Wasabi Nutritional Guide (PDF)",
    "source_url": "https://www.wasabi.uk.com/wp-content/uploads/2025/11/WAS_Nutritional_Guide_181125v2.pdf",
-   "fetched_at": "2026-08-06T14:59:32Z",
+   "fetched_at": "2026-08-08T13:53:02Z",
    "quality_flags": null
   },
   "vegan-cucumber-hosomaki-set-excl-dressing": {
@@ -584,12 +584,12 @@
    "carbs_g": 40.4,
    "fat_g": 0.7,
    "salt_g": 1.2,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Wasabi Nutritional Guide (PDF)",
    "source_url": "https://www.wasabi.uk.com/wp-content/uploads/2025/11/WAS_Nutritional_Guide_181125v2.pdf",
-   "fetched_at": "2026-08-06T14:59:32Z",
+   "fetched_at": "2026-08-08T13:53:02Z",
    "quality_flags": null
   },
   "vegan-yasai-set": {
@@ -603,12 +603,12 @@
    "carbs_g": 84.6,
    "fat_g": 9.5,
    "salt_g": 4.4,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Wasabi Nutritional Guide (PDF)",
    "source_url": "https://www.wasabi.uk.com/wp-content/uploads/2025/11/WAS_Nutritional_Guide_181125v2.pdf",
-   "fetched_at": "2026-08-06T14:59:32Z",
+   "fetched_at": "2026-08-08T13:53:02Z",
    "quality_flags": null
   },
   "vegan-yasai-set-excl-dressing": {
@@ -622,12 +622,12 @@
    "carbs_g": 83.6,
    "fat_g": 9.2,
    "salt_g": 2.9,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Wasabi Nutritional Guide (PDF)",
    "source_url": "https://www.wasabi.uk.com/wp-content/uploads/2025/11/WAS_Nutritional_Guide_181125v2.pdf",
-   "fetched_at": "2026-08-06T14:59:32Z",
+   "fetched_at": "2026-08-08T13:53:02Z",
    "quality_flags": null
   },
   "tuna-dragon-roll": {
@@ -641,12 +641,12 @@
    "carbs_g": 34.8,
    "fat_g": 3.5,
    "salt_g": 2.2,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": false,
+   "vegan": false,
    "allergens": null,
    "source": "Wasabi Nutritional Guide (PDF)",
    "source_url": "https://www.wasabi.uk.com/wp-content/uploads/2025/11/WAS_Nutritional_Guide_181125v2.pdf",
-   "fetched_at": "2026-08-06T14:59:33Z",
+   "fetched_at": "2026-08-08T13:53:02Z",
    "quality_flags": null
   },
   "tuna-dragon-roll-excl-dressing": {
@@ -660,12 +660,12 @@
    "carbs_g": 33.7,
    "fat_g": 3.5,
    "salt_g": 1.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": false,
+   "vegan": false,
    "allergens": null,
    "source": "Wasabi Nutritional Guide (PDF)",
    "source_url": "https://www.wasabi.uk.com/wp-content/uploads/2025/11/WAS_Nutritional_Guide_181125v2.pdf",
-   "fetched_at": "2026-08-06T14:59:33Z",
+   "fetched_at": "2026-08-08T13:53:02Z",
    "quality_flags": null
   },
   "salmon-matsuri-platter": {
@@ -679,12 +679,12 @@
    "carbs_g": 61.2,
    "fat_g": 14.9,
    "salt_g": 3.9,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": false,
+   "vegan": false,
    "allergens": null,
    "source": "Wasabi Nutritional Guide (PDF)",
    "source_url": "https://www.wasabi.uk.com/wp-content/uploads/2025/11/WAS_Nutritional_Guide_181125v2.pdf",
-   "fetched_at": "2026-08-06T14:59:33Z",
+   "fetched_at": "2026-08-08T13:53:02Z",
    "quality_flags": null
   },
   "salmon-matsuri-platter-excl-dressing": {
@@ -698,12 +698,12 @@
    "carbs_g": 60.0,
    "fat_g": 14.5,
    "salt_g": 2.3,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": false,
+   "vegan": false,
    "allergens": null,
    "source": "Wasabi Nutritional Guide (PDF)",
    "source_url": "https://www.wasabi.uk.com/wp-content/uploads/2025/11/WAS_Nutritional_Guide_181125v2.pdf",
-   "fetched_at": "2026-08-06T14:59:33Z",
+   "fetched_at": "2026-08-08T13:53:02Z",
    "quality_flags": null
   },
   "tsudoi-platter": {
@@ -717,12 +717,12 @@
    "carbs_g": 74.2,
    "fat_g": 12.6,
    "salt_g": 4.1,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": false,
+   "vegan": false,
    "allergens": null,
    "source": "Wasabi Nutritional Guide (PDF)",
    "source_url": "https://www.wasabi.uk.com/wp-content/uploads/2025/11/WAS_Nutritional_Guide_181125v2.pdf",
-   "fetched_at": "2026-08-06T14:59:33Z",
+   "fetched_at": "2026-08-08T13:53:02Z",
    "quality_flags": null
   },
   "tsudoi-platter-excl-dressing": {
@@ -736,12 +736,12 @@
    "carbs_g": 73.2,
    "fat_g": 12.4,
    "salt_g": 2.5,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": false,
+   "vegan": false,
    "allergens": null,
    "source": "Wasabi Nutritional Guide (PDF)",
    "source_url": "https://www.wasabi.uk.com/wp-content/uploads/2025/11/WAS_Nutritional_Guide_181125v2.pdf",
-   "fetched_at": "2026-08-06T14:59:33Z",
+   "fetched_at": "2026-08-08T13:53:02Z",
    "quality_flags": null
   },
   "chicken-katsu-donburi": {
@@ -755,12 +755,12 @@
    "carbs_g": 113.6,
    "fat_g": 38.6,
    "salt_g": 4.7,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": false,
+   "vegan": false,
    "allergens": null,
    "source": "Wasabi Nutritional Guide (PDF)",
    "source_url": "https://www.wasabi.uk.com/wp-content/uploads/2025/11/WAS_Nutritional_Guide_181125v2.pdf",
-   "fetched_at": "2026-08-06T14:59:33Z",
+   "fetched_at": "2026-08-08T13:53:02Z",
    "quality_flags": null
   },
   "chicken-katsu-donburi-excl-dressing": {
@@ -774,12 +774,12 @@
    "carbs_g": 109.2,
    "fat_g": 26.2,
    "salt_g": 4.2,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": false,
+   "vegan": false,
    "allergens": null,
    "source": "Wasabi Nutritional Guide (PDF)",
    "source_url": "https://www.wasabi.uk.com/wp-content/uploads/2025/11/WAS_Nutritional_Guide_181125v2.pdf",
-   "fetched_at": "2026-08-06T14:59:33Z",
+   "fetched_at": "2026-08-08T13:53:02Z",
    "quality_flags": null
   },
   "salmon-donburi": {
@@ -793,12 +793,12 @@
    "carbs_g": 72.3,
    "fat_g": 31.2,
    "salt_g": 3.7,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": false,
+   "vegan": false,
    "allergens": null,
    "source": "Wasabi Nutritional Guide (PDF)",
    "source_url": "https://www.wasabi.uk.com/wp-content/uploads/2025/11/WAS_Nutritional_Guide_181125v2.pdf",
-   "fetched_at": "2026-08-06T14:59:33Z",
+   "fetched_at": "2026-08-08T13:53:02Z",
    "quality_flags": null
   },
   "salmon-donburi-excl-dressing": {
@@ -812,12 +812,12 @@
    "carbs_g": 69.3,
    "fat_g": 21.0,
    "salt_g": 2.4,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": false,
+   "vegan": false,
    "allergens": null,
    "source": "Wasabi Nutritional Guide (PDF)",
    "source_url": "https://www.wasabi.uk.com/wp-content/uploads/2025/11/WAS_Nutritional_Guide_181125v2.pdf",
-   "fetched_at": "2026-08-06T14:59:33Z",
+   "fetched_at": "2026-08-08T13:53:02Z",
    "quality_flags": null
   },
   "tofu-donburi": {
@@ -831,12 +831,12 @@
    "carbs_g": 75.0,
    "fat_g": 23.4,
    "salt_g": 3.7,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Wasabi Nutritional Guide (PDF)",
    "source_url": "https://www.wasabi.uk.com/wp-content/uploads/2025/11/WAS_Nutritional_Guide_181125v2.pdf",
-   "fetched_at": "2026-08-06T14:59:33Z",
+   "fetched_at": "2026-08-08T13:53:02Z",
    "quality_flags": null
   },
   "tofu-donburi-excl-dressing": {
@@ -850,12 +850,12 @@
    "carbs_g": 71.7,
    "fat_g": 13.1,
    "salt_g": 2.5,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Wasabi Nutritional Guide (PDF)",
    "source_url": "https://www.wasabi.uk.com/wp-content/uploads/2025/11/WAS_Nutritional_Guide_181125v2.pdf",
-   "fetched_at": "2026-08-06T14:59:33Z",
+   "fetched_at": "2026-08-08T13:53:02Z",
    "quality_flags": null
   },
   "prawn-donburi": {
@@ -869,12 +869,12 @@
    "carbs_g": 69.2,
    "fat_g": 14.0,
    "salt_g": 4.8,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": false,
+   "vegan": false,
    "allergens": null,
    "source": "Wasabi Nutritional Guide (PDF)",
    "source_url": "https://www.wasabi.uk.com/wp-content/uploads/2025/11/WAS_Nutritional_Guide_181125v2.pdf",
-   "fetched_at": "2026-08-06T14:59:33Z",
+   "fetched_at": "2026-08-08T13:53:02Z",
    "quality_flags": null
   },
   "prawn-donburi-excl-dressing": {
@@ -888,12 +888,12 @@
    "carbs_g": 61.0,
    "fat_g": 13.7,
    "salt_g": 3.2,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": false,
+   "vegan": false,
    "allergens": null,
    "source": "Wasabi Nutritional Guide (PDF)",
    "source_url": "https://www.wasabi.uk.com/wp-content/uploads/2025/11/WAS_Nutritional_Guide_181125v2.pdf",
-   "fetched_at": "2026-08-06T14:59:33Z",
+   "fetched_at": "2026-08-08T13:53:02Z",
    "quality_flags": null
   },
   "teriyaki-salmon-rice-box": {
@@ -907,12 +907,12 @@
    "carbs_g": 75.6,
    "fat_g": 12.3,
    "salt_g": 4.4,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": false,
+   "vegan": false,
    "allergens": null,
    "source": "Wasabi Nutritional Guide (PDF)",
    "source_url": "https://www.wasabi.uk.com/wp-content/uploads/2025/11/WAS_Nutritional_Guide_181125v2.pdf",
-   "fetched_at": "2026-08-06T14:59:33Z",
+   "fetched_at": "2026-08-08T13:53:02Z",
    "quality_flags": null
   },
   "teriyaki-salmon-rice-box-excl-dressing": {
@@ -926,12 +926,12 @@
    "carbs_g": 65.5,
    "fat_g": 12.4,
    "salt_g": 3.4,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": false,
+   "vegan": false,
    "allergens": null,
    "source": "Wasabi Nutritional Guide (PDF)",
    "source_url": "https://www.wasabi.uk.com/wp-content/uploads/2025/11/WAS_Nutritional_Guide_181125v2.pdf",
-   "fetched_at": "2026-08-06T14:59:33Z",
+   "fetched_at": "2026-08-08T13:53:02Z",
    "quality_flags": null
   },
   "salmon-teriyaki-potto": {
@@ -945,12 +945,12 @@
    "carbs_g": 63.7,
    "fat_g": 9.4,
    "salt_g": 2.4,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": false,
+   "vegan": false,
    "allergens": null,
    "source": "Wasabi Nutritional Guide (PDF)",
    "source_url": "https://www.wasabi.uk.com/wp-content/uploads/2025/11/WAS_Nutritional_Guide_181125v2.pdf",
-   "fetched_at": "2026-08-06T14:59:33Z",
+   "fetched_at": "2026-08-08T13:53:02Z",
    "quality_flags": null
   },
   "edamame-potto": {
@@ -964,12 +964,12 @@
    "carbs_g": 24.5,
    "fat_g": 5.1,
    "salt_g": 1.8,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Wasabi Nutritional Guide (PDF)",
    "source_url": "https://www.wasabi.uk.com/wp-content/uploads/2025/11/WAS_Nutritional_Guide_181125v2.pdf",
-   "fetched_at": "2026-08-06T14:59:33Z",
+   "fetched_at": "2026-08-08T13:53:02Z",
    "quality_flags": null
   },
   "california-potto": {
@@ -983,12 +983,12 @@
    "carbs_g": 53.0,
    "fat_g": 15.2,
    "salt_g": 4.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": false,
+   "vegan": false,
    "allergens": null,
    "source": "Wasabi Nutritional Guide (PDF)",
    "source_url": "https://www.wasabi.uk.com/wp-content/uploads/2025/11/WAS_Nutritional_Guide_181125v2.pdf",
-   "fetched_at": "2026-08-06T14:59:33Z",
+   "fetched_at": "2026-08-08T13:53:02Z",
    "quality_flags": null
   },
   "california-potto-excl-dressing": {
@@ -1002,12 +1002,12 @@
    "carbs_g": 52.2,
    "fat_g": 15.1,
    "salt_g": 2.5,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": false,
+   "vegan": false,
    "allergens": null,
    "source": "Wasabi Nutritional Guide (PDF)",
    "source_url": "https://www.wasabi.uk.com/wp-content/uploads/2025/11/WAS_Nutritional_Guide_181125v2.pdf",
-   "fetched_at": "2026-08-06T14:59:33Z",
+   "fetched_at": "2026-08-08T13:53:02Z",
    "quality_flags": null
   },
   "kaiso-seaweed-salad": {
@@ -1021,12 +1021,12 @@
    "carbs_g": 6.9,
    "fat_g": 3.8,
    "salt_g": 2.5,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Wasabi Nutritional Guide (PDF)",
    "source_url": "https://www.wasabi.uk.com/wp-content/uploads/2025/11/WAS_Nutritional_Guide_181125v2.pdf",
-   "fetched_at": "2026-08-06T14:59:33Z",
+   "fetched_at": "2026-08-08T13:53:02Z",
    "quality_flags": null
   },
   "salmon-and-avocado-potto": {
@@ -1040,12 +1040,12 @@
    "carbs_g": 62.0,
    "fat_g": 11.7,
    "salt_g": 3.5,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": false,
+   "vegan": false,
    "allergens": null,
    "source": "Wasabi Nutritional Guide (PDF)",
    "source_url": "https://www.wasabi.uk.com/wp-content/uploads/2025/11/WAS_Nutritional_Guide_181125v2.pdf",
-   "fetched_at": "2026-08-06T14:59:33Z",
+   "fetched_at": "2026-08-08T13:53:02Z",
    "quality_flags": null
   },
   "salmon-and-avocado-potto-excl-dressing": {
@@ -1059,12 +1059,12 @@
    "carbs_g": 61.2,
    "fat_g": 11.8,
    "salt_g": 2.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": false,
+   "vegan": false,
    "allergens": null,
    "source": "Wasabi Nutritional Guide (PDF)",
    "source_url": "https://www.wasabi.uk.com/wp-content/uploads/2025/11/WAS_Nutritional_Guide_181125v2.pdf",
-   "fetched_at": "2026-08-06T14:59:33Z",
+   "fetched_at": "2026-08-08T13:53:02Z",
    "quality_flags": null
   },
   "korean-bbq-beef-ramen": {
@@ -1078,12 +1078,12 @@
    "carbs_g": 45.9,
    "fat_g": 4.4,
    "salt_g": 5.5,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": false,
+   "vegan": false,
    "allergens": null,
    "source": "Wasabi Nutritional Guide (PDF)",
    "source_url": "https://www.wasabi.uk.com/wp-content/uploads/2025/11/WAS_Nutritional_Guide_181125v2.pdf",
-   "fetched_at": "2026-08-06T14:59:33Z",
+   "fetched_at": "2026-08-08T13:53:03Z",
    "quality_flags": null
   },
   "vegetable-ramen-with-gyoza": {
@@ -1097,12 +1097,12 @@
    "carbs_g": 60.6,
    "fat_g": 5.2,
    "salt_g": 5.1,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Wasabi Nutritional Guide (PDF)",
    "source_url": "https://www.wasabi.uk.com/wp-content/uploads/2025/11/WAS_Nutritional_Guide_181125v2.pdf",
-   "fetched_at": "2026-08-06T14:59:33Z",
+   "fetched_at": "2026-08-08T13:53:03Z",
    "quality_flags": null
   },
   "miso-soup": {
@@ -1116,12 +1116,12 @@
    "carbs_g": 3.9,
    "fat_g": 0.8,
    "salt_g": 0.9,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Wasabi Nutritional Guide (PDF)",
    "source_url": "https://www.wasabi.uk.com/wp-content/uploads/2025/11/WAS_Nutritional_Guide_181125v2.pdf",
-   "fetched_at": "2026-08-06T14:59:33Z",
+   "fetched_at": "2026-08-08T13:53:03Z",
    "quality_flags": null
   },
   "chicken-katsu-curry-bento": {
@@ -1135,12 +1135,12 @@
    "carbs_g": 153.2,
    "fat_g": 38.6,
    "salt_g": 4.6,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": false,
+   "vegan": false,
    "allergens": null,
    "source": "Wasabi Nutritional Guide (PDF)",
    "source_url": "https://www.wasabi.uk.com/wp-content/uploads/2025/11/WAS_Nutritional_Guide_181125v2.pdf",
-   "fetched_at": "2026-08-06T14:59:33Z",
+   "fetched_at": "2026-08-08T13:53:03Z",
    "quality_flags": null
   },
   "chicken-katsu-curry-yakisoba": {
@@ -1154,12 +1154,12 @@
    "carbs_g": 99.0,
    "fat_g": 43.7,
    "salt_g": 6.2,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": false,
+   "vegan": false,
    "allergens": null,
    "source": "Wasabi Nutritional Guide (PDF)",
    "source_url": "https://www.wasabi.uk.com/wp-content/uploads/2025/11/WAS_Nutritional_Guide_181125v2.pdf",
-   "fetched_at": "2026-08-06T14:59:33Z",
+   "fetched_at": "2026-08-08T13:53:03Z",
    "quality_flags": null
   },
   "chicken-katsu-yakisoba": {
@@ -1173,12 +1173,12 @@
    "carbs_g": 84.0,
    "fat_g": 19.3,
    "salt_g": 4.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": false,
+   "vegan": false,
    "allergens": null,
    "source": "Wasabi Nutritional Guide (PDF)",
    "source_url": "https://www.wasabi.uk.com/wp-content/uploads/2025/11/WAS_Nutritional_Guide_181125v2.pdf",
-   "fetched_at": "2026-08-06T14:59:33Z",
+   "fetched_at": "2026-08-08T13:53:03Z",
    "quality_flags": null
   },
   "sweet-chilli-chicken-bento": {
@@ -1192,12 +1192,12 @@
    "carbs_g": 163.2,
    "fat_g": 13.2,
    "salt_g": 4.5,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": false,
+   "vegan": false,
    "allergens": null,
    "source": "Wasabi Nutritional Guide (PDF)",
    "source_url": "https://www.wasabi.uk.com/wp-content/uploads/2025/11/WAS_Nutritional_Guide_181125v2.pdf",
-   "fetched_at": "2026-08-06T14:59:33Z",
+   "fetched_at": "2026-08-08T13:53:03Z",
    "quality_flags": null
   },
   "sweet-chilli-chicken-yakisoba": {
@@ -1211,12 +1211,12 @@
    "carbs_g": 114.0,
    "fat_g": 19.1,
    "salt_g": 6.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": false,
+   "vegan": false,
    "allergens": null,
    "source": "Wasabi Nutritional Guide (PDF)",
    "source_url": "https://www.wasabi.uk.com/wp-content/uploads/2025/11/WAS_Nutritional_Guide_181125v2.pdf",
-   "fetched_at": "2026-08-06T14:59:33Z",
+   "fetched_at": "2026-08-08T13:53:03Z",
    "quality_flags": null
   },
   "chicken-teriyaki-yakisoba-bento": {
@@ -1230,12 +1230,12 @@
    "carbs_g": 66.3,
    "fat_g": 17.9,
    "salt_g": 4.4,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": false,
+   "vegan": false,
    "allergens": null,
    "source": "Wasabi Nutritional Guide (PDF)",
    "source_url": "https://www.wasabi.uk.com/wp-content/uploads/2025/11/WAS_Nutritional_Guide_181125v2.pdf",
-   "fetched_at": "2026-08-06T14:59:33Z",
+   "fetched_at": "2026-08-08T13:53:03Z",
    "quality_flags": null
   },
   "chicken-teriyaki-bento": {
@@ -1249,12 +1249,12 @@
    "carbs_g": 120.3,
    "fat_g": 12.6,
    "salt_g": 2.8,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": false,
+   "vegan": false,
    "allergens": null,
    "source": "Wasabi Nutritional Guide (PDF)",
    "source_url": "https://www.wasabi.uk.com/wp-content/uploads/2025/11/WAS_Nutritional_Guide_181125v2.pdf",
-   "fetched_at": "2026-08-06T14:59:33Z",
+   "fetched_at": "2026-08-08T13:53:03Z",
    "quality_flags": null
   },
   "vegetable-gyoza-yakisoba": {
@@ -1268,12 +1268,12 @@
    "carbs_g": 76.6,
    "fat_g": 9.1,
    "salt_g": 3.1,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Wasabi Nutritional Guide (PDF)",
    "source_url": "https://www.wasabi.uk.com/wp-content/uploads/2025/11/WAS_Nutritional_Guide_181125v2.pdf",
-   "fetched_at": "2026-08-06T14:59:33Z",
+   "fetched_at": "2026-08-08T13:53:03Z",
    "quality_flags": null
   },
   "vegetable-gyoza-yakisoba-fried": {
@@ -1287,12 +1287,12 @@
    "carbs_g": 80.9,
    "fat_g": 20.3,
    "salt_g": 3.2,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Wasabi Nutritional Guide (PDF)",
    "source_url": "https://www.wasabi.uk.com/wp-content/uploads/2025/11/WAS_Nutritional_Guide_181125v2.pdf",
-   "fetched_at": "2026-08-06T14:59:33Z",
+   "fetched_at": "2026-08-08T13:53:03Z",
    "quality_flags": null
   },
   "tofu-curry-bento": {
@@ -1306,12 +1306,12 @@
    "carbs_g": 110.4,
    "fat_g": 23.0,
    "salt_g": 3.1,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Wasabi Nutritional Guide (PDF)",
    "source_url": "https://www.wasabi.uk.com/wp-content/uploads/2025/11/WAS_Nutritional_Guide_181125v2.pdf",
-   "fetched_at": "2026-08-06T14:59:33Z",
+   "fetched_at": "2026-08-08T13:53:03Z",
    "quality_flags": null
   },
   "tofu-curry-yakisoba-bento": {
@@ -1325,12 +1325,12 @@
    "carbs_g": 59.5,
    "fat_g": 27.4,
    "salt_g": 4.5,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Wasabi Nutritional Guide (PDF)",
    "source_url": "https://www.wasabi.uk.com/wp-content/uploads/2025/11/WAS_Nutritional_Guide_181125v2.pdf",
-   "fetched_at": "2026-08-06T14:59:33Z",
+   "fetched_at": "2026-08-08T13:53:03Z",
    "quality_flags": null
   },
   "korean-bbq-chicken-bento": {
@@ -1344,12 +1344,12 @@
    "carbs_g": 156.2,
    "fat_g": 15.4,
    "salt_g": 4.2,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": false,
+   "vegan": false,
    "allergens": null,
    "source": "Wasabi Nutritional Guide (PDF)",
    "source_url": "https://www.wasabi.uk.com/wp-content/uploads/2025/11/WAS_Nutritional_Guide_181125v2.pdf",
-   "fetched_at": "2026-08-06T14:59:33Z",
+   "fetched_at": "2026-08-08T13:53:03Z",
    "quality_flags": null
   },
   "korean-bbq-chicken-yakisoba": {
@@ -1363,12 +1363,12 @@
    "carbs_g": 106.7,
    "fat_g": 20.9,
    "salt_g": 5.8,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": false,
+   "vegan": false,
    "allergens": null,
    "source": "Wasabi Nutritional Guide (PDF)",
    "source_url": "https://www.wasabi.uk.com/wp-content/uploads/2025/11/WAS_Nutritional_Guide_181125v2.pdf",
-   "fetched_at": "2026-08-06T14:59:33Z",
+   "fetched_at": "2026-08-08T13:53:03Z",
    "quality_flags": null
   },
   "pumpkin-katsu-curry-bento": {
@@ -1382,12 +1382,12 @@
    "carbs_g": 140.7,
    "fat_g": 32.8,
    "salt_g": 3.7,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Wasabi Nutritional Guide (PDF)",
    "source_url": "https://www.wasabi.uk.com/wp-content/uploads/2025/11/WAS_Nutritional_Guide_181125v2.pdf",
-   "fetched_at": "2026-08-06T14:59:34Z",
+   "fetched_at": "2026-08-08T13:53:03Z",
    "quality_flags": null
   },
   "pumpkin-katsu-curry-yakisoba-bento": {
@@ -1401,12 +1401,12 @@
    "carbs_g": 91.5,
    "fat_g": 38.4,
    "salt_g": 5.3,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Wasabi Nutritional Guide (PDF)",
    "source_url": "https://www.wasabi.uk.com/wp-content/uploads/2025/11/WAS_Nutritional_Guide_181125v2.pdf",
-   "fetched_at": "2026-08-06T14:59:34Z",
+   "fetched_at": "2026-08-08T13:53:03Z",
    "quality_flags": null
   },
   "flaming-korean-fire-chicken-bento": {
@@ -1420,12 +1420,12 @@
    "carbs_g": 123.4,
    "fat_g": 15.4,
    "salt_g": 3.3,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": false,
+   "vegan": false,
    "allergens": null,
    "source": "Wasabi Nutritional Guide (PDF)",
    "source_url": "https://www.wasabi.uk.com/wp-content/uploads/2025/11/WAS_Nutritional_Guide_181125v2.pdf",
-   "fetched_at": "2026-08-06T14:59:34Z",
+   "fetched_at": "2026-08-08T13:53:03Z",
    "quality_flags": null
   },
   "chicken-katsu-1-piece": {
@@ -1439,12 +1439,12 @@
    "carbs_g": 19.6,
    "fat_g": 10.5,
    "salt_g": 0.8,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": false,
+   "vegan": false,
    "allergens": null,
    "source": "Wasabi Nutritional Guide (PDF)",
    "source_url": "https://www.wasabi.uk.com/wp-content/uploads/2025/11/WAS_Nutritional_Guide_181125v2.pdf",
-   "fetched_at": "2026-08-06T14:59:34Z",
+   "fetched_at": "2026-08-08T13:53:03Z",
    "quality_flags": null
   },
   "pumpkin-katsu-1-piece": {
@@ -1458,12 +1458,12 @@
    "carbs_g": 15.8,
    "fat_g": 7.8,
    "salt_g": 0.4,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Wasabi Nutritional Guide (PDF)",
    "source_url": "https://www.wasabi.uk.com/wp-content/uploads/2025/11/WAS_Nutritional_Guide_181125v2.pdf",
-   "fetched_at": "2026-08-06T14:59:34Z",
+   "fetched_at": "2026-08-08T13:53:03Z",
    "quality_flags": null
   },
   "hot-chicken-gyoza-fried-2-pieces": {
@@ -1477,12 +1477,12 @@
    "carbs_g": 11.8,
    "fat_g": 4.9,
    "salt_g": 0.4,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": false,
+   "vegan": false,
    "allergens": null,
    "source": "Wasabi Nutritional Guide (PDF)",
    "source_url": "https://www.wasabi.uk.com/wp-content/uploads/2025/11/WAS_Nutritional_Guide_181125v2.pdf",
-   "fetched_at": "2026-08-06T14:59:34Z",
+   "fetched_at": "2026-08-08T13:53:03Z",
    "quality_flags": null
   },
   "hot-chicken-gyoza-steamed-2-pieces": {
@@ -1496,12 +1496,12 @@
    "carbs_g": 10.0,
    "fat_g": 1.8,
    "salt_g": 0.3,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": false,
+   "vegan": false,
    "allergens": null,
    "source": "Wasabi Nutritional Guide (PDF)",
    "source_url": "https://www.wasabi.uk.com/wp-content/uploads/2025/11/WAS_Nutritional_Guide_181125v2.pdf",
-   "fetched_at": "2026-08-06T14:59:34Z",
+   "fetched_at": "2026-08-08T13:53:03Z",
    "quality_flags": null
   },
   "hot-vegetable-gyoza-fried-2-pieces": {
@@ -1515,12 +1515,12 @@
    "carbs_g": 13.7,
    "fat_g": 5.4,
    "salt_g": 0.4,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Wasabi Nutritional Guide (PDF)",
    "source_url": "https://www.wasabi.uk.com/wp-content/uploads/2025/11/WAS_Nutritional_Guide_181125v2.pdf",
-   "fetched_at": "2026-08-06T14:59:34Z",
+   "fetched_at": "2026-08-08T13:53:03Z",
    "quality_flags": null
   },
   "hot-vegetable-gyoza-steamed-2-pieces": {
@@ -1534,12 +1534,12 @@
    "carbs_g": 12.0,
    "fat_g": 0.9,
    "salt_g": 0.4,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Wasabi Nutritional Guide (PDF)",
    "source_url": "https://www.wasabi.uk.com/wp-content/uploads/2025/11/WAS_Nutritional_Guide_181125v2.pdf",
-   "fetched_at": "2026-08-06T14:59:34Z",
+   "fetched_at": "2026-08-08T13:53:03Z",
    "quality_flags": null
   },
   "plain-yakisoba": {
@@ -1553,12 +1553,12 @@
    "carbs_g": 41.5,
    "fat_g": 6.7,
    "salt_g": 1.7,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Wasabi Nutritional Guide (PDF)",
    "source_url": "https://www.wasabi.uk.com/wp-content/uploads/2025/11/WAS_Nutritional_Guide_181125v2.pdf",
-   "fetched_at": "2026-08-06T14:59:34Z",
+   "fetched_at": "2026-08-08T13:53:03Z",
    "quality_flags": null
   },
   "korean-bbq-chicken-pops": {
@@ -1572,12 +1572,12 @@
    "carbs_g": 24.3,
    "fat_g": 17.9,
    "salt_g": 1.9,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": false,
+   "vegan": false,
    "allergens": null,
    "source": "Wasabi Nutritional Guide (PDF)",
    "source_url": "https://www.wasabi.uk.com/wp-content/uploads/2025/11/WAS_Nutritional_Guide_181125v2.pdf",
-   "fetched_at": "2026-08-06T14:59:34Z",
+   "fetched_at": "2026-08-08T13:53:03Z",
    "quality_flags": null
   },
   "steamed-rice": {
@@ -1591,12 +1591,12 @@
    "carbs_g": 91.0,
    "fat_g": 1.2,
    "salt_g": 0.1,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Wasabi Nutritional Guide (PDF)",
    "source_url": "https://www.wasabi.uk.com/wp-content/uploads/2025/11/WAS_Nutritional_Guide_181125v2.pdf",
-   "fetched_at": "2026-08-06T14:59:34Z",
+   "fetched_at": "2026-08-08T13:53:03Z",
    "quality_flags": null
   },
   "spicy-korean-chicken-pops": {
@@ -1610,12 +1610,12 @@
    "carbs_g": 28.5,
    "fat_g": 18.4,
    "salt_g": 2.2,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": false,
+   "vegan": false,
    "allergens": null,
    "source": "Wasabi Nutritional Guide (PDF)",
    "source_url": "https://www.wasabi.uk.com/wp-content/uploads/2025/11/WAS_Nutritional_Guide_181125v2.pdf",
-   "fetched_at": "2026-08-06T14:59:34Z",
+   "fetched_at": "2026-08-08T13:53:03Z",
    "quality_flags": null
   },
   "spicy-salmon-prawn-rice-bites": {
@@ -1629,12 +1629,12 @@
    "carbs_g": 54.5,
    "fat_g": 19.4,
    "salt_g": 2.1,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": false,
+   "vegan": false,
    "allergens": null,
    "source": "Wasabi Nutritional Guide (PDF)",
    "source_url": "https://www.wasabi.uk.com/wp-content/uploads/2025/11/WAS_Nutritional_Guide_181125v2.pdf",
-   "fetched_at": "2026-08-06T14:59:34Z",
+   "fetched_at": "2026-08-08T13:53:03Z",
    "quality_flags": null
   },
   "chicken-katsu-curry-bites": {
@@ -1648,12 +1648,12 @@
    "carbs_g": 34.0,
    "fat_g": 22.4,
    "salt_g": 2.2,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": false,
+   "vegan": false,
    "allergens": null,
    "source": "Wasabi Nutritional Guide (PDF)",
    "source_url": "https://www.wasabi.uk.com/wp-content/uploads/2025/11/WAS_Nutritional_Guide_181125v2.pdf",
-   "fetched_at": "2026-08-06T14:59:34Z",
+   "fetched_at": "2026-08-08T13:53:03Z",
    "quality_flags": null
   },
   "chicken-katsu-curry-curry-sauce": {
@@ -1672,7 +1672,7 @@
    "allergens": null,
    "source": "Wasabi Nutritional Guide (PDF)",
    "source_url": "https://www.wasabi.uk.com/wp-content/uploads/2025/11/WAS_Nutritional_Guide_181125v2.pdf",
-   "fetched_at": "2026-08-06T14:59:34Z",
+   "fetched_at": "2026-08-08T13:53:04Z",
    "quality_flags": null
   },
   "chicken-teriyaki-chicken-katsu-curry": {
@@ -1691,7 +1691,7 @@
    "allergens": null,
    "source": "Wasabi Nutritional Guide (PDF)",
    "source_url": "https://www.wasabi.uk.com/wp-content/uploads/2025/11/WAS_Nutritional_Guide_181125v2.pdf",
-   "fetched_at": "2026-08-06T14:59:34Z",
+   "fetched_at": "2026-08-08T13:53:03Z",
    "quality_flags": null
   },
   "chicken-teriyaki-curry-sauce": {
@@ -1710,7 +1710,7 @@
    "allergens": null,
    "source": "Wasabi Nutritional Guide (PDF)",
    "source_url": "https://www.wasabi.uk.com/wp-content/uploads/2025/11/WAS_Nutritional_Guide_181125v2.pdf",
-   "fetched_at": "2026-08-06T14:59:34Z",
+   "fetched_at": "2026-08-08T13:53:03Z",
    "quality_flags": null
   },
   "chicken-teriyaki-sweet-chilli-chicken": {
@@ -1729,7 +1729,7 @@
    "allergens": null,
    "source": "Wasabi Nutritional Guide (PDF)",
    "source_url": "https://www.wasabi.uk.com/wp-content/uploads/2025/11/WAS_Nutritional_Guide_181125v2.pdf",
-   "fetched_at": "2026-08-06T14:59:34Z",
+   "fetched_at": "2026-08-08T13:53:03Z",
    "quality_flags": null
   },
   "pumpkin-katsu-chicken-teriyaki": {
@@ -1748,7 +1748,7 @@
    "allergens": null,
    "source": "Wasabi Nutritional Guide (PDF)",
    "source_url": "https://www.wasabi.uk.com/wp-content/uploads/2025/11/WAS_Nutritional_Guide_181125v2.pdf",
-   "fetched_at": "2026-08-06T14:59:34Z",
+   "fetched_at": "2026-08-08T13:53:03Z",
    "quality_flags": null
   },
   "pumpkin-katsu-chicken-katsu-curry": {
@@ -1767,7 +1767,7 @@
    "allergens": null,
    "source": "Wasabi Nutritional Guide (PDF)",
    "source_url": "https://www.wasabi.uk.com/wp-content/uploads/2025/11/WAS_Nutritional_Guide_181125v2.pdf",
-   "fetched_at": "2026-08-06T14:59:34Z",
+   "fetched_at": "2026-08-08T13:53:03Z",
    "quality_flags": null
   },
   "pumpkin-katsu-sweet-chilli-chicken": {
@@ -1786,7 +1786,7 @@
    "allergens": null,
    "source": "Wasabi Nutritional Guide (PDF)",
    "source_url": "https://www.wasabi.uk.com/wp-content/uploads/2025/11/WAS_Nutritional_Guide_181125v2.pdf",
-   "fetched_at": "2026-08-06T14:59:34Z",
+   "fetched_at": "2026-08-08T13:53:03Z",
    "quality_flags": null
   },
   "pumpkin-katsu-curry-sauce": {
@@ -1805,7 +1805,7 @@
    "allergens": null,
    "source": "Wasabi Nutritional Guide (PDF)",
    "source_url": "https://www.wasabi.uk.com/wp-content/uploads/2025/11/WAS_Nutritional_Guide_181125v2.pdf",
-   "fetched_at": "2026-08-06T14:59:34Z",
+   "fetched_at": "2026-08-08T13:53:03Z",
    "quality_flags": null
   },
   "sweet-chilli-chicken-chicken-katsu-curry": {
@@ -1824,7 +1824,7 @@
    "allergens": null,
    "source": "Wasabi Nutritional Guide (PDF)",
    "source_url": "https://www.wasabi.uk.com/wp-content/uploads/2025/11/WAS_Nutritional_Guide_181125v2.pdf",
-   "fetched_at": "2026-08-06T14:59:34Z",
+   "fetched_at": "2026-08-08T13:53:03Z",
    "quality_flags": null
   },
   "sweet-chilli-chicken-curry-sauce": {
@@ -1843,7 +1843,7 @@
    "allergens": null,
    "source": "Wasabi Nutritional Guide (PDF)",
    "source_url": "https://www.wasabi.uk.com/wp-content/uploads/2025/11/WAS_Nutritional_Guide_181125v2.pdf",
-   "fetched_at": "2026-08-06T14:59:34Z",
+   "fetched_at": "2026-08-08T13:53:03Z",
    "quality_flags": null
   },
   "korean-bbq-chicken-chicken-katsu-curry": {
@@ -1862,7 +1862,7 @@
    "allergens": null,
    "source": "Wasabi Nutritional Guide (PDF)",
    "source_url": "https://www.wasabi.uk.com/wp-content/uploads/2025/11/WAS_Nutritional_Guide_181125v2.pdf",
-   "fetched_at": "2026-08-06T14:59:34Z",
+   "fetched_at": "2026-08-08T13:53:03Z",
    "quality_flags": null
   },
   "korean-bbq-chicken-curry-sauce": {
@@ -1881,7 +1881,7 @@
    "allergens": null,
    "source": "Wasabi Nutritional Guide (PDF)",
    "source_url": "https://www.wasabi.uk.com/wp-content/uploads/2025/11/WAS_Nutritional_Guide_181125v2.pdf",
-   "fetched_at": "2026-08-06T14:59:34Z",
+   "fetched_at": "2026-08-08T13:53:03Z",
    "quality_flags": null
   },
   "korean-bbq-chicken-sweet-chilli-chicken": {
@@ -1900,7 +1900,7 @@
    "allergens": null,
    "source": "Wasabi Nutritional Guide (PDF)",
    "source_url": "https://www.wasabi.uk.com/wp-content/uploads/2025/11/WAS_Nutritional_Guide_181125v2.pdf",
-   "fetched_at": "2026-08-06T14:59:34Z",
+   "fetched_at": "2026-08-08T13:53:03Z",
    "quality_flags": null
   },
   "tofu-curry-chicken-teriyaki": {
@@ -1919,7 +1919,7 @@
    "allergens": null,
    "source": "Wasabi Nutritional Guide (PDF)",
    "source_url": "https://www.wasabi.uk.com/wp-content/uploads/2025/11/WAS_Nutritional_Guide_181125v2.pdf",
-   "fetched_at": "2026-08-06T14:59:34Z",
+   "fetched_at": "2026-08-08T13:53:03Z",
    "quality_flags": null
   },
   "semi-skimmed-milk": {
@@ -1933,12 +1933,12 @@
    "carbs_g": 5.0,
    "fat_g": 1.7,
    "salt_g": 0.1,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": false,
    "allergens": null,
    "source": "Wasabi Nutritional Guide (PDF)",
    "source_url": "https://www.wasabi.uk.com/wp-content/uploads/2025/11/WAS_Nutritional_Guide_181125v2.pdf",
-   "fetched_at": "2026-08-06T14:59:36Z",
+   "fetched_at": "2026-08-08T13:53:05Z",
    "quality_flags": null
   },
   "oat-milk": {
@@ -1952,12 +1952,12 @@
    "carbs_g": 6.6,
    "fat_g": 3.0,
    "salt_g": 0.1,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Wasabi Nutritional Guide (PDF)",
    "source_url": "https://www.wasabi.uk.com/wp-content/uploads/2025/11/WAS_Nutritional_Guide_181125v2.pdf",
-   "fetched_at": "2026-08-06T14:59:36Z",
+   "fetched_at": "2026-08-08T13:53:05Z",
    "quality_flags": null
   },
   "vanilla-syrup": {
@@ -1971,12 +1971,12 @@
    "carbs_g": 11.7,
    "fat_g": 0.0,
    "salt_g": 0.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Wasabi Nutritional Guide (PDF)",
    "source_url": "https://www.wasabi.uk.com/wp-content/uploads/2025/11/WAS_Nutritional_Guide_181125v2.pdf",
-   "fetched_at": "2026-08-06T14:59:36Z",
+   "fetched_at": "2026-08-08T13:53:05Z",
    "quality_flags": null
   },
   "ginger-sachet": {
@@ -1990,12 +1990,12 @@
    "carbs_g": 0.0,
    "fat_g": 0.0,
    "salt_g": 0.1,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Wasabi Nutritional Guide (PDF)",
    "source_url": "https://www.wasabi.uk.com/wp-content/uploads/2025/11/WAS_Nutritional_Guide_181125v2.pdf",
-   "fetched_at": "2026-08-06T14:59:36Z",
+   "fetched_at": "2026-08-08T13:53:05Z",
    "quality_flags": null
   },
   "soy-sauce-sachet": {
@@ -2009,12 +2009,12 @@
    "carbs_g": 0.6,
    "fat_g": 0.0,
    "salt_g": 1.5,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Wasabi Nutritional Guide (PDF)",
    "source_url": "https://www.wasabi.uk.com/wp-content/uploads/2025/11/WAS_Nutritional_Guide_181125v2.pdf",
-   "fetched_at": "2026-08-06T14:59:36Z",
+   "fetched_at": "2026-08-08T13:53:05Z",
    "quality_flags": null
   },
   "gluten-free-soy-sauce-sachet": {
@@ -2028,12 +2028,12 @@
    "carbs_g": 0.4,
    "fat_g": 0.1,
    "salt_g": 1.6,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Wasabi Nutritional Guide (PDF)",
    "source_url": "https://www.wasabi.uk.com/wp-content/uploads/2025/11/WAS_Nutritional_Guide_181125v2.pdf",
-   "fetched_at": "2026-08-06T14:59:36Z",
+   "fetched_at": "2026-08-08T13:53:05Z",
    "quality_flags": null
   },
   "reduced-salt-soy-sauce-sachet": {
@@ -2047,12 +2047,12 @@
    "carbs_g": 0.8,
    "fat_g": 0.0,
    "salt_g": 0.9,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Wasabi Nutritional Guide (PDF)",
    "source_url": "https://www.wasabi.uk.com/wp-content/uploads/2025/11/WAS_Nutritional_Guide_181125v2.pdf",
-   "fetched_at": "2026-08-06T14:59:36Z",
+   "fetched_at": "2026-08-08T13:53:05Z",
    "quality_flags": null
   },
   "wasabi-sachet": {
@@ -2066,12 +2066,12 @@
    "carbs_g": 0.5,
    "fat_g": 0.1,
    "salt_g": 0.1,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Wasabi Nutritional Guide (PDF)",
    "source_url": "https://www.wasabi.uk.com/wp-content/uploads/2025/11/WAS_Nutritional_Guide_181125v2.pdf",
-   "fetched_at": "2026-08-06T14:59:36Z",
+   "fetched_at": "2026-08-08T13:53:05Z",
    "quality_flags": null
   },
   "ponzu-sauce-sachet": {
@@ -2085,12 +2085,12 @@
    "carbs_g": 0.7,
    "fat_g": 0.0,
    "salt_g": 9.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Wasabi Nutritional Guide (PDF)",
    "source_url": "https://www.wasabi.uk.com/wp-content/uploads/2025/11/WAS_Nutritional_Guide_181125v2.pdf",
-   "fetched_at": "2026-08-06T14:59:36Z",
+   "fetched_at": "2026-08-08T13:53:05Z",
    "quality_flags": null
   },
   "tomato-ketchup-sauce-pot": {
@@ -2104,12 +2104,12 @@
    "carbs_g": 9.9,
    "fat_g": 0.0,
    "salt_g": 0.3,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Wasabi Nutritional Guide (PDF)",
    "source_url": "https://www.wasabi.uk.com/wp-content/uploads/2025/11/WAS_Nutritional_Guide_181125v2.pdf",
-   "fetched_at": "2026-08-06T14:59:36Z",
+   "fetched_at": "2026-08-08T13:53:05Z",
    "quality_flags": null
   },
   "korean-bbq-sauce-pot": {
@@ -2123,12 +2123,12 @@
    "carbs_g": 8.0,
    "fat_g": 0.1,
    "salt_g": 0.5,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": false,
    "allergens": null,
    "source": "Wasabi Nutritional Guide (PDF)",
    "source_url": "https://www.wasabi.uk.com/wp-content/uploads/2025/11/WAS_Nutritional_Guide_181125v2.pdf",
-   "fetched_at": "2026-08-06T14:59:36Z",
+   "fetched_at": "2026-08-08T13:53:05Z",
    "quality_flags": null
   },
   "sweet-chilli-mayo-sauce": {
@@ -2142,12 +2142,12 @@
    "carbs_g": 6.6,
    "fat_g": 1.8,
    "salt_g": 0.5,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Wasabi Nutritional Guide (PDF)",
    "source_url": "https://www.wasabi.uk.com/wp-content/uploads/2025/11/WAS_Nutritional_Guide_181125v2.pdf",
-   "fetched_at": "2026-08-06T14:59:36Z",
+   "fetched_at": "2026-08-08T13:53:06Z",
    "quality_flags": null
   },
   "teriyaki-sauce": {
@@ -2161,12 +2161,12 @@
    "carbs_g": 10.1,
    "fat_g": 0.0,
    "salt_g": 1.1,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Wasabi Nutritional Guide (PDF)",
    "source_url": "https://www.wasabi.uk.com/wp-content/uploads/2025/11/WAS_Nutritional_Guide_181125v2.pdf",
-   "fetched_at": "2026-08-06T14:59:36Z",
+   "fetched_at": "2026-08-08T13:53:06Z",
    "quality_flags": null
   },
   "pok-dressing": {
@@ -2180,12 +2180,12 @@
    "carbs_g": 3.1,
    "fat_g": 8.2,
    "salt_g": 1.4,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Wasabi Nutritional Guide (PDF)",
    "source_url": "https://www.wasabi.uk.com/wp-content/uploads/2025/11/WAS_Nutritional_Guide_181125v2.pdf",
-   "fetched_at": "2026-08-06T14:59:36Z",
+   "fetched_at": "2026-08-08T13:53:06Z",
    "quality_flags": null
   },
   "gochujang-dressing": {
@@ -2199,12 +2199,12 @@
    "carbs_g": 5.2,
    "fat_g": 7.3,
    "salt_g": 1.6,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Wasabi Nutritional Guide (PDF)",
    "source_url": "https://www.wasabi.uk.com/wp-content/uploads/2025/11/WAS_Nutritional_Guide_181125v2.pdf",
-   "fetched_at": "2026-08-06T14:59:36Z",
+   "fetched_at": "2026-08-08T13:53:06Z",
    "quality_flags": null
   },
   "sesame-dressing": {
@@ -2218,12 +2218,12 @@
    "carbs_g": 5.7,
    "fat_g": 6.9,
    "salt_g": 0.5,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": false,
    "allergens": null,
    "source": "Wasabi Nutritional Guide (PDF)",
    "source_url": "https://www.wasabi.uk.com/wp-content/uploads/2025/11/WAS_Nutritional_Guide_181125v2.pdf",
-   "fetched_at": "2026-08-06T14:59:36Z",
+   "fetched_at": "2026-08-08T13:53:06Z",
    "quality_flags": null
   }
  }

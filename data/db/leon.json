@@ -1,7 +1,7 @@
 {
  "chain_id": "leon",
  "item_count": 151,
- "fetched_at": "2026-08-06T15:05:21Z",
+ "fetched_at": "2026-08-08T13:52:14Z",
  "items": {
   "raspberry-pomegranate-cooler": {
    "chain_id": "leon",
@@ -19,7 +19,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "love-burger": {
@@ -33,12 +33,12 @@
    "carbs_g": 63.0,
    "fat_g": 10.1,
    "salt_g": 2.67,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "crisp-peach-cooler": {
@@ -57,7 +57,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "hash-browns": {
@@ -71,12 +71,12 @@
    "carbs_g": 22.0,
    "fat_g": 12.5,
    "salt_g": 0.6,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "chicken-chorizo-club-wrap": {
@@ -90,12 +90,12 @@
    "carbs_g": 51.0,
    "fat_g": 34.0,
    "salt_g": 1.75,
-   "vegetarian": null,
+   "vegetarian": false,
    "vegan": null,
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "salsa-verde-and-aioli-chicken-mezze-pot": {
@@ -109,12 +109,12 @@
    "carbs_g": 3.9,
    "fat_g": 4.3,
    "salt_g": 1.26,
-   "vegetarian": null,
+   "vegetarian": false,
    "vegan": null,
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "the-three-leons-smoothie": {
@@ -133,7 +133,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "charred-broccoli-with-preserved-lemon": {
@@ -147,12 +147,12 @@
    "carbs_g": 7.2,
    "fat_g": 18.0,
    "salt_g": 1.22,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "salsa-verde-big-box": {
@@ -171,7 +171,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "the-full-monty": {
@@ -190,7 +190,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "bacon-egg-muffin": {
@@ -204,12 +204,12 @@
    "carbs_g": 36.0,
    "fat_g": 20.0,
    "salt_g": 3.7,
-   "vegetarian": null,
+   "vegetarian": false,
    "vegan": null,
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "bacon-muffin": {
@@ -223,12 +223,12 @@
    "carbs_g": 36.0,
    "fat_g": 14.0,
    "salt_g": 1.83,
-   "vegetarian": null,
+   "vegetarian": false,
    "vegan": null,
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "green-shakshuka-halloumi": {
@@ -242,12 +242,12 @@
    "carbs_g": 2.7,
    "fat_g": 27.0,
    "salt_g": 1.62,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "the-big-breakfast-box": {
@@ -266,7 +266,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "the-halloumi-breakfast-box": {
@@ -280,12 +280,12 @@
    "carbs_g": 13.0,
    "fat_g": 41.0,
    "salt_g": 3.26,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "full-english-pot": {
@@ -304,7 +304,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "chicken-avocado-superfood-salad": {
@@ -318,12 +318,12 @@
    "carbs_g": 25.0,
    "fat_g": 43.0,
    "salt_g": 1.47,
-   "vegetarian": null,
+   "vegetarian": false,
    "vegan": null,
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "the-original-superfood-salad": {
@@ -342,7 +342,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "mushroom-magic-romesco-big-box": {
@@ -356,12 +356,12 @@
    "carbs_g": 80.0,
    "fat_g": 32.0,
    "salt_g": 3.02,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "satay-chicken": {
@@ -375,12 +375,12 @@
    "carbs_g": 74.0,
    "fat_g": 31.0,
    "salt_g": 2.5,
-   "vegetarian": null,
+   "vegetarian": false,
    "vegan": null,
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "mushroom-magic-romesco": {
@@ -394,12 +394,12 @@
    "carbs_g": 73.0,
    "fat_g": 2.6,
    "salt_g": 2.2,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "mushroom-magic-aioli-big-box": {
@@ -418,7 +418,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "korean-chicken-egg-sando": {
@@ -432,12 +432,12 @@
    "carbs_g": 52.0,
    "fat_g": 34.0,
    "salt_g": 2.6,
-   "vegetarian": null,
+   "vegetarian": false,
    "vegan": null,
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "garlic-marinated-chicken-mezze": {
@@ -451,12 +451,12 @@
    "carbs_g": 2.4,
    "fat_g": 13.0,
    "salt_g": 0.92,
-   "vegetarian": null,
+   "vegetarian": false,
    "vegan": null,
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "shakshuka": {
@@ -470,12 +470,12 @@
    "carbs_g": 4.3,
    "fat_g": 20.0,
    "salt_g": 0.88,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "strawberry-split-matcha-iced-latte": {
@@ -494,7 +494,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "chicken-super-salad": {
@@ -508,12 +508,12 @@
    "carbs_g": 19.0,
    "fat_g": 28.0,
    "salt_g": 1.82,
-   "vegetarian": null,
+   "vegetarian": false,
    "vegan": null,
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "chargrilled-chicken-rice-box": {
@@ -527,12 +527,12 @@
    "carbs_g": 56.0,
    "fat_g": 8.0,
    "salt_g": 1.41,
-   "vegetarian": null,
+   "vegetarian": false,
    "vegan": null,
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "leon-slaw": {
@@ -546,12 +546,12 @@
    "carbs_g": 6.0,
    "fat_g": 8.7,
    "salt_g": 0.43,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "chargrilled-chicken-burger": {
@@ -565,12 +565,12 @@
    "carbs_g": 38.0,
    "fat_g": 19.5,
    "salt_g": 2.1,
-   "vegetarian": null,
+   "vegetarian": false,
    "vegan": null,
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "brazilian-black-beans-with-rice": {
@@ -584,12 +584,12 @@
    "carbs_g": 58.0,
    "fat_g": 11.0,
    "salt_g": 1.6,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "chicken-aioli-wrap": {
@@ -603,12 +603,12 @@
    "carbs_g": 50.0,
    "fat_g": 29.0,
    "salt_g": 1.45,
-   "vegetarian": null,
+   "vegetarian": false,
    "vegan": null,
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "smoked-salmon-cream-cheese-muffin": {
@@ -622,12 +622,12 @@
    "carbs_g": 34.0,
    "fat_g": 15.0,
    "salt_g": 1.64,
-   "vegetarian": null,
+   "vegetarian": false,
    "vegan": null,
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "aioli-chicken-big-box": {
@@ -641,12 +641,12 @@
    "carbs_g": 77.0,
    "fat_g": 43.0,
    "salt_g": 2.82,
-   "vegetarian": null,
+   "vegetarian": false,
    "vegan": null,
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "satay-chicken-big-box": {
@@ -660,12 +660,12 @@
    "carbs_g": 81.0,
    "fat_g": 40.0,
    "salt_g": 3.3,
-   "vegetarian": null,
+   "vegetarian": false,
    "vegan": null,
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "aioli-chicken": {
@@ -679,12 +679,12 @@
    "carbs_g": 70.0,
    "fat_g": 37.0,
    "salt_g": 2.4,
-   "vegetarian": null,
+   "vegetarian": false,
    "vegan": null,
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "brazilian-black-beans-small": {
@@ -698,12 +698,12 @@
    "carbs_g": 84.0,
    "fat_g": 15.0,
    "salt_g": 2.36,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "black-bean-chilli-rice-pot": {
@@ -717,12 +717,12 @@
    "carbs_g": 57.0,
    "fat_g": 10.0,
    "salt_g": 1.65,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "fish-finger-wrap": {
@@ -736,12 +736,12 @@
    "carbs_g": 74.0,
    "fat_g": 25.0,
    "salt_g": 1.84,
-   "vegetarian": null,
+   "vegetarian": false,
    "vegan": null,
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "chilli-sauce": {
@@ -755,12 +755,12 @@
    "carbs_g": 3.1,
    "fat_g": 0.5,
    "salt_g": 0.55,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "gfc-crispy-chicken-nuggets": {
@@ -774,12 +774,12 @@
    "carbs_g": 43.0,
    "fat_g": 21.0,
    "salt_g": 1.7,
-   "vegetarian": null,
+   "vegetarian": false,
    "vegan": null,
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "paprika-chicken-yemeni-zhoug-bowl-d": {
@@ -793,12 +793,12 @@
    "carbs_g": 89.0,
    "fat_g": 35.0,
    "salt_g": 2.3,
-   "vegetarian": null,
+   "vegetarian": false,
    "vegan": null,
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "gfc-crispy-chicken-nuggets-baked-fries": {
@@ -812,12 +812,12 @@
    "carbs_g": 65.0,
    "fat_g": 19.0,
    "salt_g": 2.2,
-   "vegetarian": null,
+   "vegetarian": false,
    "vegan": null,
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "spicy-chicken-zhoug-wrap": {
@@ -831,12 +831,12 @@
    "carbs_g": 48.0,
    "fat_g": 20.0,
    "salt_g": 1.78,
-   "vegetarian": null,
+   "vegetarian": false,
    "vegan": null,
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "falafel-rice-box": {
@@ -850,12 +850,12 @@
    "carbs_g": 62.0,
    "fat_g": 7.0,
    "salt_g": 1.5,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "kids-gfc-nuggets-with-fries": {
@@ -874,7 +874,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "salmon-sm-rg-s-box": {
@@ -888,12 +888,12 @@
    "carbs_g": 5.4,
    "fat_g": 32.0,
    "salt_g": 1.88,
-   "vegetarian": null,
+   "vegetarian": false,
    "vegan": null,
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "lentil-masala": {
@@ -907,12 +907,12 @@
    "carbs_g": 80.0,
    "fat_g": 21.0,
    "salt_g": 2.47,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "honey-sriracha-gfc-chicken-nuggets": {
@@ -926,12 +926,12 @@
    "carbs_g": 61.0,
    "fat_g": 21.0,
    "salt_g": 2.11,
-   "vegetarian": null,
+   "vegetarian": false,
    "vegan": null,
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "very-berry-granola": {
@@ -945,12 +945,12 @@
    "carbs_g": 39.0,
    "fat_g": 19.0,
    "salt_g": 0.2,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "banana-turmeric-honey-granola": {
@@ -964,12 +964,12 @@
    "carbs_g": 50.0,
    "fat_g": 12.0,
    "salt_g": 0.2,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "chicken-caesar-burger": {
@@ -983,12 +983,12 @@
    "carbs_g": 50.0,
    "fat_g": 35.0,
    "salt_g": 2.7,
-   "vegetarian": null,
+   "vegetarian": false,
    "vegan": null,
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "build-your-own-super-bowl": {
@@ -1007,7 +1007,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "falafel-super-salad": {
@@ -1021,12 +1021,12 @@
    "carbs_g": 35.0,
    "fat_g": 23.0,
    "salt_g": 1.7,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "grilled-halloumi-wrap": {
@@ -1040,12 +1040,12 @@
    "carbs_g": 46.0,
    "fat_g": 29.0,
    "salt_g": 2.3,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "chai-iced-latte": {
@@ -1064,7 +1064,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "unsweetened-iced-matcha-latte": {
@@ -1083,7 +1083,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "vanilla-iced-matcha-latte": {
@@ -1102,7 +1102,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "smashed-avocado-halloumi-muffin": {
@@ -1116,12 +1116,12 @@
    "carbs_g": 34.0,
    "fat_g": 22.0,
    "salt_g": 1.9,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "blueberry-yuzu-blondie": {
@@ -1135,12 +1135,12 @@
    "carbs_g": 31.0,
    "fat_g": 12.7,
    "salt_g": 0.17,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "triple-choc-a-lot-cookie": {
@@ -1154,12 +1154,12 @@
    "carbs_g": 30.0,
    "fat_g": 16.0,
    "salt_g": 0.27,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "chocolate-almond-butter-tiffin": {
@@ -1173,12 +1173,12 @@
    "carbs_g": 22.6,
    "fat_g": 19.5,
    "salt_g": 0.33,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "sausage-egg-muffin": {
@@ -1192,12 +1192,12 @@
    "carbs_g": 38.0,
    "fat_g": 22.0,
    "salt_g": 2.1,
-   "vegetarian": null,
+   "vegetarian": false,
    "vegan": null,
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "peanut-satay-chicken-bowl-d": {
@@ -1211,12 +1211,12 @@
    "carbs_g": 98.0,
    "fat_g": 35.0,
    "salt_g": 2.3,
-   "vegetarian": null,
+   "vegetarian": false,
    "vegan": null,
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "ruby-red-porridge": {
@@ -1230,12 +1230,12 @@
    "carbs_g": 41.0,
    "fat_g": 14.0,
    "salt_g": 0.19,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "peas-n-seeds": {
@@ -1249,12 +1249,12 @@
    "carbs_g": 12.0,
    "fat_g": 9.6,
    "salt_g": 0.03,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "oat-cranberry-cookie": {
@@ -1268,12 +1268,12 @@
    "carbs_g": 23.0,
    "fat_g": 27.0,
    "salt_g": 0.27,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "iced-americano": {
@@ -1292,7 +1292,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "moroccan-meatballs-bowl-d": {
@@ -1311,7 +1311,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "mocha": {
@@ -1330,7 +1330,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "latte": {
@@ -1349,7 +1349,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "iced-latte": {
@@ -1368,7 +1368,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "hot-honey-gfc-chicken-nuggets": {
@@ -1382,12 +1382,12 @@
    "carbs_g": 61.0,
    "fat_g": 21.0,
    "salt_g": 2.4,
-   "vegetarian": null,
+   "vegetarian": false,
    "vegan": null,
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "hot-chocolate": {
@@ -1406,7 +1406,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "halloumi-egg-avo-sando": {
@@ -1420,12 +1420,12 @@
    "carbs_g": 40.0,
    "fat_g": 36.0,
    "salt_g": 2.9,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "flat-white": {
@@ -1444,7 +1444,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "nutty-lime-ginger-fabjack": {
@@ -1458,12 +1458,12 @@
    "carbs_g": 36.7,
    "fat_g": 18.4,
    "salt_g": 0.3,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "crunchy-korean-chicken-wrap": {
@@ -1477,12 +1477,12 @@
    "carbs_g": 72.0,
    "fat_g": 26.0,
    "salt_g": 2.5,
-   "vegetarian": null,
+   "vegetarian": false,
    "vegan": null,
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "leon-chocolate-chip-cookie": {
@@ -1496,12 +1496,12 @@
    "carbs_g": 35.0,
    "fat_g": 15.0,
    "salt_g": 0.47,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "cappuccino": {
@@ -1520,7 +1520,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "blueberry-honey-toasted-seeds-porridge": {
@@ -1534,12 +1534,12 @@
    "carbs_g": 39.0,
    "fat_g": 12.0,
    "salt_g": 0.18,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "saucy-beans-pot": {
@@ -1553,12 +1553,12 @@
    "carbs_g": 8.9,
    "fat_g": 9.7,
    "salt_g": 0.78,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "banana-and-cinnamon-porridge": {
@@ -1572,12 +1572,12 @@
    "carbs_g": 56.0,
    "fat_g": 8.5,
    "salt_g": 0.19,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "choconutty-banana-bread": {
@@ -1591,12 +1591,12 @@
    "carbs_g": 33.1,
    "fat_g": 14.4,
    "salt_g": 0.43,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "americano": {
@@ -1615,7 +1615,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "cheddar-black-pepper-mac-bites": {
@@ -1629,12 +1629,12 @@
    "carbs_g": 35.0,
    "fat_g": 15.0,
    "salt_g": 1.1,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "kids-egg-muffin": {
@@ -1648,12 +1648,12 @@
    "carbs_g": 31.0,
    "fat_g": 15.0,
    "salt_g": 0.95,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "vegan-sausage-muffin": {
@@ -1667,12 +1667,12 @@
    "carbs_g": 47.4,
    "fat_g": 10.5,
    "salt_g": 1.9,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "sausage-muffin": {
@@ -1686,12 +1686,12 @@
    "carbs_g": 38.0,
    "fat_g": 16.0,
    "salt_g": 2.0,
-   "vegetarian": null,
+   "vegetarian": false,
    "vegan": null,
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "baked-fries": {
@@ -1705,12 +1705,12 @@
    "carbs_g": 38.0,
    "fat_g": 7.5,
    "salt_g": 1.1,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "korean-mayo": {
@@ -1724,12 +1724,12 @@
    "carbs_g": 2.6,
    "fat_g": 6.0,
    "salt_g": 0.32,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "chicken-caesar-salad": {
@@ -1743,12 +1743,12 @@
    "carbs_g": 13.0,
    "fat_g": 23.0,
    "salt_g": 1.7,
-   "vegetarian": null,
+   "vegetarian": false,
    "vegan": null,
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "passionfruit-lemon-iced-tea": {
@@ -1767,7 +1767,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "lime-bubbly-water": {
@@ -1786,7 +1786,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "raspberry-bubbly-water": {
@@ -1805,7 +1805,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "yuzu-lemonade": {
@@ -1824,7 +1824,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "clean-green-smoothie": {
@@ -1838,12 +1838,12 @@
    "carbs_g": 28.0,
    "fat_g": 3.1,
    "salt_g": 0.02,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "better-brownie": {
@@ -1857,12 +1857,12 @@
    "carbs_g": 23.0,
    "fat_g": 24.0,
    "salt_g": 0.26,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "breakfast-stack": {
@@ -1881,7 +1881,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "salmon-egg-muffin": {
@@ -1895,12 +1895,12 @@
    "carbs_g": 30.6,
    "fat_g": 14.0,
    "salt_g": 2.53,
-   "vegetarian": null,
+   "vegetarian": false,
    "vegan": null,
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "moju-ginger-shot": {
@@ -1914,12 +1914,12 @@
    "carbs_g": 5.9,
    "fat_g": 0.5,
    "salt_g": 0.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "blueberry-lemon-poppy-seed-muffin": {
@@ -1938,7 +1938,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "lemony-lemonade": {
@@ -1957,7 +1957,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "gingerella-ginger-ale": {
@@ -1976,7 +1976,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "truffle-mushroom-arancini": {
@@ -1990,12 +1990,12 @@
    "carbs_g": 35.0,
    "fat_g": 12.0,
    "salt_g": 1.3,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "remedy-ginger-lemon-kombucha": {
@@ -2009,12 +2009,12 @@
    "carbs_g": 5.0,
    "fat_g": 0.5,
    "salt_g": 0.1,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "vanilla-matcha-latte": {
@@ -2033,7 +2033,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "vegan-garlic-aioli": {
@@ -2052,7 +2052,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "banana-and-cinnamon-porridge-with-activated-almond-m-lk": {
@@ -2066,12 +2066,12 @@
    "carbs_g": 51.0,
    "fat_g": 7.2,
    "salt_g": 0.21,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "ruby-red-porridge-with-activated-almond-milk": {
@@ -2085,12 +2085,12 @@
    "carbs_g": 37.0,
    "fat_g": 13.0,
    "salt_g": 0.22,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "unsweetened-matcha-latte": {
@@ -2109,7 +2109,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "gfc-crispy-chicken-nuggets-10-pieces": {
@@ -2123,12 +2123,12 @@
    "carbs_g": 87.0,
    "fat_g": 42.0,
    "salt_g": 3.3,
-   "vegetarian": null,
+   "vegetarian": false,
    "vegan": null,
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "tomato-ketchup": {
@@ -2142,12 +2142,12 @@
    "carbs_g": 5.8,
    "fat_g": 0.7,
    "salt_g": 0.28,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "kimchi": {
@@ -2161,12 +2161,12 @@
    "carbs_g": 2.7,
    "fat_g": 0.0,
    "salt_g": 1.5,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "hummus": {
@@ -2180,12 +2180,12 @@
    "carbs_g": 17.0,
    "fat_g": 28.0,
    "salt_g": 1.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "sourdough-toast": {
@@ -2199,12 +2199,12 @@
    "carbs_g": 49.2,
    "fat_g": 14.0,
    "salt_g": 1.06,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "razza-raspberry-lemonade": {
@@ -2223,7 +2223,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "karma-cola": {
@@ -2242,7 +2242,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "karma-gingerella-soda": {
@@ -2256,12 +2256,12 @@
    "carbs_g": 37.0,
    "fat_g": 0.0,
    "salt_g": 0.0,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "karma-cola-soda": {
@@ -2275,12 +2275,12 @@
    "carbs_g": 41.0,
    "fat_g": 0.0,
    "salt_g": 0.0,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "razza-raspberry-lemonade-soda": {
@@ -2294,12 +2294,12 @@
    "carbs_g": 37.0,
    "fat_g": 0.0,
    "salt_g": 0.0,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "karma-lemony-lemonade-soda": {
@@ -2313,12 +2313,12 @@
    "carbs_g": 43.0,
    "fat_g": 0.0,
    "salt_g": 0.0,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "orange-juice": {
@@ -2337,7 +2337,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "trip-elderflower-and-mint": {
@@ -2356,7 +2356,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "trip-peach-ginger": {
@@ -2375,7 +2375,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "banana-and-chocolate-porridge": {
@@ -2389,12 +2389,12 @@
    "carbs_g": 36.0,
    "fat_g": 7.7,
    "salt_g": 0.12,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "pain-au-chocolat": {
@@ -2408,12 +2408,12 @@
    "carbs_g": 29.0,
    "fat_g": 16.0,
    "salt_g": 0.62,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "organic-butter-croissant": {
@@ -2427,12 +2427,12 @@
    "carbs_g": 26.0,
    "fat_g": 14.0,
    "salt_g": 0.63,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "raspberry-pastel-de-nata": {
@@ -2446,12 +2446,12 @@
    "carbs_g": 21.7,
    "fat_g": 6.6,
    "salt_g": 0.21,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "lemon-ginger-crunch": {
@@ -2465,12 +2465,12 @@
    "carbs_g": 25.0,
    "fat_g": 21.0,
    "salt_g": 0.3,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "macchiato": {
@@ -2489,7 +2489,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "espresso": {
@@ -2508,7 +2508,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "kids-egg-and-beans-pot": {
@@ -2522,12 +2522,12 @@
    "carbs_g": 8.9,
    "fat_g": 9.7,
    "salt_g": 0.78,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "chai-latte": {
@@ -2541,12 +2541,12 @@
    "carbs_g": 31.7,
    "fat_g": 9.9,
    "salt_g": 0.3,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "winter-slaw": {
@@ -2560,12 +2560,12 @@
    "carbs_g": 6.4,
    "fat_g": 12.0,
    "salt_g": 0.1,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "vegan-harissa-chick-n-wrap": {
@@ -2579,12 +2579,12 @@
    "carbs_g": 56.0,
    "fat_g": 11.0,
    "salt_g": 2.6,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "hot-smoked-salmon-lime-jalape-o": {
@@ -2598,12 +2598,12 @@
    "carbs_g": 24.0,
    "fat_g": 31.0,
    "salt_g": 2.1,
-   "vegetarian": null,
+   "vegetarian": false,
    "vegan": null,
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "mango-lime-dragon-fruit-smoothie": {
@@ -2617,12 +2617,12 @@
    "carbs_g": 36.0,
    "fat_g": 1.8,
    "salt_g": 0.02,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "keralan-chicken-curry": {
@@ -2636,12 +2636,12 @@
    "carbs_g": 66.0,
    "fat_g": 24.0,
    "salt_g": 2.8,
-   "vegetarian": null,
+   "vegetarian": false,
    "vegan": null,
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "roasted-summer-veg-grilled-aubergine": {
@@ -2655,12 +2655,12 @@
    "carbs_g": 12.0,
    "fat_g": 21.0,
    "salt_g": 2.7,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "keep-it-classic-san-diego": {
@@ -2674,12 +2674,12 @@
    "carbs_g": 51.0,
    "fat_g": 34.0,
    "salt_g": 3.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "herbie-fully-loaded-chick-n": {
@@ -2693,12 +2693,12 @@
    "carbs_g": 48.0,
    "fat_g": 32.0,
    "salt_g": 2.8,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "classic-crispy-gfc-burger": {
@@ -2717,7 +2717,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "oat-milk-latte": {
@@ -2731,12 +2731,12 @@
    "carbs_g": 11.0,
    "fat_g": 3.0,
    "salt_g": 0.19,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "oat-milk-mocha": {
@@ -2750,12 +2750,12 @@
    "carbs_g": 28.0,
    "fat_g": 16.0,
    "salt_g": 0.17,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "oat-milk-hot-chocolate": {
@@ -2769,12 +2769,12 @@
    "carbs_g": 30.0,
    "fat_g": 17.0,
    "salt_g": 0.19,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "oat-milk-flat-white": {
@@ -2788,12 +2788,12 @@
    "carbs_g": 11.0,
    "fat_g": 3.0,
    "salt_g": 0.19,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "oat-milk-cappuccino": {
@@ -2807,12 +2807,12 @@
    "carbs_g": 11.0,
    "fat_g": 3.0,
    "salt_g": 0.19,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "iced-oat-milk-latte": {
@@ -2826,12 +2826,12 @@
    "carbs_g": 17.0,
    "fat_g": 5.0,
    "salt_g": 0.28,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "seasonal-british-veg": {
@@ -2845,12 +2845,12 @@
    "carbs_g": 6.1,
    "fat_g": 2.8,
    "salt_g": 1.3,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   },
   "satay-loaded-fries": {
@@ -2869,7 +2869,7 @@
    "allergens": null,
    "source": "brand site (LEON menu, Sanity CMS payload)",
    "source_url": "https://leon.co/menu/",
-   "fetched_at": "2026-08-06T15:05:21Z",
+   "fetched_at": "2026-08-08T13:52:14Z",
    "quality_flags": null
   }
  }

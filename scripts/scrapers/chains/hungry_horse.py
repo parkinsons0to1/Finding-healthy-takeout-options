@@ -37,12 +37,39 @@ pizza gets shipped.
 The PDF currently published is labelled "Autumn Winter 2024". Greene King
 rotates the content-hub GUID when they replace it, so if this adapter starts
 returning 0 items, re-read the guid from hungryhorse.co.uk/allergens.
+
+Dietary flag source
+--------------------
+The "Dish Name" cell itself carries a formal diet-code suffix -- "(V)" or
+"(Ve)" -- e.g. "Impossible Nuggets (Ve) - Please select your sauce choice
+listed below", "Chocolate Fudge Cake (V)". Unlike an incidental descriptive
+word, this is a deliberate two-code convention: checked across the whole
+document, ``(`` + up to 6 chars + ``)`` is ALWAYS exactly "(V)" or "(Ve)"
+(32 and 14 occurrences respectively) -- no other parenthetical content ever
+matches that shape, and "Apple & Berry Crumble" appears as TWO SEPARATE
+rows, "(V)" and "(Ve)", with different macros -- proof the codes mark two
+genuinely different recipes, not label noise on one dish. No written key
+exists in this PDF for what "(V)"/"(Ve)" mean, but this is the same
+standard UK pub-menu shorthand (Vegetarian / Vegan) the brand's sibling
+allergen guides (Greene King, etc.) spell out explicitly.
+
+"(Ve)" -> vegetarian AND vegan True (vegan implies vegetarian). "(V)" ->
+vegetarian True only; vegan is left unset rather than inferred False --
+the document's own two-row split for the same dish shows "(V)" specifically
+means "not the vegan version", but that is still one level short of the
+explicit "N" this project treats as a firm negative elsewhere (wasabi.py,
+tortilla.py), so it is not stretched into a definite `vegan=False` here.
 """
 from __future__ import annotations
 
 import io
+import re
 
 from ..base import fetch_protected, item, session
+
+#: Formal diet-code suffix -- see "Dietary flag source" above. Case-
+#: sensitive and exact: "(V)" or "(Ve)" only, never a longer word.
+_DIET_TAG_RE = re.compile(r"\((V|Ve)\)")
 
 CHAIN = "hungry_horse"
 SOURCE = "brand PDF (Hungry Horse core main menu nutrition, Greene King)"
@@ -140,6 +167,12 @@ def fetch() -> list[dict]:
                     if key in seen:
                         continue
                     seen.add(key)
+                    tag_m = _DIET_TAG_RE.search(name)
+                    vegetarian = vegan = None
+                    if tag_m:
+                        vegetarian = True
+                        if tag_m.group(1) == "Ve":
+                            vegan = True
                     out.append(item(
                         CHAIN, name, SOURCE, SOURCE_URL,
                         item_id=name,
@@ -150,5 +183,6 @@ def fetch() -> list[dict]:
                         carbs_g=_num(_cell(row, COL_CARBS)),
                         fat_g=_num(_cell(row, COL_FAT)),
                         salt_g=_num(_cell(row, COL_SALT)),
+                        vegetarian=vegetarian, vegan=vegan,
                     ))
     return out

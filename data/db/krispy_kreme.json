@@ -1,7 +1,7 @@
 {
  "chain_id": "krispy_kreme",
  "item_count": 90,
- "fetched_at": "2026-08-07T11:45:26Z",
+ "fetched_at": "2026-08-08T13:52:12Z",
  "items": {
   "original-glazed": {
    "chain_id": "krispy_kreme",
@@ -14,12 +14,12 @@
    "carbs_g": 21.0,
    "fat_g": 14.0,
    "salt_g": 0.22,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": false,
    "allergens": null,
    "source": "brand PDF (Krispy Kreme UK Drinks Allergen & Nutrition Book)",
    "source_url": "https://krispykreme.co.uk/media/wysiwyg/PDFs/UK_Drinks_Allergen_Nutrition_Book_310726.pdf",
-   "fetched_at": "2026-08-07T11:45:26Z",
+   "fetched_at": "2026-08-08T13:52:12Z",
    "quality_flags": null
   },
   "vegan-original-glazed-nwd-only": {
@@ -33,12 +33,12 @@
    "carbs_g": 21.0,
    "fat_g": 14.0,
    "salt_g": 0.22,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "brand PDF (Krispy Kreme UK Drinks Allergen & Nutrition Book)",
    "source_url": "https://krispykreme.co.uk/media/wysiwyg/PDFs/UK_Drinks_Allergen_Nutrition_Book_310726.pdf",
-   "fetched_at": "2026-08-07T11:45:26Z",
+   "fetched_at": "2026-08-08T13:52:12Z",
    "quality_flags": null
   },
   "personalised-og": {
@@ -52,12 +52,12 @@
    "carbs_g": 23.0,
    "fat_g": 14.0,
    "salt_g": 0.23,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": false,
    "allergens": null,
    "source": "brand PDF (Krispy Kreme UK Drinks Allergen & Nutrition Book)",
    "source_url": "https://krispykreme.co.uk/media/wysiwyg/PDFs/UK_Drinks_Allergen_Nutrition_Book_310726.pdf",
-   "fetched_at": "2026-08-07T11:45:26Z",
+   "fetched_at": "2026-08-08T13:52:12Z",
    "quality_flags": null
   },
   "personalised-vegan-og-nwd-only": {
@@ -71,12 +71,12 @@
    "carbs_g": 23.0,
    "fat_g": 14.0,
    "salt_g": 0.23,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "brand PDF (Krispy Kreme UK Drinks Allergen & Nutrition Book)",
    "source_url": "https://krispykreme.co.uk/media/wysiwyg/PDFs/UK_Drinks_Allergen_Nutrition_Book_310726.pdf",
-   "fetched_at": "2026-08-07T11:45:26Z",
+   "fetched_at": "2026-08-08T13:52:12Z",
    "quality_flags": null
   },
   "chocolate-sprinkles": {
@@ -95,7 +95,7 @@
    "allergens": null,
    "source": "brand PDF (Krispy Kreme UK Drinks Allergen & Nutrition Book)",
    "source_url": "https://krispykreme.co.uk/media/wysiwyg/PDFs/UK_Drinks_Allergen_Nutrition_Book_310726.pdf",
-   "fetched_at": "2026-08-07T11:45:26Z",
+   "fetched_at": "2026-08-08T13:52:12Z",
    "quality_flags": null
   },
   "mini-original-glazed": {
@@ -109,12 +109,12 @@
    "carbs_g": 11.0,
    "fat_g": 7.3,
    "salt_g": 0.13,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": false,
    "allergens": null,
    "source": "brand PDF (Krispy Kreme UK Drinks Allergen & Nutrition Book)",
    "source_url": "https://krispykreme.co.uk/media/wysiwyg/PDFs/UK_Drinks_Allergen_Nutrition_Book_310726.pdf",
-   "fetched_at": "2026-08-07T11:45:26Z",
+   "fetched_at": "2026-08-08T13:52:12Z",
    "quality_flags": null
   },
   "mini-chocolate-sprinkles": {
@@ -128,12 +128,12 @@
    "carbs_g": 16.0,
    "fat_g": 7.4,
    "salt_g": 0.14,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": false,
    "allergens": null,
    "source": "brand PDF (Krispy Kreme UK Drinks Allergen & Nutrition Book)",
    "source_url": "https://krispykreme.co.uk/media/wysiwyg/PDFs/UK_Drinks_Allergen_Nutrition_Book_310726.pdf",
-   "fetched_at": "2026-08-07T11:45:26Z",
+   "fetched_at": "2026-08-08T13:52:12Z",
    "quality_flags": null
   },
   "mini-strawberry-sprinkles": {
@@ -147,12 +147,12 @@
    "carbs_g": 17.0,
    "fat_g": 7.7,
    "salt_g": 0.13,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": false,
    "allergens": null,
    "source": "brand PDF (Krispy Kreme UK Drinks Allergen & Nutrition Book)",
    "source_url": "https://krispykreme.co.uk/media/wysiwyg/PDFs/UK_Drinks_Allergen_Nutrition_Book_310726.pdf",
-   "fetched_at": "2026-08-07T11:45:26Z",
+   "fetched_at": "2026-08-08T13:52:12Z",
    "quality_flags": null
   },
   "og-bites-1-serving-2-bites": {
@@ -171,7 +171,7 @@
    "allergens": null,
    "source": "brand PDF (Krispy Kreme UK Drinks Allergen & Nutrition Book)",
    "source_url": "https://krispykreme.co.uk/media/wysiwyg/PDFs/UK_Drinks_Allergen_Nutrition_Book_310726.pdf",
-   "fetched_at": "2026-08-07T11:45:26Z",
+   "fetched_at": "2026-08-08T13:52:12Z",
    "quality_flags": null
   },
   "rainbow-sprinkle-bites-1-serving-2-bites": {
@@ -190,7 +190,7 @@
    "allergens": null,
    "source": "brand PDF (Krispy Kreme UK Drinks Allergen & Nutrition Book)",
    "source_url": "https://krispykreme.co.uk/media/wysiwyg/PDFs/UK_Drinks_Allergen_Nutrition_Book_310726.pdf",
-   "fetched_at": "2026-08-07T11:45:26Z",
+   "fetched_at": "2026-08-08T13:52:12Z",
    "quality_flags": null
   },
   "milk-chocolate-sprinkle-bites-1-serving-2-bites": {
@@ -209,7 +209,7 @@
    "allergens": null,
    "source": "brand PDF (Krispy Kreme UK Drinks Allergen & Nutrition Book)",
    "source_url": "https://krispykreme.co.uk/media/wysiwyg/PDFs/UK_Drinks_Allergen_Nutrition_Book_310726.pdf",
-   "fetched_at": "2026-08-07T11:45:26Z",
+   "fetched_at": "2026-08-08T13:52:12Z",
    "quality_flags": null
   },
   "choc-salted-caramel-bites-1-serving-2-bites": {
@@ -228,7 +228,7 @@
    "allergens": null,
    "source": "brand PDF (Krispy Kreme UK Drinks Allergen & Nutrition Book)",
    "source_url": "https://krispykreme.co.uk/media/wysiwyg/PDFs/UK_Drinks_Allergen_Nutrition_Book_310726.pdf",
-   "fetched_at": "2026-08-07T11:45:26Z",
+   "fetched_at": "2026-08-08T13:52:12Z",
    "quality_flags": null
   },
   "biscoff": {
@@ -247,7 +247,7 @@
    "allergens": null,
    "source": "brand PDF (Krispy Kreme UK Drinks Allergen & Nutrition Book)",
    "source_url": "https://krispykreme.co.uk/media/wysiwyg/PDFs/UK_Drinks_Allergen_Nutrition_Book_310726.pdf",
-   "fetched_at": "2026-08-07T11:45:26Z",
+   "fetched_at": "2026-08-08T13:52:12Z",
    "quality_flags": null
   },
   "nutty-chocolatta": {
@@ -261,12 +261,12 @@
    "carbs_g": 34.0,
    "fat_g": 27.0,
    "salt_g": 0.37,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": false,
    "allergens": null,
    "source": "brand PDF (Krispy Kreme UK Drinks Allergen & Nutrition Book)",
    "source_url": "https://krispykreme.co.uk/media/wysiwyg/PDFs/UK_Drinks_Allergen_Nutrition_Book_310726.pdf",
-   "fetched_at": "2026-08-07T11:45:26Z",
+   "fetched_at": "2026-08-08T13:52:12Z",
    "quality_flags": null
   },
   "strawberry-sprinkles": {
@@ -280,12 +280,12 @@
    "carbs_g": 34.0,
    "fat_g": 15.0,
    "salt_g": 0.23,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "brand PDF (Krispy Kreme UK Drinks Allergen & Nutrition Book)",
    "source_url": "https://krispykreme.co.uk/media/wysiwyg/PDFs/UK_Drinks_Allergen_Nutrition_Book_310726.pdf",
-   "fetched_at": "2026-08-07T11:45:26Z",
+   "fetched_at": "2026-08-08T13:52:12Z",
    "quality_flags": null
   },
   "white-marble-chocolatta": {
@@ -299,12 +299,12 @@
    "carbs_g": 28.0,
    "fat_g": 17.0,
    "salt_g": 0.23,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": false,
    "allergens": null,
    "source": "brand PDF (Krispy Kreme UK Drinks Allergen & Nutrition Book)",
    "source_url": "https://krispykreme.co.uk/media/wysiwyg/PDFs/UK_Drinks_Allergen_Nutrition_Book_310726.pdf",
-   "fetched_at": "2026-08-07T11:45:26Z",
+   "fetched_at": "2026-08-08T13:52:12Z",
    "quality_flags": null
   },
   "cookies-kreme": {
@@ -318,12 +318,12 @@
    "carbs_g": 46.0,
    "fat_g": 21.0,
    "salt_g": 0.37,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": false,
    "allergens": null,
    "source": "brand PDF (Krispy Kreme UK Drinks Allergen & Nutrition Book)",
    "source_url": "https://krispykreme.co.uk/media/wysiwyg/PDFs/UK_Drinks_Allergen_Nutrition_Book_310726.pdf",
-   "fetched_at": "2026-08-07T11:45:26Z",
+   "fetched_at": "2026-08-08T13:52:12Z",
    "quality_flags": null
   },
   "strawberry-sundae": {
@@ -337,12 +337,12 @@
    "carbs_g": 42.0,
    "fat_g": 19.0,
    "salt_g": 0.36,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": false,
    "allergens": null,
    "source": "brand PDF (Krispy Kreme UK Drinks Allergen & Nutrition Book)",
    "source_url": "https://krispykreme.co.uk/media/wysiwyg/PDFs/UK_Drinks_Allergen_Nutrition_Book_310726.pdf",
-   "fetched_at": "2026-08-07T11:45:26Z",
+   "fetched_at": "2026-08-08T13:52:12Z",
    "quality_flags": null
   },
   "triple-choc-indulgence": {
@@ -356,12 +356,12 @@
    "carbs_g": 39.0,
    "fat_g": 20.0,
    "salt_g": 0.38,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": false,
    "allergens": null,
    "source": "brand PDF (Krispy Kreme UK Drinks Allergen & Nutrition Book)",
    "source_url": "https://krispykreme.co.uk/media/wysiwyg/PDFs/UK_Drinks_Allergen_Nutrition_Book_310726.pdf",
-   "fetched_at": "2026-08-07T11:45:26Z",
+   "fetched_at": "2026-08-08T13:52:12Z",
    "quality_flags": null
   },
   "salted-caramel-sensation": {
@@ -375,12 +375,12 @@
    "carbs_g": 42.0,
    "fat_g": 21.0,
    "salt_g": 0.39,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "brand PDF (Krispy Kreme UK Drinks Allergen & Nutrition Book)",
    "source_url": "https://krispykreme.co.uk/media/wysiwyg/PDFs/UK_Drinks_Allergen_Nutrition_Book_310726.pdf",
-   "fetched_at": "2026-08-07T11:45:26Z",
+   "fetched_at": "2026-08-08T13:52:12Z",
    "quality_flags": null
   },
   "glazed-raspberry": {
@@ -394,12 +394,12 @@
    "carbs_g": 36.0,
    "fat_g": 16.0,
    "salt_g": 0.43,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": false,
    "allergens": null,
    "source": "brand PDF (Krispy Kreme UK Drinks Allergen & Nutrition Book)",
    "source_url": "https://krispykreme.co.uk/media/wysiwyg/PDFs/UK_Drinks_Allergen_Nutrition_Book_310726.pdf",
-   "fetched_at": "2026-08-07T11:45:26Z",
+   "fetched_at": "2026-08-08T13:52:12Z",
    "quality_flags": null
   },
   "biscoff-iced": {
@@ -413,12 +413,12 @@
    "carbs_g": 26.0,
    "fat_g": 20.0,
    "salt_g": 0.28,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": false,
    "allergens": null,
    "source": "brand PDF (Krispy Kreme UK Drinks Allergen & Nutrition Book)",
    "source_url": "https://krispykreme.co.uk/media/wysiwyg/PDFs/UK_Drinks_Allergen_Nutrition_Book_310726.pdf",
-   "fetched_at": "2026-08-07T11:45:26Z",
+   "fetched_at": "2026-08-08T13:52:12Z",
    "quality_flags": null
   },
   "double-chocolate-glaze": {
@@ -432,12 +432,12 @@
    "carbs_g": 32.0,
    "fat_g": 19.0,
    "salt_g": 0.27,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": false,
    "allergens": null,
    "source": "brand PDF (Krispy Kreme UK Drinks Allergen & Nutrition Book)",
    "source_url": "https://krispykreme.co.uk/media/wysiwyg/PDFs/UK_Drinks_Allergen_Nutrition_Book_310726.pdf",
-   "fetched_at": "2026-08-07T11:45:26Z",
+   "fetched_at": "2026-08-08T13:52:12Z",
    "quality_flags": null
   },
   "vegan-original-glazed": {
@@ -451,12 +451,12 @@
    "carbs_g": 21.0,
    "fat_g": 14.0,
    "salt_g": 0.22,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "brand PDF (Krispy Kreme UK Drinks Allergen & Nutrition Book)",
    "source_url": "https://krispykreme.co.uk/media/wysiwyg/PDFs/UK_Drinks_Allergen_Nutrition_Book_310726.pdf",
-   "fetched_at": "2026-08-07T11:45:26Z",
+   "fetched_at": "2026-08-08T13:52:12Z",
    "quality_flags": null
   },
   "vegan-choc-orange": {
@@ -470,12 +470,12 @@
    "carbs_g": 43.0,
    "fat_g": 21.0,
    "salt_g": 0.38,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "brand PDF (Krispy Kreme UK Drinks Allergen & Nutrition Book)",
    "source_url": "https://krispykreme.co.uk/media/wysiwyg/PDFs/UK_Drinks_Allergen_Nutrition_Book_310726.pdf",
-   "fetched_at": "2026-08-07T11:45:26Z",
+   "fetched_at": "2026-08-08T13:52:12Z",
    "quality_flags": null
   },
   "personalised-original-glazed": {
@@ -494,7 +494,7 @@
    "allergens": null,
    "source": "brand PDF (Krispy Kreme UK Drinks Allergen & Nutrition Book)",
    "source_url": "https://krispykreme.co.uk/media/wysiwyg/PDFs/UK_Drinks_Allergen_Nutrition_Book_310726.pdf",
-   "fetched_at": "2026-08-07T11:45:28Z",
+   "fetched_at": "2026-08-08T13:52:12Z",
    "quality_flags": null
   },
   "brownie-biscuit": {
@@ -513,7 +513,7 @@
    "allergens": null,
    "source": "brand PDF (Krispy Kreme UK Drinks Allergen & Nutrition Book)",
    "source_url": "https://krispykreme.co.uk/media/wysiwyg/PDFs/UK_Drinks_Allergen_Nutrition_Book_310726.pdf",
-   "fetched_at": "2026-08-07T11:45:28Z",
+   "fetched_at": "2026-08-08T13:52:12Z",
    "quality_flags": null
   },
   "cookie-crumble": {
@@ -532,7 +532,7 @@
    "allergens": null,
    "source": "brand PDF (Krispy Kreme UK Drinks Allergen & Nutrition Book)",
    "source_url": "https://krispykreme.co.uk/media/wysiwyg/PDFs/UK_Drinks_Allergen_Nutrition_Book_310726.pdf",
-   "fetched_at": "2026-08-07T11:45:28Z",
+   "fetched_at": "2026-08-08T13:52:12Z",
    "quality_flags": null
   },
   "choc-duo-ring": {
@@ -551,7 +551,7 @@
    "allergens": null,
    "source": "brand PDF (Krispy Kreme UK Drinks Allergen & Nutrition Book)",
    "source_url": "https://krispykreme.co.uk/media/wysiwyg/PDFs/UK_Drinks_Allergen_Nutrition_Book_310726.pdf",
-   "fetched_at": "2026-08-07T11:45:28Z",
+   "fetched_at": "2026-08-08T13:52:12Z",
    "quality_flags": null
   },
   "chocolate-strawberry-surprise": {
@@ -570,7 +570,7 @@
    "allergens": null,
    "source": "brand PDF (Krispy Kreme UK Drinks Allergen & Nutrition Book)",
    "source_url": "https://krispykreme.co.uk/media/wysiwyg/PDFs/UK_Drinks_Allergen_Nutrition_Book_310726.pdf",
-   "fetched_at": "2026-08-07T11:45:28Z",
+   "fetched_at": "2026-08-08T13:52:12Z",
    "quality_flags": null
   },
   "white-chocolate-kreme": {
@@ -589,7 +589,7 @@
    "allergens": null,
    "source": "brand PDF (Krispy Kreme UK Drinks Allergen & Nutrition Book)",
    "source_url": "https://krispykreme.co.uk/media/wysiwyg/PDFs/UK_Drinks_Allergen_Nutrition_Book_310726.pdf",
-   "fetched_at": "2026-08-07T11:45:28Z",
+   "fetched_at": "2026-08-08T13:52:12Z",
    "quality_flags": null
   },
   "hand-piped-original-glazed": {
@@ -603,12 +603,12 @@
    "carbs_g": 23.0,
    "fat_g": 14.0,
    "salt_g": 0.23,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": false,
    "allergens": null,
    "source": "brand PDF (Krispy Kreme UK Drinks Allergen & Nutrition Book)",
    "source_url": "https://krispykreme.co.uk/media/wysiwyg/PDFs/UK_Drinks_Allergen_Nutrition_Book_310726.pdf",
-   "fetched_at": "2026-08-07T11:45:28Z",
+   "fetched_at": "2026-08-08T13:52:12Z",
    "quality_flags": null
   },
   "speculoos-sensation": {
@@ -622,12 +622,12 @@
    "carbs_g": 35.0,
    "fat_g": 20.0,
    "salt_g": 0.26,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": false,
    "allergens": null,
    "source": "brand PDF (Krispy Kreme UK Drinks Allergen & Nutrition Book)",
    "source_url": "https://krispykreme.co.uk/media/wysiwyg/PDFs/UK_Drinks_Allergen_Nutrition_Book_310726.pdf",
-   "fetched_at": "2026-08-07T11:45:28Z",
+   "fetched_at": "2026-08-08T13:52:12Z",
    "quality_flags": null
   },
   "choco-caramel-crunch": {
@@ -641,12 +641,12 @@
    "carbs_g": 41.0,
    "fat_g": 20.0,
    "salt_g": 0.48,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": false,
    "allergens": null,
    "source": "brand PDF (Krispy Kreme UK Drinks Allergen & Nutrition Book)",
    "source_url": "https://krispykreme.co.uk/media/wysiwyg/PDFs/UK_Drinks_Allergen_Nutrition_Book_310726.pdf",
-   "fetched_at": "2026-08-07T11:45:28Z",
+   "fetched_at": "2026-08-08T13:52:12Z",
    "quality_flags": null
   },
   "party-sprinkles": {
@@ -660,12 +660,12 @@
    "carbs_g": 28.0,
    "fat_g": 14.0,
    "salt_g": 0.23,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": false,
    "allergens": null,
    "source": "brand PDF (Krispy Kreme UK Drinks Allergen & Nutrition Book)",
    "source_url": "https://krispykreme.co.uk/media/wysiwyg/PDFs/UK_Drinks_Allergen_Nutrition_Book_310726.pdf",
-   "fetched_at": "2026-08-07T11:45:28Z",
+   "fetched_at": "2026-08-08T13:52:12Z",
    "quality_flags": null
   },
   "orange-brownie-bliss": {
@@ -679,12 +679,12 @@
    "carbs_g": 39.0,
    "fat_g": 22.0,
    "salt_g": 0.38,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": false,
    "allergens": null,
    "source": "brand PDF (Krispy Kreme UK Drinks Allergen & Nutrition Book)",
    "source_url": "https://krispykreme.co.uk/media/wysiwyg/PDFs/UK_Drinks_Allergen_Nutrition_Book_310726.pdf",
-   "fetched_at": "2026-08-07T11:45:28Z",
+   "fetched_at": "2026-08-08T13:52:12Z",
    "quality_flags": null
   },
   "strawberry-pop": {
@@ -698,12 +698,12 @@
    "carbs_g": 41.0,
    "fat_g": 19.0,
    "salt_g": 0.37,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": false,
    "allergens": null,
    "source": "brand PDF (Krispy Kreme UK Drinks Allergen & Nutrition Book)",
    "source_url": "https://krispykreme.co.uk/media/wysiwyg/PDFs/UK_Drinks_Allergen_Nutrition_Book_310726.pdf",
-   "fetched_at": "2026-08-07T11:45:28Z",
+   "fetched_at": "2026-08-08T13:52:12Z",
    "quality_flags": null
   },
   "strawberry-shake": {
@@ -717,12 +717,12 @@
    "carbs_g": 78.0,
    "fat_g": 14.0,
    "salt_g": 0.02,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": false,
    "allergens": null,
    "source": "brand PDF (Krispy Kreme UK Drinks Allergen & Nutrition Book)",
    "source_url": "https://krispykreme.co.uk/media/wysiwyg/PDFs/UK_Drinks_Allergen_Nutrition_Book_310726.pdf",
-   "fetched_at": "2026-08-07T11:45:29Z",
+   "fetched_at": "2026-08-08T13:52:12Z",
    "quality_flags": null
   },
   "chocolate-shake": {
@@ -736,12 +736,12 @@
    "carbs_g": 74.0,
    "fat_g": 15.0,
    "salt_g": 0.06,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": false,
    "allergens": null,
    "source": "brand PDF (Krispy Kreme UK Drinks Allergen & Nutrition Book)",
    "source_url": "https://krispykreme.co.uk/media/wysiwyg/PDFs/UK_Drinks_Allergen_Nutrition_Book_310726.pdf",
-   "fetched_at": "2026-08-07T11:45:29Z",
+   "fetched_at": "2026-08-08T13:52:12Z",
    "quality_flags": null
   },
   "biscoff-shake": {
@@ -755,12 +755,12 @@
    "carbs_g": 66.0,
    "fat_g": 31.0,
    "salt_g": 0.21,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": false,
    "allergens": null,
    "source": "brand PDF (Krispy Kreme UK Drinks Allergen & Nutrition Book)",
    "source_url": "https://krispykreme.co.uk/media/wysiwyg/PDFs/UK_Drinks_Allergen_Nutrition_Book_310726.pdf",
-   "fetched_at": "2026-08-07T11:45:29Z",
+   "fetched_at": "2026-08-08T13:52:12Z",
    "quality_flags": null
   },
   "cookie-shake-made-with-oreo": {
@@ -779,7 +779,7 @@
    "allergens": null,
    "source": "brand PDF (Krispy Kreme UK Drinks Allergen & Nutrition Book)",
    "source_url": "https://krispykreme.co.uk/media/wysiwyg/PDFs/UK_Drinks_Allergen_Nutrition_Book_310726.pdf",
-   "fetched_at": "2026-08-07T11:45:29Z",
+   "fetched_at": "2026-08-08T13:52:12Z",
    "quality_flags": null
   },
   "morello-cherry-refresher": {
@@ -793,12 +793,12 @@
    "carbs_g": 12.0,
    "fat_g": 0.0,
    "salt_g": 0.01,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": false,
    "allergens": null,
    "source": "brand PDF (Krispy Kreme UK Drinks Allergen & Nutrition Book)",
    "source_url": "https://krispykreme.co.uk/media/wysiwyg/PDFs/UK_Drinks_Allergen_Nutrition_Book_310726.pdf",
-   "fetched_at": "2026-08-07T11:45:29Z",
+   "fetched_at": "2026-08-08T13:52:12Z",
    "quality_flags": null
   },
   "passionfruit-cloudy-lemonade": {
@@ -812,12 +812,12 @@
    "carbs_g": 17.0,
    "fat_g": 0.0,
    "salt_g": 0.08,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": false,
    "allergens": null,
    "source": "brand PDF (Krispy Kreme UK Drinks Allergen & Nutrition Book)",
    "source_url": "https://krispykreme.co.uk/media/wysiwyg/PDFs/UK_Drinks_Allergen_Nutrition_Book_310726.pdf",
-   "fetched_at": "2026-08-07T11:45:29Z",
+   "fetched_at": "2026-08-08T13:52:12Z",
    "quality_flags": null
   },
   "iced-coffee-12oz": {
@@ -831,12 +831,12 @@
    "carbs_g": 24.5,
    "fat_g": 0.4,
    "salt_g": 0.02,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": false,
    "allergens": null,
    "source": "brand PDF (Krispy Kreme UK Drinks Allergen & Nutrition Book)",
    "source_url": "https://krispykreme.co.uk/media/wysiwyg/PDFs/UK_Drinks_Allergen_Nutrition_Book_310726.pdf",
-   "fetched_at": "2026-08-07T11:45:29Z",
+   "fetched_at": "2026-08-08T13:52:12Z",
    "quality_flags": null
   },
   "iced-coffee-16oz": {
@@ -850,12 +850,12 @@
    "carbs_g": 42.7,
    "fat_g": 0.6,
    "salt_g": 0.03,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": false,
    "allergens": null,
    "source": "brand PDF (Krispy Kreme UK Drinks Allergen & Nutrition Book)",
    "source_url": "https://krispykreme.co.uk/media/wysiwyg/PDFs/UK_Drinks_Allergen_Nutrition_Book_310726.pdf",
-   "fetched_at": "2026-08-07T11:45:29Z",
+   "fetched_at": "2026-08-08T13:52:12Z",
    "quality_flags": null
   },
   "iced-mocha-12oz": {
@@ -869,12 +869,12 @@
    "carbs_g": 22.1,
    "fat_g": 0.9,
    "salt_g": 0.04,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": false,
    "allergens": null,
    "source": "brand PDF (Krispy Kreme UK Drinks Allergen & Nutrition Book)",
    "source_url": "https://krispykreme.co.uk/media/wysiwyg/PDFs/UK_Drinks_Allergen_Nutrition_Book_310726.pdf",
-   "fetched_at": "2026-08-07T11:45:29Z",
+   "fetched_at": "2026-08-08T13:52:12Z",
    "quality_flags": null
   },
   "iced-mocha-16oz": {
@@ -888,12 +888,12 @@
    "carbs_g": 38.7,
    "fat_g": 1.6,
    "salt_g": 0.08,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": false,
    "allergens": null,
    "source": "brand PDF (Krispy Kreme UK Drinks Allergen & Nutrition Book)",
    "source_url": "https://krispykreme.co.uk/media/wysiwyg/PDFs/UK_Drinks_Allergen_Nutrition_Book_310726.pdf",
-   "fetched_at": "2026-08-07T11:45:29Z",
+   "fetched_at": "2026-08-08T13:52:12Z",
    "quality_flags": null
   },
   "caramel-iced-coffee-12oz": {
@@ -907,12 +907,12 @@
    "carbs_g": 22.8,
    "fat_g": 0.4,
    "salt_g": 0.02,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": false,
    "allergens": null,
    "source": "brand PDF (Krispy Kreme UK Drinks Allergen & Nutrition Book)",
    "source_url": "https://krispykreme.co.uk/media/wysiwyg/PDFs/UK_Drinks_Allergen_Nutrition_Book_310726.pdf",
-   "fetched_at": "2026-08-07T11:45:29Z",
+   "fetched_at": "2026-08-08T13:52:12Z",
    "quality_flags": null
   },
   "caramel-iced-coffee-16oz": {
@@ -926,12 +926,12 @@
    "carbs_g": 40.0,
    "fat_g": 0.6,
    "salt_g": 0.04,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": false,
    "allergens": null,
    "source": "brand PDF (Krispy Kreme UK Drinks Allergen & Nutrition Book)",
    "source_url": "https://krispykreme.co.uk/media/wysiwyg/PDFs/UK_Drinks_Allergen_Nutrition_Book_310726.pdf",
-   "fetched_at": "2026-08-07T11:45:29Z",
+   "fetched_at": "2026-08-08T13:52:12Z",
    "quality_flags": null
   },
   "flat-white-8oz": {
@@ -950,7 +950,7 @@
    "allergens": null,
    "source": "brand PDF (Krispy Kreme UK Drinks Allergen & Nutrition Book)",
    "source_url": "https://krispykreme.co.uk/media/wysiwyg/PDFs/UK_Drinks_Allergen_Nutrition_Book_310726.pdf",
-   "fetched_at": "2026-08-07T11:45:30Z",
+   "fetched_at": "2026-08-08T13:52:12Z",
    "quality_flags": null
   },
   "latte-12oz": {
@@ -969,7 +969,7 @@
    "allergens": null,
    "source": "brand PDF (Krispy Kreme UK Drinks Allergen & Nutrition Book)",
    "source_url": "https://krispykreme.co.uk/media/wysiwyg/PDFs/UK_Drinks_Allergen_Nutrition_Book_310726.pdf",
-   "fetched_at": "2026-08-07T11:45:30Z",
+   "fetched_at": "2026-08-08T13:52:12Z",
    "quality_flags": null
   },
   "latte-16oz": {
@@ -988,7 +988,7 @@
    "allergens": null,
    "source": "brand PDF (Krispy Kreme UK Drinks Allergen & Nutrition Book)",
    "source_url": "https://krispykreme.co.uk/media/wysiwyg/PDFs/UK_Drinks_Allergen_Nutrition_Book_310726.pdf",
-   "fetched_at": "2026-08-07T11:45:30Z",
+   "fetched_at": "2026-08-08T13:52:12Z",
    "quality_flags": null
   },
   "cappuccino-12oz": {
@@ -1007,7 +1007,7 @@
    "allergens": null,
    "source": "brand PDF (Krispy Kreme UK Drinks Allergen & Nutrition Book)",
    "source_url": "https://krispykreme.co.uk/media/wysiwyg/PDFs/UK_Drinks_Allergen_Nutrition_Book_310726.pdf",
-   "fetched_at": "2026-08-07T11:45:30Z",
+   "fetched_at": "2026-08-08T13:52:12Z",
    "quality_flags": null
   },
   "cappuccino-16oz": {
@@ -1026,7 +1026,7 @@
    "allergens": null,
    "source": "brand PDF (Krispy Kreme UK Drinks Allergen & Nutrition Book)",
    "source_url": "https://krispykreme.co.uk/media/wysiwyg/PDFs/UK_Drinks_Allergen_Nutrition_Book_310726.pdf",
-   "fetched_at": "2026-08-07T11:45:30Z",
+   "fetched_at": "2026-08-08T13:52:12Z",
    "quality_flags": null
   },
   "mocha-12oz": {
@@ -1045,7 +1045,7 @@
    "allergens": null,
    "source": "brand PDF (Krispy Kreme UK Drinks Allergen & Nutrition Book)",
    "source_url": "https://krispykreme.co.uk/media/wysiwyg/PDFs/UK_Drinks_Allergen_Nutrition_Book_310726.pdf",
-   "fetched_at": "2026-08-07T11:45:30Z",
+   "fetched_at": "2026-08-08T13:52:12Z",
    "quality_flags": null
   },
   "mocha-16oz": {
@@ -1064,7 +1064,7 @@
    "allergens": null,
    "source": "brand PDF (Krispy Kreme UK Drinks Allergen & Nutrition Book)",
    "source_url": "https://krispykreme.co.uk/media/wysiwyg/PDFs/UK_Drinks_Allergen_Nutrition_Book_310726.pdf",
-   "fetched_at": "2026-08-07T11:45:30Z",
+   "fetched_at": "2026-08-08T13:52:12Z",
    "quality_flags": null
   },
   "black-americano-12oz": {
@@ -1078,12 +1078,12 @@
    "carbs_g": 1.1,
    "fat_g": 0.4,
    "salt_g": 0.11,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "brand PDF (Krispy Kreme UK Drinks Allergen & Nutrition Book)",
    "source_url": "https://krispykreme.co.uk/media/wysiwyg/PDFs/UK_Drinks_Allergen_Nutrition_Book_310726.pdf",
-   "fetched_at": "2026-08-07T11:45:30Z",
+   "fetched_at": "2026-08-08T13:52:12Z",
    "quality_flags": null
   },
   "black-americano-16oz": {
@@ -1097,12 +1097,12 @@
    "carbs_g": 1.4,
    "fat_g": 0.5,
    "salt_g": 0.14,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "brand PDF (Krispy Kreme UK Drinks Allergen & Nutrition Book)",
    "source_url": "https://krispykreme.co.uk/media/wysiwyg/PDFs/UK_Drinks_Allergen_Nutrition_Book_310726.pdf",
-   "fetched_at": "2026-08-07T11:45:30Z",
+   "fetched_at": "2026-08-08T13:52:12Z",
    "quality_flags": null
   },
   "white-americano-12oz": {
@@ -1121,7 +1121,7 @@
    "allergens": null,
    "source": "brand PDF (Krispy Kreme UK Drinks Allergen & Nutrition Book)",
    "source_url": "https://krispykreme.co.uk/media/wysiwyg/PDFs/UK_Drinks_Allergen_Nutrition_Book_310726.pdf",
-   "fetched_at": "2026-08-07T11:45:30Z",
+   "fetched_at": "2026-08-08T13:52:12Z",
    "quality_flags": null
   },
   "white-americano-16oz": {
@@ -1140,7 +1140,7 @@
    "allergens": null,
    "source": "brand PDF (Krispy Kreme UK Drinks Allergen & Nutrition Book)",
    "source_url": "https://krispykreme.co.uk/media/wysiwyg/PDFs/UK_Drinks_Allergen_Nutrition_Book_310726.pdf",
-   "fetched_at": "2026-08-07T11:45:30Z",
+   "fetched_at": "2026-08-08T13:52:12Z",
    "quality_flags": null
   },
   "hot-chocolate-12oz": {
@@ -1159,7 +1159,7 @@
    "allergens": null,
    "source": "brand PDF (Krispy Kreme UK Drinks Allergen & Nutrition Book)",
    "source_url": "https://krispykreme.co.uk/media/wysiwyg/PDFs/UK_Drinks_Allergen_Nutrition_Book_310726.pdf",
-   "fetched_at": "2026-08-07T11:45:30Z",
+   "fetched_at": "2026-08-08T13:52:12Z",
    "quality_flags": null
   },
   "hot-chocolate-16oz": {
@@ -1178,7 +1178,7 @@
    "allergens": null,
    "source": "brand PDF (Krispy Kreme UK Drinks Allergen & Nutrition Book)",
    "source_url": "https://krispykreme.co.uk/media/wysiwyg/PDFs/UK_Drinks_Allergen_Nutrition_Book_310726.pdf",
-   "fetched_at": "2026-08-07T11:45:30Z",
+   "fetched_at": "2026-08-08T13:52:12Z",
    "quality_flags": null
   },
   "tea-with-oat-milk": {
@@ -1197,7 +1197,7 @@
    "allergens": null,
    "source": "brand PDF (Krispy Kreme UK Drinks Allergen & Nutrition Book)",
    "source_url": "https://krispykreme.co.uk/media/wysiwyg/PDFs/UK_Drinks_Allergen_Nutrition_Book_310726.pdf",
-   "fetched_at": "2026-08-07T11:45:30Z",
+   "fetched_at": "2026-08-08T13:52:12Z",
    "quality_flags": null
   },
   "tea-with-skimmed-milk": {
@@ -1216,7 +1216,7 @@
    "allergens": null,
    "source": "brand PDF (Krispy Kreme UK Drinks Allergen & Nutrition Book)",
    "source_url": "https://krispykreme.co.uk/media/wysiwyg/PDFs/UK_Drinks_Allergen_Nutrition_Book_310726.pdf",
-   "fetched_at": "2026-08-07T11:45:30Z",
+   "fetched_at": "2026-08-08T13:52:12Z",
    "quality_flags": null
   },
   "tea-with-ss-milk": {
@@ -1235,7 +1235,7 @@
    "allergens": null,
    "source": "brand PDF (Krispy Kreme UK Drinks Allergen & Nutrition Book)",
    "source_url": "https://krispykreme.co.uk/media/wysiwyg/PDFs/UK_Drinks_Allergen_Nutrition_Book_310726.pdf",
-   "fetched_at": "2026-08-07T11:45:30Z",
+   "fetched_at": "2026-08-08T13:52:12Z",
    "quality_flags": null
   },
   "tea-with-whole-milk": {
@@ -1254,7 +1254,7 @@
    "allergens": null,
    "source": "brand PDF (Krispy Kreme UK Drinks Allergen & Nutrition Book)",
    "source_url": "https://krispykreme.co.uk/media/wysiwyg/PDFs/UK_Drinks_Allergen_Nutrition_Book_310726.pdf",
-   "fetched_at": "2026-08-07T11:45:31Z",
+   "fetched_at": "2026-08-08T13:52:12Z",
    "quality_flags": null
   },
   "ice-cream": {
@@ -1268,12 +1268,12 @@
    "carbs_g": 30.0,
    "fat_g": 10.0,
    "salt_g": 0.18,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": false,
    "allergens": null,
    "source": "brand PDF (Krispy Kreme UK Drinks Allergen & Nutrition Book)",
    "source_url": "https://krispykreme.co.uk/media/wysiwyg/PDFs/UK_Drinks_Allergen_Nutrition_Book_310726.pdf",
-   "fetched_at": "2026-08-07T11:45:31Z",
+   "fetched_at": "2026-08-08T13:52:12Z",
    "quality_flags": null
   },
   "ice-cream-og": {
@@ -1287,12 +1287,12 @@
    "carbs_g": 32.0,
    "fat_g": 18.0,
    "salt_g": 0.29,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": false,
    "allergens": null,
    "source": "brand PDF (Krispy Kreme UK Drinks Allergen & Nutrition Book)",
    "source_url": "https://krispykreme.co.uk/media/wysiwyg/PDFs/UK_Drinks_Allergen_Nutrition_Book_310726.pdf",
-   "fetched_at": "2026-08-07T11:45:31Z",
+   "fetched_at": "2026-08-08T13:52:12Z",
    "quality_flags": null
   },
   "caramel-sauce-1-pump": {
@@ -1306,12 +1306,12 @@
    "carbs_g": 15.5,
    "fat_g": 0.9,
    "salt_g": 0.06,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": false,
    "allergens": null,
    "source": "brand PDF (Krispy Kreme UK Drinks Allergen & Nutrition Book)",
    "source_url": "https://krispykreme.co.uk/media/wysiwyg/PDFs/UK_Drinks_Allergen_Nutrition_Book_310726.pdf",
-   "fetched_at": "2026-08-07T11:45:31Z",
+   "fetched_at": "2026-08-08T13:52:12Z",
    "quality_flags": null
   },
   "dark-choc-sauce-1-pump": {
@@ -1325,12 +1325,12 @@
    "carbs_g": 14.7,
    "fat_g": 0.5,
    "salt_g": 0.03,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "brand PDF (Krispy Kreme UK Drinks Allergen & Nutrition Book)",
    "source_url": "https://krispykreme.co.uk/media/wysiwyg/PDFs/UK_Drinks_Allergen_Nutrition_Book_310726.pdf",
-   "fetched_at": "2026-08-07T11:45:31Z",
+   "fetched_at": "2026-08-08T13:52:12Z",
    "quality_flags": null
   },
   "chai-latte-12oz": {
@@ -1349,7 +1349,7 @@
    "allergens": null,
    "source": "brand PDF (Krispy Kreme UK Drinks Allergen & Nutrition Book)",
    "source_url": "https://krispykreme.co.uk/media/wysiwyg/PDFs/UK_Drinks_Allergen_Nutrition_Book_310726.pdf",
-   "fetched_at": "2026-08-07T11:45:32Z",
+   "fetched_at": "2026-08-08T13:52:12Z",
    "quality_flags": null
   },
   "matcha-latte-12oz": {
@@ -1368,7 +1368,7 @@
    "allergens": null,
    "source": "brand PDF (Krispy Kreme UK Drinks Allergen & Nutrition Book)",
    "source_url": "https://krispykreme.co.uk/media/wysiwyg/PDFs/UK_Drinks_Allergen_Nutrition_Book_310726.pdf",
-   "fetched_at": "2026-08-07T11:45:32Z",
+   "fetched_at": "2026-08-08T13:52:12Z",
    "quality_flags": null
   },
   "oatly-latte-made-with-biscoff-sauce-12oz": {
@@ -1387,7 +1387,7 @@
    "allergens": null,
    "source": "brand PDF (Krispy Kreme UK Drinks Allergen & Nutrition Book)",
    "source_url": "https://krispykreme.co.uk/media/wysiwyg/PDFs/UK_Drinks_Allergen_Nutrition_Book_310726.pdf",
-   "fetched_at": "2026-08-07T11:45:32Z",
+   "fetched_at": "2026-08-08T13:52:12Z",
    "quality_flags": null
   },
   "latte-made-with-biscoff-sauce-12oz": {
@@ -1406,7 +1406,7 @@
    "allergens": null,
    "source": "brand PDF (Krispy Kreme UK Drinks Allergen & Nutrition Book)",
    "source_url": "https://krispykreme.co.uk/media/wysiwyg/PDFs/UK_Drinks_Allergen_Nutrition_Book_310726.pdf",
-   "fetched_at": "2026-08-07T11:45:32Z",
+   "fetched_at": "2026-08-08T13:52:12Z",
    "quality_flags": null
   },
   "iced-latte-12oz": {
@@ -1425,7 +1425,7 @@
    "allergens": null,
    "source": "brand PDF (Krispy Kreme UK Drinks Allergen & Nutrition Book)",
    "source_url": "https://krispykreme.co.uk/media/wysiwyg/PDFs/UK_Drinks_Allergen_Nutrition_Book_310726.pdf",
-   "fetched_at": "2026-08-07T11:45:32Z",
+   "fetched_at": "2026-08-08T13:52:12Z",
    "quality_flags": null
   },
   "iced-vanilla-latte-12oz": {
@@ -1444,7 +1444,7 @@
    "allergens": null,
    "source": "brand PDF (Krispy Kreme UK Drinks Allergen & Nutrition Book)",
    "source_url": "https://krispykreme.co.uk/media/wysiwyg/PDFs/UK_Drinks_Allergen_Nutrition_Book_310726.pdf",
-   "fetched_at": "2026-08-07T11:45:32Z",
+   "fetched_at": "2026-08-08T13:52:12Z",
    "quality_flags": null
   },
   "iced-caramel-latte-12oz": {
@@ -1463,7 +1463,7 @@
    "allergens": null,
    "source": "brand PDF (Krispy Kreme UK Drinks Allergen & Nutrition Book)",
    "source_url": "https://krispykreme.co.uk/media/wysiwyg/PDFs/UK_Drinks_Allergen_Nutrition_Book_310726.pdf",
-   "fetched_at": "2026-08-07T11:45:32Z",
+   "fetched_at": "2026-08-08T13:52:12Z",
    "quality_flags": null
   },
   "iced-americano-no-oat-drink-or-milk-12oz": {
@@ -1482,7 +1482,7 @@
    "allergens": null,
    "source": "brand PDF (Krispy Kreme UK Drinks Allergen & Nutrition Book)",
    "source_url": "https://krispykreme.co.uk/media/wysiwyg/PDFs/UK_Drinks_Allergen_Nutrition_Book_310726.pdf",
-   "fetched_at": "2026-08-07T11:45:32Z",
+   "fetched_at": "2026-08-08T13:52:12Z",
    "quality_flags": null
   },
   "iced-chai-latte-12oz": {
@@ -1501,7 +1501,7 @@
    "allergens": null,
    "source": "brand PDF (Krispy Kreme UK Drinks Allergen & Nutrition Book)",
    "source_url": "https://krispykreme.co.uk/media/wysiwyg/PDFs/UK_Drinks_Allergen_Nutrition_Book_310726.pdf",
-   "fetched_at": "2026-08-07T11:45:32Z",
+   "fetched_at": "2026-08-08T13:52:12Z",
    "quality_flags": null
   },
   "iced-matcha-latte-12oz": {
@@ -1520,7 +1520,7 @@
    "allergens": null,
    "source": "brand PDF (Krispy Kreme UK Drinks Allergen & Nutrition Book)",
    "source_url": "https://krispykreme.co.uk/media/wysiwyg/PDFs/UK_Drinks_Allergen_Nutrition_Book_310726.pdf",
-   "fetched_at": "2026-08-07T11:45:32Z",
+   "fetched_at": "2026-08-08T13:52:12Z",
    "quality_flags": null
   },
   "iced-strawberry-matcha-latte-12oz": {
@@ -1539,7 +1539,7 @@
    "allergens": null,
    "source": "brand PDF (Krispy Kreme UK Drinks Allergen & Nutrition Book)",
    "source_url": "https://krispykreme.co.uk/media/wysiwyg/PDFs/UK_Drinks_Allergen_Nutrition_Book_310726.pdf",
-   "fetched_at": "2026-08-07T11:45:32Z",
+   "fetched_at": "2026-08-08T13:52:12Z",
    "quality_flags": null
   },
   "pistachio-iced-latte-12oz": {
@@ -1558,7 +1558,7 @@
    "allergens": null,
    "source": "brand PDF (Krispy Kreme UK Drinks Allergen & Nutrition Book)",
    "source_url": "https://krispykreme.co.uk/media/wysiwyg/PDFs/UK_Drinks_Allergen_Nutrition_Book_310726.pdf",
-   "fetched_at": "2026-08-07T11:45:32Z",
+   "fetched_at": "2026-08-08T13:52:12Z",
    "quality_flags": null
   },
   "pistachio-iced-latte-16oz": {
@@ -1577,7 +1577,7 @@
    "allergens": null,
    "source": "brand PDF (Krispy Kreme UK Drinks Allergen & Nutrition Book)",
    "source_url": "https://krispykreme.co.uk/media/wysiwyg/PDFs/UK_Drinks_Allergen_Nutrition_Book_310726.pdf",
-   "fetched_at": "2026-08-07T11:45:32Z",
+   "fetched_at": "2026-08-08T13:52:12Z",
    "quality_flags": null
   },
   "pistachio-latte-12oz": {
@@ -1596,7 +1596,7 @@
    "allergens": null,
    "source": "brand PDF (Krispy Kreme UK Drinks Allergen & Nutrition Book)",
    "source_url": "https://krispykreme.co.uk/media/wysiwyg/PDFs/UK_Drinks_Allergen_Nutrition_Book_310726.pdf",
-   "fetched_at": "2026-08-07T11:45:32Z",
+   "fetched_at": "2026-08-08T13:52:12Z",
    "quality_flags": null
   },
   "pistachio-latte-16oz": {
@@ -1615,7 +1615,7 @@
    "allergens": null,
    "source": "brand PDF (Krispy Kreme UK Drinks Allergen & Nutrition Book)",
    "source_url": "https://krispykreme.co.uk/media/wysiwyg/PDFs/UK_Drinks_Allergen_Nutrition_Book_310726.pdf",
-   "fetched_at": "2026-08-07T11:45:32Z",
+   "fetched_at": "2026-08-08T13:52:12Z",
    "quality_flags": null
   },
   "peach-ice-tea-12oz": {
@@ -1634,7 +1634,7 @@
    "allergens": null,
    "source": "brand PDF (Krispy Kreme UK Drinks Allergen & Nutrition Book)",
    "source_url": "https://krispykreme.co.uk/media/wysiwyg/PDFs/UK_Drinks_Allergen_Nutrition_Book_310726.pdf",
-   "fetched_at": "2026-08-07T11:45:33Z",
+   "fetched_at": "2026-08-08T13:52:12Z",
    "quality_flags": null
   },
   "cloudy-lemonade-12oz": {
@@ -1653,7 +1653,7 @@
    "allergens": null,
    "source": "brand PDF (Krispy Kreme UK Drinks Allergen & Nutrition Book)",
    "source_url": "https://krispykreme.co.uk/media/wysiwyg/PDFs/UK_Drinks_Allergen_Nutrition_Book_310726.pdf",
-   "fetched_at": "2026-08-07T11:45:33Z",
+   "fetched_at": "2026-08-08T13:52:12Z",
    "quality_flags": null
   },
   "pink-lemonade-12oz": {
@@ -1672,7 +1672,7 @@
    "allergens": null,
    "source": "brand PDF (Krispy Kreme UK Drinks Allergen & Nutrition Book)",
    "source_url": "https://krispykreme.co.uk/media/wysiwyg/PDFs/UK_Drinks_Allergen_Nutrition_Book_310726.pdf",
-   "fetched_at": "2026-08-07T11:45:33Z",
+   "fetched_at": "2026-08-08T13:52:12Z",
    "quality_flags": null
   },
   "original-glazed-matcha-latte-12oz-with-oat-milk": {
@@ -1691,7 +1691,7 @@
    "allergens": null,
    "source": "brand PDF (Krispy Kreme UK Drinks Allergen & Nutrition Book)",
    "source_url": "https://krispykreme.co.uk/media/wysiwyg/PDFs/UK_Drinks_Allergen_Nutrition_Book_310726.pdf",
-   "fetched_at": "2026-08-07T11:45:33Z",
+   "fetched_at": "2026-08-08T13:52:12Z",
    "quality_flags": null
   },
   "original-glazed-iced-matcha-latte-12oz-with-cows-milk": {
@@ -1710,7 +1710,7 @@
    "allergens": null,
    "source": "brand PDF (Krispy Kreme UK Drinks Allergen & Nutrition Book)",
    "source_url": "https://krispykreme.co.uk/media/wysiwyg/PDFs/UK_Drinks_Allergen_Nutrition_Book_310726.pdf",
-   "fetched_at": "2026-08-07T11:45:33Z",
+   "fetched_at": "2026-08-08T13:52:12Z",
    "quality_flags": null
   }
  }

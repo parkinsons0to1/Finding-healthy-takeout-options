@@ -75,6 +75,28 @@ row-alignment bug during development (it produced zero false passes once the
 Verified samples (July/April 2026 issues): Apricot Croissant 343 kcal / 7.8g
 protein per 84g portion; Latte (Regular, whole milk) 156 kcal / 8.3g protein
 per product — consistent with the brand's own "Per portion" column.
+
+Dietary flag source
+--------------------
+The food guide (not the beverage guide -- see below) prints a real diet-code
+suffix right after each product name, e.g. "Apricot Croissant\\n(V)", and
+defines the codes itself on the same page: "Key for Dietary Suitability:
+Vegetarian (V): ... Vegan (Vg): ... Gluten Free (GF): ...". Codes are
+comma/slash-free single tags or a combo like "(V/GF)"; a trailing "*" on a
+couple of "(Vg)*" tags has no separate footnote definition found, so it is
+treated as an ordinary "(Vg)" rather than guessed at further. `_TAG_RE`
+already isolated this exact token during name-parsing (to keep it out of
+the product name) -- it was simply discarded until now; `parsed_blocks`
+now carries it through and `_fetch_food` turns it into flags. "V" alone ->
+vegetarian True, vegan unset; "Vg" -> both True (vegan implies vegetarian).
+No tag at all is left unset (the guide has no equivalent negative code, so
+absence isn't a "no").
+
+The BEVERAGE guide has no such tag system -- its only "vegan" mentions are
+inside product names ("Vegan Tropical Milkshake") and ingredient prose
+("not suitable for vegans"), both of which are exactly the name/description
+text this project's non-negotiable rule forbids using to justify `True`. So
+`_fetch_bev` sets no dietary flags at all.
 """
 from __future__ import annotations
 
@@ -290,8 +312,19 @@ def _parse_food_page(page):
                 if bestd is None or d < bestd:
                     bestd, best = d, (name, tag)
         if best:
-            out.append((best[0], vals))
+            out.append((best[0], vals, best[1]))
     return out
+
+
+def _diet_flags(tag: str | None) -> tuple[bool | None, bool | None]:
+    """(vegetarian, vegan) from a "(V)"/"(Vg)"/"(V/GF)"/"(Vg)*" diet-code
+    suffix -- see "Dietary flag source" above."""
+    if not tag:
+        return None, None
+    codes = {c.strip("*") for c in tag.strip("()").split("/")}
+    vegan = "Vg" in codes
+    vegetarian = vegan or "V" in codes
+    return (vegetarian or None), (vegan or None)
 
 
 def _fetch_food(url: str) -> list[dict]:
@@ -311,7 +344,7 @@ def _fetch_food(url: str) -> list[dict]:
                 continue
             category = _food_category(page) or last_category
             last_category = category
-            for name, vals in _parse_food_page(page):
+            for name, vals, tag in _parse_food_page(page):
                 kcal, protein = vals.get("kcal"), vals.get("protein_g")
                 if kcal is None or protein is None or kcal <= 0:
                     continue
@@ -323,12 +356,14 @@ def _fetch_food(url: str) -> list[dict]:
                 seen.add(key)
                 portion = vals.get("portion_g")
                 serving = f"{portion:g}g" if portion else "per portion"
+                vegetarian, vegan = _diet_flags(tag)
                 out.append(item(
                     CHAIN, name, SOURCE, url,
                     item_id=name, category=category, serving_desc=serving,
                     kcal=kcal, protein_g=protein,
                     carbs_g=vals.get("carbs_g"), fat_g=vals.get("fat_g"),
                     salt_g=vals.get("salt_g"),
+                    vegetarian=vegetarian, vegan=vegan,
                 ))
     return out
 

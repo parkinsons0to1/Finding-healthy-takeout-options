@@ -10,6 +10,17 @@ Discovery notes:
     defaulted, since a zero would read as a real measurement.
   * Note the catalogue's guessed domain (pepespiripiri.com) is wrong; the live
     site is pepes.co.uk.
+
+Dietary flag source
+--------------------
+Each card carries its own `data-category="..."` attribute, and one value,
+``pepes-veggie-table``, is Pepe's own "Vegetarian Collection" menu section
+(named as such in the page's own allergen-disclaimer prose: "Items from our
+Vegetarian Collection menu are cooked and prepared alongside our chicken
+and meat products..."). Checked, not assumed: every item in that category
+is feta/paneer/veggie-burger -- no meat/fish name anywhere in it. Used as
+the sole source of `vegetarian=True`; there is no equivalent vegan category
+or column anywhere on the page, so `vegan` is never set here.
 """
 from __future__ import annotations
 
@@ -21,9 +32,13 @@ from ..base import item, session, to_float
 CHAIN = "pepes_piri_piri"
 SOURCE = "brand nutrition page (Pepe's Piri Piri UK)"
 SOURCE_URL = "https://pepes.co.uk/nutrition-allergens-uk/"
+#: Pepe's own "Vegetarian Collection" menu section -- see "Dietary flag
+#: source" above.
+_VEGETARIAN_CATEGORY = "pepes-veggie-table"
 
 _CARD = re.compile(r'<div[^>]*data-title="([^"]*)"(.*?)(?=<div[^>]*data-title="|\Z)', re.S)
 _ITEM = re.compile(r'class="[^"]*ntc-item[^"]*"[^>]*>(.*?)</div>', re.S)
+_CATEGORY_RE = re.compile(r'data-category="([^"]*)"')
 
 
 def _text(fragment: str) -> str:
@@ -65,6 +80,9 @@ def fetch() -> list[dict]:
         if key in seen:
             continue
         seen.add(key)
+        cat_m = _CATEGORY_RE.search(body)
+        vegetarian = True if cat_m and cat_m.group(1) == _VEGETARIAN_CATEGORY else None
         out.append(item(CHAIN, name, SOURCE, SOURCE_URL, item_id=name,
-                        serving_desc="per serving", **nut))
+                        serving_desc="per serving",
+                        vegetarian=vegetarian, **nut))
     return out

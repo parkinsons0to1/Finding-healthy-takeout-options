@@ -1,7 +1,7 @@
 {
  "chain_id": "coffee_1",
  "item_count": 391,
- "fetched_at": "2026-08-07T16:52:15Z",
+ "fetched_at": "2026-08-08T13:53:17Z",
  "items": {
   "apricot-croissant": {
    "chain_id": "coffee_1",
@@ -14,12 +14,12 @@
    "carbs_g": 36.9,
    "fat_g": 17.8,
    "salt_g": 0.6,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/07/C1-Core-Food-July-2026-Issue-Date-2307.pdf",
-   "fetched_at": "2026-08-07T16:52:15Z",
+   "fetched_at": "2026-08-08T13:53:17Z",
    "quality_flags": null
   },
   "almond-croissant": {
@@ -33,12 +33,12 @@
    "carbs_g": 36.4,
    "fat_g": 17.5,
    "salt_g": 0.6,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/07/C1-Core-Food-July-2026-Issue-Date-2307.pdf",
-   "fetched_at": "2026-08-07T16:52:15Z",
+   "fetched_at": "2026-08-08T13:53:17Z",
    "quality_flags": null
   },
   "butter-croissant": {
@@ -52,12 +52,12 @@
    "carbs_g": 23.5,
    "fat_g": 11.8,
    "salt_g": 0.58,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/07/C1-Core-Food-July-2026-Issue-Date-2307.pdf",
-   "fetched_at": "2026-08-07T16:52:15Z",
+   "fetched_at": "2026-08-08T13:53:17Z",
    "quality_flags": null
   },
   "pain-au-chocolat": {
@@ -71,12 +71,12 @@
    "carbs_g": 30.0,
    "fat_g": 14.0,
    "salt_g": 0.61,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/07/C1-Core-Food-July-2026-Issue-Date-2307.pdf",
-   "fetched_at": "2026-08-07T16:52:15Z",
+   "fetched_at": "2026-08-08T13:53:17Z",
    "quality_flags": null
   },
   "pain-au-raisin": {
@@ -90,12 +90,12 @@
    "carbs_g": 45.5,
    "fat_g": 14.0,
    "salt_g": 0.77,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/07/C1-Core-Food-July-2026-Issue-Date-2307.pdf",
-   "fetched_at": "2026-08-07T16:52:15Z",
+   "fetched_at": "2026-08-08T13:53:17Z",
    "quality_flags": null
   },
   "vegan-raspberry-croissant": {
@@ -109,12 +109,12 @@
    "carbs_g": 39.5,
    "fat_g": 13.0,
    "salt_g": 0.41,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/07/C1-Core-Food-July-2026-Issue-Date-2307.pdf",
-   "fetched_at": "2026-08-07T16:52:15Z",
+   "fetched_at": "2026-08-08T13:53:17Z",
    "quality_flags": null
   },
   "pistachio-croissant": {
@@ -128,12 +128,12 @@
    "carbs_g": 38.0,
    "fat_g": 20.0,
    "salt_g": 0.56,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/07/C1-Core-Food-July-2026-Issue-Date-2307.pdf",
-   "fetched_at": "2026-08-07T16:52:15Z",
+   "fetched_at": "2026-08-08T13:53:17Z",
    "quality_flags": null
   },
   "sticky-toffee-bun": {
@@ -147,12 +147,12 @@
    "carbs_g": 92.0,
    "fat_g": 27.8,
    "salt_g": 1.49,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/07/C1-Core-Food-July-2026-Issue-Date-2307.pdf",
-   "fetched_at": "2026-08-07T16:52:15Z",
+   "fetched_at": "2026-08-08T13:53:17Z",
    "quality_flags": null
   },
   "cardamom-orange-bun": {
@@ -171,7 +171,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/07/C1-Core-Food-July-2026-Issue-Date-2307.pdf",
-   "fetched_at": "2026-08-07T16:52:15Z",
+   "fetched_at": "2026-08-08T13:53:17Z",
    "quality_flags": null
   },
   "cinnamon-bun": {
@@ -185,12 +185,12 @@
    "carbs_g": 89.28,
    "fat_g": 21.08,
    "salt_g": 1.1,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/07/C1-Core-Food-July-2026-Issue-Date-2307.pdf",
-   "fetched_at": "2026-08-07T16:52:15Z",
+   "fetched_at": "2026-08-08T13:53:17Z",
    "quality_flags": null
   },
   "porridge-plain": {
@@ -204,12 +204,12 @@
    "carbs_g": 35.2,
    "fat_g": 10.9,
    "salt_g": 0.22,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/07/C1-Core-Food-July-2026-Issue-Date-2307.pdf",
-   "fetched_at": "2026-08-07T16:52:16Z",
+   "fetched_at": "2026-08-08T13:53:17Z",
    "quality_flags": null
   },
   "porridge-with-chocolate-chips": {
@@ -223,12 +223,12 @@
    "carbs_g": 46.3,
    "fat_g": 17.1,
    "salt_g": 0.22,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/07/C1-Core-Food-July-2026-Issue-Date-2307.pdf",
-   "fetched_at": "2026-08-07T16:52:16Z",
+   "fetched_at": "2026-08-08T13:53:17Z",
    "quality_flags": null
   },
   "porridge-with-banana-cinnamon": {
@@ -242,12 +242,12 @@
    "carbs_g": 63.6,
    "fat_g": 11.0,
    "salt_g": 0.22,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/07/C1-Core-Food-July-2026-Issue-Date-2307.pdf",
-   "fetched_at": "2026-08-07T16:52:16Z",
+   "fetched_at": "2026-08-08T13:53:17Z",
    "quality_flags": null
   },
   "porridge-with-blueberries-seeds-maple-syrup": {
@@ -261,12 +261,12 @@
    "carbs_g": 50.2,
    "fat_g": 20.7,
    "salt_g": 0.23,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/07/C1-Core-Food-July-2026-Issue-Date-2307.pdf",
-   "fetched_at": "2026-08-07T16:52:16Z",
+   "fetched_at": "2026-08-08T13:53:17Z",
    "quality_flags": null
   },
   "teacake": {
@@ -280,12 +280,12 @@
    "carbs_g": 72.0,
    "fat_g": 1.1,
    "salt_g": 0.02,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/07/C1-Core-Food-July-2026-Issue-Date-2307.pdf",
-   "fetched_at": "2026-08-07T16:52:16Z",
+   "fetched_at": "2026-08-08T13:53:17Z",
    "quality_flags": null
   },
   "new-teacake": {
@@ -299,12 +299,12 @@
    "carbs_g": 83.3,
    "fat_g": 26.7,
    "salt_g": 2.29,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/07/C1-Core-Food-July-2026-Issue-Date-2307.pdf",
-   "fetched_at": "2026-08-07T16:52:16Z",
+   "fetched_at": "2026-08-08T13:53:17Z",
    "quality_flags": null
   },
   "tinned-white-bloomer": {
@@ -318,12 +318,12 @@
    "carbs_g": 19.6,
    "fat_g": 0.3,
    "salt_g": 0.46,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/07/C1-Core-Food-July-2026-Issue-Date-2307.pdf",
-   "fetched_at": "2026-08-07T16:52:16Z",
+   "fetched_at": "2026-08-08T13:53:18Z",
    "quality_flags": null
   },
   "tinned-harvest-bloomer": {
@@ -337,12 +337,12 @@
    "carbs_g": 20.0,
    "fat_g": 0.6,
    "salt_g": 0.5,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/07/C1-Core-Food-July-2026-Issue-Date-2307.pdf",
-   "fetched_at": "2026-08-07T16:52:16Z",
+   "fetched_at": "2026-08-08T13:53:18Z",
    "quality_flags": null
   },
   "granola-yogurt-with-blueberry-honey": {
@@ -356,12 +356,12 @@
    "carbs_g": 46.0,
    "fat_g": 16.0,
    "salt_g": 1.1,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/07/C1-Core-Food-July-2026-Issue-Date-2307.pdf",
-   "fetched_at": "2026-08-07T16:52:16Z",
+   "fetched_at": "2026-08-08T13:53:18Z",
    "quality_flags": null
   },
   "granola-yogurt-with-banana-honey": {
@@ -375,12 +375,12 @@
    "carbs_g": 53.0,
    "fat_g": 16.0,
    "salt_g": 1.1,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/07/C1-Core-Food-July-2026-Issue-Date-2307.pdf",
-   "fetched_at": "2026-08-07T16:52:16Z",
+   "fetched_at": "2026-08-08T13:53:18Z",
    "quality_flags": null
   },
   "yogurt-seeds-with-blueberry-honey": {
@@ -394,12 +394,12 @@
    "carbs_g": 22.0,
    "fat_g": 16.0,
    "salt_g": 0.26,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/07/C1-Core-Food-July-2026-Issue-Date-2307.pdf",
-   "fetched_at": "2026-08-07T16:52:16Z",
+   "fetched_at": "2026-08-08T13:53:18Z",
    "quality_flags": null
   },
   "yogurt-seeds-with-banana-honey": {
@@ -413,12 +413,12 @@
    "carbs_g": 29.0,
    "fat_g": 16.0,
    "salt_g": 0.26,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/07/C1-Core-Food-July-2026-Issue-Date-2307.pdf",
-   "fetched_at": "2026-08-07T16:52:16Z",
+   "fetched_at": "2026-08-08T13:53:18Z",
    "quality_flags": null
   },
   "banana-chocolate-loaf-cake": {
@@ -432,12 +432,12 @@
    "carbs_g": 54.4,
    "fat_g": 17.6,
    "salt_g": 0.68,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/07/C1-Core-Food-July-2026-Issue-Date-2307.pdf",
-   "fetched_at": "2026-08-07T16:52:16Z",
+   "fetched_at": "2026-08-08T13:53:18Z",
    "quality_flags": null
   },
   "lemon-drizzle-cake": {
@@ -451,12 +451,12 @@
    "carbs_g": 63.4,
    "fat_g": 14.6,
    "salt_g": 0.85,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/07/C1-Core-Food-July-2026-Issue-Date-2307.pdf",
-   "fetched_at": "2026-08-07T16:52:16Z",
+   "fetched_at": "2026-08-08T13:53:18Z",
    "quality_flags": null
   },
   "welsh-cake": {
@@ -470,12 +470,12 @@
    "carbs_g": 19.5,
    "fat_g": 4.4,
    "salt_g": 0.39,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/07/C1-Core-Food-July-2026-Issue-Date-2307.pdf",
-   "fetched_at": "2026-08-07T16:52:16Z",
+   "fetched_at": "2026-08-08T13:53:18Z",
    "quality_flags": null
   },
   "new-victoria-sponge-cake": {
@@ -489,12 +489,12 @@
    "carbs_g": 59.3,
    "fat_g": 21.0,
    "salt_g": 0.77,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/07/C1-Core-Food-July-2026-Issue-Date-2307.pdf",
-   "fetched_at": "2026-08-07T16:52:16Z",
+   "fetched_at": "2026-08-08T13:53:18Z",
    "quality_flags": null
   },
   "victoria-sponge-cake": {
@@ -508,12 +508,12 @@
    "carbs_g": 72.2,
    "fat_g": 25.5,
    "salt_g": 0.45,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/07/C1-Core-Food-July-2026-Issue-Date-2307.pdf",
-   "fetched_at": "2026-08-07T16:52:16Z",
+   "fetched_at": "2026-08-08T13:53:18Z",
    "quality_flags": null
   },
   "coffee-caramel-cake": {
@@ -527,12 +527,12 @@
    "carbs_g": 82.8,
    "fat_g": 25.9,
    "salt_g": 1.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/07/C1-Core-Food-July-2026-Issue-Date-2307.pdf",
-   "fetched_at": "2026-08-07T16:52:16Z",
+   "fetched_at": "2026-08-08T13:53:18Z",
    "quality_flags": null
   },
   "carrot-cake": {
@@ -546,12 +546,12 @@
    "carbs_g": 79.0,
    "fat_g": 18.8,
    "salt_g": 1.09,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/07/C1-Core-Food-July-2026-Issue-Date-2307.pdf",
-   "fetched_at": "2026-08-07T16:52:16Z",
+   "fetched_at": "2026-08-08T13:53:18Z",
    "quality_flags": null
   },
   "new-raspberry-coconut-cake": {
@@ -565,12 +565,12 @@
    "carbs_g": 55.8,
    "fat_g": 15.9,
    "salt_g": 0.61,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/07/C1-Core-Food-July-2026-Issue-Date-2307.pdf",
-   "fetched_at": "2026-08-07T16:52:16Z",
+   "fetched_at": "2026-08-08T13:53:18Z",
    "quality_flags": null
   },
   "deluxe-dark-chcolate-cake": {
@@ -584,12 +584,12 @@
    "carbs_g": 58.7,
    "fat_g": 21.3,
    "salt_g": 0.67,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/07/C1-Core-Food-July-2026-Issue-Date-2307.pdf",
-   "fetched_at": "2026-08-07T16:52:16Z",
+   "fetched_at": "2026-08-08T13:53:18Z",
    "quality_flags": null
   },
   "cherry-pistachio-bakewell": {
@@ -603,12 +603,12 @@
    "carbs_g": 32.5,
    "fat_g": 18.1,
    "salt_g": 0.1,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/07/C1-Core-Food-July-2026-Issue-Date-2307.pdf",
-   "fetched_at": "2026-08-07T16:52:16Z",
+   "fetched_at": "2026-08-08T13:53:18Z",
    "quality_flags": null
   },
   "chocolate-orange-jaffa-slice": {
@@ -627,7 +627,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/07/C1-Core-Food-July-2026-Issue-Date-2307.pdf",
-   "fetched_at": "2026-08-07T16:52:16Z",
+   "fetched_at": "2026-08-08T13:53:18Z",
    "quality_flags": null
   },
   "sticky-toffee-loaf": {
@@ -641,12 +641,12 @@
    "carbs_g": 43.4,
    "fat_g": 16.3,
    "salt_g": 0.78,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/07/C1-Core-Food-July-2026-Issue-Date-2307.pdf",
-   "fetched_at": "2026-08-07T16:52:16Z",
+   "fetched_at": "2026-08-08T13:53:18Z",
    "quality_flags": null
   },
   "blueberry-muffin": {
@@ -660,12 +660,12 @@
    "carbs_g": 61.0,
    "fat_g": 21.0,
    "salt_g": 0.62,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/07/C1-Core-Food-July-2026-Issue-Date-2307.pdf",
-   "fetched_at": "2026-08-07T16:52:16Z",
+   "fetched_at": "2026-08-08T13:53:18Z",
    "quality_flags": null
   },
   "sicilian-lemon-curd-muffin": {
@@ -679,12 +679,12 @@
    "carbs_g": 60.0,
    "fat_g": 22.0,
    "salt_g": 0.55,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/07/C1-Core-Food-July-2026-Issue-Date-2307.pdf",
-   "fetched_at": "2026-08-07T16:52:16Z",
+   "fetched_at": "2026-08-08T13:53:18Z",
    "quality_flags": null
   },
   "caramel-shortbread": {
@@ -698,12 +698,12 @@
    "carbs_g": 35.8,
    "fat_g": 16.1,
    "salt_g": 0.4,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/07/C1-Core-Food-July-2026-Issue-Date-2307.pdf",
-   "fetched_at": "2026-08-07T16:52:16Z",
+   "fetched_at": "2026-08-08T13:53:18Z",
    "quality_flags": null
   },
   "triple-chocolate-brownie": {
@@ -717,12 +717,12 @@
    "carbs_g": 26.7,
    "fat_g": 20.5,
    "salt_g": 0.23,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/07/C1-Core-Food-July-2026-Issue-Date-2307.pdf",
-   "fetched_at": "2026-08-07T16:52:16Z",
+   "fetched_at": "2026-08-08T13:53:18Z",
    "quality_flags": null
   },
   "rocky-road": {
@@ -741,7 +741,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/07/C1-Core-Food-July-2026-Issue-Date-2307.pdf",
-   "fetched_at": "2026-08-07T16:52:17Z",
+   "fetched_at": "2026-08-08T13:53:18Z",
    "quality_flags": null
   },
   "yoghurt-apple-blackcurrant-flapjack": {
@@ -755,12 +755,12 @@
    "carbs_g": 65.4,
    "fat_g": 29.0,
    "salt_g": 0.27,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/07/C1-Core-Food-July-2026-Issue-Date-2307.pdf",
-   "fetched_at": "2026-08-07T16:52:17Z",
+   "fetched_at": "2026-08-08T13:53:18Z",
    "quality_flags": null
   },
   "blackberry-apple-crumble-jack": {
@@ -774,12 +774,12 @@
    "carbs_g": 54.4,
    "fat_g": 13.2,
    "salt_g": 0.2,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/07/C1-Core-Food-July-2026-Issue-Date-2307.pdf",
-   "fetched_at": "2026-08-07T16:52:17Z",
+   "fetched_at": "2026-08-08T13:53:18Z",
    "quality_flags": null
   },
   "maple-syrup-flapjack": {
@@ -793,12 +793,12 @@
    "carbs_g": 60.9,
    "fat_g": 17.0,
    "salt_g": 0.33,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/07/C1-Core-Food-July-2026-Issue-Date-2307.pdf",
-   "fetched_at": "2026-08-07T16:52:17Z",
+   "fetched_at": "2026-08-08T13:53:18Z",
    "quality_flags": null
   },
   "new-mango-passionfruit-tart": {
@@ -812,12 +812,12 @@
    "carbs_g": 60.5,
    "fat_g": 26.9,
    "salt_g": 0.74,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/07/C1-Core-Food-July-2026-Issue-Date-2307.pdf",
-   "fetched_at": "2026-08-07T16:52:17Z",
+   "fetched_at": "2026-08-08T13:53:19Z",
    "quality_flags": null
   },
   "new-bakewell-tart": {
@@ -831,12 +831,12 @@
    "carbs_g": 69.0,
    "fat_g": 27.0,
    "salt_g": 0.9,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/07/C1-Core-Food-July-2026-Issue-Date-2307.pdf",
-   "fetched_at": "2026-08-07T16:52:17Z",
+   "fetched_at": "2026-08-08T13:53:19Z",
    "quality_flags": null
   },
   "new-lemon-merringue-pie": {
@@ -850,12 +850,12 @@
    "carbs_g": 54.8,
    "fat_g": 9.7,
    "salt_g": 0.1,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/07/C1-Core-Food-July-2026-Issue-Date-2307.pdf",
-   "fetched_at": "2026-08-07T16:52:17Z",
+   "fetched_at": "2026-08-08T13:53:19Z",
    "quality_flags": null
   },
   "portuguese-tarts": {
@@ -869,12 +869,12 @@
    "carbs_g": 26.1,
    "fat_g": 7.3,
    "salt_g": 0.4,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/07/C1-Core-Food-July-2026-Issue-Date-2307.pdf",
-   "fetched_at": "2026-08-07T16:52:17Z",
+   "fetched_at": "2026-08-08T13:53:19Z",
    "quality_flags": null
   },
   "apple-cinnamon-tart": {
@@ -888,12 +888,12 @@
    "carbs_g": 57.0,
    "fat_g": 16.6,
    "salt_g": 0.35,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/07/C1-Core-Food-July-2026-Issue-Date-2307.pdf",
-   "fetched_at": "2026-08-07T16:52:17Z",
+   "fetched_at": "2026-08-08T13:53:19Z",
    "quality_flags": null
   },
   "apple-cinnamon-tart-with-whipped-cream": {
@@ -907,12 +907,12 @@
    "carbs_g": 59.0,
    "fat_g": 34.6,
    "salt_g": 0.38,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/07/C1-Core-Food-July-2026-Issue-Date-2307.pdf",
-   "fetched_at": "2026-08-07T16:52:17Z",
+   "fetched_at": "2026-08-08T13:53:19Z",
    "quality_flags": null
   },
   "pecan-pie": {
@@ -926,12 +926,12 @@
    "carbs_g": 53.7,
    "fat_g": 30.0,
    "salt_g": 0.38,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/07/C1-Core-Food-July-2026-Issue-Date-2307.pdf",
-   "fetched_at": "2026-08-07T16:52:17Z",
+   "fetched_at": "2026-08-08T13:53:19Z",
    "quality_flags": null
   },
   "new-salted-caramel-slice": {
@@ -950,7 +950,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/07/C1-Core-Food-July-2026-Issue-Date-2307.pdf",
-   "fetched_at": "2026-08-07T16:52:17Z",
+   "fetched_at": "2026-08-08T13:53:19Z",
    "quality_flags": null
   },
   "new-starwberries-clotted-cream-slice": {
@@ -969,7 +969,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/07/C1-Core-Food-July-2026-Issue-Date-2307.pdf",
-   "fetched_at": "2026-08-07T16:52:17Z",
+   "fetched_at": "2026-08-08T13:53:19Z",
    "quality_flags": null
   },
   "lotus-biscoff-cheesecake": {
@@ -983,12 +983,12 @@
    "carbs_g": 42.0,
    "fat_g": 31.6,
    "salt_g": 0.7,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/07/C1-Core-Food-July-2026-Issue-Date-2307.pdf",
-   "fetched_at": "2026-08-07T16:52:17Z",
+   "fetched_at": "2026-08-08T13:53:19Z",
    "quality_flags": null
   },
   "dubai-style-chocolate-torte": {
@@ -1007,7 +1007,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/07/C1-Core-Food-July-2026-Issue-Date-2307.pdf",
-   "fetched_at": "2026-08-07T16:52:17Z",
+   "fetched_at": "2026-08-08T13:53:19Z",
    "quality_flags": null
   },
   "milk-chocolate-torte-with-chocolate-bar": {
@@ -1026,7 +1026,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/07/C1-Core-Food-July-2026-Issue-Date-2307.pdf",
-   "fetched_at": "2026-08-07T16:52:17Z",
+   "fetched_at": "2026-08-08T13:53:19Z",
    "quality_flags": null
   },
   "brie-bacon-panini": {
@@ -1045,7 +1045,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/07/C1-Core-Food-July-2026-Issue-Date-2307.pdf",
-   "fetched_at": "2026-08-07T16:52:18Z",
+   "fetched_at": "2026-08-08T13:53:19Z",
    "quality_flags": null
   },
   "chicken-pesto-panini": {
@@ -1064,7 +1064,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/07/C1-Core-Food-July-2026-Issue-Date-2307.pdf",
-   "fetched_at": "2026-08-07T16:52:18Z",
+   "fetched_at": "2026-08-08T13:53:19Z",
    "quality_flags": null
   },
   "tuna-melt-panini": {
@@ -1083,7 +1083,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/07/C1-Core-Food-July-2026-Issue-Date-2307.pdf",
-   "fetched_at": "2026-08-07T16:52:18Z",
+   "fetched_at": "2026-08-08T13:53:19Z",
    "quality_flags": null
   },
   "mozzarella-tomato-panini": {
@@ -1097,12 +1097,12 @@
    "carbs_g": 64.5,
    "fat_g": 17.1,
    "salt_g": 1.74,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/07/C1-Core-Food-July-2026-Issue-Date-2307.pdf",
-   "fetched_at": "2026-08-07T16:52:18Z",
+   "fetched_at": "2026-08-08T13:53:19Z",
    "quality_flags": null
   },
   "ham-cheese-toastie": {
@@ -1121,7 +1121,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/07/C1-Core-Food-July-2026-Issue-Date-2307.pdf",
-   "fetched_at": "2026-08-07T16:52:18Z",
+   "fetched_at": "2026-08-08T13:53:19Z",
    "quality_flags": null
   },
   "mushroom-emmental-toastie": {
@@ -1135,12 +1135,12 @@
    "carbs_g": 45.3,
    "fat_g": 25.3,
    "salt_g": 1.95,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/07/C1-Core-Food-July-2026-Issue-Date-2307.pdf",
-   "fetched_at": "2026-08-07T16:52:18Z",
+   "fetched_at": "2026-08-08T13:53:19Z",
    "quality_flags": null
   },
   "cheese-tomato-toastie": {
@@ -1154,12 +1154,12 @@
    "carbs_g": 48.5,
    "fat_g": 24.9,
    "salt_g": 2.14,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/07/C1-Core-Food-July-2026-Issue-Date-2307.pdf",
-   "fetched_at": "2026-08-07T16:52:18Z",
+   "fetched_at": "2026-08-08T13:53:19Z",
    "quality_flags": null
   },
   "new-bbq-pulled-pork-toastie": {
@@ -1178,7 +1178,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/07/C1-Core-Food-July-2026-Issue-Date-2307.pdf",
-   "fetched_at": "2026-08-07T16:52:18Z",
+   "fetched_at": "2026-08-08T13:53:19Z",
    "quality_flags": null
   },
   "new-feta-tomato-toastie": {
@@ -1192,12 +1192,12 @@
    "carbs_g": 84.0,
    "fat_g": 19.5,
    "salt_g": 2.93,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/07/C1-Core-Food-July-2026-Issue-Date-2307.pdf",
-   "fetched_at": "2026-08-07T16:52:18Z",
+   "fetched_at": "2026-08-08T13:53:19Z",
    "quality_flags": null
   },
   "bacon-bap": {
@@ -1216,7 +1216,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/07/C1-Core-Food-July-2026-Issue-Date-2307.pdf",
-   "fetched_at": "2026-08-07T16:52:18Z",
+   "fetched_at": "2026-08-08T13:53:19Z",
    "quality_flags": null
   },
   "sausage-bap": {
@@ -1235,7 +1235,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/07/C1-Core-Food-July-2026-Issue-Date-2307.pdf",
-   "fetched_at": "2026-08-07T16:52:18Z",
+   "fetched_at": "2026-08-08T13:53:19Z",
    "quality_flags": null
   },
   "new-ultimate-chicken-salad-sandwich": {
@@ -1254,7 +1254,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/07/C1-Core-Food-July-2026-Issue-Date-2307.pdf",
-   "fetched_at": "2026-08-07T16:52:18Z",
+   "fetched_at": "2026-08-08T13:53:19Z",
    "quality_flags": null
   },
   "new-chicken-caesar-flatbred": {
@@ -1273,7 +1273,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/07/C1-Core-Food-July-2026-Issue-Date-2307.pdf",
-   "fetched_at": "2026-08-07T16:52:18Z",
+   "fetched_at": "2026-08-08T13:53:20Z",
    "quality_flags": null
   },
   "new-mediteranean-vegetable-flatbread-vg": {
@@ -1292,7 +1292,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/07/C1-Core-Food-July-2026-Issue-Date-2307.pdf",
-   "fetched_at": "2026-08-07T16:52:18Z",
+   "fetched_at": "2026-08-08T13:53:20Z",
    "quality_flags": null
   },
   "new-feta-mediterranean-vegetable-grain-salad": {
@@ -1306,12 +1306,12 @@
    "carbs_g": 16.3,
    "fat_g": 10.0,
    "salt_g": null,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/07/C1-Core-Food-July-2026-Issue-Date-2307.pdf",
-   "fetched_at": "2026-08-07T16:52:18Z",
+   "fetched_at": "2026-08-08T13:53:20Z",
    "quality_flags": null
   },
   "triple-chocolate-cookie": {
@@ -1325,12 +1325,12 @@
    "carbs_g": 44.7,
    "fat_g": 18.1,
    "salt_g": 0.77,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/07/C1-Core-Food-July-2026-Issue-Date-2307.pdf",
-   "fetched_at": "2026-08-07T16:52:18Z",
+   "fetched_at": "2026-08-08T13:53:20Z",
    "quality_flags": null
   },
   "milk-chocolate-cookie": {
@@ -1344,12 +1344,12 @@
    "carbs_g": 42.4,
    "fat_g": 17.3,
    "salt_g": 0.72,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/07/C1-Core-Food-July-2026-Issue-Date-2307.pdf",
-   "fetched_at": "2026-08-07T16:52:18Z",
+   "fetched_at": "2026-08-08T13:53:20Z",
    "quality_flags": null
   },
   "gingerbread-man": {
@@ -1363,12 +1363,12 @@
    "carbs_g": 42.1,
    "fat_g": 5.3,
    "salt_g": 0.06,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/07/C1-Core-Food-July-2026-Issue-Date-2307.pdf",
-   "fetched_at": "2026-08-07T16:52:18Z",
+   "fetched_at": "2026-08-08T13:53:20Z",
    "quality_flags": null
   },
   "lotus-biscuits": {
@@ -1382,12 +1382,12 @@
    "carbs_g": 18.2,
    "fat_g": 4.8,
    "salt_g": 0.23,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/07/C1-Core-Food-July-2026-Issue-Date-2307.pdf",
-   "fetched_at": "2026-08-07T16:52:18Z",
+   "fetched_at": "2026-08-08T13:53:20Z",
    "quality_flags": null
   },
   "shortbread": {
@@ -1401,12 +1401,12 @@
    "carbs_g": 28.8,
    "fat_g": 12.8,
    "salt_g": 0.25,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/07/C1-Core-Food-July-2026-Issue-Date-2307.pdf",
-   "fetched_at": "2026-08-07T16:52:18Z",
+   "fetched_at": "2026-08-08T13:53:20Z",
    "quality_flags": null
   },
   "toffee-waffle": {
@@ -1420,12 +1420,12 @@
    "carbs_g": 46.0,
    "fat_g": 10.0,
    "salt_g": 0.4,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/07/C1-Core-Food-July-2026-Issue-Date-2307.pdf",
-   "fetched_at": "2026-08-07T16:52:18Z",
+   "fetched_at": "2026-08-08T13:53:20Z",
    "quality_flags": null
   },
   "gianduiotti": {
@@ -1439,12 +1439,12 @@
    "carbs_g": 4.3,
    "fat_g": 4.1,
    "salt_g": 0.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/07/C1-Core-Food-July-2026-Issue-Date-2307.pdf",
-   "fetched_at": "2026-08-07T16:52:18Z",
+   "fetched_at": "2026-08-08T13:53:20Z",
    "quality_flags": null
   },
   "jammy-delight": {
@@ -1458,12 +1458,12 @@
    "carbs_g": 34.8,
    "fat_g": 12.8,
    "salt_g": 0.23,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/07/C1-Core-Food-July-2026-Issue-Date-2307.pdf",
-   "fetched_at": "2026-08-07T16:52:18Z",
+   "fetched_at": "2026-08-08T13:53:20Z",
    "quality_flags": null
   },
   "gf-caramel-jewel-bar": {
@@ -1477,12 +1477,12 @@
    "carbs_g": 48.1,
    "fat_g": 14.2,
    "salt_g": 0.3,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/07/C1-Core-Food-July-2026-Issue-Date-2307.pdf",
-   "fetched_at": "2026-08-07T16:52:18Z",
+   "fetched_at": "2026-08-08T13:53:20Z",
    "quality_flags": null
   },
   "kettle-sea-salt-crisps": {
@@ -1496,12 +1496,12 @@
    "carbs_g": 20.6,
    "fat_g": 12.0,
    "salt_g": 0.36,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/07/C1-Core-Food-July-2026-Issue-Date-2307.pdf",
-   "fetched_at": "2026-08-07T16:52:18Z",
+   "fetched_at": "2026-08-08T13:53:20Z",
    "quality_flags": null
   },
   "kettle-sea-salt-vinegar-crisps": {
@@ -1515,12 +1515,12 @@
    "carbs_g": 22.3,
    "fat_g": 11.2,
    "salt_g": 0.6,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/07/C1-Core-Food-July-2026-Issue-Date-2307.pdf",
-   "fetched_at": "2026-08-07T16:52:18Z",
+   "fetched_at": "2026-08-08T13:53:20Z",
    "quality_flags": null
   },
   "kettle-cheddar-onion-crisps": {
@@ -1534,12 +1534,12 @@
    "carbs_g": 20.4,
    "fat_g": 12.0,
    "salt_g": 0.4,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/07/C1-Core-Food-July-2026-Issue-Date-2307.pdf",
-   "fetched_at": "2026-08-07T16:52:18Z",
+   "fetched_at": "2026-08-08T13:53:20Z",
    "quality_flags": null
   },
   "sweet-salty-popcorn": {
@@ -1553,12 +1553,12 @@
    "carbs_g": 17.0,
    "fat_g": 6.1,
    "salt_g": 0.2,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/07/C1-Core-Food-July-2026-Issue-Date-2307.pdf",
-   "fetched_at": "2026-08-07T16:52:18Z",
+   "fetched_at": "2026-08-08T13:53:20Z",
    "quality_flags": null
   },
   "preserve-blackcurrant": {
@@ -1572,12 +1572,12 @@
    "carbs_g": 17.1,
    "fat_g": 0.0,
    "salt_g": 0.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/07/C1-Core-Food-July-2026-Issue-Date-2307.pdf",
-   "fetched_at": "2026-08-07T16:52:18Z",
+   "fetched_at": "2026-08-08T13:53:20Z",
    "quality_flags": null
   },
   "preserve-strawberry": {
@@ -1591,12 +1591,12 @@
    "carbs_g": 17.7,
    "fat_g": 0.0,
    "salt_g": 0.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/07/C1-Core-Food-July-2026-Issue-Date-2307.pdf",
-   "fetched_at": "2026-08-07T16:52:18Z",
+   "fetched_at": "2026-08-08T13:53:20Z",
    "quality_flags": null
   },
   "hazelnut-chocolate-spread": {
@@ -1610,12 +1610,12 @@
    "carbs_g": 13.3,
    "fat_g": 8.5,
    "salt_g": 0.03,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/07/C1-Core-Food-July-2026-Issue-Date-2307.pdf",
-   "fetched_at": "2026-08-07T16:52:18Z",
+   "fetched_at": "2026-08-08T13:53:20Z",
    "quality_flags": null
   },
   "lakeland-butter": {
@@ -1629,12 +1629,12 @@
    "carbs_g": 0.1,
    "fat_g": 5.7,
    "salt_g": 0.13,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/07/C1-Core-Food-July-2026-Issue-Date-2307.pdf",
-   "fetched_at": "2026-08-07T16:52:18Z",
+   "fetched_at": "2026-08-08T13:53:20Z",
    "quality_flags": null
   },
   "rodda-s-cornish-clotted-cream": {
@@ -1648,12 +1648,12 @@
    "carbs_g": 0.9,
    "fat_g": 25.5,
    "salt_g": 0.02,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/07/C1-Core-Food-July-2026-Issue-Date-2307.pdf",
-   "fetched_at": "2026-08-07T16:52:18Z",
+   "fetched_at": "2026-08-08T13:53:20Z",
    "quality_flags": null
   },
   "flora": {
@@ -1667,12 +1667,12 @@
    "carbs_g": 0.0,
    "fat_g": 4.9,
    "salt_g": 0.1,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/07/C1-Core-Food-July-2026-Issue-Date-2307.pdf",
-   "fetched_at": "2026-08-07T16:52:18Z",
+   "fetched_at": "2026-08-08T13:53:20Z",
    "quality_flags": null
   },
   "marmite": {
@@ -1686,12 +1686,12 @@
    "carbs_g": 9.0,
    "fat_g": 0.0,
    "salt_g": 3.24,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/07/C1-Core-Food-July-2026-Issue-Date-2307.pdf",
-   "fetched_at": "2026-08-07T16:52:18Z",
+   "fetched_at": "2026-08-08T13:53:20Z",
    "quality_flags": null
   },
   "maple-syrup": {
@@ -1705,12 +1705,12 @@
    "carbs_g": 10.1,
    "fat_g": 0.1,
    "salt_g": 0.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/07/C1-Core-Food-July-2026-Issue-Date-2307.pdf",
-   "fetched_at": "2026-08-07T16:52:18Z",
+   "fetched_at": "2026-08-08T13:53:20Z",
    "quality_flags": null
   },
   "espresso-single": {
@@ -1729,7 +1729,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:20Z",
+   "fetched_at": "2026-08-08T13:53:21Z",
    "quality_flags": null
   },
   "espresso-double": {
@@ -1748,7 +1748,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:20Z",
+   "fetched_at": "2026-08-08T13:53:21Z",
    "quality_flags": null
   },
   "macchiato-whole-milk-single": {
@@ -1767,7 +1767,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:20Z",
+   "fetched_at": "2026-08-08T13:53:21Z",
    "quality_flags": null
   },
   "macchiato-whole-milk-double": {
@@ -1786,7 +1786,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:20Z",
+   "fetched_at": "2026-08-08T13:53:21Z",
    "quality_flags": null
   },
   "macchiato-skimmed-milk-single": {
@@ -1805,7 +1805,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:20Z",
+   "fetched_at": "2026-08-08T13:53:21Z",
    "quality_flags": null
   },
   "macchiato-skimmed-milk-double": {
@@ -1824,7 +1824,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:20Z",
+   "fetched_at": "2026-08-08T13:53:21Z",
    "quality_flags": null
   },
   "macchiato-oat-single": {
@@ -1843,7 +1843,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:20Z",
+   "fetched_at": "2026-08-08T13:53:21Z",
    "quality_flags": null
   },
   "macchiato-oat-double": {
@@ -1862,7 +1862,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:20Z",
+   "fetched_at": "2026-08-08T13:53:21Z",
    "quality_flags": null
   },
   "macchiato-soya-single": {
@@ -1881,7 +1881,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:20Z",
+   "fetched_at": "2026-08-08T13:53:21Z",
    "quality_flags": null
   },
   "macchiato-soya-double": {
@@ -1900,7 +1900,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:20Z",
+   "fetched_at": "2026-08-08T13:53:21Z",
    "quality_flags": null
   },
   "macchiato-coconut-single": {
@@ -1919,7 +1919,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:20Z",
+   "fetched_at": "2026-08-08T13:53:21Z",
    "quality_flags": null
   },
   "macchiato-coconut-double": {
@@ -1938,7 +1938,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:20Z",
+   "fetched_at": "2026-08-08T13:53:21Z",
    "quality_flags": null
   },
   "caramel-macchiato-whole-milk-12oz": {
@@ -1957,7 +1957,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:20Z",
+   "fetched_at": "2026-08-08T13:53:21Z",
    "quality_flags": null
   },
   "caramel-macchiato-whole-milk-16oz": {
@@ -1976,7 +1976,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:20Z",
+   "fetched_at": "2026-08-08T13:53:21Z",
    "quality_flags": null
   },
   "caramel-macchiato-skimmed-milk-12oz": {
@@ -1995,7 +1995,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:20Z",
+   "fetched_at": "2026-08-08T13:53:21Z",
    "quality_flags": null
   },
   "caramel-macchiato-skimmed-milk-16oz": {
@@ -2014,7 +2014,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:20Z",
+   "fetched_at": "2026-08-08T13:53:21Z",
    "quality_flags": null
   },
   "caramel-macchiato-oat-12oz": {
@@ -2033,7 +2033,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:20Z",
+   "fetched_at": "2026-08-08T13:53:21Z",
    "quality_flags": null
   },
   "caramel-macchiato-oat-16oz": {
@@ -2052,7 +2052,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:20Z",
+   "fetched_at": "2026-08-08T13:53:21Z",
    "quality_flags": null
   },
   "caramel-macchiato-soya-12oz": {
@@ -2071,7 +2071,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:20Z",
+   "fetched_at": "2026-08-08T13:53:21Z",
    "quality_flags": null
   },
   "caramel-macchiato-soya-16oz": {
@@ -2090,7 +2090,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:20Z",
+   "fetched_at": "2026-08-08T13:53:21Z",
    "quality_flags": null
   },
   "caramel-macchiato-coconut-12oz": {
@@ -2109,7 +2109,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:20Z",
+   "fetched_at": "2026-08-08T13:53:21Z",
    "quality_flags": null
   },
   "caramel-macchiato-coconut-16oz": {
@@ -2128,7 +2128,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:20Z",
+   "fetched_at": "2026-08-08T13:53:21Z",
    "quality_flags": null
   },
   "americano-black-regular": {
@@ -2147,7 +2147,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:20Z",
+   "fetched_at": "2026-08-08T13:53:21Z",
    "quality_flags": null
   },
   "americano-black-large": {
@@ -2166,7 +2166,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:20Z",
+   "fetched_at": "2026-08-08T13:53:21Z",
    "quality_flags": null
   },
   "americano-whole-milk-regular": {
@@ -2185,7 +2185,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:20Z",
+   "fetched_at": "2026-08-08T13:53:21Z",
    "quality_flags": null
   },
   "americano-whole-milk-large": {
@@ -2204,7 +2204,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:20Z",
+   "fetched_at": "2026-08-08T13:53:21Z",
    "quality_flags": null
   },
   "americano-skimmed-milk-regular": {
@@ -2223,7 +2223,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:20Z",
+   "fetched_at": "2026-08-08T13:53:21Z",
    "quality_flags": null
   },
   "americano-skimmed-milk-large": {
@@ -2242,7 +2242,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:20Z",
+   "fetched_at": "2026-08-08T13:53:21Z",
    "quality_flags": null
   },
   "americano-oat-regular": {
@@ -2261,7 +2261,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:20Z",
+   "fetched_at": "2026-08-08T13:53:21Z",
    "quality_flags": null
   },
   "americano-oat-large": {
@@ -2280,7 +2280,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:20Z",
+   "fetched_at": "2026-08-08T13:53:21Z",
    "quality_flags": null
   },
   "americano-soya-regular": {
@@ -2299,7 +2299,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:20Z",
+   "fetched_at": "2026-08-08T13:53:21Z",
    "quality_flags": null
   },
   "americano-soya-large": {
@@ -2318,7 +2318,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:20Z",
+   "fetched_at": "2026-08-08T13:53:21Z",
    "quality_flags": null
   },
   "americano-coconut-regular": {
@@ -2337,7 +2337,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:20Z",
+   "fetched_at": "2026-08-08T13:53:21Z",
    "quality_flags": null
   },
   "americano-coconut-large": {
@@ -2356,7 +2356,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:20Z",
+   "fetched_at": "2026-08-08T13:53:21Z",
    "quality_flags": null
   },
   "latte-whole-milk-regular": {
@@ -2375,7 +2375,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:20Z",
+   "fetched_at": "2026-08-08T13:53:22Z",
    "quality_flags": null
   },
   "latte-whole-milk-large": {
@@ -2394,7 +2394,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:20Z",
+   "fetched_at": "2026-08-08T13:53:22Z",
    "quality_flags": null
   },
   "latte-skimmed-milk-regular": {
@@ -2413,7 +2413,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:20Z",
+   "fetched_at": "2026-08-08T13:53:22Z",
    "quality_flags": null
   },
   "latte-skimmed-milk-large": {
@@ -2432,7 +2432,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:20Z",
+   "fetched_at": "2026-08-08T13:53:22Z",
    "quality_flags": null
   },
   "latte-oat-regular": {
@@ -2451,7 +2451,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:20Z",
+   "fetched_at": "2026-08-08T13:53:22Z",
    "quality_flags": null
   },
   "latte-oat-large": {
@@ -2470,7 +2470,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:20Z",
+   "fetched_at": "2026-08-08T13:53:22Z",
    "quality_flags": null
   },
   "latte-soya-regular": {
@@ -2489,7 +2489,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:20Z",
+   "fetched_at": "2026-08-08T13:53:22Z",
    "quality_flags": null
   },
   "latte-soya-large": {
@@ -2508,7 +2508,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:20Z",
+   "fetched_at": "2026-08-08T13:53:22Z",
    "quality_flags": null
   },
   "latte-coconut-regular": {
@@ -2527,7 +2527,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:20Z",
+   "fetched_at": "2026-08-08T13:53:22Z",
    "quality_flags": null
   },
   "latte-coconut-large": {
@@ -2546,7 +2546,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:20Z",
+   "fetched_at": "2026-08-08T13:53:22Z",
    "quality_flags": null
   },
   "cappuccino-whole-milk-regular": {
@@ -2565,7 +2565,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:20Z",
+   "fetched_at": "2026-08-08T13:53:22Z",
    "quality_flags": null
   },
   "cappuccino-whole-milk-large": {
@@ -2584,7 +2584,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:20Z",
+   "fetched_at": "2026-08-08T13:53:22Z",
    "quality_flags": null
   },
   "cappuccino-skimmed-milk-regular": {
@@ -2603,7 +2603,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:20Z",
+   "fetched_at": "2026-08-08T13:53:22Z",
    "quality_flags": null
   },
   "cappuccino-skimmed-milk-large": {
@@ -2622,7 +2622,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:20Z",
+   "fetched_at": "2026-08-08T13:53:22Z",
    "quality_flags": null
   },
   "cappuccino-oat-regular": {
@@ -2641,7 +2641,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:20Z",
+   "fetched_at": "2026-08-08T13:53:22Z",
    "quality_flags": null
   },
   "cappuccino-oat-large": {
@@ -2660,7 +2660,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:20Z",
+   "fetched_at": "2026-08-08T13:53:22Z",
    "quality_flags": null
   },
   "cappuccino-soya-regular": {
@@ -2679,7 +2679,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:20Z",
+   "fetched_at": "2026-08-08T13:53:22Z",
    "quality_flags": null
   },
   "cappuccino-soya-large": {
@@ -2698,7 +2698,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:20Z",
+   "fetched_at": "2026-08-08T13:53:22Z",
    "quality_flags": null
   },
   "cappuccino-coconut-regular": {
@@ -2717,7 +2717,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:20Z",
+   "fetched_at": "2026-08-08T13:53:22Z",
    "quality_flags": null
   },
   "cappuccino-coconut-large": {
@@ -2736,7 +2736,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:20Z",
+   "fetched_at": "2026-08-08T13:53:22Z",
    "quality_flags": null
   },
   "flat-white-whole-milk-small": {
@@ -2755,7 +2755,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:20Z",
+   "fetched_at": "2026-08-08T13:53:22Z",
    "quality_flags": null
   },
   "flat-white-skimmed-milk-small": {
@@ -2774,7 +2774,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:20Z",
+   "fetched_at": "2026-08-08T13:53:22Z",
    "quality_flags": null
   },
   "flat-white-oat-small": {
@@ -2793,7 +2793,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:20Z",
+   "fetched_at": "2026-08-08T13:53:22Z",
    "quality_flags": null
   },
   "flat-white-soya-small": {
@@ -2812,7 +2812,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:20Z",
+   "fetched_at": "2026-08-08T13:53:22Z",
    "quality_flags": null
   },
   "flat-white-coconut-small": {
@@ -2831,7 +2831,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:20Z",
+   "fetched_at": "2026-08-08T13:53:22Z",
    "quality_flags": null
   },
   "piccolo-whole-milk-small": {
@@ -2850,7 +2850,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:20Z",
+   "fetched_at": "2026-08-08T13:53:22Z",
    "quality_flags": null
   },
   "piccolo-skimmed-milk-small": {
@@ -2869,7 +2869,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:20Z",
+   "fetched_at": "2026-08-08T13:53:22Z",
    "quality_flags": null
   },
   "piccolo-oat-small": {
@@ -2888,7 +2888,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:20Z",
+   "fetched_at": "2026-08-08T13:53:22Z",
    "quality_flags": null
   },
   "piccolo-soya-small": {
@@ -2907,7 +2907,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:20Z",
+   "fetched_at": "2026-08-08T13:53:22Z",
    "quality_flags": null
   },
   "piccolo-coconut-small": {
@@ -2926,7 +2926,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:20Z",
+   "fetched_at": "2026-08-08T13:53:22Z",
    "quality_flags": null
   },
   "mocha-whole-milk-regular": {
@@ -2945,7 +2945,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:20Z",
+   "fetched_at": "2026-08-08T13:53:22Z",
    "quality_flags": null
   },
   "mocha-whole-milk-large": {
@@ -2964,7 +2964,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:20Z",
+   "fetched_at": "2026-08-08T13:53:22Z",
    "quality_flags": null
   },
   "mocha-skimmed-milk-regular": {
@@ -2983,7 +2983,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:20Z",
+   "fetched_at": "2026-08-08T13:53:22Z",
    "quality_flags": null
   },
   "mocha-skimmed-milk-large": {
@@ -3002,7 +3002,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:20Z",
+   "fetched_at": "2026-08-08T13:53:22Z",
    "quality_flags": null
   },
   "mocha-oat-regular": {
@@ -3021,7 +3021,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:20Z",
+   "fetched_at": "2026-08-08T13:53:22Z",
    "quality_flags": null
   },
   "mocha-oat-large": {
@@ -3040,7 +3040,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:20Z",
+   "fetched_at": "2026-08-08T13:53:22Z",
    "quality_flags": null
   },
   "mocha-soya-regular": {
@@ -3059,7 +3059,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:20Z",
+   "fetched_at": "2026-08-08T13:53:22Z",
    "quality_flags": null
   },
   "mocha-soya-large": {
@@ -3078,7 +3078,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:20Z",
+   "fetched_at": "2026-08-08T13:53:22Z",
    "quality_flags": null
   },
   "mocha-coconut-regular": {
@@ -3097,7 +3097,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:20Z",
+   "fetched_at": "2026-08-08T13:53:22Z",
    "quality_flags": null
   },
   "mocha-coconut-large": {
@@ -3116,7 +3116,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:20Z",
+   "fetched_at": "2026-08-08T13:53:22Z",
    "quality_flags": null
   },
   "white-mocha-whole-milk-regular": {
@@ -3135,7 +3135,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:21Z",
+   "fetched_at": "2026-08-08T13:53:22Z",
    "quality_flags": null
   },
   "white-mocha-whole-milk-large": {
@@ -3154,7 +3154,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:21Z",
+   "fetched_at": "2026-08-08T13:53:22Z",
    "quality_flags": null
   },
   "white-mocha-skimmed-milk-regular": {
@@ -3173,7 +3173,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:21Z",
+   "fetched_at": "2026-08-08T13:53:22Z",
    "quality_flags": null
   },
   "white-mocha-skimmed-milk-large": {
@@ -3192,7 +3192,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:21Z",
+   "fetched_at": "2026-08-08T13:53:22Z",
    "quality_flags": null
   },
   "white-mocha-soya-regular": {
@@ -3211,7 +3211,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:21Z",
+   "fetched_at": "2026-08-08T13:53:22Z",
    "quality_flags": null
   },
   "white-mocha-soya-large": {
@@ -3230,7 +3230,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:21Z",
+   "fetched_at": "2026-08-08T13:53:22Z",
    "quality_flags": null
   },
   "white-mocha-coconut-regular": {
@@ -3249,7 +3249,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:21Z",
+   "fetched_at": "2026-08-08T13:53:22Z",
    "quality_flags": null
   },
   "white-mocha-coconut-large": {
@@ -3268,7 +3268,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:21Z",
+   "fetched_at": "2026-08-08T13:53:22Z",
    "quality_flags": null
   },
   "mocha-deluxe-whole-milk-regular": {
@@ -3287,7 +3287,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:21Z",
+   "fetched_at": "2026-08-08T13:53:22Z",
    "quality_flags": null
   },
   "mocha-deluxe-whole-milk-large": {
@@ -3306,7 +3306,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:21Z",
+   "fetched_at": "2026-08-08T13:53:22Z",
    "quality_flags": null
   },
   "mocha-deluxe-skimmed-milk-regular": {
@@ -3325,7 +3325,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:21Z",
+   "fetched_at": "2026-08-08T13:53:22Z",
    "quality_flags": null
   },
   "mocha-deluxe-skimmed-milk-large": {
@@ -3344,7 +3344,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:21Z",
+   "fetched_at": "2026-08-08T13:53:22Z",
    "quality_flags": null
   },
   "mocha-deluxe-soya-regular": {
@@ -3363,7 +3363,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:21Z",
+   "fetched_at": "2026-08-08T13:53:22Z",
    "quality_flags": null
   },
   "mocha-deluxe-soya-large": {
@@ -3382,7 +3382,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:21Z",
+   "fetched_at": "2026-08-08T13:53:22Z",
    "quality_flags": null
   },
   "mocha-deluxe-coconut-regular": {
@@ -3401,7 +3401,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:21Z",
+   "fetched_at": "2026-08-08T13:53:22Z",
    "quality_flags": null
   },
   "mocha-deluxe-coconut-large": {
@@ -3420,7 +3420,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:21Z",
+   "fetched_at": "2026-08-08T13:53:22Z",
    "quality_flags": null
   },
   "white-mocha-deluxe-whole-milk-regular": {
@@ -3439,7 +3439,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:21Z",
+   "fetched_at": "2026-08-08T13:53:22Z",
    "quality_flags": null
   },
   "white-mocha-deluxe-whole-milk-large": {
@@ -3458,7 +3458,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:21Z",
+   "fetched_at": "2026-08-08T13:53:22Z",
    "quality_flags": null
   },
   "white-mocha-deluxe-skimmed-milk-regular": {
@@ -3477,7 +3477,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:21Z",
+   "fetched_at": "2026-08-08T13:53:22Z",
    "quality_flags": null
   },
   "white-mocha-deluxe-skimmed-milk-large": {
@@ -3496,7 +3496,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:21Z",
+   "fetched_at": "2026-08-08T13:53:22Z",
    "quality_flags": null
   },
   "white-mocha-deluxe-soya-regular": {
@@ -3515,7 +3515,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:21Z",
+   "fetched_at": "2026-08-08T13:53:22Z",
    "quality_flags": null
   },
   "white-mocha-deluxe-soya-large": {
@@ -3534,7 +3534,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:21Z",
+   "fetched_at": "2026-08-08T13:53:22Z",
    "quality_flags": null
   },
   "white-mocha-deluxe-coconut-regular": {
@@ -3553,7 +3553,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:21Z",
+   "fetched_at": "2026-08-08T13:53:22Z",
    "quality_flags": null
   },
   "white-mocha-deluxe-coconut-large": {
@@ -3572,7 +3572,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:21Z",
+   "fetched_at": "2026-08-08T13:53:22Z",
    "quality_flags": null
   },
   "hot-chocolate-regular": {
@@ -3591,7 +3591,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:21Z",
+   "fetched_at": "2026-08-08T13:53:22Z",
    "quality_flags": null
   },
   "whole-milk-large": {
@@ -3610,7 +3610,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:22Z",
+   "fetched_at": "2026-08-08T13:53:24Z",
    "quality_flags": null
   },
   "skimmed-milk-large": {
@@ -3629,7 +3629,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:22Z",
+   "fetched_at": "2026-08-08T13:53:24Z",
    "quality_flags": null
   },
   "oat-large": {
@@ -3648,7 +3648,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:21Z",
+   "fetched_at": "2026-08-08T13:53:22Z",
    "quality_flags": null
   },
   "soya-large": {
@@ -3667,7 +3667,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:22Z",
+   "fetched_at": "2026-08-08T13:53:24Z",
    "quality_flags": null
   },
   "coconut-large": {
@@ -3686,7 +3686,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:22Z",
+   "fetched_at": "2026-08-08T13:53:24Z",
    "quality_flags": null
   },
   "hot-chocolate-deluxe-regular": {
@@ -3705,7 +3705,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:21Z",
+   "fetched_at": "2026-08-08T13:53:22Z",
    "quality_flags": null
   },
   "white-hot-chocolate-regular": {
@@ -3724,7 +3724,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:21Z",
+   "fetched_at": "2026-08-08T13:53:22Z",
    "quality_flags": null
   },
   "white-hot-chocolate-deluxe-regular": {
@@ -3743,7 +3743,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:21Z",
+   "fetched_at": "2026-08-08T13:53:22Z",
    "quality_flags": null
   },
   "turmeric-latte-whole-milk-regular": {
@@ -3762,7 +3762,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:21Z",
+   "fetched_at": "2026-08-08T13:53:23Z",
    "quality_flags": null
   },
   "turmeric-latte-whole-milk-large": {
@@ -3781,7 +3781,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:21Z",
+   "fetched_at": "2026-08-08T13:53:23Z",
    "quality_flags": null
   },
   "turmeric-latte-skimmed-milk-regular": {
@@ -3800,7 +3800,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:21Z",
+   "fetched_at": "2026-08-08T13:53:23Z",
    "quality_flags": null
   },
   "turmeric-latte-skimmed-milk-large": {
@@ -3819,7 +3819,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:21Z",
+   "fetched_at": "2026-08-08T13:53:23Z",
    "quality_flags": null
   },
   "turmeric-latte-oat-regular": {
@@ -3838,7 +3838,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:21Z",
+   "fetched_at": "2026-08-08T13:53:23Z",
    "quality_flags": null
   },
   "turmeric-latte-oat-large": {
@@ -3857,7 +3857,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:21Z",
+   "fetched_at": "2026-08-08T13:53:23Z",
    "quality_flags": null
   },
   "turmeric-latte-soya-regular": {
@@ -3876,7 +3876,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:21Z",
+   "fetched_at": "2026-08-08T13:53:23Z",
    "quality_flags": null
   },
   "turmeric-latte-soya-large": {
@@ -3895,7 +3895,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:21Z",
+   "fetched_at": "2026-08-08T13:53:23Z",
    "quality_flags": null
   },
   "turmeric-latte-coconut-regular": {
@@ -3914,7 +3914,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:21Z",
+   "fetched_at": "2026-08-08T13:53:23Z",
    "quality_flags": null
   },
   "turmeric-latte-coconut-large": {
@@ -3933,7 +3933,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:21Z",
+   "fetched_at": "2026-08-08T13:53:23Z",
    "quality_flags": null
   },
   "matcha-latte-whole-milk-regular": {
@@ -3952,7 +3952,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:21Z",
+   "fetched_at": "2026-08-08T13:53:23Z",
    "quality_flags": null
   },
   "matcha-latte-whole-milk-large": {
@@ -3971,7 +3971,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:21Z",
+   "fetched_at": "2026-08-08T13:53:23Z",
    "quality_flags": null
   },
   "matcha-latte-skimmed-milk-regular": {
@@ -3990,7 +3990,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:21Z",
+   "fetched_at": "2026-08-08T13:53:23Z",
    "quality_flags": null
   },
   "matcha-latte-skimmed-milk-large": {
@@ -4009,7 +4009,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:21Z",
+   "fetched_at": "2026-08-08T13:53:23Z",
    "quality_flags": null
   },
   "matcha-latte-oat-regular": {
@@ -4028,7 +4028,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:21Z",
+   "fetched_at": "2026-08-08T13:53:23Z",
    "quality_flags": null
   },
   "matcha-latte-oat-large": {
@@ -4047,7 +4047,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:21Z",
+   "fetched_at": "2026-08-08T13:53:23Z",
    "quality_flags": null
   },
   "matcha-latte-soya-regular": {
@@ -4066,7 +4066,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:21Z",
+   "fetched_at": "2026-08-08T13:53:23Z",
    "quality_flags": null
   },
   "matcha-latte-soya-large": {
@@ -4085,7 +4085,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:21Z",
+   "fetched_at": "2026-08-08T13:53:23Z",
    "quality_flags": null
   },
   "matcha-latte-coconut-regular": {
@@ -4104,7 +4104,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:21Z",
+   "fetched_at": "2026-08-08T13:53:23Z",
    "quality_flags": null
   },
   "matcha-latte-coconut-large": {
@@ -4123,7 +4123,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:21Z",
+   "fetched_at": "2026-08-08T13:53:23Z",
    "quality_flags": null
   },
   "spiced-chai-latte-whole-milk-regular": {
@@ -4142,7 +4142,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:21Z",
+   "fetched_at": "2026-08-08T13:53:23Z",
    "quality_flags": null
   },
   "spiced-chai-latte-whole-milk-large": {
@@ -4161,7 +4161,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:21Z",
+   "fetched_at": "2026-08-08T13:53:23Z",
    "quality_flags": null
   },
   "spiced-chai-latte-skimmed-milk-regular": {
@@ -4180,7 +4180,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:21Z",
+   "fetched_at": "2026-08-08T13:53:23Z",
    "quality_flags": null
   },
   "spiced-chai-latte-skimmed-milk-large": {
@@ -4199,7 +4199,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:21Z",
+   "fetched_at": "2026-08-08T13:53:23Z",
    "quality_flags": null
   },
   "spiced-chai-latte-oat-regular": {
@@ -4218,7 +4218,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:21Z",
+   "fetched_at": "2026-08-08T13:53:23Z",
    "quality_flags": null
   },
   "spiced-chai-latte-oat-large": {
@@ -4237,7 +4237,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:21Z",
+   "fetched_at": "2026-08-08T13:53:23Z",
    "quality_flags": null
   },
   "spiced-chai-latte-soya-regular": {
@@ -4256,7 +4256,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:21Z",
+   "fetched_at": "2026-08-08T13:53:23Z",
    "quality_flags": null
   },
   "spiced-chai-latte-soya-large": {
@@ -4275,7 +4275,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:21Z",
+   "fetched_at": "2026-08-08T13:53:23Z",
    "quality_flags": null
   },
   "spiced-chai-latte-coconut-regular": {
@@ -4294,7 +4294,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:21Z",
+   "fetched_at": "2026-08-08T13:53:23Z",
    "quality_flags": null
   },
   "spiced-chai-latte-coconut-large": {
@@ -4313,7 +4313,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:21Z",
+   "fetched_at": "2026-08-08T13:53:23Z",
    "quality_flags": null
   },
   "hot-apple-cinnamon-regular": {
@@ -4332,7 +4332,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:21Z",
+   "fetched_at": "2026-08-08T13:53:23Z",
    "quality_flags": null
   },
   "hot-apple-cinnamon-large": {
@@ -4351,7 +4351,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:21Z",
+   "fetched_at": "2026-08-08T13:53:23Z",
    "quality_flags": null
   },
   "iced-latte-whole-milk-regular": {
@@ -4370,7 +4370,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:21Z",
+   "fetched_at": "2026-08-08T13:53:23Z",
    "quality_flags": null
   },
   "iced-latte-whole-milk-large": {
@@ -4389,7 +4389,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:21Z",
+   "fetched_at": "2026-08-08T13:53:23Z",
    "quality_flags": null
   },
   "iced-latte-skimmed-milk-regular": {
@@ -4408,7 +4408,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:21Z",
+   "fetched_at": "2026-08-08T13:53:23Z",
    "quality_flags": null
   },
   "iced-latte-skimmed-milk-large": {
@@ -4427,7 +4427,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:21Z",
+   "fetched_at": "2026-08-08T13:53:23Z",
    "quality_flags": null
   },
   "iced-latte-oat-regular": {
@@ -4446,7 +4446,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:21Z",
+   "fetched_at": "2026-08-08T13:53:23Z",
    "quality_flags": null
   },
   "iced-latte-oat-large": {
@@ -4465,7 +4465,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:21Z",
+   "fetched_at": "2026-08-08T13:53:23Z",
    "quality_flags": null
   },
   "iced-latte-soya-regular": {
@@ -4484,7 +4484,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:21Z",
+   "fetched_at": "2026-08-08T13:53:23Z",
    "quality_flags": null
   },
   "iced-latte-soya-large": {
@@ -4503,7 +4503,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:21Z",
+   "fetched_at": "2026-08-08T13:53:23Z",
    "quality_flags": null
   },
   "iced-latte-coconut-regular": {
@@ -4522,7 +4522,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:21Z",
+   "fetched_at": "2026-08-08T13:53:23Z",
    "quality_flags": null
   },
   "iced-latte-coconut-large": {
@@ -4541,7 +4541,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:21Z",
+   "fetched_at": "2026-08-08T13:53:23Z",
    "quality_flags": null
   },
   "iced-americano-black-regular": {
@@ -4560,7 +4560,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:21Z",
+   "fetched_at": "2026-08-08T13:53:23Z",
    "quality_flags": null
   },
   "iced-americano-black-large": {
@@ -4579,7 +4579,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:21Z",
+   "fetched_at": "2026-08-08T13:53:23Z",
    "quality_flags": null
   },
   "iced-americano-whole-milk-regular": {
@@ -4598,7 +4598,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:21Z",
+   "fetched_at": "2026-08-08T13:53:23Z",
    "quality_flags": null
   },
   "iced-americano-whole-milk-large": {
@@ -4617,7 +4617,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:21Z",
+   "fetched_at": "2026-08-08T13:53:23Z",
    "quality_flags": null
   },
   "iced-americano-skimmed-milk-regular": {
@@ -4636,7 +4636,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:21Z",
+   "fetched_at": "2026-08-08T13:53:23Z",
    "quality_flags": null
   },
   "iced-americano-skimmed-milk-large": {
@@ -4655,7 +4655,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:21Z",
+   "fetched_at": "2026-08-08T13:53:23Z",
    "quality_flags": null
   },
   "iced-americano-oat-regular": {
@@ -4674,7 +4674,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:21Z",
+   "fetched_at": "2026-08-08T13:53:23Z",
    "quality_flags": null
   },
   "iced-americano-oat-large": {
@@ -4693,7 +4693,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:21Z",
+   "fetched_at": "2026-08-08T13:53:23Z",
    "quality_flags": null
   },
   "iced-americano-soya-regular": {
@@ -4712,7 +4712,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:21Z",
+   "fetched_at": "2026-08-08T13:53:23Z",
    "quality_flags": null
   },
   "iced-americano-soya-large": {
@@ -4731,7 +4731,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:21Z",
+   "fetched_at": "2026-08-08T13:53:23Z",
    "quality_flags": null
   },
   "iced-americano-coconut-regular": {
@@ -4750,7 +4750,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:21Z",
+   "fetched_at": "2026-08-08T13:53:23Z",
    "quality_flags": null
   },
   "iced-americano-coconut-large": {
@@ -4769,7 +4769,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:21Z",
+   "fetched_at": "2026-08-08T13:53:23Z",
    "quality_flags": null
   },
   "iced-mocha-whole-milk-regular": {
@@ -4788,7 +4788,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:21Z",
+   "fetched_at": "2026-08-08T13:53:23Z",
    "quality_flags": null
   },
   "iced-mocha-whole-milk-large": {
@@ -4807,7 +4807,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:21Z",
+   "fetched_at": "2026-08-08T13:53:23Z",
    "quality_flags": null
   },
   "iced-mocha-skimmed-milk-regular": {
@@ -4826,7 +4826,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:21Z",
+   "fetched_at": "2026-08-08T13:53:23Z",
    "quality_flags": null
   },
   "iced-mocha-skimmed-milk-large": {
@@ -4845,7 +4845,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:21Z",
+   "fetched_at": "2026-08-08T13:53:23Z",
    "quality_flags": null
   },
   "iced-mocha-oat-regular": {
@@ -4864,7 +4864,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:21Z",
+   "fetched_at": "2026-08-08T13:53:23Z",
    "quality_flags": null
   },
   "iced-mocha-oat-large": {
@@ -4883,7 +4883,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:21Z",
+   "fetched_at": "2026-08-08T13:53:23Z",
    "quality_flags": null
   },
   "iced-mocha-soya-regular": {
@@ -4902,7 +4902,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:21Z",
+   "fetched_at": "2026-08-08T13:53:23Z",
    "quality_flags": null
   },
   "iced-mocha-soya-large": {
@@ -4921,7 +4921,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:21Z",
+   "fetched_at": "2026-08-08T13:53:23Z",
    "quality_flags": null
   },
   "iced-mocha-coconut-regular": {
@@ -4940,7 +4940,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:21Z",
+   "fetched_at": "2026-08-08T13:53:23Z",
    "quality_flags": null
   },
   "iced-mocha-coconut-large": {
@@ -4959,7 +4959,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:21Z",
+   "fetched_at": "2026-08-08T13:53:23Z",
    "quality_flags": null
   },
   "vanilla-iced-latte-whole-milk-regular": {
@@ -4978,7 +4978,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:21Z",
+   "fetched_at": "2026-08-08T13:53:23Z",
    "quality_flags": null
   },
   "vanilla-iced-latte-whole-milk-large": {
@@ -4997,7 +4997,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:21Z",
+   "fetched_at": "2026-08-08T13:53:23Z",
    "quality_flags": null
   },
   "vanilla-iced-latte-skimmed-milk-regular": {
@@ -5016,7 +5016,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:21Z",
+   "fetched_at": "2026-08-08T13:53:23Z",
    "quality_flags": null
   },
   "vanilla-iced-latte-skimmed-milk-large": {
@@ -5035,7 +5035,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:21Z",
+   "fetched_at": "2026-08-08T13:53:23Z",
    "quality_flags": null
   },
   "vanilla-iced-latte-oat-regular": {
@@ -5054,7 +5054,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:21Z",
+   "fetched_at": "2026-08-08T13:53:23Z",
    "quality_flags": null
   },
   "vanilla-iced-latte-oat-large": {
@@ -5073,7 +5073,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:21Z",
+   "fetched_at": "2026-08-08T13:53:23Z",
    "quality_flags": null
   },
   "vanilla-iced-latte-soya-regular": {
@@ -5092,7 +5092,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:21Z",
+   "fetched_at": "2026-08-08T13:53:23Z",
    "quality_flags": null
   },
   "vanilla-iced-latte-soya-large": {
@@ -5111,7 +5111,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:21Z",
+   "fetched_at": "2026-08-08T13:53:23Z",
    "quality_flags": null
   },
   "vanilla-iced-latte-coconut-regular": {
@@ -5130,7 +5130,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:21Z",
+   "fetched_at": "2026-08-08T13:53:23Z",
    "quality_flags": null
   },
   "vanilla-iced-latte-coconut-large": {
@@ -5149,7 +5149,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:21Z",
+   "fetched_at": "2026-08-08T13:53:23Z",
    "quality_flags": null
   },
   "blueberry-iced-latte-whole-milk-regular": {
@@ -5168,7 +5168,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:21Z",
+   "fetched_at": "2026-08-08T13:53:23Z",
    "quality_flags": null
   },
   "blueberry-iced-latte-whole-milk-large": {
@@ -5187,7 +5187,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:21Z",
+   "fetched_at": "2026-08-08T13:53:23Z",
    "quality_flags": null
   },
   "blueberry-iced-latte-skimmed-milk-regular": {
@@ -5206,7 +5206,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:21Z",
+   "fetched_at": "2026-08-08T13:53:23Z",
    "quality_flags": null
   },
   "blueberry-iced-latte-skimmed-milk-large": {
@@ -5225,7 +5225,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:21Z",
+   "fetched_at": "2026-08-08T13:53:23Z",
    "quality_flags": null
   },
   "blueberry-iced-latte-oat-regular": {
@@ -5244,7 +5244,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:21Z",
+   "fetched_at": "2026-08-08T13:53:23Z",
    "quality_flags": null
   },
   "blueberry-iced-latte-oat-large": {
@@ -5263,7 +5263,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:21Z",
+   "fetched_at": "2026-08-08T13:53:23Z",
    "quality_flags": null
   },
   "blueberry-iced-latte-soya-regular": {
@@ -5282,7 +5282,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:21Z",
+   "fetched_at": "2026-08-08T13:53:23Z",
    "quality_flags": null
   },
   "blueberry-iced-latte-soya-large": {
@@ -5301,7 +5301,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:21Z",
+   "fetched_at": "2026-08-08T13:53:23Z",
    "quality_flags": null
   },
   "blueberry-iced-latte-coconut-regular": {
@@ -5320,7 +5320,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:21Z",
+   "fetched_at": "2026-08-08T13:53:23Z",
    "quality_flags": null
   },
   "blueberry-iced-latte-coconut-large": {
@@ -5339,7 +5339,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:21Z",
+   "fetched_at": "2026-08-08T13:53:23Z",
    "quality_flags": null
   },
   "praline-iced-latte-whole-milk-regular": {
@@ -5358,7 +5358,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:21Z",
+   "fetched_at": "2026-08-08T13:53:23Z",
    "quality_flags": null
   },
   "praline-iced-latte-whole-milk-large": {
@@ -5377,7 +5377,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:21Z",
+   "fetched_at": "2026-08-08T13:53:23Z",
    "quality_flags": null
   },
   "praline-iced-latte-skimmed-milk-regular": {
@@ -5396,7 +5396,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:21Z",
+   "fetched_at": "2026-08-08T13:53:23Z",
    "quality_flags": null
   },
   "praline-iced-latte-oat-large": {
@@ -5415,7 +5415,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:21Z",
+   "fetched_at": "2026-08-08T13:53:23Z",
    "quality_flags": null
   },
   "praline-iced-latte-oat-regular": {
@@ -5434,7 +5434,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:21Z",
+   "fetched_at": "2026-08-08T13:53:23Z",
    "quality_flags": null
   },
   "praline-iced-latte-soya-large": {
@@ -5453,7 +5453,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:21Z",
+   "fetched_at": "2026-08-08T13:53:23Z",
    "quality_flags": null
   },
   "praline-iced-latte-soya-regular": {
@@ -5472,7 +5472,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:21Z",
+   "fetched_at": "2026-08-08T13:53:23Z",
    "quality_flags": null
   },
   "praline-iced-latte-coconut-large": {
@@ -5491,7 +5491,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:21Z",
+   "fetched_at": "2026-08-08T13:53:23Z",
    "quality_flags": null
   },
   "praline-iced-latte-coconut-regular": {
@@ -5510,7 +5510,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:21Z",
+   "fetched_at": "2026-08-08T13:53:23Z",
    "quality_flags": null
   },
   "dubai-style-iced-latte-whole-milk-regular": {
@@ -5529,7 +5529,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:22Z",
+   "fetched_at": "2026-08-08T13:53:23Z",
    "quality_flags": null
   },
   "dubai-style-iced-latte-skimmed-milk-large": {
@@ -5548,7 +5548,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:22Z",
+   "fetched_at": "2026-08-08T13:53:23Z",
    "quality_flags": null
   },
   "dubai-style-iced-latte-skimmed-milk-regular": {
@@ -5567,7 +5567,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:22Z",
+   "fetched_at": "2026-08-08T13:53:23Z",
    "quality_flags": null
   },
   "dubai-style-iced-latte-oat-large": {
@@ -5586,7 +5586,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:22Z",
+   "fetched_at": "2026-08-08T13:53:23Z",
    "quality_flags": null
   },
   "dubai-style-iced-latte-oat-regular": {
@@ -5605,7 +5605,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:22Z",
+   "fetched_at": "2026-08-08T13:53:23Z",
    "quality_flags": null
   },
   "dubai-style-iced-latte-soya-large": {
@@ -5624,7 +5624,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:22Z",
+   "fetched_at": "2026-08-08T13:53:23Z",
    "quality_flags": null
   },
   "dubai-style-iced-latte-soya-regular": {
@@ -5643,7 +5643,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:22Z",
+   "fetched_at": "2026-08-08T13:53:23Z",
    "quality_flags": null
   },
   "dubai-style-iced-latte-coconut-large": {
@@ -5662,7 +5662,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:22Z",
+   "fetched_at": "2026-08-08T13:53:23Z",
    "quality_flags": null
   },
   "dubai-style-iced-latte-coconut-regular": {
@@ -5681,7 +5681,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:22Z",
+   "fetched_at": "2026-08-08T13:53:23Z",
    "quality_flags": null
   },
   "iced-chocolate-whole-milk-regular": {
@@ -5700,7 +5700,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:22Z",
+   "fetched_at": "2026-08-08T13:53:23Z",
    "quality_flags": null
   },
   "iced-chocolate-whole-milk-large": {
@@ -5719,7 +5719,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:22Z",
+   "fetched_at": "2026-08-08T13:53:23Z",
    "quality_flags": null
   },
   "iced-chocolate-skimmed-milk-regular": {
@@ -5738,7 +5738,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:22Z",
+   "fetched_at": "2026-08-08T13:53:23Z",
    "quality_flags": null
   },
   "iced-chocolate-skimmed-milk-large": {
@@ -5757,7 +5757,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:22Z",
+   "fetched_at": "2026-08-08T13:53:23Z",
    "quality_flags": null
   },
   "iced-chocolate-oat-regular": {
@@ -5776,7 +5776,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:22Z",
+   "fetched_at": "2026-08-08T13:53:23Z",
    "quality_flags": null
   },
   "iced-chocolate-oat-large": {
@@ -5795,7 +5795,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:22Z",
+   "fetched_at": "2026-08-08T13:53:23Z",
    "quality_flags": null
   },
   "iced-chocolate-soya-regular": {
@@ -5814,7 +5814,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:22Z",
+   "fetched_at": "2026-08-08T13:53:23Z",
    "quality_flags": null
   },
   "iced-chocolate-soya-large": {
@@ -5833,7 +5833,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:22Z",
+   "fetched_at": "2026-08-08T13:53:23Z",
    "quality_flags": null
   },
   "iced-chocolate-coconut-regular": {
@@ -5852,7 +5852,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:22Z",
+   "fetched_at": "2026-08-08T13:53:23Z",
    "quality_flags": null
   },
   "iced-chocolate-coconut-large": {
@@ -5871,7 +5871,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:22Z",
+   "fetched_at": "2026-08-08T13:53:23Z",
    "quality_flags": null
   },
   "cold-foam-iced-cappuccino-regular": {
@@ -5890,7 +5890,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:22Z",
+   "fetched_at": "2026-08-08T13:53:23Z",
    "quality_flags": null
   },
   "milk-large": {
@@ -5909,7 +5909,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:22Z",
+   "fetched_at": "2026-08-08T13:53:24Z",
    "quality_flags": null
   },
   "blueberry-iced-matcha-oat-large": {
@@ -5928,7 +5928,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:22Z",
+   "fetched_at": "2026-08-08T13:53:24Z",
    "quality_flags": null
   },
   "blueberry-iced-matcha-soya-large": {
@@ -5947,7 +5947,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:22Z",
+   "fetched_at": "2026-08-08T13:53:24Z",
    "quality_flags": null
   },
   "strawberry-iced-matcha-oat-large": {
@@ -5966,7 +5966,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:22Z",
+   "fetched_at": "2026-08-08T13:53:24Z",
    "quality_flags": null
   },
   "strawberry-iced-matcha-soya-large": {
@@ -5985,7 +5985,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:22Z",
+   "fetched_at": "2026-08-08T13:53:24Z",
    "quality_flags": null
   },
   "espresso-frappe-regular": {
@@ -6004,7 +6004,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:22Z",
+   "fetched_at": "2026-08-08T13:53:24Z",
    "quality_flags": null
   },
   "mocha-frappe-regular": {
@@ -6023,7 +6023,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:22Z",
+   "fetched_at": "2026-08-08T13:53:24Z",
    "quality_flags": null
   },
   "dubai-style-mocha-frappe-regular": {
@@ -6042,7 +6042,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:22Z",
+   "fetched_at": "2026-08-08T13:53:24Z",
    "quality_flags": null
   },
   "dubai-style-mocha-frappe-oat-milk-oat-regular": {
@@ -6061,7 +6061,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:22Z",
+   "fetched_at": "2026-08-08T13:53:24Z",
    "quality_flags": null
   },
   "dubai-style-mocha-frappe-oat-milk-oat-large": {
@@ -6080,7 +6080,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:22Z",
+   "fetched_at": "2026-08-08T13:53:24Z",
    "quality_flags": null
   },
   "caramel-milkshake-regular": {
@@ -6099,7 +6099,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:22Z",
+   "fetched_at": "2026-08-08T13:53:24Z",
    "quality_flags": null
   },
   "chocolate-milkshake-regular": {
@@ -6118,7 +6118,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:22Z",
+   "fetched_at": "2026-08-08T13:53:24Z",
    "quality_flags": null
   },
   "vanilla-milkshake-regular": {
@@ -6137,7 +6137,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:22Z",
+   "fetched_at": "2026-08-08T13:53:24Z",
    "quality_flags": null
   },
   "strawberry-milkshake-whole-regular": {
@@ -6156,7 +6156,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:22Z",
+   "fetched_at": "2026-08-08T13:53:24Z",
    "quality_flags": null
   },
   "strawberry-milkshake-skimmed-regular": {
@@ -6175,7 +6175,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:22Z",
+   "fetched_at": "2026-08-08T13:53:24Z",
    "quality_flags": null
   },
   "strawberry-milkshake-oat-regular": {
@@ -6194,7 +6194,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:22Z",
+   "fetched_at": "2026-08-08T13:53:24Z",
    "quality_flags": null
   },
   "strawberry-milkshake-oat-large": {
@@ -6213,7 +6213,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:22Z",
+   "fetched_at": "2026-08-08T13:53:24Z",
    "quality_flags": null
   },
   "strawberry-milkshake-soya-regular": {
@@ -6232,7 +6232,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:22Z",
+   "fetched_at": "2026-08-08T13:53:24Z",
    "quality_flags": null
   },
   "strawberry-milkshake-soya-large": {
@@ -6251,7 +6251,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:22Z",
+   "fetched_at": "2026-08-08T13:53:24Z",
    "quality_flags": null
   },
   "strawberry-milkshake-coconut-regular": {
@@ -6270,7 +6270,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:22Z",
+   "fetched_at": "2026-08-08T13:53:24Z",
    "quality_flags": null
   },
   "strawberry-milkshake-coconut-large": {
@@ -6289,7 +6289,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:22Z",
+   "fetched_at": "2026-08-08T13:53:24Z",
    "quality_flags": null
   },
   "caramel-praline-milkshake-regular": {
@@ -6308,7 +6308,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:23Z",
+   "fetched_at": "2026-08-08T13:53:24Z",
    "quality_flags": null
   },
   "caramel-praline-milkshake-oat-regular": {
@@ -6327,7 +6327,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:23Z",
+   "fetched_at": "2026-08-08T13:53:24Z",
    "quality_flags": null
   },
   "caramel-praline-milkshake-oat-large": {
@@ -6346,7 +6346,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:23Z",
+   "fetched_at": "2026-08-08T13:53:24Z",
    "quality_flags": null
   },
   "caramel-praline-milkshake-soya-regular": {
@@ -6365,7 +6365,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:23Z",
+   "fetched_at": "2026-08-08T13:53:24Z",
    "quality_flags": null
   },
   "caramel-praline-milkshake-soya-large": {
@@ -6384,7 +6384,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:23Z",
+   "fetched_at": "2026-08-08T13:53:24Z",
    "quality_flags": null
   },
   "blueberry-white-chocolate-regular": {
@@ -6403,7 +6403,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:23Z",
+   "fetched_at": "2026-08-08T13:53:24Z",
    "quality_flags": null
   },
   "milkshake-whole-milk-large": {
@@ -6422,7 +6422,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:23Z",
+   "fetched_at": "2026-08-08T13:53:24Z",
    "quality_flags": null
   },
   "milkshake-skimmed-milk-large": {
@@ -6441,7 +6441,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:23Z",
+   "fetched_at": "2026-08-08T13:53:24Z",
    "quality_flags": null
   },
   "milkshake-oat-large": {
@@ -6460,7 +6460,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:23Z",
+   "fetched_at": "2026-08-08T13:53:24Z",
    "quality_flags": null
   },
   "milkshake-soya-large": {
@@ -6479,7 +6479,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:23Z",
+   "fetched_at": "2026-08-08T13:53:24Z",
    "quality_flags": null
   },
   "milkshake-coconut-large": {
@@ -6498,7 +6498,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:23Z",
+   "fetched_at": "2026-08-08T13:53:24Z",
    "quality_flags": null
   },
   "vegan-tropical-milkshake-regular": {
@@ -6517,7 +6517,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:23Z",
+   "fetched_at": "2026-08-08T13:53:24Z",
    "quality_flags": null
   },
   "coconut-milk-vegan-whip-large": {
@@ -6536,7 +6536,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:23Z",
+   "fetched_at": "2026-08-08T13:53:24Z",
    "quality_flags": null
   },
   "due-to-milk-in-whipped-cream-large": {
@@ -6555,7 +6555,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:23Z",
+   "fetched_at": "2026-08-08T13:53:24Z",
    "quality_flags": null
   },
   "strawberry-mango-regular": {
@@ -6574,7 +6574,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:23Z",
+   "fetched_at": "2026-08-08T13:53:24Z",
    "quality_flags": null
   },
   "strawberry-mango-large": {
@@ -6593,7 +6593,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:23Z",
+   "fetched_at": "2026-08-08T13:53:24Z",
    "quality_flags": null
   },
   "strawberry-cherry-mango-regular": {
@@ -6612,7 +6612,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:23Z",
+   "fetched_at": "2026-08-08T13:53:24Z",
    "quality_flags": null
   },
   "blackcurrant-large": {
@@ -6631,7 +6631,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:23Z",
+   "fetched_at": "2026-08-08T13:53:24Z",
    "quality_flags": null
   },
   "passionfruit-mango-regular": {
@@ -6650,7 +6650,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:23Z",
+   "fetched_at": "2026-08-08T13:53:24Z",
    "quality_flags": null
   },
   "pineapple-large": {
@@ -6669,7 +6669,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:23Z",
+   "fetched_at": "2026-08-08T13:53:24Z",
    "quality_flags": null
   },
   "spinach-apple-lemongrass-regular": {
@@ -6688,7 +6688,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:23Z",
+   "fetched_at": "2026-08-08T13:53:24Z",
    "quality_flags": null
   },
   "pineapple-mango-large": {
@@ -6707,7 +6707,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:23Z",
+   "fetched_at": "2026-08-08T13:53:24Z",
    "quality_flags": null
   },
   "pina-colada-regular": {
@@ -6726,7 +6726,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:23Z",
+   "fetched_at": "2026-08-08T13:53:24Z",
    "quality_flags": null
   },
   "pina-colada-large": {
@@ -6745,7 +6745,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:23Z",
+   "fetched_at": "2026-08-08T13:53:24Z",
    "quality_flags": null
   },
   "raspberry-iced-tea-regular": {
@@ -6764,7 +6764,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:23Z",
+   "fetched_at": "2026-08-08T13:53:25Z",
    "quality_flags": null
   },
   "raspberry-iced-tea-large": {
@@ -6783,7 +6783,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:23Z",
+   "fetched_at": "2026-08-08T13:53:25Z",
    "quality_flags": null
   },
   "passionfruit-lemon-iced-tea-regular": {
@@ -6802,7 +6802,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:23Z",
+   "fetched_at": "2026-08-08T13:53:25Z",
    "quality_flags": null
   },
   "passionfruit-lemon-iced-tea-large": {
@@ -6821,7 +6821,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:23Z",
+   "fetched_at": "2026-08-08T13:53:25Z",
    "quality_flags": null
   },
   "mango-passionfruit-regular": {
@@ -6840,7 +6840,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:23Z",
+   "fetched_at": "2026-08-08T13:53:25Z",
    "quality_flags": null
   },
   "with-added-vintamin-b12-large": {
@@ -6859,7 +6859,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:23Z",
+   "fetched_at": "2026-08-08T13:53:25Z",
    "quality_flags": null
   },
   "yuzu-lemon-ginger-regular": {
@@ -6878,7 +6878,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:23Z",
+   "fetched_at": "2026-08-08T13:53:25Z",
    "quality_flags": null
   },
   "mane-large": {
@@ -6897,7 +6897,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:23Z",
+   "fetched_at": "2026-08-08T13:53:25Z",
    "quality_flags": null
   },
   "babyccino-whole-milk-regular": {
@@ -6916,7 +6916,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:23Z",
+   "fetched_at": "2026-08-08T13:53:25Z",
    "quality_flags": null
   },
   "babyccino-skimmed-milk-regular": {
@@ -6935,7 +6935,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:23Z",
+   "fetched_at": "2026-08-08T13:53:25Z",
    "quality_flags": null
   },
   "babyccino-oat-regular": {
@@ -6954,7 +6954,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:23Z",
+   "fetched_at": "2026-08-08T13:53:25Z",
    "quality_flags": null
   },
   "babyccino-soya-regular": {
@@ -6973,7 +6973,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:23Z",
+   "fetched_at": "2026-08-08T13:53:25Z",
    "quality_flags": null
   },
   "babyccino-coconut-regular": {
@@ -6992,7 +6992,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:23Z",
+   "fetched_at": "2026-08-08T13:53:25Z",
    "quality_flags": null
   },
   "baby-hot-chocolate-whole-milk-regular": {
@@ -7011,7 +7011,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:23Z",
+   "fetched_at": "2026-08-08T13:53:25Z",
    "quality_flags": null
   },
   "baby-hot-chocolate-skimmed-milk-regular": {
@@ -7030,7 +7030,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:23Z",
+   "fetched_at": "2026-08-08T13:53:25Z",
    "quality_flags": null
   },
   "baby-hot-chocolate-oat-regular": {
@@ -7049,7 +7049,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:23Z",
+   "fetched_at": "2026-08-08T13:53:25Z",
    "quality_flags": null
   },
   "baby-hot-chocolate-soya-regular": {
@@ -7068,7 +7068,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:23Z",
+   "fetched_at": "2026-08-08T13:53:25Z",
    "quality_flags": null
   },
   "baby-hot-chocolate-coconut-regular": {
@@ -7087,7 +7087,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:23Z",
+   "fetched_at": "2026-08-08T13:53:25Z",
    "quality_flags": null
   },
   "vanilla-babyshake-whole-milk-regular": {
@@ -7106,7 +7106,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:23Z",
+   "fetched_at": "2026-08-08T13:53:25Z",
    "quality_flags": null
   },
   "vanilla-babyshake-skimmed-milk-regular": {
@@ -7125,7 +7125,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:23Z",
+   "fetched_at": "2026-08-08T13:53:25Z",
    "quality_flags": null
   },
   "vanilla-babyshake-oat-regular": {
@@ -7144,7 +7144,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:23Z",
+   "fetched_at": "2026-08-08T13:53:25Z",
    "quality_flags": null
   },
   "vanilla-babyshake-soya-regular": {
@@ -7163,7 +7163,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:23Z",
+   "fetched_at": "2026-08-08T13:53:25Z",
    "quality_flags": null
   },
   "vanilla-babyshake-coconut-regular": {
@@ -7182,7 +7182,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:23Z",
+   "fetched_at": "2026-08-08T13:53:25Z",
    "quality_flags": null
   },
   "chocolate-babyshake-whole-milk-regular": {
@@ -7201,7 +7201,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:23Z",
+   "fetched_at": "2026-08-08T13:53:25Z",
    "quality_flags": null
   },
   "chocolate-babyshake-skimmed-milk-regular": {
@@ -7220,7 +7220,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:23Z",
+   "fetched_at": "2026-08-08T13:53:25Z",
    "quality_flags": null
   },
   "chocolate-babyshake-soya-regular": {
@@ -7239,7 +7239,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:23Z",
+   "fetched_at": "2026-08-08T13:53:25Z",
    "quality_flags": null
   },
   "chocolate-babyshake-coconut-regular": {
@@ -7258,7 +7258,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:23Z",
+   "fetched_at": "2026-08-08T13:53:25Z",
    "quality_flags": null
   },
   "strawberry-babyshake-whole-milk-regular": {
@@ -7277,7 +7277,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:23Z",
+   "fetched_at": "2026-08-08T13:53:25Z",
    "quality_flags": null
   },
   "strawberry-babyshake-skimmed-milk-regular": {
@@ -7296,7 +7296,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:23Z",
+   "fetched_at": "2026-08-08T13:53:25Z",
    "quality_flags": null
   },
   "strawberry-babyshake-oat-regular": {
@@ -7315,7 +7315,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:23Z",
+   "fetched_at": "2026-08-08T13:53:25Z",
    "quality_flags": null
   },
   "strawberry-babyshake-soya-regular": {
@@ -7334,7 +7334,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:23Z",
+   "fetched_at": "2026-08-08T13:53:25Z",
    "quality_flags": null
   },
   "strawberry-babyshake-coconut-regular": {
@@ -7353,7 +7353,7 @@
    "allergens": null,
    "source": "Coffee #1 Allergens, Ingredients and Nutrition Guide (PDF)",
    "source_url": "https://www.coffee1.co.uk/wp-content/uploads/2026/04/C1-Core-Beverage-Allergen-Nutritional-Information-April-26-v1.pdf",
-   "fetched_at": "2026-08-07T16:52:23Z",
+   "fetched_at": "2026-08-08T13:53:25Z",
    "quality_flags": null
   }
  }

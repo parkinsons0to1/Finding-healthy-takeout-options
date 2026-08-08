@@ -67,6 +67,26 @@ Traps in the PDF
   the section-heading-as-product-name failure mode, avoided deliberately.
 
 Politeness: two HTTP requests (token-free) — one Contentful lookup, one PDF.
+
+Dietary flag source
+--------------------
+Pages 0-3 (the allergen/ingredient matrix this module otherwise skips over
+to reach the nutrition tables) have their own "Suitability" header block
+with FOUR sub-columns -- "Vegetarians" / "Vegan" / "Halal" / "Coeliacs"
+(also rotated 90 degrees like the nutrition table's headers, but the DATA
+cells in this block are plain "Y"/"N" text, not rotated, and appear at
+fixed columns 3 and 4 right after "Product name"). Checked: exactly Y or N
+on every one of 131 distinct product-name rows, zero blanks, zero
+conflicting duplicates. "Margherita" -> Y/N (real mozzarella); "Plant Based
+Margherita" -> Y/Y; "Potato Wedges" -> Y/Y; "BBQ Loaded Potato Wedges"
+(bacon) -> N/N.
+
+JOIN — this table's "Product name" is the nutrition table's PRE-EM-DASH
+    part for pizzas ("Margherita" joins every "Margherita — <size>" row),
+    and the nutrition table's `size` cell directly for everything else
+    (sides/chicken/dips/desserts, where `size` already holds the real dish
+    name per the "Size column holds the real product" note above). Matched
+    by lower-cased exact name; a miss is left unset rather than guessed at.
 """
 from __future__ import annotations
 
@@ -123,6 +143,14 @@ def _cell_text(page, bbox, fallback: str) -> str:
     return " ".join(" ".join(parts).split())
 
 
+def _norm_name(name: str) -> str:
+    """Punctuation/case-insensitive join key -- the allergen table spells the
+    same dish inconsistently even against itself ("Plant Based Margherita"
+    vs. "Plant-Based Cheeze (Ornua)"), and the nutrition table's hyphenation
+    doesn't always match either."""
+    return " ".join(re.sub(r"[^a-z0-9 ]", " ", name.lower()).split())
+
+
 def _num(row: list, idx: int):
     if idx >= len(row):
         return None
@@ -149,6 +177,34 @@ def _booklet_url(s) -> str:
     return SOURCE_URL
 
 
+def _diet_flags(pdf) -> dict[str, tuple[bool, bool]]:
+    """lower-cased "Product name" -> (vegetarian, vegan), from the
+    allergen/ingredient matrix's "Suitability" block -- see "Dietary flag
+    source" above. A SEPARATE table on the SAME pages `fetch()` otherwise
+    skips (it looks for a "Whole Product" nutrition banner these tables
+    don't have)."""
+    out: dict[str, tuple[bool, bool]] = {}
+    for page in pdf.pages:
+        for finder in page.find_tables():
+            table = finder.extract()
+            if not table or len(table[0]) < 5:
+                continue
+            header = " ".join(str(c or "") for c in table[0])
+            if "Suitability" not in header:
+                continue
+            for row in table[3:]:
+                if not row or not row[1] or len(row) < 5:
+                    continue
+                name = _norm_name(str(row[1]))
+                if not name:
+                    continue
+                veg, vgn = row[3] == "Y", row[4] == "Y"
+                if name in out and out[name] != (veg, vgn):
+                    continue    # disagreeing duplicate -- drop, don't guess
+                out[name] = (veg, vgn)
+    return out
+
+
 def fetch() -> list[dict]:
     import pdfplumber
 
@@ -161,6 +217,7 @@ def fetch() -> list[dict]:
     out: list[dict] = []
     seen: set[str] = set()
     with pdfplumber.open(io.BytesIO(r.content)) as pdf:
+        diet = _diet_flags(pdf)
         for page in pdf.pages:
             for finder in page.find_tables():
                 table = finder.extract()
@@ -200,16 +257,19 @@ def fetch() -> list[dict]:
                     if "pizza" in category.lower() and _PIZZA_SIZE.search(size):
                         name = f"{product} — {size}" if product else size
                         cat = category
+                        diet_key = _norm_name(product)
                     else:
                         # Size column holds the real product; Product column is
                         # a section heading, so it must not become the name.
                         name = size
                         cat = f"{category} / {product}".strip(" /")
+                        diet_key = _norm_name(size)
                     key = name.lower()
                     if key in seen:
                         continue
                     seen.add(key)
 
+                    vegetarian, vegan = diet.get(diet_key, (None, None))
                     serves = _num(cells, 3)
                     out.append(item(
                         CHAIN, name, SOURCE, SOURCE_URL, item_id=name,
@@ -220,5 +280,6 @@ def fetch() -> list[dict]:
                         carbs_g=_num(cells, _COLS["carbs_g"]),
                         fat_g=_num(cells, _COLS["fat_g"]),
                         salt_g=_num(cells, _COLS["salt_g"]),
+                        vegetarian=vegetarian, vegan=vegan,
                     ))
     return out

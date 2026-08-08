@@ -1,7 +1,7 @@
 {
  "chain_id": "subway",
  "item_count": 185,
- "fetched_at": "2026-07-28T18:53:04Z",
+ "fetched_at": "2026-08-08T13:53:12Z",
  "items": {
   "subs-bacon": {
    "chain_id": "subway",
@@ -18,8 +18,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:04Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:12Z",
    "quality_flags": null
   },
   "subs-poached-egg-and-cheese": {
@@ -37,8 +37,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:04Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:12Z",
    "quality_flags": null
   },
   "subs-lincolnshire-sausage": {
@@ -56,8 +56,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:04Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:12Z",
    "quality_flags": null
   },
   "subs-lincolnshire-sausage-and-bacon": {
@@ -75,8 +75,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:04Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:12Z",
    "quality_flags": null
   },
   "subs-big-breakwich": {
@@ -94,8 +94,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:04Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:12Z",
    "quality_flags": null
   },
   "subs-chicken-breast": {
@@ -113,8 +113,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:04Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:12Z",
    "quality_flags": null
   },
   "subs-chicken-tikka": {
@@ -128,12 +128,12 @@
    "carbs_g": 43.0,
    "fat_g": 7.1,
    "salt_g": 1.5,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": false,
+   "vegan": false,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:04Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:12Z",
    "quality_flags": null
   },
   "subs-furious-chicken": {
@@ -151,8 +151,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:04Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:12Z",
    "quality_flags": null
   },
   "subs-rotisserie-style-chicken": {
@@ -166,12 +166,12 @@
    "carbs_g": 38.0,
    "fat_g": 7.6,
    "salt_g": 1.4,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": false,
+   "vegan": false,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:04Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:12Z",
    "quality_flags": null
   },
   "subs-tex-mexan": {
@@ -189,8 +189,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:04Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:12Z",
    "quality_flags": null
   },
   "subs-honey-mustard-bbq-chicken-bacon": {
@@ -208,8 +208,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:04Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:12Z",
    "quality_flags": null
   },
   "subs-meatball-marinara-pork-beef-meatballs": {
@@ -227,8 +227,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:04Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:12Z",
    "quality_flags": null
   },
   "subs-philly-steak": {
@@ -242,12 +242,12 @@
    "carbs_g": 48.0,
    "fat_g": 3.6,
    "salt_g": 1.3,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": false,
+   "vegan": false,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:04Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:12Z",
    "quality_flags": null
   },
   "subs-bbq-pulled-pork": {
@@ -265,8 +265,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:04Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:12Z",
    "quality_flags": null
   },
   "subs-garlic-cheesesteak": {
@@ -284,8 +284,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:04Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:12Z",
    "quality_flags": null
   },
   "subs-ham": {
@@ -303,8 +303,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:04Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:12Z",
    "quality_flags": null
   },
   "subs-turkey": {
@@ -322,8 +322,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:04Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:12Z",
    "quality_flags": null
   },
   "subs-ham-and-turkey": {
@@ -341,8 +341,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:04Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:12Z",
    "quality_flags": null
   },
   "subs-spicy-italian": {
@@ -360,8 +360,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:04Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:12Z",
    "quality_flags": null
   },
   "subs-italian-b-m-t": {
@@ -379,8 +379,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:04Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:12Z",
    "quality_flags": null
   },
   "subs-veggie-delite": {
@@ -398,8 +398,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:04Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:12Z",
    "quality_flags": null
   },
   "subs-tuna-mayonaise": {
@@ -417,8 +417,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:04Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:12Z",
    "quality_flags": null
   },
   "subs-spiced-plant-patty": {
@@ -436,8 +436,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:04Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:12Z",
    "quality_flags": null
   },
   "subs-bbq-pulled-plant": {
@@ -455,8 +455,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:04Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:12Z",
    "quality_flags": null
   },
   "subs-honey-mustard-deli-toastie": {
@@ -474,8 +474,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:04Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:12Z",
    "quality_flags": null
   },
   "subs-bacon-and-cheese-toastie": {
@@ -493,8 +493,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:04Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:12Z",
    "quality_flags": null
   },
   "subs-big-cheesesteak-toastie": {
@@ -512,8 +512,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:04Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:12Z",
    "quality_flags": null
   },
   "subs-triple-cheese": {
@@ -531,8 +531,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:04Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:12Z",
    "quality_flags": null
   },
   "subs-bbq-chicken-bacon-toastie": {
@@ -550,8 +550,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:04Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:12Z",
    "quality_flags": null
   },
   "subs-nacho-chicken": {
@@ -569,8 +569,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:04Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:12Z",
    "quality_flags": null
   },
   "subs-ham-and-cheese": {
@@ -588,8 +588,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:04Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:12Z",
    "quality_flags": null
   },
   "subs-blt": {
@@ -607,8 +607,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:04Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:12Z",
    "quality_flags": null
   },
   "wraps-big-breakwich": {
@@ -626,8 +626,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:04Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:12Z",
    "quality_flags": null
   },
   "wraps-chicken-breast": {
@@ -645,8 +645,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:04Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:12Z",
    "quality_flags": null
   },
   "wraps-chicken-tikka": {
@@ -660,12 +660,12 @@
    "carbs_g": 51.0,
    "fat_g": 11.0,
    "salt_g": 2.1,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": false,
+   "vegan": false,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:04Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:12Z",
    "quality_flags": null
   },
   "wraps-furious-chicken": {
@@ -683,8 +683,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:04Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:12Z",
    "quality_flags": null
   },
   "wraps-rotisserie-style-chicken": {
@@ -698,12 +698,12 @@
    "carbs_g": 49.0,
    "fat_g": 7.7,
    "salt_g": 1.7,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": false,
+   "vegan": false,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:04Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:12Z",
    "quality_flags": null
   },
   "wraps-tex-mexan": {
@@ -721,8 +721,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:04Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:12Z",
    "quality_flags": null
   },
   "wraps-honey-mustard-bbq-chicken-bacon": {
@@ -740,8 +740,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:04Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:12Z",
    "quality_flags": null
   },
   "wraps-meatball-marinara-pork-beef-meatballs": {
@@ -759,8 +759,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:04Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:12Z",
    "quality_flags": null
   },
   "wraps-philly-steak": {
@@ -774,12 +774,12 @@
    "carbs_g": 57.0,
    "fat_g": 7.1,
    "salt_g": 1.9,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": false,
+   "vegan": false,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:04Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:12Z",
    "quality_flags": null
   },
   "wraps-bbq-pulled-pork": {
@@ -797,8 +797,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:04Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:12Z",
    "quality_flags": null
   },
   "wraps-garlic-cheesesteak": {
@@ -816,8 +816,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:04Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:12Z",
    "quality_flags": null
   },
   "wraps-ham": {
@@ -835,8 +835,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:04Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:12Z",
    "quality_flags": null
   },
   "wraps-turkey": {
@@ -854,8 +854,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:04Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:12Z",
    "quality_flags": null
   },
   "wraps-ham-and-turkey": {
@@ -873,8 +873,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:04Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:12Z",
    "quality_flags": null
   },
   "wraps-spicy-italian": {
@@ -892,8 +892,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:04Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:12Z",
    "quality_flags": null
   },
   "wraps-italian-b-m-t": {
@@ -911,8 +911,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:04Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:12Z",
    "quality_flags": null
   },
   "wraps-veggie-delite": {
@@ -930,8 +930,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:04Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:12Z",
    "quality_flags": null
   },
   "wraps-tuna-mayonaise": {
@@ -949,8 +949,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:04Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:12Z",
    "quality_flags": null
   },
   "wraps-spiced-plant-patty": {
@@ -968,8 +968,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:04Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:12Z",
    "quality_flags": null
   },
   "wraps-bbq-pulled-plant": {
@@ -987,8 +987,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:04Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:12Z",
    "quality_flags": null
   },
   "salads-chicken-breast": {
@@ -1006,8 +1006,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:04Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:12Z",
    "quality_flags": null
   },
   "salads-chicken-tikka": {
@@ -1021,12 +1021,12 @@
    "carbs_g": 5.6,
    "fat_g": 5.1,
    "salt_g": 1.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": false,
+   "vegan": false,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:04Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:12Z",
    "quality_flags": null
   },
   "salads-big-bombay": {
@@ -1044,8 +1044,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:04Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:12Z",
    "quality_flags": null
   },
   "salads-furious-chicken": {
@@ -1063,8 +1063,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:05Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:13Z",
    "quality_flags": null
   },
   "salads-rotisserie-style-chicken": {
@@ -1078,12 +1078,12 @@
    "carbs_g": 3.5,
    "fat_g": 2.1,
    "salt_g": 0.5,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": false,
+   "vegan": false,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:04Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:12Z",
    "quality_flags": null
   },
   "salads-tex-mexan": {
@@ -1101,8 +1101,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:05Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:13Z",
    "quality_flags": null
   },
   "salads-honey-mustard-bbq-chicken-bacon": {
@@ -1120,8 +1120,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:04Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:12Z",
    "quality_flags": null
   },
   "salads-meatball-marinara-pork-beef-meatballs": {
@@ -1139,8 +1139,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:04Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:12Z",
    "quality_flags": null
   },
   "salads-philly-steak": {
@@ -1154,12 +1154,12 @@
    "carbs_g": 11.0,
    "fat_g": 1.5,
    "salt_g": 0.7,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": false,
+   "vegan": false,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:04Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:12Z",
    "quality_flags": null
   },
   "salads-bbq-pulled-pork": {
@@ -1177,8 +1177,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:05Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:13Z",
    "quality_flags": null
   },
   "salads-garlic-cheesesteak": {
@@ -1196,8 +1196,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:04Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:12Z",
    "quality_flags": null
   },
   "salads-ham": {
@@ -1215,8 +1215,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:04Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:12Z",
    "quality_flags": null
   },
   "salads-turkey": {
@@ -1234,8 +1234,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:04Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:12Z",
    "quality_flags": null
   },
   "salads-ham-and-turkey": {
@@ -1253,8 +1253,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:04Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:12Z",
    "quality_flags": null
   },
   "salads-spicy-italian": {
@@ -1272,8 +1272,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:04Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:12Z",
    "quality_flags": null
   },
   "salads-italian-b-m-t": {
@@ -1291,8 +1291,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:04Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:12Z",
    "quality_flags": null
   },
   "salads-veggie-delite": {
@@ -1310,8 +1310,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:05Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:13Z",
    "quality_flags": null
   },
   "salads-bbq-pulled-plant": {
@@ -1329,8 +1329,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:05Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:13Z",
    "quality_flags": null
   },
   "salads-tuna-mayonaise": {
@@ -1348,8 +1348,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:05Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:13Z",
    "quality_flags": null
   },
   "salads-spiced-plant-patty": {
@@ -1367,8 +1367,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:05Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:13Z",
    "quality_flags": null
   },
   "salads-butter-cheese": {
@@ -1386,8 +1386,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:05Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:13Z",
    "quality_flags": null
   },
   "salads-cheese-beans": {
@@ -1405,8 +1405,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:05Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:13Z",
    "quality_flags": null
   },
   "salads-philly-cheese-steak-cheese": {
@@ -1424,8 +1424,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:05Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:13Z",
    "quality_flags": null
   },
   "salads-tuna-mayo-cheese": {
@@ -1443,8 +1443,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:05Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:13Z",
    "quality_flags": null
   },
   "salads-b-m-t-cheese": {
@@ -1462,8 +1462,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:05Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:13Z",
    "quality_flags": null
   },
   "salads-big-breakwich": {
@@ -1481,8 +1481,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:05Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:13Z",
    "quality_flags": null
   },
   "salads-chicken-breast-cheese": {
@@ -1500,8 +1500,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:05Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:13Z",
    "quality_flags": null
   },
   "salads-rotisserie-style-chicken-cheese": {
@@ -1519,8 +1519,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:05Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:13Z",
    "quality_flags": null
   },
   "salads-garlic-cheese-steak": {
@@ -1538,8 +1538,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:05Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:13Z",
    "quality_flags": null
   },
   "salads-ham-cheese": {
@@ -1557,8 +1557,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:05Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:13Z",
    "quality_flags": null
   },
   "salads-ham-turkey-cheese": {
@@ -1576,8 +1576,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:05Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:13Z",
    "quality_flags": null
   },
   "salads-bbq-honey-mustard-chicken-bacon": {
@@ -1595,8 +1595,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:05Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:13Z",
    "quality_flags": null
   },
   "salads-meatball-marinara-cheese": {
@@ -1614,8 +1614,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:05Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:13Z",
    "quality_flags": null
   },
   "salads-spicy-italian-cheese": {
@@ -1633,8 +1633,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:05Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:13Z",
    "quality_flags": null
   },
   "salads-chicken-tikka-cheese": {
@@ -1652,8 +1652,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:05Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:13Z",
    "quality_flags": null
   },
   "salads-turkey-cheese": {
@@ -1671,8 +1671,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:05Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:13Z",
    "quality_flags": null
   },
   "salads-spiced-plant-patty-cheese": {
@@ -1690,8 +1690,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:05Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:13Z",
    "quality_flags": null
   },
   "sides-waffle-fries-regular": {
@@ -1709,8 +1709,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:05Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:13Z",
    "quality_flags": null
   },
   "sides-waffle-fries-large": {
@@ -1728,8 +1728,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:05Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:13Z",
    "quality_flags": null
   },
   "sides-hash-browns-6-pieces": {
@@ -1747,8 +1747,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:05Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:13Z",
    "quality_flags": null
   },
   "sides-nacho-chicken-bites-6-pieces": {
@@ -1766,8 +1766,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:05Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:13Z",
    "quality_flags": null
   },
   "sides-nacho-chicken-bites-9-pieces": {
@@ -1785,8 +1785,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:05Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:13Z",
    "quality_flags": null
   },
   "sides-doritos-lightly-salted-nachos": {
@@ -1804,8 +1804,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:05Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:13Z",
    "quality_flags": null
   },
   "sides-doritos-tangy-cheese-nachos": {
@@ -1823,8 +1823,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:05Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:13Z",
    "quality_flags": null
   },
   "sides-doritos-chilli-heat-wave-nachos": {
@@ -1842,8 +1842,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:05Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:13Z",
    "quality_flags": null
   },
   "sides-doritos-lightly-salted-nachos-sharer": {
@@ -1861,8 +1861,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:05Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:13Z",
    "quality_flags": null
   },
   "sides-doritos-tangy-cheese-nachos-sharer": {
@@ -1880,8 +1880,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:05Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:13Z",
    "quality_flags": null
   },
   "sides-doritos-chilli-heat-wave-nachos-sharer": {
@@ -1899,8 +1899,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:05Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:13Z",
    "quality_flags": null
   },
   "sides-footlong-cheesy-garlic-slice": {
@@ -1918,8 +1918,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:05Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:13Z",
    "quality_flags": null
   },
   "sides-footlong-pepperoni-slice": {
@@ -1937,8 +1937,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:05Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:13Z",
    "quality_flags": null
   },
   "sides-footlong-margherita-slice": {
@@ -1956,8 +1956,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:05Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:13Z",
    "quality_flags": null
   },
   "sides-chipotle-cheesy-bites": {
@@ -1975,8 +1975,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:05Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:13Z",
    "quality_flags": null
   },
   "sides-meatballs-snack-bowl": {
@@ -1994,8 +1994,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:05Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:13Z",
    "quality_flags": null
   },
   "sides-footlong-dipper-triple-cheese": {
@@ -2013,8 +2013,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:05Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:13Z",
    "quality_flags": null
   },
   "sides-footlong-dipper-pepperoni": {
@@ -2032,8 +2032,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:05Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:13Z",
    "quality_flags": null
   },
   "sides-baked-beans-snack-pot": {
@@ -2051,8 +2051,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:05Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:13Z",
    "quality_flags": null
   },
   "sides-coleslaw-regular": {
@@ -2070,8 +2070,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:05Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:13Z",
    "quality_flags": null
   },
   "sides-coleslaw-double": {
@@ -2089,8 +2089,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:05Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:13Z",
    "quality_flags": null
   },
   "cookies-chocolate-chunk-cookie": {
@@ -2108,8 +2108,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:05Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:13Z",
    "quality_flags": null
   },
   "cookies-footlong-choc-chip-cookie": {
@@ -2127,8 +2127,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:05Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:13Z",
    "quality_flags": null
   },
   "cookies-rainbow-cookie": {
@@ -2146,8 +2146,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:05Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:13Z",
    "quality_flags": null
   },
   "cookies-vegan-double-chocolate-cookie": {
@@ -2165,8 +2165,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:05Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:13Z",
    "quality_flags": null
   },
   "cookies-white-macadamia-nut-cookie": {
@@ -2184,8 +2184,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:05Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:13Z",
    "quality_flags": null
   },
   "cookies-gluten-free-bread": {
@@ -2199,12 +2199,12 @@
    "carbs_g": 53.0,
    "fat_g": 6.6,
    "salt_g": 1.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:05Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:13Z",
    "quality_flags": null
   },
   "cookies-hearty-italian-bread": {
@@ -2218,12 +2218,12 @@
    "carbs_g": 39.0,
    "fat_g": 2.2,
    "salt_g": 0.6,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:05Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:13Z",
    "quality_flags": null
   },
   "cookies-honey-oat-bread": {
@@ -2237,12 +2237,12 @@
    "carbs_g": 33.0,
    "fat_g": 1.5,
    "salt_g": 0.56,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": false,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:05Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:13Z",
    "quality_flags": null
   },
   "cookies-italian-herbs-cheese-bread": {
@@ -2260,8 +2260,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:05Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:13Z",
    "quality_flags": null
   },
   "cookies-italian-white-bread": {
@@ -2275,12 +2275,12 @@
    "carbs_g": 36.0,
    "fat_g": 2.1,
    "salt_g": 0.6,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:05Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:13Z",
    "quality_flags": null
   },
   "cookies-plain-tortilla-wrap": {
@@ -2294,12 +2294,12 @@
    "carbs_g": 48.0,
    "fat_g": 5.7,
    "salt_g": 1.2,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:05Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:13Z",
    "quality_flags": null
   },
   "cookies-wholegrain-bread": {
@@ -2313,12 +2313,12 @@
    "carbs_g": 27.0,
    "fat_g": 0.8,
    "salt_g": 0.56,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:05Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:13Z",
    "quality_flags": null
   },
   "cookies-lincolnshire-sausage-patty": {
@@ -2336,8 +2336,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:05Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:13Z",
    "quality_flags": null
   },
   "cookies-chicken-tikka": {
@@ -2351,12 +2351,12 @@
    "carbs_g": 2.0,
    "fat_g": 1.4,
    "salt_g": 0.6,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": false,
+   "vegan": false,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:05Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:13Z",
    "quality_flags": null
   },
   "cookies-ham-2-slices": {
@@ -2374,8 +2374,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:05Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:13Z",
    "quality_flags": null
   },
   "cookies-maple-cured-streaky-bacon-2-slices": {
@@ -2393,8 +2393,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:05Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:13Z",
    "quality_flags": null
   },
   "cookies-pork-beef-meatballs-in-marinara-sauce": {
@@ -2412,8 +2412,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:05Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:13Z",
    "quality_flags": null
   },
   "cookies-pepperoni-3-slices": {
@@ -2431,8 +2431,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:05Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:13Z",
    "quality_flags": null
   },
   "cookies-spiced-plant-patty": {
@@ -2450,8 +2450,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:05Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:13Z",
    "quality_flags": null
   },
   "cookies-poached-egg": {
@@ -2465,12 +2465,12 @@
    "carbs_g": 1.0,
    "fat_g": 4.0,
    "salt_g": 0.2,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": false,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:05Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:13Z",
    "quality_flags": null
   },
   "cookies-pork-and-beef-meatballs": {
@@ -2488,8 +2488,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:05Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:13Z",
    "quality_flags": null
   },
   "cookies-pulled-pork": {
@@ -2503,12 +2503,12 @@
    "carbs_g": 5.1,
    "fat_g": 2.1,
    "salt_g": 0.84,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": false,
+   "vegan": false,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:05Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:13Z",
    "quality_flags": null
   },
   "cookies-roast-chicken-breast-strips": {
@@ -2526,8 +2526,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:05Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:13Z",
    "quality_flags": null
   },
   "cookies-rotisserie-style-chicken": {
@@ -2541,12 +2541,12 @@
    "carbs_g": 0.0,
    "fat_g": 2.0,
    "salt_g": 0.5,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": false,
+   "vegan": false,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:05Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:13Z",
    "quality_flags": null
   },
   "cookies-salami-3-slices": {
@@ -2564,8 +2564,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:05Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:13Z",
    "quality_flags": null
   },
   "cookies-philly-steak": {
@@ -2579,12 +2579,12 @@
    "carbs_g": 8.0,
    "fat_g": 1.4,
    "salt_g": 0.7,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": false,
+   "vegan": false,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:05Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:13Z",
    "quality_flags": null
   },
   "cookies-tuna-with-lite-mayonaise": {
@@ -2602,8 +2602,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:05Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:13Z",
    "quality_flags": null
   },
   "cookies-turkey-breast-2-slices": {
@@ -2621,8 +2621,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:05Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:13Z",
    "quality_flags": null
   },
   "cookies-halal-meatballs-in-marinara-sauce": {
@@ -2640,8 +2640,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:05Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:13Z",
    "quality_flags": null
   },
   "cookies-halal-beef-meatballs": {
@@ -2659,8 +2659,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:05Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:13Z",
    "quality_flags": null
   },
   "cookies-halal-roast-chicken-breast-strips": {
@@ -2678,8 +2678,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:05Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:13Z",
    "quality_flags": null
   },
   "cookies-halal-rostisserie-style-chicken": {
@@ -2697,8 +2697,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:05Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:13Z",
    "quality_flags": null
   },
   "cookies-halal-chicken-tikka": {
@@ -2716,8 +2716,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:05Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:13Z",
    "quality_flags": null
   },
   "cookies-halal-pepperoni-beef-3-slices": {
@@ -2735,8 +2735,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:05Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:13Z",
    "quality_flags": null
   },
   "cookies-halal-salami-beef-3-slices": {
@@ -2754,8 +2754,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:05Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:13Z",
    "quality_flags": null
   },
   "cookies-halal-steak": {
@@ -2773,8 +2773,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:05Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:13Z",
    "quality_flags": null
   },
   "cookies-halal-turkey-breast-3-slices": {
@@ -2792,8 +2792,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:05Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:13Z",
    "quality_flags": null
   },
   "cookies-halal-turkey-ham-3-slices": {
@@ -2811,8 +2811,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:05Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:13Z",
    "quality_flags": null
   },
   "cookies-halal-turkey-rashers-2-slices": {
@@ -2830,8 +2830,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:05Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:13Z",
    "quality_flags": null
   },
   "cookies-halal-turkey-sausage-patty": {
@@ -2849,8 +2849,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:05Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:13Z",
    "quality_flags": null
   },
   "cookies-pulled-plant": {
@@ -2864,12 +2864,12 @@
    "carbs_g": 7.2,
    "fat_g": 4.6,
    "salt_g": 0.63,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:05Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:13Z",
    "quality_flags": null
   },
   "cookies-american-style-cheese": {
@@ -2887,8 +2887,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:05Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:13Z",
    "quality_flags": null
   },
   "cookies-peppered-cheese-roi": {
@@ -2906,8 +2906,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:05Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:13Z",
    "quality_flags": null
   },
   "cookies-grated-mozzarella-cheddar-cheese": {
@@ -2925,8 +2925,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:05Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:13Z",
    "quality_flags": null
   },
   "cookies-vegan-cheeze": {
@@ -2944,8 +2944,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:05Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:13Z",
    "quality_flags": null
   },
   "cookies-cucumbers": {
@@ -2963,8 +2963,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:05Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:13Z",
    "quality_flags": null
   },
   "cookies-jalapenos": {
@@ -2982,8 +2982,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:05Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:13Z",
    "quality_flags": null
   },
   "cookies-lettuce": {
@@ -3001,8 +3001,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:05Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:13Z",
    "quality_flags": null
   },
   "cookies-peppers": {
@@ -3020,8 +3020,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:05Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:13Z",
    "quality_flags": null
   },
   "cookies-olives": {
@@ -3039,8 +3039,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:05Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:13Z",
    "quality_flags": null
   },
   "cookies-pickles": {
@@ -3058,8 +3058,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:05Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:13Z",
    "quality_flags": null
   },
   "cookies-red-onions": {
@@ -3077,8 +3077,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:05Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:13Z",
    "quality_flags": null
   },
   "cookies-sweetcorn": {
@@ -3096,8 +3096,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:05Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:13Z",
    "quality_flags": null
   },
   "cookies-tomatoes": {
@@ -3115,8 +3115,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:05Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:13Z",
    "quality_flags": null
   },
   "cookies-chipotle-southwest-sauce": {
@@ -3134,8 +3134,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:05Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:13Z",
    "quality_flags": null
   },
   "cookies-extra-spicy-chipotle-sauce": {
@@ -3153,8 +3153,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:05Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:13Z",
    "quality_flags": null
   },
   "cookies-garlic-herb-sauce": {
@@ -3172,8 +3172,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:05Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:13Z",
    "quality_flags": null
   },
   "cookies-hickory-smoked-bbq-sauce": {
@@ -3191,8 +3191,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:05Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:13Z",
    "quality_flags": null
   },
   "cookies-honey-mustard": {
@@ -3210,8 +3210,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:05Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:13Z",
    "quality_flags": null
   },
   "cookies-lite-mayonnaise": {
@@ -3229,8 +3229,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:05Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:13Z",
    "quality_flags": null
   },
   "cookies-ranch-sauce": {
@@ -3248,8 +3248,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:05Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:13Z",
    "quality_flags": null
   },
   "cookies-sweet-onion-sauce": {
@@ -3267,8 +3267,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:05Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:13Z",
    "quality_flags": null
   },
   "cookies-sweet-chilli-sauce": {
@@ -3286,8 +3286,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:05Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:13Z",
    "quality_flags": null
   },
   "cookies-teriyaki-sauce": {
@@ -3305,8 +3305,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:05Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:13Z",
    "quality_flags": null
   },
   "cookies-tomato-ketchup": {
@@ -3324,8 +3324,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:05Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:13Z",
    "quality_flags": null
   },
   "cookies-chilli-flakes": {
@@ -3343,8 +3343,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:05Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:13Z",
    "quality_flags": null
   },
   "cookies-crispy-onions": {
@@ -3362,8 +3362,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:05Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:13Z",
    "quality_flags": null
   },
   "cookies-jacket-potato": {
@@ -3381,8 +3381,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:05Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:13Z",
    "quality_flags": null
   },
   "cookies-butter-salted": {
@@ -3400,8 +3400,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:05Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:13Z",
    "quality_flags": null
   },
   "cookies-heinz-baked-beans": {
@@ -3419,8 +3419,8 @@
    "vegan": null,
    "allergens": null,
    "source": "brand-published PDF (Subway UK nutrition)",
-   "source_url": "https://www.subway.com/en-gb/media/emea/europe/uk/nutrition/2026/UKI_IngredientsNutritionalInformationJune2026.pdf",
-   "fetched_at": "2026-07-28T18:53:05Z",
+   "source_url": "https://media.subway.com/dam/urn:aaid:aem:3ef80e30-d135-4098-a60c-c54891c4dfce/original/as/UKI_IngredientsNutritionalInformationJune2026.pdf",
+   "fetched_at": "2026-08-08T13:53:13Z",
    "quality_flags": null
   }
  }

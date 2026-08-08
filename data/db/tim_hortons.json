@@ -1,7 +1,7 @@
 {
  "chain_id": "tim_hortons",
  "item_count": 301,
- "fetched_at": "2026-08-06T15:02:31Z",
+ "fetched_at": "2026-08-08T13:52:55Z",
  "items": {
   "original-blend-coffee": {
    "chain_id": "tim_hortons",
@@ -14,12 +14,12 @@
    "carbs_g": 0.0,
    "fat_g": 0.01,
    "salt_g": 0.01,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:31Z",
+   "fetched_at": "2026-08-08T13:52:55Z",
    "quality_flags": null
   },
   "original-blend-coffee-small": {
@@ -38,7 +38,7 @@
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:31Z",
+   "fetched_at": "2026-08-08T13:52:55Z",
    "quality_flags": null
   },
   "original-blend-coffee-large": {
@@ -57,7 +57,7 @@
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:31Z",
+   "fetched_at": "2026-08-08T13:52:55Z",
    "quality_flags": null
   },
   "dark-roast-coffee": {
@@ -71,12 +71,12 @@
    "carbs_g": 0.0,
    "fat_g": 0.01,
    "salt_g": 0.02,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:31Z",
+   "fetched_at": "2026-08-08T13:52:55Z",
    "quality_flags": null
   },
   "dark-roast-coffee-small": {
@@ -95,7 +95,7 @@
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:31Z",
+   "fetched_at": "2026-08-08T13:52:55Z",
    "quality_flags": null
   },
   "dark-roast-coffee-large": {
@@ -114,7 +114,7 @@
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:31Z",
+   "fetched_at": "2026-08-08T13:52:55Z",
    "quality_flags": null
   },
   "caramel-macchiato": {
@@ -128,12 +128,12 @@
    "carbs_g": 20.0,
    "fat_g": 4.5,
    "salt_g": 0.3,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:31Z",
+   "fetched_at": "2026-08-08T13:52:55Z",
    "quality_flags": null
   },
   "caramel-macchiato-small": {
@@ -152,7 +152,7 @@
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:31Z",
+   "fetched_at": "2026-08-08T13:52:55Z",
    "quality_flags": null
   },
   "caramel-macchiato-large": {
@@ -171,7 +171,7 @@
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:31Z",
+   "fetched_at": "2026-08-08T13:52:55Z",
    "quality_flags": null
   },
   "cappuccino": {
@@ -185,12 +185,12 @@
    "carbs_g": 11.0,
    "fat_g": 3.7,
    "salt_g": 0.3,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:31Z",
+   "fetched_at": "2026-08-08T13:52:55Z",
    "quality_flags": null
   },
   "cappuccino-small": {
@@ -209,7 +209,7 @@
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:31Z",
+   "fetched_at": "2026-08-08T13:52:55Z",
    "quality_flags": null
   },
   "cappuccino-large": {
@@ -228,7 +228,7 @@
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:31Z",
+   "fetched_at": "2026-08-08T13:52:55Z",
    "quality_flags": null
   },
   "flat-white": {
@@ -242,12 +242,12 @@
    "carbs_g": 12.0,
    "fat_g": 4.0,
    "salt_g": 0.3,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:31Z",
+   "fetched_at": "2026-08-08T13:52:55Z",
    "quality_flags": null
   },
   "pecan-and-golden-sugar-latte": {
@@ -261,12 +261,12 @@
    "carbs_g": 44.0,
    "fat_g": 12.0,
    "salt_g": 0.34,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:31Z",
+   "fetched_at": "2026-08-08T13:52:55Z",
    "quality_flags": null
   },
   "pecan-and-golden-sugar-latte-small": {
@@ -285,7 +285,7 @@
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:31Z",
+   "fetched_at": "2026-08-08T13:52:55Z",
    "quality_flags": null
   },
   "pecan-and-golden-sugar-latte-large": {
@@ -304,7 +304,7 @@
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:31Z",
+   "fetched_at": "2026-08-08T13:52:55Z",
    "quality_flags": null
   },
   "matcha-latte": {
@@ -318,12 +318,12 @@
    "carbs_g": 30.0,
    "fat_g": 4.7,
    "salt_g": 0.34,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:31Z",
+   "fetched_at": "2026-08-08T13:52:55Z",
    "quality_flags": null
   },
   "matcha-latte-small": {
@@ -342,7 +342,7 @@
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:31Z",
+   "fetched_at": "2026-08-08T13:52:55Z",
    "quality_flags": null
   },
   "matcha-latte-large": {
@@ -361,7 +361,7 @@
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:31Z",
+   "fetched_at": "2026-08-08T13:52:55Z",
    "quality_flags": null
   },
   "latte": {
@@ -375,12 +375,12 @@
    "carbs_g": 13.0,
    "fat_g": 4.4,
    "salt_g": 0.3,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:31Z",
+   "fetched_at": "2026-08-08T13:52:55Z",
    "quality_flags": null
   },
   "latte-small": {
@@ -399,7 +399,7 @@
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:31Z",
+   "fetched_at": "2026-08-08T13:52:55Z",
    "quality_flags": null
   },
   "latte-large": {
@@ -418,7 +418,7 @@
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:31Z",
+   "fetched_at": "2026-08-08T13:52:55Z",
    "quality_flags": null
   },
   "pecan-and-golden-sugar-french-vanilla-latte": {
@@ -432,12 +432,12 @@
    "carbs_g": 83.0,
    "fat_g": 22.0,
    "salt_g": 1.1,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:31Z",
+   "fetched_at": "2026-08-08T13:52:55Z",
    "quality_flags": null
   },
   "pecan-and-golden-sugar-french-vanilla-latte-small": {
@@ -456,7 +456,7 @@
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:31Z",
+   "fetched_at": "2026-08-08T13:52:55Z",
    "quality_flags": null
   },
   "pecan-and-golden-sugar-french-vanilla-latte-large": {
@@ -475,7 +475,7 @@
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:31Z",
+   "fetched_at": "2026-08-08T13:52:55Z",
    "quality_flags": null
   },
   "french-vanilla-latte": {
@@ -489,12 +489,12 @@
    "carbs_g": 67.0,
    "fat_g": 6.7,
    "salt_g": 0.9,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:31Z",
+   "fetched_at": "2026-08-08T13:52:55Z",
    "quality_flags": null
   },
   "french-vanilla-latte-small": {
@@ -513,7 +513,7 @@
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:31Z",
+   "fetched_at": "2026-08-08T13:52:55Z",
    "quality_flags": null
   },
   "french-vanilla-latte-large": {
@@ -532,7 +532,7 @@
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:31Z",
+   "fetched_at": "2026-08-08T13:52:55Z",
    "quality_flags": null
   },
   "french-vanilla": {
@@ -546,12 +546,12 @@
    "carbs_g": 67.0,
    "fat_g": 6.7,
    "salt_g": 0.8,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:31Z",
+   "fetched_at": "2026-08-08T13:52:55Z",
    "quality_flags": null
   },
   "french-vanilla-small": {
@@ -570,7 +570,7 @@
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:31Z",
+   "fetched_at": "2026-08-08T13:52:55Z",
    "quality_flags": null
   },
   "french-vanilla-large": {
@@ -589,7 +589,7 @@
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:31Z",
+   "fetched_at": "2026-08-08T13:52:55Z",
    "quality_flags": null
   },
   "mocha": {
@@ -603,12 +603,12 @@
    "carbs_g": 68.0,
    "fat_g": 6.7,
    "salt_g": 0.4,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:31Z",
+   "fetched_at": "2026-08-08T13:52:55Z",
    "quality_flags": null
   },
   "mocha-small": {
@@ -627,7 +627,7 @@
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:31Z",
+   "fetched_at": "2026-08-08T13:52:55Z",
    "quality_flags": null
   },
   "mocha-large": {
@@ -646,7 +646,7 @@
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:31Z",
+   "fetched_at": "2026-08-08T13:52:55Z",
    "quality_flags": null
   },
   "pecan-and-golden-sugar-hot-chocolate": {
@@ -660,12 +660,12 @@
    "carbs_g": 95.0,
    "fat_g": 21.0,
    "salt_g": 1.2,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:31Z",
+   "fetched_at": "2026-08-08T13:52:55Z",
    "quality_flags": null
   },
   "pecan-and-golden-sugar-hot-chocolate-small": {
@@ -684,7 +684,7 @@
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:31Z",
+   "fetched_at": "2026-08-08T13:52:55Z",
    "quality_flags": null
   },
   "pecan-and-golden-sugar-hot-chocolate-large": {
@@ -703,7 +703,7 @@
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:31Z",
+   "fetched_at": "2026-08-08T13:52:55Z",
    "quality_flags": null
   },
   "hot-chocolate": {
@@ -717,12 +717,12 @@
    "carbs_g": 69.0,
    "fat_g": 14.0,
    "salt_g": 1.3,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:31Z",
+   "fetched_at": "2026-08-08T13:52:55Z",
    "quality_flags": null
   },
   "hot-chocolate-small": {
@@ -741,7 +741,7 @@
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:32Z",
+   "fetched_at": "2026-08-08T13:52:55Z",
    "quality_flags": null
   },
   "hot-chocolate-large": {
@@ -760,7 +760,7 @@
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:32Z",
+   "fetched_at": "2026-08-08T13:52:55Z",
    "quality_flags": null
   },
   "oat-milk": {
@@ -774,12 +774,12 @@
    "carbs_g": 0.23,
    "fat_g": 0.11,
    "salt_g": 0.0,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:32Z",
+   "fetched_at": "2026-08-08T13:52:55Z",
    "quality_flags": null
   },
   "cappuccino-with-oat-milk": {
@@ -793,12 +793,12 @@
    "carbs_g": 17.0,
    "fat_g": 7.4,
    "salt_g": 0.33,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:32Z",
+   "fetched_at": "2026-08-08T13:52:55Z",
    "quality_flags": null
   },
   "cappuccino-with-oat-milk-small": {
@@ -817,7 +817,7 @@
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:32Z",
+   "fetched_at": "2026-08-08T13:52:55Z",
    "quality_flags": null
   },
   "cappuccino-with-oat-milk-large": {
@@ -836,7 +836,7 @@
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:32Z",
+   "fetched_at": "2026-08-08T13:52:55Z",
    "quality_flags": null
   },
   "flat-white-with-oat-milk": {
@@ -850,12 +850,12 @@
    "carbs_g": 17.0,
    "fat_g": 7.7,
    "salt_g": 0.34,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:32Z",
+   "fetched_at": "2026-08-08T13:52:55Z",
    "quality_flags": null
   },
   "latte-with-oat-milk": {
@@ -869,12 +869,12 @@
    "carbs_g": 21.0,
    "fat_g": 9.4,
    "salt_g": 0.41,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:32Z",
+   "fetched_at": "2026-08-08T13:52:55Z",
    "quality_flags": null
   },
   "latte-with-oat-milk-small": {
@@ -893,7 +893,7 @@
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:32Z",
+   "fetched_at": "2026-08-08T13:52:55Z",
    "quality_flags": null
   },
   "latte-with-oat-milk-large": {
@@ -912,7 +912,7 @@
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:32Z",
+   "fetched_at": "2026-08-08T13:52:55Z",
    "quality_flags": null
   },
   "coconut-milk": {
@@ -926,12 +926,12 @@
    "carbs_g": 0.12,
    "fat_g": 0.05,
    "salt_g": 0.01,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:32Z",
+   "fetched_at": "2026-08-08T13:52:55Z",
    "quality_flags": null
   },
   "cappuccino-with-coconut-milk": {
@@ -945,12 +945,12 @@
    "carbs_g": 17.0,
    "fat_g": 7.4,
    "salt_g": 0.33,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:32Z",
+   "fetched_at": "2026-08-08T13:52:55Z",
    "quality_flags": null
   },
   "cappuccino-with-coconut-milk-small": {
@@ -969,7 +969,7 @@
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:32Z",
+   "fetched_at": "2026-08-08T13:52:55Z",
    "quality_flags": null
   },
   "cappuccino-with-coconut-milk-large": {
@@ -988,7 +988,7 @@
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:32Z",
+   "fetched_at": "2026-08-08T13:52:55Z",
    "quality_flags": null
   },
   "flat-white-with-coconut-milk": {
@@ -1002,12 +1002,12 @@
    "carbs_g": 8.7,
    "fat_g": 3.6,
    "salt_g": 0.52,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:32Z",
+   "fetched_at": "2026-08-08T13:52:55Z",
    "quality_flags": null
   },
   "latte-with-coconut-milk": {
@@ -1021,12 +1021,12 @@
    "carbs_g": 11.0,
    "fat_g": 4.4,
    "salt_g": 0.63,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:32Z",
+   "fetched_at": "2026-08-08T13:52:55Z",
    "quality_flags": null
   },
   "latte-with-coconut-milk-small": {
@@ -1045,7 +1045,7 @@
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:32Z",
+   "fetched_at": "2026-08-08T13:52:55Z",
    "quality_flags": null
   },
   "latte-with-coconut-milk-large": {
@@ -1064,7 +1064,7 @@
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:32Z",
+   "fetched_at": "2026-08-08T13:52:55Z",
    "quality_flags": null
   },
   "cappuccino-with-skimmed-milk": {
@@ -1078,12 +1078,12 @@
    "carbs_g": 11.0,
    "fat_g": 0.27,
    "salt_g": 0.28,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:32Z",
+   "fetched_at": "2026-08-08T13:52:55Z",
    "quality_flags": null
   },
   "cappuccino-with-skimmed-milk-small": {
@@ -1102,7 +1102,7 @@
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:32Z",
+   "fetched_at": "2026-08-08T13:52:55Z",
    "quality_flags": null
   },
   "cappuccino-with-skimmed-milk-large": {
@@ -1121,7 +1121,7 @@
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:32Z",
+   "fetched_at": "2026-08-08T13:52:55Z",
    "quality_flags": null
   },
   "flat-white-with-skimmed-milk": {
@@ -1135,12 +1135,12 @@
    "carbs_g": 11.0,
    "fat_g": 0.28,
    "salt_g": 0.29,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:32Z",
+   "fetched_at": "2026-08-08T13:52:55Z",
    "quality_flags": null
   },
   "latte-with-skimmed-milk": {
@@ -1154,12 +1154,12 @@
    "carbs_g": 14.0,
    "fat_g": 0.34,
    "salt_g": 0.35,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:32Z",
+   "fetched_at": "2026-08-08T13:52:55Z",
    "quality_flags": null
   },
   "latte-with-skimmed-milk-small": {
@@ -1178,7 +1178,7 @@
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:32Z",
+   "fetched_at": "2026-08-08T13:52:55Z",
    "quality_flags": null
   },
   "latte-with-skimmed-milk-large": {
@@ -1197,7 +1197,7 @@
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:32Z",
+   "fetched_at": "2026-08-08T13:52:55Z",
    "quality_flags": null
   },
   "whipped-cream": {
@@ -1211,12 +1211,12 @@
    "carbs_g": 3.0,
    "fat_g": 7.4,
    "salt_g": 0.02,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:32Z",
+   "fetched_at": "2026-08-08T13:52:55Z",
    "quality_flags": null
   },
   "iced-mango-matcha-latte": {
@@ -1230,12 +1230,12 @@
    "carbs_g": 39.0,
    "fat_g": 1.2,
    "salt_g": 0.12,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:32Z",
+   "fetched_at": "2026-08-08T13:52:55Z",
    "quality_flags": null
   },
   "iced-mango-matcha-latte-small": {
@@ -1254,7 +1254,7 @@
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:32Z",
+   "fetched_at": "2026-08-08T13:52:55Z",
    "quality_flags": null
   },
   "iced-mango-matcha-latte-large": {
@@ -1273,7 +1273,7 @@
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:32Z",
+   "fetched_at": "2026-08-08T13:52:55Z",
    "quality_flags": null
   },
   "iced-blueberry-matcha-latte": {
@@ -1287,12 +1287,12 @@
    "carbs_g": 40.0,
    "fat_g": 3.9,
    "salt_g": 0.28,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:32Z",
+   "fetched_at": "2026-08-08T13:52:55Z",
    "quality_flags": null
   },
   "iced-blueberry-matcha-latte-small": {
@@ -1311,7 +1311,7 @@
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:32Z",
+   "fetched_at": "2026-08-08T13:52:55Z",
    "quality_flags": null
   },
   "iced-blueberry-matcha-latte-large": {
@@ -1330,7 +1330,7 @@
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:32Z",
+   "fetched_at": "2026-08-08T13:52:55Z",
    "quality_flags": null
   },
   "matcha-iced-latte": {
@@ -1344,12 +1344,12 @@
    "carbs_g": 45.0,
    "fat_g": 4.8,
    "salt_g": 0.34,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:32Z",
+   "fetched_at": "2026-08-08T13:52:55Z",
    "quality_flags": null
   },
   "matcha-iced-latte-small": {
@@ -1368,7 +1368,7 @@
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:32Z",
+   "fetched_at": "2026-08-08T13:52:55Z",
    "quality_flags": null
   },
   "matcha-iced-latte-large": {
@@ -1387,7 +1387,7 @@
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:32Z",
+   "fetched_at": "2026-08-08T13:52:55Z",
    "quality_flags": null
   },
   "iced-latte": {
@@ -1401,12 +1401,12 @@
    "carbs_g": 16.0,
    "fat_g": 3.3,
    "salt_g": 0.2,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:32Z",
+   "fetched_at": "2026-08-08T13:52:55Z",
    "quality_flags": null
   },
   "iced-latte-small": {
@@ -1425,7 +1425,7 @@
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:32Z",
+   "fetched_at": "2026-08-08T13:52:55Z",
    "quality_flags": null
   },
   "iced-latte-large": {
@@ -1444,7 +1444,7 @@
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:32Z",
+   "fetched_at": "2026-08-08T13:52:55Z",
    "quality_flags": null
   },
   "iced-latte-with-coconut-milk": {
@@ -1458,12 +1458,12 @@
    "carbs_g": 8.2,
    "fat_g": 3.4,
    "salt_g": 0.49,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:32Z",
+   "fetched_at": "2026-08-08T13:52:55Z",
    "quality_flags": null
   },
   "iced-latte-with-coconut-milk-small": {
@@ -1482,7 +1482,7 @@
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:32Z",
+   "fetched_at": "2026-08-08T13:52:55Z",
    "quality_flags": null
   },
   "iced-latte-with-coconut-milk-large": {
@@ -1501,7 +1501,7 @@
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:32Z",
+   "fetched_at": "2026-08-08T13:52:55Z",
    "quality_flags": null
   },
   "iced-latte-with-oat-milk": {
@@ -1515,12 +1515,12 @@
    "carbs_g": 16.0,
    "fat_g": 7.3,
    "salt_g": 0.32,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:32Z",
+   "fetched_at": "2026-08-08T13:52:55Z",
    "quality_flags": null
   },
   "iced-latte-with-oat-milk-small": {
@@ -1539,7 +1539,7 @@
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:32Z",
+   "fetched_at": "2026-08-08T13:52:55Z",
    "quality_flags": null
   },
   "iced-latte-with-oat-milk-large": {
@@ -1558,7 +1558,7 @@
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:32Z",
+   "fetched_at": "2026-08-08T13:52:55Z",
    "quality_flags": null
   },
   "iced-latte-with-skimmed-milk": {
@@ -1572,12 +1572,12 @@
    "carbs_g": 11.0,
    "fat_g": 0.27,
    "salt_g": 0.27,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:32Z",
+   "fetched_at": "2026-08-08T13:52:55Z",
    "quality_flags": null
   },
   "iced-latte-with-skimmed-milk-small": {
@@ -1596,7 +1596,7 @@
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:32Z",
+   "fetched_at": "2026-08-08T13:52:55Z",
    "quality_flags": null
   },
   "iced-latte-with-skimmed-milk-large": {
@@ -1615,7 +1615,7 @@
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:32Z",
+   "fetched_at": "2026-08-08T13:52:55Z",
    "quality_flags": null
   },
   "iced-caramel-latte": {
@@ -1629,12 +1629,12 @@
    "carbs_g": 31.0,
    "fat_g": 3.3,
    "salt_g": 0.3,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:32Z",
+   "fetched_at": "2026-08-08T13:52:55Z",
    "quality_flags": null
   },
   "iced-caramel-latte-small": {
@@ -1653,7 +1653,7 @@
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:32Z",
+   "fetched_at": "2026-08-08T13:52:55Z",
    "quality_flags": null
   },
   "iced-caramel-latte-large": {
@@ -1672,7 +1672,7 @@
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:32Z",
+   "fetched_at": "2026-08-08T13:52:55Z",
    "quality_flags": null
   },
   "iced-vanilla-latte": {
@@ -1686,12 +1686,12 @@
    "carbs_g": 16.0,
    "fat_g": 3.3,
    "salt_g": 0.2,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:32Z",
+   "fetched_at": "2026-08-08T13:52:55Z",
    "quality_flags": null
   },
   "iced-vanilla-latte-small": {
@@ -1710,7 +1710,7 @@
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:32Z",
+   "fetched_at": "2026-08-08T13:52:55Z",
    "quality_flags": null
   },
   "iced-vanilla-latte-large": {
@@ -1729,7 +1729,7 @@
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:32Z",
+   "fetched_at": "2026-08-08T13:52:55Z",
    "quality_flags": null
   },
   "iced-french-vanilla": {
@@ -1743,12 +1743,12 @@
    "carbs_g": 38.0,
    "fat_g": 10.0,
    "salt_g": 0.8,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:32Z",
+   "fetched_at": "2026-08-08T13:52:55Z",
    "quality_flags": null
   },
   "iced-french-vanilla-small": {
@@ -1767,7 +1767,7 @@
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:32Z",
+   "fetched_at": "2026-08-08T13:52:55Z",
    "quality_flags": null
   },
   "iced-french-vanilla-large": {
@@ -1786,7 +1786,7 @@
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:32Z",
+   "fetched_at": "2026-08-08T13:52:55Z",
    "quality_flags": null
   },
   "iced-french-vanilla-latte": {
@@ -1800,12 +1800,12 @@
    "carbs_g": 67.0,
    "fat_g": 6.7,
    "salt_g": 0.9,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:32Z",
+   "fetched_at": "2026-08-08T13:52:55Z",
    "quality_flags": null
   },
   "iced-french-vanilla-latte-small": {
@@ -1824,7 +1824,7 @@
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:32Z",
+   "fetched_at": "2026-08-08T13:52:55Z",
    "quality_flags": null
   },
   "iced-french-vanilla-latte-large": {
@@ -1843,7 +1843,7 @@
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:32Z",
+   "fetched_at": "2026-08-08T13:52:55Z",
    "quality_flags": null
   },
   "iced-caramel-macchiato": {
@@ -1857,12 +1857,12 @@
    "carbs_g": 20.0,
    "fat_g": 4.5,
    "salt_g": 0.3,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:32Z",
+   "fetched_at": "2026-08-08T13:52:55Z",
    "quality_flags": null
   },
   "iced-caramel-macchiato-small": {
@@ -1881,7 +1881,7 @@
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:32Z",
+   "fetched_at": "2026-08-08T13:52:55Z",
    "quality_flags": null
   },
   "iced-caramel-macchiato-large": {
@@ -1900,7 +1900,7 @@
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:32Z",
+   "fetched_at": "2026-08-08T13:52:55Z",
    "quality_flags": null
   },
   "mango-matcha-frapp": {
@@ -1914,12 +1914,12 @@
    "carbs_g": 78.0,
    "fat_g": 9.4,
    "salt_g": 0.24,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:32Z",
+   "fetched_at": "2026-08-08T13:52:55Z",
    "quality_flags": null
   },
   "mango-matcha-frapp-small": {
@@ -1938,7 +1938,7 @@
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:32Z",
+   "fetched_at": "2026-08-08T13:52:55Z",
    "quality_flags": null
   },
   "mango-matcha-frapp-large": {
@@ -1957,7 +1957,7 @@
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:32Z",
+   "fetched_at": "2026-08-08T13:52:55Z",
    "quality_flags": null
   },
   "mango-passionfruit-frapp": {
@@ -1971,12 +1971,12 @@
    "carbs_g": 85.0,
    "fat_g": 9.5,
    "salt_g": 0.27,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:32Z",
+   "fetched_at": "2026-08-08T13:52:55Z",
    "quality_flags": null
   },
   "mango-passionfruit-frapp-small": {
@@ -1995,7 +1995,7 @@
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:32Z",
+   "fetched_at": "2026-08-08T13:52:55Z",
    "quality_flags": null
   },
   "mango-passionfruit-frapp-large": {
@@ -2014,7 +2014,7 @@
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:32Z",
+   "fetched_at": "2026-08-08T13:52:55Z",
    "quality_flags": null
   },
   "blueberry-cheesecake-frapp": {
@@ -2028,12 +2028,12 @@
    "carbs_g": 63.0,
    "fat_g": 9.8,
    "salt_g": 0.25,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:32Z",
+   "fetched_at": "2026-08-08T13:52:55Z",
    "quality_flags": null
   },
   "blueberry-cheesecake-frapp-small": {
@@ -2052,7 +2052,7 @@
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:32Z",
+   "fetched_at": "2026-08-08T13:52:55Z",
    "quality_flags": null
   },
   "blueberry-cheesecake-frapp-large": {
@@ -2071,7 +2071,7 @@
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:32Z",
+   "fetched_at": "2026-08-08T13:52:55Z",
    "quality_flags": null
   },
   "matcha-frapp": {
@@ -2085,12 +2085,12 @@
    "carbs_g": 72.0,
    "fat_g": 8.9,
    "salt_g": 0.2,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:32Z",
+   "fetched_at": "2026-08-08T13:52:55Z",
    "quality_flags": null
   },
   "matcha-frapp-small": {
@@ -2109,7 +2109,7 @@
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:32Z",
+   "fetched_at": "2026-08-08T13:52:55Z",
    "quality_flags": null
   },
   "matcha-frapp-large": {
@@ -2128,7 +2128,7 @@
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:32Z",
+   "fetched_at": "2026-08-08T13:52:55Z",
    "quality_flags": null
   },
   "caramel-cream-frapp": {
@@ -2142,12 +2142,12 @@
    "carbs_g": 59.0,
    "fat_g": 9.9,
    "salt_g": 0.3,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:32Z",
+   "fetched_at": "2026-08-08T13:52:55Z",
    "quality_flags": null
   },
   "caramel-cream-frapp-small": {
@@ -2166,7 +2166,7 @@
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:32Z",
+   "fetched_at": "2026-08-08T13:52:55Z",
    "quality_flags": null
   },
   "caramel-cream-frapp-large": {
@@ -2185,7 +2185,7 @@
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:32Z",
+   "fetched_at": "2026-08-08T13:52:55Z",
    "quality_flags": null
   },
   "chocolate-cream-frapp": {
@@ -2199,12 +2199,12 @@
    "carbs_g": 63.0,
    "fat_g": 15.0,
    "salt_g": 0.1,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:32Z",
+   "fetched_at": "2026-08-08T13:52:55Z",
    "quality_flags": null
   },
   "chocolate-cream-frapp-small": {
@@ -2223,7 +2223,7 @@
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:33Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "chocolate-cream-frapp-large": {
@@ -2242,7 +2242,7 @@
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:33Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "strawberries-cream-frapp": {
@@ -2256,12 +2256,12 @@
    "carbs_g": 57.0,
    "fat_g": 8.8,
    "salt_g": 0.1,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:33Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "strawberries-cream-frapp-small": {
@@ -2280,7 +2280,7 @@
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:33Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "strawberries-cream-frapp-large": {
@@ -2299,7 +2299,7 @@
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:33Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "oreo-cookies-cream-frapp": {
@@ -2313,12 +2313,12 @@
    "carbs_g": 56.0,
    "fat_g": 14.0,
    "salt_g": 0.2,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:33Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "oreo-cookies-cream-frapp-small": {
@@ -2337,7 +2337,7 @@
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:33Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "oreo-cookies-cream-frapp-large": {
@@ -2356,7 +2356,7 @@
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:33Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "pecan-and-golden-sugar-iced-capp": {
@@ -2370,12 +2370,12 @@
    "carbs_g": 64.0,
    "fat_g": 27.0,
    "salt_g": 0.13,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:33Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "pecan-and-golden-sugar-iced-capp-small": {
@@ -2394,7 +2394,7 @@
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:33Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "pecan-and-golden-sugar-iced-capp-large": {
@@ -2413,7 +2413,7 @@
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:33Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "caramel-iced-capp": {
@@ -2427,12 +2427,12 @@
    "carbs_g": 58.0,
    "fat_g": 29.0,
    "salt_g": 0.1,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:33Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "caramel-iced-capp-small": {
@@ -2451,7 +2451,7 @@
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:33Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "caramel-iced-capp-large": {
@@ -2470,7 +2470,7 @@
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:33Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "oreo-iced-capp": {
@@ -2484,12 +2484,12 @@
    "carbs_g": 44.0,
    "fat_g": 28.0,
    "salt_g": 0.2,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:33Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "oreo-iced-capp-small": {
@@ -2508,7 +2508,7 @@
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:33Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "oreo-iced-capp-large": {
@@ -2527,7 +2527,7 @@
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:33Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "mocha-iced-capp": {
@@ -2541,12 +2541,12 @@
    "carbs_g": 56.0,
    "fat_g": 53.0,
    "salt_g": 0.1,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:33Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "mocha-iced-capp-small": {
@@ -2565,7 +2565,7 @@
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:33Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "mocha-iced-capp-large": {
@@ -2584,7 +2584,7 @@
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:33Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "original-iced-capp": {
@@ -2598,12 +2598,12 @@
    "carbs_g": 34.0,
    "fat_g": 18.0,
    "salt_g": 0.1,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:33Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "original-iced-capp-small": {
@@ -2622,7 +2622,7 @@
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:33Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "original-iced-capp-large": {
@@ -2641,7 +2641,7 @@
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:33Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "light-iced-capp": {
@@ -2655,12 +2655,12 @@
    "carbs_g": 32.0,
    "fat_g": 1.0,
    "salt_g": 0.1,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:33Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "light-iced-capp-small": {
@@ -2679,7 +2679,7 @@
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:33Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "light-iced-capp-large": {
@@ -2698,7 +2698,7 @@
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:33Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "coconut-iced-capp": {
@@ -2712,12 +2712,12 @@
    "carbs_g": 39.0,
    "fat_g": 1.2,
    "salt_g": 0.0,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:33Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "coconut-iced-capp-small": {
@@ -2736,7 +2736,7 @@
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:33Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "coconut-iced-capp-large": {
@@ -2755,7 +2755,7 @@
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:33Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "lemonade-refresher": {
@@ -2769,12 +2769,12 @@
    "carbs_g": 14.0,
    "fat_g": 0.0,
    "salt_g": 0.0,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:33Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "lemonade-refresher-small": {
@@ -2793,7 +2793,7 @@
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:33Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "lemonade-refresher-large": {
@@ -2812,7 +2812,7 @@
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:33Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "strawberry-lemonade-refresher": {
@@ -2826,12 +2826,12 @@
    "carbs_g": 26.0,
    "fat_g": 0.0,
    "salt_g": 0.0,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:33Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "strawberry-lemonade-refresher-small": {
@@ -2850,7 +2850,7 @@
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:33Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "strawberry-lemonade-refresher-large": {
@@ -2869,7 +2869,7 @@
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:33Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "mango-and-passionfruit-cooler": {
@@ -2883,12 +2883,12 @@
    "carbs_g": 78.0,
    "fat_g": 0.15,
    "salt_g": 0.11,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:33Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "mango-and-passionfruit-cooler-small": {
@@ -2907,7 +2907,7 @@
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:33Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "mango-and-passionfruit-cooler-large": {
@@ -2926,7 +2926,7 @@
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:33Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "blueberry-cooler": {
@@ -2940,12 +2940,12 @@
    "carbs_g": 61.0,
    "fat_g": 0.09,
    "salt_g": 0.08,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:33Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "blueberry-cooler-small": {
@@ -2964,7 +2964,7 @@
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:33Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "blueberry-cooler-large": {
@@ -2983,7 +2983,7 @@
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:33Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "cherry-crush-cooler": {
@@ -2997,12 +2997,12 @@
    "carbs_g": 43.0,
    "fat_g": 0.08,
    "salt_g": 0.1,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:33Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "cherry-crush-cooler-small": {
@@ -3021,7 +3021,7 @@
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:33Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "cherry-crush-cooler-large": {
@@ -3040,7 +3040,7 @@
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:33Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "tropical-cooler": {
@@ -3054,12 +3054,12 @@
    "carbs_g": 43.0,
    "fat_g": 0.08,
    "salt_g": 0.1,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:33Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "tropical-cooler-small": {
@@ -3078,7 +3078,7 @@
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:34Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "tropical-cooler-large": {
@@ -3097,7 +3097,7 @@
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:34Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "tims-shake-brownie": {
@@ -3111,12 +3111,12 @@
    "carbs_g": 54.0,
    "fat_g": 24.0,
    "salt_g": 0.1,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:34Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "tims-shake-brownie-small": {
@@ -3135,7 +3135,7 @@
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:34Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "tims-shake-brownie-large": {
@@ -3154,7 +3154,7 @@
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:34Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "tims-shake-chocolate": {
@@ -3168,12 +3168,12 @@
    "carbs_g": 47.0,
    "fat_g": 22.0,
    "salt_g": 0.1,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:34Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "tims-shake-chocolate-small": {
@@ -3192,7 +3192,7 @@
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:34Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "tims-shake-chocolate-large": {
@@ -3211,7 +3211,7 @@
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:34Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "tims-shake-strawberry": {
@@ -3225,12 +3225,12 @@
    "carbs_g": 47.0,
    "fat_g": 18.0,
    "salt_g": 0.1,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:34Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "tims-shake-strawberry-small": {
@@ -3249,7 +3249,7 @@
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:34Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "tims-shake-strawberry-large": {
@@ -3268,7 +3268,7 @@
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:34Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "semi-skimmed-milk": {
@@ -3282,12 +3282,12 @@
    "carbs_g": 0.74,
    "fat_g": 0.24,
    "salt_g": 0.02,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:34Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "semi-skimmed-milk-small": {
@@ -3306,7 +3306,7 @@
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:34Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "semi-skimmed-milk-large": {
@@ -3325,7 +3325,7 @@
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:34Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "coca-cola": {
@@ -3339,12 +3339,12 @@
    "carbs_g": 42.0,
    "fat_g": 0.0,
    "salt_g": 0.0,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:34Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "coca-cola-large": {
@@ -3363,7 +3363,7 @@
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:34Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "coca-cola-zero-sugar": {
@@ -3377,12 +3377,12 @@
    "carbs_g": 0.0,
    "fat_g": 0.0,
    "salt_g": 0.08,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:34Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "coca-cola-zero-sugar-large": {
@@ -3401,7 +3401,7 @@
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:34Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "diet-coke": {
@@ -3415,12 +3415,12 @@
    "carbs_g": 0.0,
    "fat_g": 0.0,
    "salt_g": 0.0,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:34Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "diet-coke-large": {
@@ -3439,7 +3439,7 @@
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:34Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "fanta-orange-zero": {
@@ -3453,12 +3453,12 @@
    "carbs_g": 2.0,
    "fat_g": 0.0,
    "salt_g": 0.0,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:34Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "fanta-orange-zero-large": {
@@ -3477,7 +3477,7 @@
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:34Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "sprite-zero": {
@@ -3491,12 +3491,12 @@
    "carbs_g": 0.0,
    "fat_g": 0.0,
    "salt_g": 0.28,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:34Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "sprite-zero-large": {
@@ -3515,7 +3515,7 @@
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:34Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "dr-pepper-zero": {
@@ -3529,12 +3529,12 @@
    "carbs_g": 0.0,
    "fat_g": 0.0,
    "salt_g": 0.0,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:34Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "dr-pepper-zero-large": {
@@ -3553,7 +3553,7 @@
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:34Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "tomato-omelette-single": {
@@ -3567,12 +3567,12 @@
    "carbs_g": 1.5,
    "fat_g": 5.9,
    "salt_g": 0.17,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:34Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "tomato-omelette-double": {
@@ -3586,12 +3586,12 @@
    "carbs_g": 3.0,
    "fat_g": 11.0,
    "salt_g": 0.34,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:34Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "omelette-with-tomato-single": {
@@ -3605,12 +3605,12 @@
    "carbs_g": 2.5,
    "fat_g": 5.9,
    "salt_g": 1.7,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:34Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "omelette-with-cheese-bacon-single": {
@@ -3624,12 +3624,12 @@
    "carbs_g": 2.8,
    "fat_g": 13.0,
    "salt_g": 0.73,
-   "vegetarian": null,
+   "vegetarian": false,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:34Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "two-omelettes-with-cheese-bacon": {
@@ -3643,12 +3643,12 @@
    "carbs_g": 5.7,
    "fat_g": 26.0,
    "salt_g": 1.5,
-   "vegetarian": null,
+   "vegetarian": false,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:34Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "original-breakfast-wrap": {
@@ -3662,12 +3662,12 @@
    "carbs_g": 43.0,
    "fat_g": 27.0,
    "salt_g": 2.5,
-   "vegetarian": null,
+   "vegetarian": false,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:34Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "big-breakfast-wrap": {
@@ -3681,12 +3681,12 @@
    "carbs_g": 44.0,
    "fat_g": 30.0,
    "salt_g": 2.9,
-   "vegetarian": null,
+   "vegetarian": false,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:34Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "loaded-veggie-wrap": {
@@ -3700,12 +3700,12 @@
    "carbs_g": 44.0,
    "fat_g": 26.0,
    "salt_g": 2.6,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:34Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "egg-and-cheese-muffin": {
@@ -3719,12 +3719,12 @@
    "carbs_g": 27.0,
    "fat_g": 15.0,
    "salt_g": 1.1,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:34Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "bacon-egg-and-cheese-muffin-streaky-bacon": {
@@ -3738,12 +3738,12 @@
    "carbs_g": 27.0,
    "fat_g": 18.0,
    "salt_g": 1.4,
-   "vegetarian": null,
+   "vegetarian": false,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:34Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "bacon-egg-and-cheese-muffin-stack-streaky-bacon": {
@@ -3757,12 +3757,12 @@
    "carbs_g": 36.0,
    "fat_g": 23.0,
    "salt_g": 1.6,
-   "vegetarian": null,
+   "vegetarian": false,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:34Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "double-bacon-egg-and-cheese-muffin-streaky-bacon": {
@@ -3776,12 +3776,12 @@
    "carbs_g": 28.0,
    "fat_g": 20.0,
    "salt_g": 1.7,
-   "vegetarian": null,
+   "vegetarian": false,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:34Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "double-bacon-egg-muffin-stack-streaky-bacon": {
@@ -3795,12 +3795,12 @@
    "carbs_g": 37.0,
    "fat_g": 26.0,
    "salt_g": 1.9,
-   "vegetarian": null,
+   "vegetarian": false,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:34Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "sausage-egg-with-cheese-muffin": {
@@ -3814,12 +3814,12 @@
    "carbs_g": 28.0,
    "fat_g": 26.0,
    "salt_g": 1.9,
-   "vegetarian": null,
+   "vegetarian": false,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:34Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "sausage-egg-with-cheese-muffin-stack": {
@@ -3833,12 +3833,12 @@
    "carbs_g": 37.0,
    "fat_g": 31.0,
    "salt_g": 2.1,
-   "vegetarian": null,
+   "vegetarian": false,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:34Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "double-sausage-egg-with-cheese-muffin": {
@@ -3852,12 +3852,12 @@
    "carbs_g": 30.0,
    "fat_g": 37.0,
    "salt_g": 2.7,
-   "vegetarian": null,
+   "vegetarian": false,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:34Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "double-sausage-egg-with-cheese-muffin-stack": {
@@ -3871,12 +3871,12 @@
    "carbs_g": 39.0,
    "fat_g": 42.0,
    "salt_g": 2.8,
-   "vegetarian": null,
+   "vegetarian": false,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:34Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "veggie-sausage-egg-with-cheese-muffin": {
@@ -3890,12 +3890,12 @@
    "carbs_g": 29.0,
    "fat_g": 25.0,
    "salt_g": 1.9,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:34Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "veggie-sausage-egg-with-cheese-muffin-stack": {
@@ -3909,12 +3909,12 @@
    "carbs_g": 38.0,
    "fat_g": 30.0,
    "salt_g": 2.1,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:34Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "bacon-roll-streaky-bacon": {
@@ -3928,12 +3928,12 @@
    "carbs_g": 26.0,
    "fat_g": 12.0,
    "salt_g": 1.6,
-   "vegetarian": null,
+   "vegetarian": false,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:34Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "grilled-breakfast-bagel-with-sausage": {
@@ -3947,12 +3947,12 @@
    "carbs_g": 60.0,
    "fat_g": 20.0,
    "salt_g": 2.2,
-   "vegetarian": null,
+   "vegetarian": false,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:34Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "grilled-breakfast-bagel-with-bacon-streaky-bacon": {
@@ -3966,12 +3966,12 @@
    "carbs_g": 59.0,
    "fat_g": 12.0,
    "salt_g": 1.7,
-   "vegetarian": null,
+   "vegetarian": false,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:34Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "grilled-breakfast-bagel-with-veggie-sausage": {
@@ -3985,12 +3985,12 @@
    "carbs_g": 61.0,
    "fat_g": 19.0,
    "salt_g": 2.2,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:34Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "plain-bagel": {
@@ -4004,12 +4004,12 @@
    "carbs_g": 57.0,
    "fat_g": 1.8,
    "salt_g": 0.74,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:34Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "bagel-with-butter": {
@@ -4023,12 +4023,12 @@
    "carbs_g": 57.0,
    "fat_g": 8.7,
    "salt_g": 0.83,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:34Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "bagel-with-cream-cheese": {
@@ -4042,12 +4042,12 @@
    "carbs_g": 57.0,
    "fat_g": 5.3,
    "salt_g": 0.86,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:34Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "bacon-maple-pancakes": {
@@ -4061,12 +4061,12 @@
    "carbs_g": 68.0,
    "fat_g": 10.0,
    "salt_g": 1.7,
-   "vegetarian": null,
+   "vegetarian": false,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:34Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "maple-syrup-pancakes": {
@@ -4080,12 +4080,12 @@
    "carbs_g": 66.0,
    "fat_g": 6.4,
    "salt_g": 1.4,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:34Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "chocolate-hazelnut-spread-pancakes": {
@@ -4099,12 +4099,12 @@
    "carbs_g": 61.0,
    "fat_g": 11.0,
    "salt_g": 1.4,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:34Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "hash-brown": {
@@ -4118,12 +4118,12 @@
    "carbs_g": 9.1,
    "fat_g": 5.3,
    "salt_g": 0.17,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:34Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "tims-double-cheeseburger": {
@@ -4137,12 +4137,12 @@
    "carbs_g": 46.0,
    "fat_g": 24.0,
    "salt_g": 2.6,
-   "vegetarian": null,
+   "vegetarian": false,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:34Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "tims-maple-bbq-bacon-double-cheeseburger": {
@@ -4156,12 +4156,12 @@
    "carbs_g": 62.0,
    "fat_g": 31.0,
    "salt_g": 2.7,
-   "vegetarian": null,
+   "vegetarian": false,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:34Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "tims-bacon-double-cheeseburger": {
@@ -4175,12 +4175,12 @@
    "carbs_g": 48.0,
    "fat_g": 28.0,
    "salt_g": 3.0,
-   "vegetarian": null,
+   "vegetarian": false,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:34Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "tims-triple-cheeseburger": {
@@ -4194,12 +4194,12 @@
    "carbs_g": 49.0,
    "fat_g": 36.0,
    "salt_g": 3.6,
-   "vegetarian": null,
+   "vegetarian": false,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:34Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "buffalo-ranch-chicken-sandwich": {
@@ -4213,12 +4213,12 @@
    "carbs_g": 59.0,
    "fat_g": 28.0,
    "salt_g": 6.4,
-   "vegetarian": null,
+   "vegetarian": false,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:34Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "buffalo-ranch-chicken-stack": {
@@ -4232,12 +4232,12 @@
    "carbs_g": 69.0,
    "fat_g": 33.0,
    "salt_g": 6.6,
-   "vegetarian": null,
+   "vegetarian": false,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:34Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "tims-crispy-chicken-sandwich": {
@@ -4251,12 +4251,12 @@
    "carbs_g": 57.0,
    "fat_g": 26.0,
    "salt_g": 2.6,
-   "vegetarian": null,
+   "vegetarian": false,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:34Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "tims-crispy-chicken-stack": {
@@ -4270,12 +4270,12 @@
    "carbs_g": 67.0,
    "fat_g": 34.0,
    "salt_g": 3.3,
-   "vegetarian": null,
+   "vegetarian": false,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:34Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "maple-bbq-chicken-bacon-sandwich": {
@@ -4289,12 +4289,12 @@
    "carbs_g": 76.0,
    "fat_g": 24.0,
    "salt_g": 3.5,
-   "vegetarian": null,
+   "vegetarian": false,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:34Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "maple-bbq-chicken-bacon-sandwich-stack": {
@@ -4308,12 +4308,12 @@
    "carbs_g": 85.0,
    "fat_g": 29.0,
    "salt_g": 3.7,
-   "vegetarian": null,
+   "vegetarian": false,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:34Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "buffalo-ranch-meatless-sandwich": {
@@ -4327,12 +4327,12 @@
    "carbs_g": 52.0,
    "fat_g": 27.0,
    "salt_g": 5.5,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:34Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "crispy-meatless-chicken-sandwich": {
@@ -4346,12 +4346,12 @@
    "carbs_g": 50.0,
    "fat_g": 21.0,
    "salt_g": 1.9,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:34Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "maple-bbq-meatless-chicken-sandwich": {
@@ -4365,12 +4365,12 @@
    "carbs_g": 68.0,
    "fat_g": 23.0,
    "salt_g": 2.6,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:34Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "buffalo-ranch-chicken-wrap": {
@@ -4384,12 +4384,12 @@
    "carbs_g": 47.0,
    "fat_g": 21.0,
    "salt_g": 4.6,
-   "vegetarian": null,
+   "vegetarian": false,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:34Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "blt-chicken-wrap": {
@@ -4403,12 +4403,12 @@
    "carbs_g": 44.0,
    "fat_g": 16.0,
    "salt_g": 2.0,
-   "vegetarian": null,
+   "vegetarian": false,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:34Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "maple-bbq-chicken-wrap": {
@@ -4422,12 +4422,12 @@
    "carbs_g": 49.0,
    "fat_g": 13.0,
    "salt_g": 2.3,
-   "vegetarian": null,
+   "vegetarian": false,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:34Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "sweet-chilli-mayo-chicken-wrap": {
@@ -4441,12 +4441,12 @@
    "carbs_g": 49.0,
    "fat_g": 20.0,
    "salt_g": 2.0,
-   "vegetarian": null,
+   "vegetarian": false,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:34Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "smoky-chipotle-chicken-wrap": {
@@ -4460,12 +4460,12 @@
    "carbs_g": 43.0,
    "fat_g": 17.0,
    "salt_g": 2.3,
-   "vegetarian": null,
+   "vegetarian": false,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:34Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "vlt-meatless-chicken-wrap": {
@@ -4479,12 +4479,12 @@
    "carbs_g": 43.0,
    "fat_g": 21.0,
    "salt_g": 2.1,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:34Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "5-piece-tims-chicken-tenders": {
@@ -4498,12 +4498,12 @@
    "carbs_g": 24.0,
    "fat_g": 9.8,
    "salt_g": 1.7,
-   "vegetarian": null,
+   "vegetarian": false,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:34Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "3-piece-tims-chicken-tenders": {
@@ -4517,12 +4517,12 @@
    "carbs_g": 15.0,
    "fat_g": 5.9,
    "salt_g": 1.0,
-   "vegetarian": null,
+   "vegetarian": false,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:34Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "buffalo-ranch-chicken-melt": {
@@ -4536,12 +4536,12 @@
    "carbs_g": 118.0,
    "fat_g": 33.0,
    "salt_g": 6.9,
-   "vegetarian": null,
+   "vegetarian": false,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:34Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "cheese-and-herb-melt": {
@@ -4555,12 +4555,12 @@
    "carbs_g": 47.0,
    "fat_g": 21.0,
    "salt_g": 2.9,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:34Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "ham-hock-and-cheese-melt": {
@@ -4574,12 +4574,12 @@
    "carbs_g": 116.0,
    "fat_g": 22.0,
    "salt_g": 4.2,
-   "vegetarian": null,
+   "vegetarian": false,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:34Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "maple-bbq-chicken-melt": {
@@ -4593,12 +4593,12 @@
    "carbs_g": 123.0,
    "fat_g": 22.0,
    "salt_g": 3.4,
-   "vegetarian": null,
+   "vegetarian": false,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:34Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "tims-savers-hamburger": {
@@ -4612,12 +4612,12 @@
    "carbs_g": 36.0,
    "fat_g": 12.0,
    "salt_g": 1.3,
-   "vegetarian": null,
+   "vegetarian": false,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:34Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "tims-savers-cheeseburger": {
@@ -4631,12 +4631,12 @@
    "carbs_g": 36.0,
    "fat_g": 15.0,
    "salt_g": 1.9,
-   "vegetarian": null,
+   "vegetarian": false,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:34Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "tims-savers-crispy-chicken-snack-wrap": {
@@ -4650,12 +4650,12 @@
    "carbs_g": 19.0,
    "fat_g": 6.1,
    "salt_g": 0.32,
-   "vegetarian": null,
+   "vegetarian": false,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:34Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "tims-savers-2-chicken-tenders-dip": {
@@ -4669,12 +4669,12 @@
    "carbs_g": 12.0,
    "fat_g": 15.0,
    "salt_g": 0.91,
-   "vegetarian": null,
+   "vegetarian": false,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:34Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "buffalo-ranch-chicken-loaded-fries": {
@@ -4688,12 +4688,12 @@
    "carbs_g": 46.0,
    "fat_g": 25.0,
    "salt_g": 4.9,
-   "vegetarian": null,
+   "vegetarian": false,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:34Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "maple-bbq-chicken-loaded-lattice-fries": {
@@ -4707,12 +4707,12 @@
    "carbs_g": 50.0,
    "fat_g": 21.0,
    "salt_g": 2.7,
-   "vegetarian": null,
+   "vegetarian": false,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:34Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "maple-bbq-loaded-lattice-fries": {
@@ -4726,12 +4726,12 @@
    "carbs_g": 43.0,
    "fat_g": 19.0,
    "salt_g": 2.1,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:35Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "spicy-habanero-cheese-bites-5-pc": {
@@ -4745,12 +4745,12 @@
    "carbs_g": 37.0,
    "fat_g": 11.0,
    "salt_g": 2.1,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:35Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "spicy-habanero-cheese-bites-10-pc": {
@@ -4764,12 +4764,12 @@
    "carbs_g": 75.0,
    "fat_g": 23.0,
    "salt_g": 4.2,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:35Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "lattice-fries": {
@@ -4783,12 +4783,12 @@
    "carbs_g": 40.0,
    "fat_g": 14.0,
    "salt_g": 1.8,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:35Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "vegan-mayo": {
@@ -4802,12 +4802,12 @@
    "carbs_g": 2.1,
    "fat_g": 11.0,
    "salt_g": 0.25,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:35Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "chipotle-mayonnaise": {
@@ -4821,12 +4821,12 @@
    "carbs_g": 1.9,
    "fat_g": 15.0,
    "salt_g": 0.25,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:35Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "sweet-chilli-sauce": {
@@ -4840,12 +4840,12 @@
    "carbs_g": 15.0,
    "fat_g": 0.03,
    "salt_g": 0.4,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:35Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "bbq-sauce": {
@@ -4859,12 +4859,12 @@
    "carbs_g": 11.0,
    "fat_g": 0.08,
    "salt_g": 0.34,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:35Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "tomato-ketchup": {
@@ -4878,12 +4878,12 @@
    "carbs_g": 8.8,
    "fat_g": 0.05,
    "salt_g": 0.54,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:35Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "timmies-minis-chicken-mayo-sandwich": {
@@ -4897,12 +4897,12 @@
    "carbs_g": 47.0,
    "fat_g": 11.0,
    "salt_g": 1.4,
-   "vegetarian": null,
+   "vegetarian": false,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:35Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "timmies-minis-cheeseburger": {
@@ -4916,12 +4916,12 @@
    "carbs_g": 44.0,
    "fat_g": 14.0,
    "salt_g": 1.9,
-   "vegetarian": null,
+   "vegetarian": false,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:35Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "timmies-minis-2-chicken-tenders": {
@@ -4935,12 +4935,12 @@
    "carbs_g": 9.8,
    "fat_g": 3.9,
    "salt_g": 0.66,
-   "vegetarian": null,
+   "vegetarian": false,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:35Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "timmies-minis-cheese-melt": {
@@ -4954,12 +4954,12 @@
    "carbs_g": 58.0,
    "fat_g": 11.0,
    "salt_g": 1.5,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:35Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "timmies-minis-lattice-fries": {
@@ -4973,12 +4973,12 @@
    "carbs_g": 20.0,
    "fat_g": 7.2,
    "salt_g": 0.9,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:35Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "maple-syrup-caramel-and-fudge-pancakes": {
@@ -4992,12 +4992,12 @@
    "carbs_g": 86.0,
    "fat_g": 16.0,
    "salt_g": 1.6,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:35Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "chocolate-hazelnut-oreo-pancakes": {
@@ -5011,12 +5011,12 @@
    "carbs_g": 94.0,
    "fat_g": 23.0,
    "salt_g": 1.8,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:35Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "monty-the-moose-deluxe-donut": {
@@ -5030,12 +5030,12 @@
    "carbs_g": 55.0,
    "fat_g": 15.0,
    "salt_g": 0.72,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:35Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "mango-deluxe-donut": {
@@ -5049,12 +5049,12 @@
    "carbs_g": 59.0,
    "fat_g": 9.9,
    "salt_g": 0.53,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:35Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "blueberry-cheesecake-deluxe-donut": {
@@ -5068,12 +5068,12 @@
    "carbs_g": 54.0,
    "fat_g": 11.0,
    "salt_g": 0.6,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:35Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "chocolate-honeycomb-deluxe-donut": {
@@ -5087,12 +5087,12 @@
    "carbs_g": 62.0,
    "fat_g": 14.0,
    "salt_g": 0.79,
-   "vegetarian": null,
+   "vegetarian": false,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:35Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "chocolate-brownie-donut": {
@@ -5106,12 +5106,12 @@
    "carbs_g": 61.0,
    "fat_g": 14.0,
    "salt_g": 0.64,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:35Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "maple-caramel-donut": {
@@ -5125,12 +5125,12 @@
    "carbs_g": 67.0,
    "fat_g": 14.0,
    "salt_g": 0.8,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:35Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "caramel-apple-fritter": {
@@ -5144,12 +5144,12 @@
    "carbs_g": 86.0,
    "fat_g": 13.0,
    "salt_g": 0.94,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:35Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "boston-cream-donut": {
@@ -5163,12 +5163,12 @@
    "carbs_g": 40.0,
    "fat_g": 11.0,
    "salt_g": 0.59,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:35Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "canadian-maple-donut": {
@@ -5182,12 +5182,12 @@
    "carbs_g": 42.0,
    "fat_g": 11.0,
    "salt_g": 0.61,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:35Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "maple-dip-donut": {
@@ -5201,12 +5201,12 @@
    "carbs_g": 37.0,
    "fat_g": 9.5,
    "salt_g": 0.54,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:35Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "vanilla-dip-donut": {
@@ -5220,12 +5220,12 @@
    "carbs_g": 47.0,
    "fat_g": 9.4,
    "salt_g": 0.51,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:36Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "chocolate-dip-donut": {
@@ -5239,12 +5239,12 @@
    "carbs_g": 36.0,
    "fat_g": 10.0,
    "salt_g": 0.52,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:36Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "old-fashioned-glazed-donut": {
@@ -5258,12 +5258,12 @@
    "carbs_g": 44.0,
    "fat_g": 13.0,
    "salt_g": 0.61,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:36Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "apple-fritter-donut": {
@@ -5277,12 +5277,12 @@
    "carbs_g": 54.0,
    "fat_g": 9.6,
    "salt_g": 0.7,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:36Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "mango-cruller": {
@@ -5296,12 +5296,12 @@
    "carbs_g": 49.0,
    "fat_g": 23.0,
    "salt_g": 0.34,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:36Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "blueberry-cruller": {
@@ -5315,12 +5315,12 @@
    "carbs_g": 47.0,
    "fat_g": 24.0,
    "salt_g": 0.38,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:36Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "honey-cruller": {
@@ -5334,12 +5334,12 @@
    "carbs_g": 30.0,
    "fat_g": 23.0,
    "salt_g": 0.32,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:36Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "mango-timbit": {
@@ -5353,12 +5353,12 @@
    "carbs_g": 15.0,
    "fat_g": 1.5,
    "salt_g": 0.07,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:36Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "blueberry-timbits": {
@@ -5372,12 +5372,12 @@
    "carbs_g": 15.0,
    "fat_g": 1.4,
    "salt_g": 0.07,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:36Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "old-fashioned-glazed-timbits": {
@@ -5391,12 +5391,12 @@
    "carbs_g": 13.0,
    "fat_g": 3.0,
    "salt_g": 0.15,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:36Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "chocolate-glazed-timbits": {
@@ -5410,12 +5410,12 @@
    "carbs_g": 12.0,
    "fat_g": 3.1,
    "salt_g": 0.17,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:36Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "honey-dip-timbits": {
@@ -5429,12 +5429,12 @@
    "carbs_g": 10.0,
    "fat_g": 1.4,
    "salt_g": 0.06,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:36Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "apple-pie-timbits": {
@@ -5448,12 +5448,12 @@
    "carbs_g": 13.0,
    "fat_g": 2.2,
    "salt_g": 0.11,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:36Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "honey-cruller-timbits": {
@@ -5467,12 +5467,12 @@
    "carbs_g": 8.7,
    "fat_g": 3.5,
    "salt_g": 0.07,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:36Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "white-birthday-cake-timbits": {
@@ -5486,12 +5486,12 @@
    "carbs_g": 15.0,
    "fat_g": 3.0,
    "salt_g": 0.15,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:36Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "apple-fritter-timbits": {
@@ -5505,12 +5505,12 @@
    "carbs_g": 11.0,
    "fat_g": 1.9,
    "salt_g": 0.09,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:36Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "bacon-cheese-muffin-streaky-bacon": {
@@ -5524,12 +5524,12 @@
    "carbs_g": 27.0,
    "fat_g": 52.0,
    "salt_g": 1.8,
-   "vegetarian": null,
+   "vegetarian": false,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:36Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "sausage-cheese-muffin-selected-stores-only": {
@@ -5543,12 +5543,12 @@
    "carbs_g": 28.0,
    "fat_g": 14.0,
    "salt_g": 0.81,
-   "vegetarian": null,
+   "vegetarian": false,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:36Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "bacon-cheese-muffin-selected-stores-only": {
@@ -5562,12 +5562,12 @@
    "carbs_g": 28.0,
    "fat_g": 18.0,
    "salt_g": 1.7,
-   "vegetarian": null,
+   "vegetarian": false,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:36Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "veggie-sausage-cheese-muffin-selected-stores-only": {
@@ -5581,12 +5581,12 @@
    "carbs_g": 30.0,
    "fat_g": 20.0,
    "salt_g": 1.3,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:36Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "big-breakfast-wrap-streaky-bacon": {
@@ -5600,12 +5600,12 @@
    "carbs_g": 44.0,
    "fat_g": 31.0,
    "salt_g": 2.9,
-   "vegetarian": null,
+   "vegetarian": false,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:36Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "big-breakfast-roll-selected-stores-only": {
@@ -5619,12 +5619,12 @@
    "carbs_g": 56.0,
    "fat_g": 73.0,
    "salt_g": 3.4,
-   "vegetarian": null,
+   "vegetarian": false,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:36Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "omelette-with-choice-of-topping-selected-stores-only": {
@@ -5638,12 +5638,12 @@
    "carbs_g": 0.88,
    "fat_g": 5.8,
    "salt_g": 0.17,
-   "vegetarian": null,
+   "vegetarian": false,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:36Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "2-omelettes-with-choice-of-toppings-selected-stores-only": {
@@ -5657,12 +5657,12 @@
    "carbs_g": 1.8,
    "fat_g": 13.0,
    "salt_g": 0.34,
-   "vegetarian": null,
+   "vegetarian": false,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:36Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "raspberry-donut": {
@@ -5676,12 +5676,12 @@
    "carbs_g": 40.0,
    "fat_g": 7.7,
    "salt_g": 0.5,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:36Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "raspberry-vanilla-donut": {
@@ -5695,12 +5695,12 @@
    "carbs_g": 54.0,
    "fat_g": 9.7,
    "salt_g": 0.53,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:36Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   },
   "raspberry-timbits": {
@@ -5714,12 +5714,12 @@
    "carbs_g": 10.0,
    "fat_g": 1.6,
    "salt_g": 0.07,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Tim Hortons UK & Ireland nutrition guide)",
    "source_url": "https://timhortons.co.uk/assets/img/products/Nutrition-20260714-110800-bd9a.pdf",
-   "fetched_at": "2026-08-06T15:02:36Z",
+   "fetched_at": "2026-08-08T13:52:56Z",
    "quality_flags": null
   }
  }

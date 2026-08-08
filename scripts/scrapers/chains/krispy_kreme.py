@@ -32,6 +32,25 @@ TRAP — two nutrition blocks per row, in the WRONG order for a naive first-matc
 Nutrition tables are told apart from allergen tables (which share the same
 "Product Description" header wording) by requiring 'energy'/'kcal' to appear
 in one of the header cells — allergen tables don't have those.
+
+Dietary flag source
+--------------------
+The allergen tables (a SEPARATE table this module otherwise skips over)
+have their own "Dietary Choices" header block with two real columns, both
+rotated 90 degrees like the rest of this document's headers: "Suitable for
+vegetarians" and "Vegan Certified", holding "YES"/"NO". "Original Glazed"
+-> vegetarian YES / vegan NO; "Vegan Original Glazed (NWD only)" -> both
+YES — confirms real per-row data, not name-echoing.
+
+TRAP — the SAME product name appears TWICE with a disagreeing vegan value
+    A dozen drink names ("Latte 12oz", "Cappuccino 12oz", "Hot Chocolate
+    12oz", ...) each appear on two different pages with vegan YES on one
+    and NO on the other -- almost certainly a milk-choice split (oat vs.
+    dairy) that isn't distinguished in the name itself, i.e. the name alone
+    is genuinely ambiguous in the source. Rather than pick one, any name
+    with disagreeing values across the allergen tables is dropped entirely
+    (left unset), the same "don't guess at a real conflict" rule this
+    project's other chains (subway.py, dominos.py, pizza_hut.py) apply.
 """
 from __future__ import annotations
 
@@ -102,6 +121,36 @@ def _has_energy_header(table) -> bool:
     return False
 
 
+def _diet_flags(pdf) -> dict[str, tuple[bool, bool] | None]:
+    """lower-cased item name -> (vegetarian, vegan), or None for a name whose
+    value disagrees across rows -- see TRAP above. A SEPARATE table (the
+    allergen matrix, "Dietary Choices" header) to the nutrition tables this
+    module otherwise reads."""
+    out: dict[str, tuple[bool, bool] | None] = {}
+    for page in pdf.pages:
+        for finder in page.find_tables():
+            table = finder.extract()
+            if not table or not table[0] or len(table[0]) < 3:
+                continue
+            if "Dietary Choices" not in str(table[0][1] or ""):
+                continue
+            for row in table[2:]:
+                if not row or not row[0]:
+                    continue
+                rest = row[1:]
+                if all(c is None or str(c).strip() == "" for c in rest):
+                    continue    # section heading, e.g. "DOUGHNUTS - RINGS & BITES"
+                name = " ".join(str(row[0]).split()).lower()
+                if not name or len(row) < 3:
+                    continue
+                flags = (row[1] == "YES", row[2] == "YES")
+                if name in out and out[name] not in (None, flags):
+                    out[name] = None   # disagreeing duplicate -- drop, don't guess
+                elif name not in out:
+                    out[name] = flags
+    return out
+
+
 def _plausible(kcal: float, protein: float) -> bool:
     if kcal <= 0 or protein < 0:
         return False
@@ -117,6 +166,7 @@ def _parse(raw: bytes, source_url: str) -> list[dict]:
     seen: set[str] = set()
     category = None
     with pdfplumber.open(io.BytesIO(raw)) as pdf:
+        diet = _diet_flags(pdf)
         for page in pdf.pages:
             for table in page.extract_tables():
                 if len(table) < 2 or not _has_energy_header(table):
@@ -145,12 +195,15 @@ def _parse(raw: bytes, source_url: str) -> list[dict]:
                         continue
                     seen.add(key)
                     serving = f"per portion ({weight})" if weight else "per portion"
+                    flags = diet.get(key)
+                    vegetarian, vegan = flags if flags else (None, None)
                     out.append(item(
                         CHAIN, name, SOURCE, source_url, item_id=name,
                         category=category, serving_desc=serving,
                         kcal=kcal, protein_g=protein,
                         fat_g=to_float(row[13]), carbs_g=to_float(row[15]),
-                        salt_g=to_float(row[19])))
+                        salt_g=to_float(row[19]),
+                        vegetarian=vegetarian, vegan=vegan))
     return out
 
 

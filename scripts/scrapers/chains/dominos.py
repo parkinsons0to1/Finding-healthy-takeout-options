@@ -51,6 +51,37 @@ TRAP 5 — basis
 
 Sibling static paths (nutrition_sides, etc.) may exist on the same CDN but
 were not enumerated — this module covers pizzas, bases and toppings only.
+
+Dietary flag source
+--------------------
+This nutrition PDF has no diet column at all (its one "Vegan" hit is the
+ingredient name "Vegan Cheese Alternative", not a marker). A SEPARATE
+document, Domino's "INGREDIENTS & Allergen Information" PDF (found by web
+search, not linked from the nutrition guide -- static slug
+``ingredients-and-allergens`` on the same bigcontent.io CDN, current as of
+5 May 2026), is organised into named SECTIONS ("1. Bases", "2. Pizza
+Sauces", "3. PLANT-BASED Pizzas", "4. Gluten Free PIZZAS", ...) -- a real
+document structure, not text this project is pattern-matching. Section 3
+lists exactly two pizza families across its crust/region variants:
+"Plant-Based Margheri-tastic" and "Plant-Based Vegi Supreme" -- both use a
+"Plant-Based Cheese Alternative" per their own full ingredient list, so
+both flags are set True for anything joined to this section (vegan implies
+vegetarian).
+
+No other section functions as a vegetarian/vegan marker: the many "Vegi
+Classic"/"Vegi Sizzler"/"Vegi Supreme"/"Vegi Volcano" pizzas elsewhere in
+this project's nutrition data use real dairy Mozzarella and are NOT in the
+Plant-Based section -- "Vegi" in a dish's own name is exactly the kind of
+name-text this project's non-negotiable rule forbids using to justify
+`True`, so those are left unset here despite sounding vegetarian.
+
+JOIN -- the allergen guide's pizza-name cell bundles crust/region
+    qualifiers into the SAME cell ("Plant-Based\\nMargheri-tastic\\nWITH
+    CLASSIC CRUST\\n(ROI ONLY)"); those are stripped with a small regex to
+    recover the two base names, which are then matched as a PREFIX against
+    this module's own assembled dish names (e.g. "Plant-Based
+    Margheri-tastic - Classic Crust" — Medium), so every crust/size variant
+    of the two families is covered without listing them individually.
 """
 from __future__ import annotations
 
@@ -62,6 +93,8 @@ from ..generic_pdf import _find_header
 CHAIN = "dominos"
 SOURCE = "Domino's UK Nutrition Information Guide (Pizzas, Bases & Toppings)"
 SOURCE_URL = "https://dominos.a.bigcontent.io/v1/static/nutrition_pizzas"
+#: "INGREDIENTS & Allergen Information" -- see "Dietary flag source" above.
+_ALLERGEN_PDF_URL = "https://dominos.a.bigcontent.io/v1/static/ingredients-and-allergens"
 
 _NUMERIC = re.compile(r"^[\d.,\s]+$")
 _SIZES = {"large", "medium", "small", "personal"}
@@ -107,10 +140,67 @@ def _basis(page_text: str) -> str:
     return "per serving"
 
 
+def _norm_name(text: str) -> str:
+    return " ".join(re.sub(r"[^a-z0-9 ]", " ", text.lower()).split())
+
+
+_CRUST_QUALIFIER_RE = re.compile(
+    r"(?i)with\s+(classic|thin\s*&?\s*crispy|thin crust|italian style)\s*(crust)?"
+    r"|\(\s*(gb|roi)\s*only\s*\)")
+
+
+def _plant_based_pizza_names() -> set[str]:
+    """Normalized base pizza names found under the "PLANT-BASED Pizzas"
+    section of Domino's separate allergen guide -- see "Dietary flag
+    source" above. Best-effort: any failure returns an empty set rather
+    than raising, since this is a supplementary signal."""
+    import io
+
+    import pdfplumber
+
+    try:
+        s = session()
+        r = s.get(_ALLERGEN_PDF_URL, timeout=90)
+        raw = r.content if r.status_code == 200 and r.content[:4] == b"%PDF" else None
+        if raw is None:
+            pr = fetch_protected(_ALLERGEN_PDF_URL, timeout=120)
+            raw = pr.content if pr is not None and pr.content[:4] == b"%PDF" else None
+        if raw is None:
+            return set()
+
+        names: set[str] = set()
+        with pdfplumber.open(io.BytesIO(raw)) as pdf:
+            for page in pdf.pages:
+                text = page.extract_text() or ""
+                if "PLANT-BASED PIZZAS" not in text.upper():
+                    continue
+                for finder in page.find_tables():
+                    table = finder.extract()
+                    if not table or not table[0] or "PIZZA NAME" not in str(table[0][0] or "").upper():
+                        continue
+                    for row in table[1:]:
+                        if not row or not row[0]:
+                            continue
+                        cell = str(row[0])
+                        # The section-banner row repeats "PLANT-BASED PIZZAS"
+                        # itself with a caveat, not a dish name -- skip it.
+                        if "PLANT-BASED PIZZAS" in cell.upper():
+                            continue
+                        cleaned = _CRUST_QUALIFIER_RE.sub(" ", cell)
+                        norm = _norm_name(cleaned)
+                        if norm:
+                            names.add(norm)
+        return names
+    except Exception:
+        return set()
+
+
 def _rows_from_pdf(raw: bytes) -> list[dict]:
     import io
 
     import pdfplumber
+
+    plant_based_names = _plant_based_pizza_names()
 
     out: list[dict] = []
     seen: set[str] = set()
@@ -169,10 +259,15 @@ def _rows_from_pdf(raw: bytes) -> list[dict]:
                         idx = cols.get(field)
                         if idx is not None and idx < len(row):
                             extra[field] = to_float(row[idx])
+                    vegetarian = vegan = None
+                    head_norm = _norm_name(head)
+                    if any(head_norm.startswith(pb) for pb in plant_based_names):
+                        vegetarian = vegan = True
                     out.append(item(CHAIN, name, SOURCE, SOURCE_URL,
                                     item_id=name, category=head,
                                     serving_desc=serving,
-                                    kcal=kcal, protein_g=protein, **extra))
+                                    kcal=kcal, protein_g=protein,
+                                    vegetarian=vegetarian, vegan=vegan, **extra))
     return out
 
 

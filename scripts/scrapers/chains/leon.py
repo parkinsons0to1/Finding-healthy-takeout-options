@@ -32,6 +32,30 @@ Traps
 * A handful of items legitimately state 0 kcal (still water and similar). They
   are dropped by the gate below since a 0-kcal row carries no usable macro
   ratio, so this adapter reports slightly fewer items than the page lists.
+
+Dietary flag source
+--------------------
+The SAME node carries a ``dietary`` array (siblings: ``allergens``, a
+separate 14-allergen tag list) -- structured Sanity references, each with a
+``slug``, curated by the brand: ``{'title': 'Vegan', 'slug': 'vegan', ...}``.
+The full vocabulary seen across the whole menu is ``{vegetarian, vegan,
+gluten-free, high-in-protein, source-of-protein, good-for-your-gut,
+plant-variety}`` -- ``vegetarian`` and ``vegan`` are used here, the rest
+aren't dietary-safety claims.
+
+Some items carry ``vegan`` but not ``vegetarian`` (e.g. "Hash Browns"; other
+items, like "Charred Broccoli with Preserved Lemon", carry both) -- since
+every vegan dish is by definition vegetarian too, ``vegetarian`` is set
+True whenever EITHER tag is present, not just when LEON's own tagging
+happens to include both.
+
+A dish with no ``vegetarian``/``vegan`` tag is not necessarily non-veg (the
+tagging isn't proven exhaustive -- e.g. plenty of drinks carry no ``dietary``
+array at all), so absence of a tag is left unset UNLESS the name itself
+contains an unambiguous meat/fish word (chicken, bacon, sausage, fish,
+salmon, chorizo -- checked against every word actually appearing in this
+menu's item names), in which case ``vegetarian=False`` is recorded directly
+(the safe direction -- see the project's non-negotiable rule).
 """
 from __future__ import annotations
 
@@ -39,6 +63,9 @@ import json
 import re
 
 from ..base import fetch_protected, item, session
+
+_MEAT_WORD_RE = re.compile(
+    r"\b(chicken|bacon|sausage|fish|salmon|chorizo)\b", re.I)
 
 CHAIN = "leon"
 SOURCE = "brand site (LEON menu, Sanity CMS payload)"
@@ -143,6 +170,16 @@ def fetch() -> list[dict]:
         parts = [str(menu.get("name") or "").strip(), str(submenu.get("name") or "").strip()]
         category = " / ".join(p for p in parts if p) or None
 
+        dietary_slugs = {str(d.get("slug") or "") for d in (node.get("dietary") or [])
+                         if isinstance(d, dict)}
+        vegan = True if "vegan" in dietary_slugs else None
+        if "vegetarian" in dietary_slugs or "vegan" in dietary_slugs:
+            vegetarian = True
+        elif _MEAT_WORD_RE.search(name):
+            vegetarian = False
+        else:
+            vegetarian = None
+
         out.append(item(
             CHAIN, name, SOURCE, SOURCE_URL,
             item_id=name,
@@ -153,5 +190,7 @@ def fetch() -> list[dict]:
             carbs_g=macros.get("carbs_g"),
             fat_g=macros.get("fat_g"),
             salt_g=macros.get("salt_g"),
+            vegetarian=vegetarian,
+            vegan=vegan,
         ))
     return out

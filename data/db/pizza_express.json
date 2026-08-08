@@ -1,7 +1,7 @@
 {
  "chain_id": "pizza_express",
  "item_count": 340,
- "fetched_at": "2026-08-06T15:00:33Z",
+ "fetched_at": "2026-08-08T13:52:21Z",
  "items": {
   "hot-honey-dough-balls": {
    "chain_id": "pizza_express",
@@ -14,12 +14,12 @@
    "carbs_g": 78.6,
    "fat_g": 7.1,
    "salt_g": 1.7,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": false,
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:33Z",
+   "fetched_at": "2026-08-08T13:52:21Z",
    "quality_flags": null
   },
   "hot-honey-dough-balls-gf": {
@@ -33,12 +33,12 @@
    "carbs_g": 81.8,
    "fat_g": 12.0,
    "salt_g": 1.9,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": false,
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:33Z",
+   "fetched_at": "2026-08-08T13:52:21Z",
    "quality_flags": null
   },
   "hot-honey-dough-balls-dine-out": {
@@ -52,12 +52,12 @@
    "carbs_g": 60.2,
    "fat_g": 8.9,
    "salt_g": 2.6,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": false,
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:33Z",
+   "fetched_at": "2026-08-08T13:52:21Z",
    "quality_flags": null
   },
   "hot-honey-dough-balls-dine-out-gf": {
@@ -71,12 +71,12 @@
    "carbs_g": 63.4,
    "fat_g": 13.7,
    "salt_g": 2.8,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": false,
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:33Z",
+   "fetched_at": "2026-08-08T13:52:21Z",
    "quality_flags": null
   },
   "dough-balls-al-forno": {
@@ -90,12 +90,12 @@
    "carbs_g": 38.2,
    "fat_g": 28.1,
    "salt_g": 2.6,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": false,
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:33Z",
+   "fetched_at": "2026-08-08T13:52:21Z",
    "quality_flags": null
   },
   "dough-balls-al-forno-gf": {
@@ -109,12 +109,12 @@
    "carbs_g": 43.2,
    "fat_g": 32.0,
    "salt_g": 2.8,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": false,
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:33Z",
+   "fetched_at": "2026-08-08T13:52:21Z",
    "quality_flags": null
   },
   "loaded-pesto-dough-balls": {
@@ -128,12 +128,12 @@
    "carbs_g": 53.8,
    "fat_g": 18.1,
    "salt_g": 2.6,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": false,
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:33Z",
+   "fetched_at": "2026-08-08T13:52:21Z",
    "quality_flags": null
   },
   "loaded-pesto-dough-balls-dine-out": {
@@ -147,12 +147,12 @@
    "carbs_g": 55.7,
    "fat_g": 18.9,
    "salt_g": 3.2,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": false,
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:33Z",
+   "fetched_at": "2026-08-08T13:52:21Z",
    "quality_flags": null
   },
   "loaded-pesto-dough-balls-gf": {
@@ -166,12 +166,12 @@
    "carbs_g": 57.0,
    "fat_g": 23.0,
    "salt_g": 2.8,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": false,
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:33Z",
+   "fetched_at": "2026-08-08T13:52:21Z",
    "quality_flags": null
   },
   "loaded-pesto-dough-balls-gf-dine-out": {
@@ -185,12 +185,12 @@
    "carbs_g": 58.9,
    "fat_g": 23.8,
    "salt_g": 3.4,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": false,
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:33Z",
+   "fetched_at": "2026-08-08T13:52:21Z",
    "quality_flags": null
   },
   "dough-balls-with-garlic-butter": {
@@ -204,12 +204,12 @@
    "carbs_g": 50.4,
    "fat_g": 23.7,
    "salt_g": 1.92,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": false,
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:33Z",
+   "fetched_at": "2026-08-08T13:52:21Z",
    "quality_flags": null
   },
   "dough-balls-with-garlic-butter-dine-out": {
@@ -223,12 +223,12 @@
    "carbs_g": 50.0,
    "fat_g": 27.7,
    "salt_g": 1.7,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": false,
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:33Z",
+   "fetched_at": "2026-08-08T13:52:21Z",
    "quality_flags": null
   },
   "gf-dough-balls-with-garlic-butter": {
@@ -242,12 +242,12 @@
    "carbs_g": 53.6,
    "fat_g": 28.5,
    "salt_g": 2.1,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": false,
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:33Z",
+   "fetched_at": "2026-08-08T13:52:21Z",
    "quality_flags": null
   },
   "gf-dough-balls-with-garlic-butter-dine-out": {
@@ -261,12 +261,12 @@
    "carbs_g": 53.2,
    "fat_g": 32.6,
    "salt_g": 1.9,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": false,
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:33Z",
+   "fetched_at": "2026-08-08T13:52:21Z",
    "quality_flags": null
   },
   "vegan-dough-balls-with-garlic-parsley-spread": {
@@ -285,7 +285,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:33Z",
+   "fetched_at": "2026-08-08T13:52:21Z",
    "quality_flags": null
   },
   "gf-vegan-dough-balls-with-garlic-parsley-spread": {
@@ -304,7 +304,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:33Z",
+   "fetched_at": "2026-08-08T13:52:21Z",
    "quality_flags": null
   },
   "dough-balls-sharer": {
@@ -318,12 +318,12 @@
    "carbs_g": 104.9,
    "fat_g": 55.6,
    "salt_g": 5.1,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": false,
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:33Z",
+   "fetched_at": "2026-08-08T13:52:21Z",
    "quality_flags": null
   },
   "dough-balls-sharer-dine-out": {
@@ -337,12 +337,12 @@
    "carbs_g": 106.4,
    "fat_g": 51.7,
    "salt_g": 4.7,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": false,
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:33Z",
+   "fetched_at": "2026-08-08T13:52:21Z",
    "quality_flags": null
   },
   "gf-dough-balls-sharer": {
@@ -356,12 +356,12 @@
    "carbs_g": 111.3,
    "fat_g": 65.3,
    "salt_g": 5.5,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": false,
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:33Z",
+   "fetched_at": "2026-08-08T13:52:21Z",
    "quality_flags": null
   },
   "gf-dough-balls-sharer-dine-out": {
@@ -375,12 +375,12 @@
    "carbs_g": 112.8,
    "fat_g": 61.4,
    "salt_g": 5.1,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": false,
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:33Z",
+   "fetched_at": "2026-08-08T13:52:21Z",
    "quality_flags": null
   },
   "dough-balls-sharer-vegan": {
@@ -394,12 +394,12 @@
    "carbs_g": 104.8,
    "fat_g": 38.5,
    "salt_g": 3.6,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:33Z",
+   "fetched_at": "2026-08-08T13:52:21Z",
    "quality_flags": null
   },
   "dough-balls-sharer-vegan-dine-out": {
@@ -413,12 +413,12 @@
    "carbs_g": 104.4,
    "fat_g": 55.5,
    "salt_g": 4.2,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:33Z",
+   "fetched_at": "2026-08-08T13:52:21Z",
    "quality_flags": null
   },
   "dough-balls-sharer-vegan-gf": {
@@ -432,12 +432,12 @@
    "carbs_g": 111.2,
    "fat_g": 48.2,
    "salt_g": 4.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:33Z",
+   "fetched_at": "2026-08-08T13:52:21Z",
    "quality_flags": null
   },
   "dough-balls-sharer-vegan-gf-dine-out": {
@@ -451,12 +451,12 @@
    "carbs_g": 110.8,
    "fat_g": 65.2,
    "salt_g": 4.6,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:33Z",
+   "fetched_at": "2026-08-08T13:52:21Z",
    "quality_flags": null
   },
   "olives-marinate": {
@@ -475,7 +475,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:33Z",
+   "fetched_at": "2026-08-08T13:52:21Z",
    "quality_flags": null
   },
   "roasted-tomatoes": {
@@ -494,7 +494,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:33Z",
+   "fetched_at": "2026-08-08T13:52:21Z",
    "quality_flags": null
   },
   "garlic-bread-with-mozzarella": {
@@ -508,12 +508,12 @@
    "carbs_g": 42.9,
    "fat_g": 11.8,
    "salt_g": 1.8,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": false,
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:33Z",
+   "fetched_at": "2026-08-08T13:52:21Z",
    "quality_flags": null
   },
   "garlic-bread-with-mozzarella-sharer": {
@@ -527,12 +527,12 @@
    "carbs_g": 85.6,
    "fat_g": 26.1,
    "salt_g": 3.6,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": false,
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:33Z",
+   "fetched_at": "2026-08-08T13:52:21Z",
    "quality_flags": null
   },
   "garlic-bread-with-vegan-mozzarella-alternative": {
@@ -546,12 +546,12 @@
    "carbs_g": 44.7,
    "fat_g": 9.1,
    "salt_g": 1.7,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:33Z",
+   "fetched_at": "2026-08-08T13:52:21Z",
    "quality_flags": null
   },
   "garlic-bread-with-vegan-mozzarella-alternative-sharer": {
@@ -565,12 +565,12 @@
    "carbs_g": 89.6,
    "fat_g": 15.1,
    "salt_g": 3.4,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:33Z",
+   "fetched_at": "2026-08-08T13:52:21Z",
    "quality_flags": null
   },
   "garlic-bread-butter": {
@@ -589,7 +589,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:33Z",
+   "fetched_at": "2026-08-08T13:52:21Z",
    "quality_flags": null
   },
   "bruschetta-originale": {
@@ -603,12 +603,12 @@
    "carbs_g": 52.8,
    "fat_g": 17.8,
    "salt_g": 2.2,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": false,
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:33Z",
+   "fetched_at": "2026-08-08T13:52:21Z",
    "quality_flags": null
   },
   "lemon-herbs-chicken-wings": {
@@ -627,7 +627,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:33Z",
+   "fetched_at": "2026-08-08T13:52:21Z",
    "quality_flags": null
   },
   "lemon-herbs-chicken-wings-dine-out": {
@@ -646,7 +646,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:33Z",
+   "fetched_at": "2026-08-08T13:52:21Z",
    "quality_flags": null
   },
   "calamari-with-caesar-dressing": {
@@ -665,7 +665,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:33Z",
+   "fetched_at": "2026-08-08T13:52:21Z",
    "quality_flags": null
   },
   "calamari-dine-out": {
@@ -679,12 +679,12 @@
    "carbs_g": 27.0,
    "fat_g": 55.8,
    "salt_g": 2.3,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": false,
+   "vegan": false,
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:33Z",
+   "fetched_at": "2026-08-08T13:52:21Z",
    "quality_flags": null
   },
   "mozzarella-sticks": {
@@ -698,12 +698,12 @@
    "carbs_g": 44.7,
    "fat_g": 26.7,
    "salt_g": 1.9,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": false,
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:33Z",
+   "fetched_at": "2026-08-08T13:52:21Z",
    "quality_flags": null
   },
   "mozzarella-sticks-dine-out": {
@@ -717,12 +717,12 @@
    "carbs_g": 46.6,
    "fat_g": 27.5,
    "salt_g": 2.6,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": false,
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:33Z",
+   "fetched_at": "2026-08-08T13:52:21Z",
    "quality_flags": null
   },
   "meatballs-al-forno-with-breadsticks": {
@@ -741,7 +741,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:33Z",
+   "fetched_at": "2026-08-08T13:52:21Z",
    "quality_flags": null
   },
   "meatballs-al-forno-with-gf-dough-balls": {
@@ -760,7 +760,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:33Z",
+   "fetched_at": "2026-08-08T13:52:21Z",
    "quality_flags": null
   },
   "sharing-trio": {
@@ -774,12 +774,12 @@
    "carbs_g": 99.7,
    "fat_g": 82.7,
    "salt_g": 5.7,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": false,
+   "vegan": false,
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:33Z",
+   "fetched_at": "2026-08-08T13:52:21Z",
    "quality_flags": null
   },
   "sharing-trio-dine-out": {
@@ -793,12 +793,12 @@
    "carbs_g": 102.9,
    "fat_g": 78.7,
    "salt_g": 5.6,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": false,
+   "vegan": false,
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:33Z",
+   "fetched_at": "2026-08-08T13:52:21Z",
    "quality_flags": null
   },
   "buttermilk-chicken-goujons": {
@@ -812,12 +812,12 @@
    "carbs_g": 32.9,
    "fat_g": 29.2,
    "salt_g": 2.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": false,
+   "vegan": false,
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:33Z",
+   "fetched_at": "2026-08-08T13:52:21Z",
    "quality_flags": null
   },
   "cajun-prawns": {
@@ -831,12 +831,12 @@
    "carbs_g": 32.9,
    "fat_g": 16.9,
    "salt_g": 2.9,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": false,
+   "vegan": false,
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:33Z",
+   "fetched_at": "2026-08-08T13:52:21Z",
    "quality_flags": null
   },
   "cajun-prawns-gf": {
@@ -850,12 +850,12 @@
    "carbs_g": 39.9,
    "fat_g": 19.3,
    "salt_g": 3.2,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": false,
+   "vegan": false,
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:33Z",
+   "fetched_at": "2026-08-08T13:52:21Z",
    "quality_flags": null
   },
   "caprese-salad": {
@@ -869,12 +869,12 @@
    "carbs_g": 7.3,
    "fat_g": 41.2,
    "salt_g": 1.5,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": false,
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:33Z",
+   "fetched_at": "2026-08-08T13:52:21Z",
    "quality_flags": null
   },
   "truffle-cacio-e-pepe-bites": {
@@ -888,12 +888,12 @@
    "carbs_g": 31.3,
    "fat_g": 17.4,
    "salt_g": 1.6,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": false,
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:33Z",
+   "fetched_at": "2026-08-08T13:52:21Z",
    "quality_flags": null
   },
   "triple-chilli-chicken-wings": {
@@ -907,12 +907,12 @@
    "carbs_g": 6.6,
    "fat_g": 41.5,
    "salt_g": 3.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": false,
+   "vegan": false,
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:33Z",
+   "fetched_at": "2026-08-08T13:52:21Z",
    "quality_flags": null
   },
   "triple-chilli-chicken-wings-dine-out": {
@@ -926,12 +926,12 @@
    "carbs_g": 8.1,
    "fat_g": 53.6,
    "salt_g": 3.6,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": false,
+   "vegan": false,
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:33Z",
+   "fetched_at": "2026-08-08T13:52:21Z",
    "quality_flags": null
   },
   "polenta-chips": {
@@ -945,12 +945,12 @@
    "carbs_g": 63.0,
    "fat_g": 28.7,
    "salt_g": 2.9,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": false,
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:33Z",
+   "fetched_at": "2026-08-08T13:52:22Z",
    "quality_flags": null
   },
   "polenta-chips-dine-out": {
@@ -964,12 +964,12 @@
    "carbs_g": 59.8,
    "fat_g": 37.8,
    "salt_g": 3.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": false,
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:33Z",
+   "fetched_at": "2026-08-08T13:52:22Z",
    "quality_flags": null
   },
   "mixed-leaf-salad": {
@@ -988,7 +988,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:33Z",
+   "fetched_at": "2026-08-08T13:52:22Z",
    "quality_flags": null
   },
   "dough-sticks": {
@@ -1002,12 +1002,12 @@
    "carbs_g": 49.6,
    "fat_g": 2.5,
    "salt_g": 1.44,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:33Z",
+   "fetched_at": "2026-08-08T13:52:22Z",
    "quality_flags": null
   },
   "mac-cheese-maccheroni": {
@@ -1026,7 +1026,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:33Z",
+   "fetched_at": "2026-08-08T13:52:22Z",
    "quality_flags": null
   },
   "mac-cheese-fusilli-gf": {
@@ -1045,7 +1045,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:33Z",
+   "fetched_at": "2026-08-08T13:52:22Z",
    "quality_flags": null
   },
   "halloumi-bites": {
@@ -1059,12 +1059,12 @@
    "carbs_g": 83.5,
    "fat_g": 25.1,
    "salt_g": 3.5,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": false,
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:33Z",
+   "fetched_at": "2026-08-08T13:52:22Z",
    "quality_flags": null
   },
   "halloumi-bites-dine-out": {
@@ -1078,12 +1078,12 @@
    "carbs_g": 85.4,
    "fat_g": 25.9,
    "salt_g": 4.1,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": false,
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:33Z",
+   "fetched_at": "2026-08-08T13:52:22Z",
    "quality_flags": null
   },
   "double-halloumi-bites-dine-out": {
@@ -1102,7 +1102,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:33Z",
+   "fetched_at": "2026-08-08T13:52:22Z",
    "quality_flags": null
   },
   "green-goddess-slaw": {
@@ -1116,12 +1116,12 @@
    "carbs_g": 7.4,
    "fat_g": 21.2,
    "salt_g": 0.43,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": false,
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:33Z",
+   "fetched_at": "2026-08-08T13:52:22Z",
    "quality_flags": null
   },
   "american": {
@@ -1135,12 +1135,12 @@
    "carbs_g": 91.9,
    "fat_g": 34.5,
    "salt_g": 5.1,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": false,
+   "vegan": false,
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:33Z",
+   "fetched_at": "2026-08-08T13:52:22Z",
    "quality_flags": null
   },
   "american-gf": {
@@ -1154,12 +1154,12 @@
    "carbs_g": 94.8,
    "fat_g": 35.6,
    "salt_g": 4.7,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": false,
+   "vegan": false,
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:33Z",
+   "fetched_at": "2026-08-08T13:52:22Z",
    "quality_flags": null
   },
   "american-hot": {
@@ -1173,12 +1173,12 @@
    "carbs_g": 92.0,
    "fat_g": 34.5,
    "salt_g": 5.7,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": false,
+   "vegan": false,
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:33Z",
+   "fetched_at": "2026-08-08T13:52:22Z",
    "quality_flags": null
   },
   "american-hot-gf": {
@@ -1192,12 +1192,12 @@
    "carbs_g": 94.8,
    "fat_g": 35.6,
    "salt_g": 5.4,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": false,
+   "vegan": false,
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:33Z",
+   "fetched_at": "2026-08-08T13:52:22Z",
    "quality_flags": null
   },
   "la-reine": {
@@ -1211,12 +1211,12 @@
    "carbs_g": 91.9,
    "fat_g": 24.9,
    "salt_g": 4.8,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": false,
+   "vegan": false,
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:33Z",
+   "fetched_at": "2026-08-08T13:52:22Z",
    "quality_flags": null
   },
   "la-reine-gf": {
@@ -1230,12 +1230,12 @@
    "carbs_g": 94.4,
    "fat_g": 26.0,
    "salt_g": 4.4,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": false,
+   "vegan": false,
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:33Z",
+   "fetched_at": "2026-08-08T13:52:22Z",
    "quality_flags": null
   },
   "sloppy-giuseppe": {
@@ -1249,12 +1249,12 @@
    "carbs_g": 97.0,
    "fat_g": 21.9,
    "salt_g": 4.9,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": false,
+   "vegan": false,
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:33Z",
+   "fetched_at": "2026-08-08T13:52:22Z",
    "quality_flags": null
   },
   "sloppy-giuseppe-gf": {
@@ -1268,12 +1268,12 @@
    "carbs_g": 99.7,
    "fat_g": 23.0,
    "salt_g": 4.6,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": false,
+   "vegan": false,
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:33Z",
+   "fetched_at": "2026-08-08T13:52:22Z",
    "quality_flags": null
   },
   "fiorentina": {
@@ -1287,12 +1287,12 @@
    "carbs_g": 93.4,
    "fat_g": 31.5,
    "salt_g": 4.8,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": false,
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:33Z",
+   "fetched_at": "2026-08-08T13:52:22Z",
    "quality_flags": null
   },
   "fiorentina-gf": {
@@ -1306,12 +1306,12 @@
    "carbs_g": 96.2,
    "fat_g": 32.6,
    "salt_g": 4.5,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": false,
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:33Z",
+   "fetched_at": "2026-08-08T13:52:22Z",
    "quality_flags": null
   },
   "padana": {
@@ -1325,12 +1325,12 @@
    "carbs_g": 107.9,
    "fat_g": 24.6,
    "salt_g": 4.2,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": false,
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:33Z",
+   "fetched_at": "2026-08-08T13:52:22Z",
    "quality_flags": null
   },
   "padana-gf": {
@@ -1344,12 +1344,12 @@
    "carbs_g": 110.8,
    "fat_g": 25.7,
    "salt_g": 3.8,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": false,
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:33Z",
+   "fetched_at": "2026-08-08T13:52:22Z",
    "quality_flags": null
   },
   "padana-vegan": {
@@ -1363,12 +1363,12 @@
    "carbs_g": 111.6,
    "fat_g": 14.8,
    "salt_g": 4.1,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:33Z",
+   "fetched_at": "2026-08-08T13:52:22Z",
    "quality_flags": null
   },
   "padana-vegan-gf": {
@@ -1382,12 +1382,12 @@
    "carbs_g": 114.0,
    "fat_g": 15.9,
    "salt_g": 3.7,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:33Z",
+   "fetched_at": "2026-08-08T13:52:22Z",
    "quality_flags": null
   },
   "pollo-ad-astra": {
@@ -1401,12 +1401,12 @@
    "carbs_g": 97.6,
    "fat_g": 22.4,
    "salt_g": 4.6,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": false,
+   "vegan": false,
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:33Z",
+   "fetched_at": "2026-08-08T13:52:22Z",
    "quality_flags": null
   },
   "pollo-ad-astra-gf": {
@@ -1420,12 +1420,12 @@
    "carbs_g": 100.8,
    "fat_g": 23.6,
    "salt_g": 4.3,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": false,
+   "vegan": false,
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:33Z",
+   "fetched_at": "2026-08-08T13:52:22Z",
    "quality_flags": null
   },
   "bbq-burnt-ends": {
@@ -1439,12 +1439,12 @@
    "carbs_g": 118.1,
    "fat_g": 24.0,
    "salt_g": 5.7,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": false,
+   "vegan": false,
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:33Z",
+   "fetched_at": "2026-08-08T13:52:22Z",
    "quality_flags": null
   },
   "bbq-burnt-ends-gf": {
@@ -1458,12 +1458,12 @@
    "carbs_g": 121.0,
    "fat_g": 25.1,
    "salt_g": 5.4,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": false,
+   "vegan": false,
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:33Z",
+   "fetched_at": "2026-08-08T13:52:22Z",
    "quality_flags": null
   },
   "smoky-bbq-chicken": {
@@ -1477,12 +1477,12 @@
    "carbs_g": 116.7,
    "fat_g": 18.6,
    "salt_g": 5.3,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": false,
+   "vegan": false,
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:33Z",
+   "fetched_at": "2026-08-08T13:52:22Z",
    "quality_flags": null
   },
   "smoky-bbq-chicken-gf": {
@@ -1496,12 +1496,12 @@
    "carbs_g": 119.5,
    "fat_g": 19.7,
    "salt_g": 4.9,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": false,
+   "vegan": false,
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:33Z",
+   "fetched_at": "2026-08-08T13:52:22Z",
    "quality_flags": null
   },
   "double-american-cheese-dine-out": {
@@ -1515,12 +1515,12 @@
    "carbs_g": 92.8,
    "fat_g": 45.0,
    "salt_g": 6.5,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": false,
+   "vegan": false,
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:33Z",
+   "fetched_at": "2026-08-08T13:52:22Z",
    "quality_flags": null
   },
   "double-american-cheese-gf-dine-out": {
@@ -1534,12 +1534,12 @@
    "carbs_g": 95.6,
    "fat_g": 46.1,
    "salt_g": 6.2,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": false,
+   "vegan": false,
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:33Z",
+   "fetched_at": "2026-08-08T13:52:22Z",
    "quality_flags": null
   },
   "garlic-prawn": {
@@ -1558,7 +1558,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:33Z",
+   "fetched_at": "2026-08-08T13:52:22Z",
    "quality_flags": null
   },
   "garlic-prawn-gf": {
@@ -1577,7 +1577,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:33Z",
+   "fetched_at": "2026-08-08T13:52:22Z",
    "quality_flags": null
   },
   "funghi-di-bosco": {
@@ -1591,12 +1591,12 @@
    "carbs_g": 92.2,
    "fat_g": 30.4,
    "salt_g": 4.2,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": false,
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:34Z",
+   "fetched_at": "2026-08-08T13:52:22Z",
    "quality_flags": null
   },
   "funghi-di-bosco-gf": {
@@ -1610,12 +1610,12 @@
    "carbs_g": 95.0,
    "fat_g": 31.5,
    "salt_g": 3.8,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": false,
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:34Z",
+   "fetched_at": "2026-08-08T13:52:22Z",
    "quality_flags": null
   },
   "vegan-funghi-di-bosco": {
@@ -1629,12 +1629,12 @@
    "carbs_g": 95.8,
    "fat_g": 20.8,
    "salt_g": 3.9,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:34Z",
+   "fetched_at": "2026-08-08T13:52:22Z",
    "quality_flags": null
   },
   "vegan-funghi-di-bosco-gf": {
@@ -1648,12 +1648,12 @@
    "carbs_g": 98.2,
    "fat_g": 21.9,
    "salt_g": 3.5,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:34Z",
+   "fetched_at": "2026-08-08T13:52:22Z",
    "quality_flags": null
   },
   "margherita": {
@@ -1667,12 +1667,12 @@
    "carbs_g": 91.7,
    "fat_g": 22.1,
    "salt_g": 4.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": false,
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:34Z",
+   "fetched_at": "2026-08-08T13:52:22Z",
    "quality_flags": null
   },
   "margherita-gf": {
@@ -1686,12 +1686,12 @@
    "carbs_g": 94.5,
    "fat_g": 23.2,
    "salt_g": 3.7,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": false,
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:34Z",
+   "fetched_at": "2026-08-08T13:52:22Z",
    "quality_flags": null
   },
   "margherita-vegan": {
@@ -1705,12 +1705,12 @@
    "carbs_g": 95.4,
    "fat_g": 15.4,
    "salt_g": 3.9,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:34Z",
+   "fetched_at": "2026-08-08T13:52:22Z",
    "quality_flags": null
   },
   "margherita-vegan-gf": {
@@ -1724,12 +1724,12 @@
    "carbs_g": 98.2,
    "fat_g": 16.6,
    "salt_g": 3.6,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:34Z",
+   "fetched_at": "2026-08-08T13:52:22Z",
    "quality_flags": null
   },
   "calabrian-feast": {
@@ -1743,12 +1743,12 @@
    "carbs_g": 108.5,
    "fat_g": 52.9,
    "salt_g": 7.3,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": false,
+   "vegan": false,
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:34Z",
+   "fetched_at": "2026-08-08T13:52:22Z",
    "quality_flags": null
   },
   "calabrian-feast-gf": {
@@ -1762,12 +1762,12 @@
    "carbs_g": 111.3,
    "fat_g": 54.0,
    "salt_g": 6.9,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": false,
+   "vegan": false,
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:34Z",
+   "fetched_at": "2026-08-08T13:52:22Z",
    "quality_flags": null
   },
   "giardiniera": {
@@ -1781,12 +1781,12 @@
    "carbs_g": 98.2,
    "fat_g": 29.2,
    "salt_g": 5.6,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": false,
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:34Z",
+   "fetched_at": "2026-08-08T13:52:22Z",
    "quality_flags": null
   },
   "giardiniera-gf": {
@@ -1800,12 +1800,12 @@
    "carbs_g": 101.1,
    "fat_g": 30.3,
    "salt_g": 5.2,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": false,
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:34Z",
+   "fetched_at": "2026-08-08T13:52:22Z",
    "quality_flags": null
   },
   "vegan-harissa-melanzane": {
@@ -1819,12 +1819,12 @@
    "carbs_g": 106.0,
    "fat_g": 30.7,
    "salt_g": 4.7,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:34Z",
+   "fetched_at": "2026-08-08T13:52:22Z",
    "quality_flags": null
   },
   "vegan-harissa-melanzane-gf": {
@@ -1838,12 +1838,12 @@
    "carbs_g": 108.8,
    "fat_g": 31.8,
    "salt_g": 4.4,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:34Z",
+   "fetched_at": "2026-08-08T13:52:22Z",
    "quality_flags": null
   },
   "vegan-giardiniera": {
@@ -1857,12 +1857,12 @@
    "carbs_g": 101.8,
    "fat_g": 22.6,
    "salt_g": 5.5,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:34Z",
+   "fetched_at": "2026-08-08T13:52:22Z",
    "quality_flags": null
   },
   "vegan-giardiniera-gf": {
@@ -1876,12 +1876,12 @@
    "carbs_g": 104.6,
    "fat_g": 23.7,
    "salt_g": 5.1,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:34Z",
+   "fetched_at": "2026-08-08T13:52:22Z",
    "quality_flags": null
   },
   "marry-me-chicken": {
@@ -1895,12 +1895,12 @@
    "carbs_g": 95.6,
    "fat_g": 46.9,
    "salt_g": 5.9,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": false,
+   "vegan": false,
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:34Z",
+   "fetched_at": "2026-08-08T13:52:22Z",
    "quality_flags": null
   },
   "marry-me-chicken-gf": {
@@ -1914,12 +1914,12 @@
    "carbs_g": 98.0,
    "fat_g": 47.8,
    "salt_g": 5.5,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": false,
+   "vegan": false,
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:34Z",
+   "fetched_at": "2026-08-08T13:52:22Z",
    "quality_flags": null
   },
   "peach-parma-hot": {
@@ -1933,12 +1933,12 @@
    "carbs_g": 100.4,
    "fat_g": 36.7,
    "salt_g": 7.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": false,
+   "vegan": false,
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:34Z",
+   "fetched_at": "2026-08-08T13:52:22Z",
    "quality_flags": null
   },
   "peach-parma-hot-gf": {
@@ -1952,12 +1952,12 @@
    "carbs_g": 103.3,
    "fat_g": 37.8,
    "salt_g": 6.6,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": false,
+   "vegan": false,
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:34Z",
+   "fetched_at": "2026-08-08T13:52:22Z",
    "quality_flags": null
   },
   "calabrian-feast-piccante": {
@@ -1976,7 +1976,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:35Z",
+   "fetched_at": "2026-08-08T13:52:23Z",
    "quality_flags": null
   },
   "lasagna-classica": {
@@ -1990,12 +1990,12 @@
    "carbs_g": 52.0,
    "fat_g": 30.0,
    "salt_g": 3.64,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": false,
+   "vegan": false,
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:35Z",
+   "fetched_at": "2026-08-08T13:52:23Z",
    "quality_flags": null
   },
   "cannelloni": {
@@ -2009,12 +2009,12 @@
    "carbs_g": 61.3,
    "fat_g": 40.6,
    "salt_g": 3.71,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": false,
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:35Z",
+   "fetched_at": "2026-08-08T13:52:23Z",
    "quality_flags": null
   },
   "pollo-pesto-penne": {
@@ -2033,7 +2033,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:35Z",
+   "fetched_at": "2026-08-08T13:52:23Z",
    "quality_flags": null
   },
   "pollo-pesto-fusilli-gf": {
@@ -2052,7 +2052,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:35Z",
+   "fetched_at": "2026-08-08T13:52:23Z",
    "quality_flags": null
   },
   "peperonata-penne": {
@@ -2071,7 +2071,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:35Z",
+   "fetched_at": "2026-08-08T13:52:23Z",
    "quality_flags": null
   },
   "peperonata-fusilli-gf": {
@@ -2090,7 +2090,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:35Z",
+   "fetched_at": "2026-08-08T13:52:23Z",
    "quality_flags": null
   },
   "prawn-puttanesca": {
@@ -2104,12 +2104,12 @@
    "carbs_g": 59.1,
    "fat_g": 21.6,
    "salt_g": 5.3,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": false,
+   "vegan": false,
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:35Z",
+   "fetched_at": "2026-08-08T13:52:23Z",
    "quality_flags": null
   },
   "pomodoro": {
@@ -2123,12 +2123,12 @@
    "carbs_g": null,
    "fat_g": null,
    "salt_g": null,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": false,
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:35Z",
+   "fetched_at": "2026-08-08T13:52:23Z",
    "quality_flags": null
   },
   "ni-oise": {
@@ -2142,12 +2142,12 @@
    "carbs_g": 16.2,
    "fat_g": 35.4,
    "salt_g": 4.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": false,
+   "vegan": false,
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:35Z",
+   "fetched_at": "2026-08-08T13:52:23Z",
    "quality_flags": null
   },
   "ni-oise-with-dough-sticks": {
@@ -2161,12 +2161,12 @@
    "carbs_g": 65.8,
    "fat_g": 37.9,
    "salt_g": 5.4,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": false,
+   "vegan": false,
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:35Z",
+   "fetched_at": "2026-08-08T13:52:23Z",
    "quality_flags": null
   },
   "ni-oise-with-gf-dough-balls": {
@@ -2185,7 +2185,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:35Z",
+   "fetched_at": "2026-08-08T13:52:23Z",
    "quality_flags": null
   },
   "goats-cheese-beetroot-buddha-bowl": {
@@ -2204,7 +2204,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:35Z",
+   "fetched_at": "2026-08-08T13:52:23Z",
    "quality_flags": null
   },
   "goats-cheese-beetroot-buddha-bowl-with-dough-sticks": {
@@ -2223,7 +2223,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:35Z",
+   "fetched_at": "2026-08-08T13:52:23Z",
    "quality_flags": null
   },
   "goats-cheese-beetroot-buddha-bowl-with-gf-dough-balls": {
@@ -2242,7 +2242,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:35Z",
+   "fetched_at": "2026-08-08T13:52:23Z",
    "quality_flags": null
   },
   "vegan-buddha-bowl": {
@@ -2261,7 +2261,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:35Z",
+   "fetched_at": "2026-08-08T13:52:23Z",
    "quality_flags": null
   },
   "vegan-buddha-bowl-with-dough-sticks": {
@@ -2275,12 +2275,12 @@
    "carbs_g": 93.2,
    "fat_g": 34.1,
    "salt_g": 3.2,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:35Z",
+   "fetched_at": "2026-08-08T13:52:23Z",
    "quality_flags": null
   },
   "vegan-buddha-bowl-with-gf-dough-balls": {
@@ -2299,7 +2299,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:35Z",
+   "fetched_at": "2026-08-08T13:52:23Z",
    "quality_flags": null
   },
   "warm-roasted-veg-chicken-bowl": {
@@ -2313,12 +2313,12 @@
    "carbs_g": 20.7,
    "fat_g": 34.1,
    "salt_g": 2.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": false,
+   "vegan": false,
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:35Z",
+   "fetched_at": "2026-08-08T13:52:23Z",
    "quality_flags": null
   },
   "grand-chicken-caesar-salad": {
@@ -2337,7 +2337,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:35Z",
+   "fetched_at": "2026-08-08T13:52:23Z",
    "quality_flags": null
   },
   "grand-chicken-caesar-salad-with-dough-sticks": {
@@ -2356,7 +2356,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:35Z",
+   "fetched_at": "2026-08-08T13:52:23Z",
    "quality_flags": null
   },
   "grand-chicken-caesar-salad-with-gf-dough-balls": {
@@ -2375,7 +2375,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:35Z",
+   "fetched_at": "2026-08-08T13:52:23Z",
    "quality_flags": null
   },
   "house-dressing": {
@@ -2394,7 +2394,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:35Z",
+   "fetched_at": "2026-08-08T13:52:24Z",
    "quality_flags": null
   },
   "caesar-dressing": {
@@ -2413,7 +2413,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:35Z",
+   "fetched_at": "2026-08-08T13:52:24Z",
    "quality_flags": null
   },
   "honey-mustard-dressing": {
@@ -2432,7 +2432,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:35Z",
+   "fetched_at": "2026-08-08T13:52:24Z",
    "quality_flags": null
   },
   "basil-pine-kernel-pesto": {
@@ -2451,7 +2451,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:35Z",
+   "fetched_at": "2026-08-08T13:52:24Z",
    "quality_flags": null
   },
   "houmous": {
@@ -2470,7 +2470,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:35Z",
+   "fetched_at": "2026-08-08T13:52:24Z",
    "quality_flags": null
   },
   "sweet-smoky-bbq": {
@@ -2489,7 +2489,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:35Z",
+   "fetched_at": "2026-08-08T13:52:24Z",
    "quality_flags": null
   },
   "garlic-butter": {
@@ -2508,7 +2508,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:35Z",
+   "fetched_at": "2026-08-08T13:52:24Z",
    "quality_flags": null
   },
   "vegan-garlic-parsley-spread": {
@@ -2527,7 +2527,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:35Z",
+   "fetched_at": "2026-08-08T13:52:24Z",
    "quality_flags": null
   },
   "chilli-basil": {
@@ -2546,7 +2546,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:35Z",
+   "fetched_at": "2026-08-08T13:52:24Z",
    "quality_flags": null
   },
   "smoky-tomato-harissa": {
@@ -2565,7 +2565,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:35Z",
+   "fetched_at": "2026-08-08T13:52:24Z",
    "quality_flags": null
   },
   "garlic-herb-dip": {
@@ -2584,7 +2584,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:35Z",
+   "fetched_at": "2026-08-08T13:52:24Z",
    "quality_flags": null
   },
   "italian-tomato-dip": {
@@ -2603,7 +2603,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:35Z",
+   "fetched_at": "2026-08-08T13:52:24Z",
    "quality_flags": null
   },
   "garlic-butter-dip-pot-dine-out": {
@@ -2622,7 +2622,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:35Z",
+   "fetched_at": "2026-08-08T13:52:24Z",
    "quality_flags": null
   },
   "vegan-garlic-parsley-spread-dine-out": {
@@ -2641,7 +2641,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:35Z",
+   "fetched_at": "2026-08-08T13:52:24Z",
    "quality_flags": null
   },
   "blue-cheese-dip": {
@@ -2660,7 +2660,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:35Z",
+   "fetched_at": "2026-08-08T13:52:24Z",
    "quality_flags": null
   },
   "pizzanaise-dine-in": {
@@ -2679,7 +2679,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:35Z",
+   "fetched_at": "2026-08-08T13:52:24Z",
    "quality_flags": null
   },
   "pizzanaise-dine-out": {
@@ -2698,7 +2698,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:35Z",
+   "fetched_at": "2026-08-08T13:52:24Z",
    "quality_flags": null
   },
   "sweet-smoky-bbq-dip": {
@@ -2717,7 +2717,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:35Z",
+   "fetched_at": "2026-08-08T13:52:24Z",
    "quality_flags": null
   },
   "spicy-tomato-chilli": {
@@ -2736,7 +2736,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:35Z",
+   "fetched_at": "2026-08-08T13:52:24Z",
    "quality_flags": null
   },
   "black-olives": {
@@ -2755,7 +2755,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:36Z",
+   "fetched_at": "2026-08-08T13:52:24Z",
    "quality_flags": null
   },
   "red-onion": {
@@ -2774,7 +2774,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:36Z",
+   "fetched_at": "2026-08-08T13:52:24Z",
    "quality_flags": null
   },
   "red-chillies": {
@@ -2793,7 +2793,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:36Z",
+   "fetched_at": "2026-08-08T13:52:24Z",
    "quality_flags": null
   },
   "anchovies-brown": {
@@ -2812,7 +2812,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:36Z",
+   "fetched_at": "2026-08-08T13:52:24Z",
    "quality_flags": null
   },
   "tuna": {
@@ -2831,7 +2831,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:36Z",
+   "fetched_at": "2026-08-08T13:52:24Z",
    "quality_flags": null
   },
   "artichokes": {
@@ -2850,7 +2850,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:36Z",
+   "fetched_at": "2026-08-08T13:52:24Z",
    "quality_flags": null
   },
   "jalape-o-peppers": {
@@ -2869,7 +2869,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:36Z",
+   "fetched_at": "2026-08-08T13:52:24Z",
    "quality_flags": null
   },
   "chicken": {
@@ -2888,7 +2888,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:36Z",
+   "fetched_at": "2026-08-08T13:52:24Z",
    "quality_flags": null
   },
   "pepperoni": {
@@ -2907,7 +2907,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:36Z",
+   "fetched_at": "2026-08-08T13:52:24Z",
    "quality_flags": null
   },
   "goats-cheese": {
@@ -2926,7 +2926,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:36Z",
+   "fetched_at": "2026-08-08T13:52:24Z",
    "quality_flags": null
   },
   "ham": {
@@ -2945,7 +2945,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:36Z",
+   "fetched_at": "2026-08-08T13:52:24Z",
    "quality_flags": null
   },
   "green-peppers": {
@@ -2964,7 +2964,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:36Z",
+   "fetched_at": "2026-08-08T13:52:24Z",
    "quality_flags": null
   },
   "nduja": {
@@ -2983,7 +2983,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:36Z",
+   "fetched_at": "2026-08-08T13:52:24Z",
    "quality_flags": null
   },
   "cow-s-milk-mozzarella": {
@@ -3002,7 +3002,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:36Z",
+   "fetched_at": "2026-08-08T13:52:24Z",
    "quality_flags": null
   },
   "red-onion-chutney": {
@@ -3021,7 +3021,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:36Z",
+   "fetched_at": "2026-08-08T13:52:24Z",
    "quality_flags": null
   },
   "baby-plum-tomatoes": {
@@ -3040,7 +3040,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:36Z",
+   "fetched_at": "2026-08-08T13:52:24Z",
    "quality_flags": null
   },
   "roasted-mixed-peppers": {
@@ -3059,7 +3059,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:36Z",
+   "fetched_at": "2026-08-08T13:52:24Z",
    "quality_flags": null
   },
   "spinach": {
@@ -3078,7 +3078,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:36Z",
+   "fetched_at": "2026-08-08T13:52:24Z",
    "quality_flags": null
   },
   "sweet-red-peppers": {
@@ -3097,7 +3097,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:36Z",
+   "fetched_at": "2026-08-08T13:52:24Z",
    "quality_flags": null
   },
   "mozzarella": {
@@ -3116,7 +3116,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:36Z",
+   "fetched_at": "2026-08-08T13:52:24Z",
    "quality_flags": null
   },
   "egg": {
@@ -3135,7 +3135,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:36Z",
+   "fetched_at": "2026-08-08T13:52:24Z",
    "quality_flags": null
   },
   "rocket": {
@@ -3154,7 +3154,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:36Z",
+   "fetched_at": "2026-08-08T13:52:24Z",
    "quality_flags": null
   },
   "pancetta-sliced": {
@@ -3173,7 +3173,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:36Z",
+   "fetched_at": "2026-08-08T13:52:24Z",
    "quality_flags": null
   },
   "slow-roasted-tomatoes": {
@@ -3187,12 +3187,12 @@
    "carbs_g": 3.6,
    "fat_g": 2.1,
    "salt_g": 0.28,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:36Z",
+   "fetched_at": "2026-08-08T13:52:24Z",
    "quality_flags": null
   },
   "grilled-aubergine": {
@@ -3211,7 +3211,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:36Z",
+   "fetched_at": "2026-08-08T13:52:24Z",
    "quality_flags": null
   },
   "hot-green-peppers": {
@@ -3230,7 +3230,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:36Z",
+   "fetched_at": "2026-08-08T13:52:24Z",
    "quality_flags": null
   },
   "light-mozzarella": {
@@ -3249,7 +3249,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:36Z",
+   "fetched_at": "2026-08-08T13:52:24Z",
    "quality_flags": null
   },
   "vegan-mozzarella-alternative": {
@@ -3268,7 +3268,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:36Z",
+   "fetched_at": "2026-08-08T13:52:24Z",
    "quality_flags": null
   },
   "crispy-pancetta": {
@@ -3287,7 +3287,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:36Z",
+   "fetched_at": "2026-08-08T13:52:24Z",
    "quality_flags": null
   },
   "tiramisu": {
@@ -3301,12 +3301,12 @@
    "carbs_g": 69.4,
    "fat_g": 22.7,
    "salt_g": 0.22,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": false,
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:36Z",
+   "fetched_at": "2026-08-08T13:52:24Z",
    "quality_flags": null
   },
   "biscoff-billionaire-s-sundae": {
@@ -3325,7 +3325,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:36Z",
+   "fetched_at": "2026-08-08T13:52:24Z",
    "quality_flags": null
   },
   "dolcetti-caffe-reale-excluding-hot-drink-option": {
@@ -3344,7 +3344,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:36Z",
+   "fetched_at": "2026-08-08T13:52:24Z",
    "quality_flags": null
   },
   "dolcetti-biscoff-cheesecake-excluding-hot-drink-option": {
@@ -3363,7 +3363,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:36Z",
+   "fetched_at": "2026-08-08T13:52:24Z",
    "quality_flags": null
   },
   "dolcetti-stem-ginger-cake-excluding-hot-drink-option": {
@@ -3382,7 +3382,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:36Z",
+   "fetched_at": "2026-08-08T13:52:24Z",
    "quality_flags": null
   },
   "stem-ginger-cake-dine-out": {
@@ -3396,12 +3396,12 @@
    "carbs_g": 78.5,
    "fat_g": 21.1,
    "salt_g": 0.31,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:36Z",
+   "fetched_at": "2026-08-08T13:52:24Z",
    "quality_flags": null
   },
   "raspberry-sorbet-1-scoop": {
@@ -3420,7 +3420,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:36Z",
+   "fetched_at": "2026-08-08T13:52:24Z",
    "quality_flags": null
   },
   "lime-and-basil-sorbet-1-scoop": {
@@ -3439,7 +3439,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:36Z",
+   "fetched_at": "2026-08-08T13:52:24Z",
    "quality_flags": null
   },
   "vanilla-gelato-1-scoop": {
@@ -3458,7 +3458,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:36Z",
+   "fetched_at": "2026-08-08T13:52:24Z",
    "quality_flags": null
   },
   "salted-caramel-gelato-1-scoop": {
@@ -3477,7 +3477,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:36Z",
+   "fetched_at": "2026-08-08T13:52:24Z",
    "quality_flags": null
   },
   "stracciatella-gelato-1-scoop": {
@@ -3496,7 +3496,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:36Z",
+   "fetched_at": "2026-08-08T13:52:24Z",
    "quality_flags": null
   },
   "frangelico-affogato-uk-only": {
@@ -3515,7 +3515,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:36Z",
+   "fetched_at": "2026-08-08T13:52:24Z",
    "quality_flags": null
   },
   "double-belgium-chocolate-brownie": {
@@ -3534,7 +3534,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:36Z",
+   "fetched_at": "2026-08-08T13:52:24Z",
    "quality_flags": null
   },
   "chocolate-fudge-cake": {
@@ -3553,7 +3553,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:36Z",
+   "fetched_at": "2026-08-08T13:52:24Z",
    "quality_flags": null
   },
   "chocolate-fudge-cake-dine-out": {
@@ -3572,7 +3572,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:36Z",
+   "fetched_at": "2026-08-08T13:52:24Z",
    "quality_flags": null
   },
   "lemon-raspberry-cheesecake": {
@@ -3591,7 +3591,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:36Z",
+   "fetched_at": "2026-08-08T13:52:24Z",
    "quality_flags": null
   },
   "lemon-raspberry-cheesecake-dine-out": {
@@ -3610,7 +3610,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:36Z",
+   "fetched_at": "2026-08-08T13:52:24Z",
    "quality_flags": null
   },
   "honeycomb-caramel-cream-slice": {
@@ -3629,7 +3629,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:36Z",
+   "fetched_at": "2026-08-08T13:52:24Z",
    "quality_flags": null
   },
   "honeycomb-caramel-cream-slice-dine-out": {
@@ -3648,7 +3648,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:36Z",
+   "fetched_at": "2026-08-08T13:52:24Z",
    "quality_flags": null
   },
   "baked-vanilla-cheesecake": {
@@ -3667,7 +3667,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:36Z",
+   "fetched_at": "2026-08-08T13:52:24Z",
    "quality_flags": null
   },
   "baked-vanilla-cheesecake-dine-out": {
@@ -3686,7 +3686,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:36Z",
+   "fetched_at": "2026-08-08T13:52:24Z",
    "quality_flags": null
   },
   "biscoff-cheesecake-dine-out": {
@@ -3705,7 +3705,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:36Z",
+   "fetched_at": "2026-08-08T13:52:24Z",
    "quality_flags": null
   },
   "double-chocolate-brownie-bites-dine-out": {
@@ -3719,12 +3719,12 @@
    "carbs_g": 103.0,
    "fat_g": 57.4,
    "salt_g": 0.22,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": false,
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:36Z",
+   "fetched_at": "2026-08-08T13:52:24Z",
    "quality_flags": null
   },
   "white-chocolate-blondie": {
@@ -3738,12 +3738,12 @@
    "carbs_g": 94.0,
    "fat_g": 29.2,
    "salt_g": 0.97,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": false,
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:36Z",
+   "fetched_at": "2026-08-08T13:52:24Z",
    "quality_flags": null
   },
   "white-chocolate-blondie-bites-dine-out": {
@@ -3757,12 +3757,12 @@
    "carbs_g": 114.8,
    "fat_g": 40.4,
    "salt_g": 0.46,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": false,
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:36Z",
+   "fetched_at": "2026-08-08T13:52:24Z",
    "quality_flags": null
   },
   "sicilian-lemon-delight": {
@@ -3776,12 +3776,12 @@
    "carbs_g": 13.7,
    "fat_g": 0.0,
    "salt_g": 0.01,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:36Z",
+   "fetched_at": "2026-08-08T13:52:24Z",
    "quality_flags": null
   },
   "dolcetti-choc-ice-bites-excluding-hot-drink-option": {
@@ -3800,7 +3800,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:36Z",
+   "fetched_at": "2026-08-08T13:52:24Z",
    "quality_flags": null
   },
   "strawberry-sicilian-lemonade": {
@@ -3819,7 +3819,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:37Z",
+   "fetched_at": "2026-08-08T13:52:25Z",
    "quality_flags": null
   },
   "peroni-nastro-azzurro-0-0": {
@@ -3838,7 +3838,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:37Z",
+   "fetched_at": "2026-08-08T13:52:25Z",
    "quality_flags": null
   },
   "coca-cola-classic": {
@@ -3857,7 +3857,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:37Z",
+   "fetched_at": "2026-08-08T13:52:25Z",
    "quality_flags": null
   },
   "diet-coke": {
@@ -3876,7 +3876,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:37Z",
+   "fetched_at": "2026-08-08T13:52:25Z",
    "quality_flags": null
   },
   "coca-cola-zero-sugar": {
@@ -3895,7 +3895,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:37Z",
+   "fetched_at": "2026-08-08T13:52:25Z",
    "quality_flags": null
   },
   "fanta": {
@@ -3914,7 +3914,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:37Z",
+   "fetched_at": "2026-08-08T13:52:25Z",
    "quality_flags": null
   },
   "sprite-no-sugar": {
@@ -3933,7 +3933,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:37Z",
+   "fetched_at": "2026-08-08T13:52:25Z",
    "quality_flags": null
   },
   "san-pellegrino-limonata": {
@@ -3952,7 +3952,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:37Z",
+   "fetched_at": "2026-08-08T13:52:25Z",
    "quality_flags": null
   },
   "sicilian-still-lemonade": {
@@ -3971,7 +3971,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:37Z",
+   "fetched_at": "2026-08-08T13:52:25Z",
    "quality_flags": null
   },
   "schweppes-mixer-lemonade": {
@@ -3990,7 +3990,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:37Z",
+   "fetched_at": "2026-08-08T13:52:25Z",
    "quality_flags": null
   },
   "fever-tree-light-tonic-rhubarb-raspberry": {
@@ -4009,7 +4009,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:37Z",
+   "fetched_at": "2026-08-08T13:52:25Z",
    "quality_flags": null
   },
   "fever-tree-light-tonic-mediterranean": {
@@ -4028,7 +4028,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:37Z",
+   "fetched_at": "2026-08-08T13:52:25Z",
    "quality_flags": null
   },
   "irn-bru-scotland-terriroty-only": {
@@ -4047,7 +4047,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:37Z",
+   "fetched_at": "2026-08-08T13:52:25Z",
    "quality_flags": null
   },
   "no-1-living-ginger-kombucha": {
@@ -4066,7 +4066,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:37Z",
+   "fetched_at": "2026-08-08T13:52:25Z",
    "quality_flags": null
   },
   "oasis-summer-fruits": {
@@ -4085,7 +4085,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:37Z",
+   "fetched_at": "2026-08-08T13:52:25Z",
    "quality_flags": null
   },
   "apple-juice": {
@@ -4104,7 +4104,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:37Z",
+   "fetched_at": "2026-08-08T13:52:25Z",
    "quality_flags": null
   },
   "passion-fruit-still-lemonade": {
@@ -4123,7 +4123,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:37Z",
+   "fetched_at": "2026-08-08T13:52:25Z",
    "quality_flags": null
   },
   "san-pellegrino-aranciata-rossa": {
@@ -4142,7 +4142,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:37Z",
+   "fetched_at": "2026-08-08T13:52:25Z",
    "quality_flags": null
   },
   "appletiser": {
@@ -4161,7 +4161,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:37Z",
+   "fetched_at": "2026-08-08T13:52:25Z",
    "quality_flags": null
   },
   "raspberry-sparkle": {
@@ -4180,7 +4180,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:37Z",
+   "fetched_at": "2026-08-08T13:52:25Z",
    "quality_flags": null
   },
   "elderflower-mint-sparkle": {
@@ -4199,7 +4199,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:37Z",
+   "fetched_at": "2026-08-08T13:52:25Z",
    "quality_flags": null
   },
   "peach-sparkle": {
@@ -4218,7 +4218,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:37Z",
+   "fetched_at": "2026-08-08T13:52:25Z",
    "quality_flags": null
   },
   "lipton-iced-tea-peach": {
@@ -4237,7 +4237,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:37Z",
+   "fetched_at": "2026-08-08T13:52:25Z",
    "quality_flags": null
   },
   "lime-ginger-sparkle-can": {
@@ -4256,7 +4256,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:37Z",
+   "fetched_at": "2026-08-08T13:52:25Z",
    "quality_flags": null
   },
   "orange-juice": {
@@ -4275,7 +4275,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:37Z",
+   "fetched_at": "2026-08-08T13:52:25Z",
    "quality_flags": null
   },
   "cordino-spritz": {
@@ -4294,7 +4294,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:37Z",
+   "fetched_at": "2026-08-08T13:52:25Z",
    "quality_flags": null
   },
   "living-things-watermelon-lime": {
@@ -4313,7 +4313,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:37Z",
+   "fetched_at": "2026-08-08T13:52:25Z",
    "quality_flags": null
   },
   "espresso": {
@@ -4332,7 +4332,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:37Z",
+   "fetched_at": "2026-08-08T13:52:25Z",
    "quality_flags": null
   },
   "dbl-espresso": {
@@ -4351,7 +4351,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:37Z",
+   "fetched_at": "2026-08-08T13:52:25Z",
    "quality_flags": null
   },
   "americano": {
@@ -4370,7 +4370,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:37Z",
+   "fetched_at": "2026-08-08T13:52:25Z",
    "quality_flags": null
   },
   "latte": {
@@ -4389,7 +4389,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:37Z",
+   "fetched_at": "2026-08-08T13:52:25Z",
    "quality_flags": null
   },
   "latte-oat-milk": {
@@ -4408,7 +4408,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:37Z",
+   "fetched_at": "2026-08-08T13:52:25Z",
    "quality_flags": null
   },
   "flat-white": {
@@ -4427,7 +4427,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:37Z",
+   "fetched_at": "2026-08-08T13:52:25Z",
    "quality_flags": null
   },
   "flat-white-oat-milk": {
@@ -4446,7 +4446,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:37Z",
+   "fetched_at": "2026-08-08T13:52:25Z",
    "quality_flags": null
   },
   "cappuccino": {
@@ -4465,7 +4465,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:37Z",
+   "fetched_at": "2026-08-08T13:52:25Z",
    "quality_flags": null
   },
   "cappuccino-oat-milk": {
@@ -4484,7 +4484,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:37Z",
+   "fetched_at": "2026-08-08T13:52:25Z",
    "quality_flags": null
   },
   "macchiato": {
@@ -4503,7 +4503,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:37Z",
+   "fetched_at": "2026-08-08T13:52:25Z",
    "quality_flags": null
   },
   "macchiato-oat-milk": {
@@ -4522,7 +4522,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:37Z",
+   "fetched_at": "2026-08-08T13:52:25Z",
    "quality_flags": null
   },
   "the-full-english-english-breakfast": {
@@ -4541,7 +4541,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:37Z",
+   "fetched_at": "2026-08-08T13:52:25Z",
    "quality_flags": null
   },
   "the-full-english-english-breakfast-with-semi-skimmed-milk-5cl": {
@@ -4560,7 +4560,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:37Z",
+   "fetched_at": "2026-08-08T13:52:25Z",
    "quality_flags": null
   },
   "the-full-english-english-breakfast-with-oat-milk-5cl": {
@@ -4579,7 +4579,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:37Z",
+   "fetched_at": "2026-08-08T13:52:25Z",
    "quality_flags": null
   },
   "the-earl-earl-grey": {
@@ -4598,7 +4598,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:37Z",
+   "fetched_at": "2026-08-08T13:52:25Z",
    "quality_flags": null
   },
   "the-earl-earl-grey-with-semi-skimmed-milk-5cl": {
@@ -4617,7 +4617,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:37Z",
+   "fetched_at": "2026-08-08T13:52:25Z",
    "quality_flags": null
   },
   "the-earl-earl-grey-with-oat-milk-5cl": {
@@ -4636,7 +4636,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:37Z",
+   "fetched_at": "2026-08-08T13:52:25Z",
    "quality_flags": null
   },
   "simply-sencha-green-tea": {
@@ -4655,7 +4655,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:37Z",
+   "fetched_at": "2026-08-08T13:52:25Z",
    "quality_flags": null
   },
   "refresh-double-mint": {
@@ -4674,7 +4674,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:37Z",
+   "fetched_at": "2026-08-08T13:52:25Z",
    "quality_flags": null
   },
   "iced-latte": {
@@ -4693,7 +4693,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:37Z",
+   "fetched_at": "2026-08-08T13:52:25Z",
    "quality_flags": null
   },
   "iced-latte-oat-milk": {
@@ -4712,7 +4712,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:37Z",
+   "fetched_at": "2026-08-08T13:52:25Z",
    "quality_flags": null
   },
   "salted-caramel-iced-latte": {
@@ -4731,7 +4731,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:37Z",
+   "fetched_at": "2026-08-08T13:52:25Z",
    "quality_flags": null
   },
   "salted-caramel-iced-latte-oat-milk": {
@@ -4750,7 +4750,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:37Z",
+   "fetched_at": "2026-08-08T13:52:25Z",
    "quality_flags": null
   },
   "hot-chocolate": {
@@ -4769,7 +4769,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:37Z",
+   "fetched_at": "2026-08-08T13:52:25Z",
    "quality_flags": null
   },
   "hot-chocolate-oat-milk": {
@@ -4788,7 +4788,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:37Z",
+   "fetched_at": "2026-08-08T13:52:25Z",
    "quality_flags": null
   },
   "mocha": {
@@ -4807,7 +4807,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:37Z",
+   "fetched_at": "2026-08-08T13:52:25Z",
    "quality_flags": null
   },
   "mocha-oat-milk": {
@@ -4826,7 +4826,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:37Z",
+   "fetched_at": "2026-08-08T13:52:25Z",
    "quality_flags": null
   },
   "piccolo-dough-balls-with-houmous-with-salad": {
@@ -4845,7 +4845,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:37Z",
+   "fetched_at": "2026-08-08T13:52:25Z",
    "quality_flags": null
   },
   "piccolo-dough-balls-with-houmous-no-salad-dine-out": {
@@ -4864,7 +4864,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:37Z",
+   "fetched_at": "2026-08-08T13:52:25Z",
    "quality_flags": null
   },
   "piccolo-dough-balls-gluten-free-with-houmous-with-salad": {
@@ -4883,7 +4883,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:37Z",
+   "fetched_at": "2026-08-08T13:52:25Z",
    "quality_flags": null
   },
   "piccolo-dough-balls-gluten-free-with-houmous-no-salad-dine-out": {
@@ -4902,7 +4902,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:37Z",
+   "fetched_at": "2026-08-08T13:52:25Z",
    "quality_flags": null
   },
   "piccolo-dough-balls-with-garlic-butter-with-salad": {
@@ -4921,7 +4921,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:37Z",
+   "fetched_at": "2026-08-08T13:52:25Z",
    "quality_flags": null
   },
   "piccolo-dough-balls-with-garlic-butter-no-salad-dine-out": {
@@ -4940,7 +4940,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:37Z",
+   "fetched_at": "2026-08-08T13:52:25Z",
    "quality_flags": null
   },
   "piccolo-dough-balls-gluten-free-with-garlic-butter-with-salad": {
@@ -4959,7 +4959,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:37Z",
+   "fetched_at": "2026-08-08T13:52:25Z",
    "quality_flags": null
   },
   "piccolo-dough-balls-gluten-free-with-garlic-butter-no-salad-dine-out": {
@@ -4978,7 +4978,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:37Z",
+   "fetched_at": "2026-08-08T13:52:25Z",
    "quality_flags": null
   },
   "margherita-gluten-free": {
@@ -4992,12 +4992,12 @@
    "carbs_g": 45.9,
    "fat_g": 12.6,
    "salt_g": 1.9,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": false,
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:37Z",
+   "fetched_at": "2026-08-08T13:52:25Z",
    "quality_flags": null
   },
   "margherita-vegan-mozz-alternative": {
@@ -5016,7 +5016,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:37Z",
+   "fetched_at": "2026-08-08T13:52:25Z",
    "quality_flags": null
   },
   "margherita-vegan-mozz-alternative-gluten-free": {
@@ -5035,7 +5035,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:37Z",
+   "fetched_at": "2026-08-08T13:52:25Z",
    "quality_flags": null
   },
   "margherita-light-mozzarella": {
@@ -5054,7 +5054,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:37Z",
+   "fetched_at": "2026-08-08T13:52:25Z",
    "quality_flags": null
   },
   "margherita-light-mozzarella-gluten-free": {
@@ -5073,7 +5073,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:37Z",
+   "fetched_at": "2026-08-08T13:52:25Z",
    "quality_flags": null
   },
   "american-gluten-free": {
@@ -5087,12 +5087,12 @@
    "carbs_g": 46.0,
    "fat_g": 18.6,
    "salt_g": 2.4,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": false,
+   "vegan": false,
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:37Z",
+   "fetched_at": "2026-08-08T13:52:25Z",
    "quality_flags": null
   },
   "american-vegan-mozz": {
@@ -5111,7 +5111,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:37Z",
+   "fetched_at": "2026-08-08T13:52:25Z",
    "quality_flags": null
   },
   "american-vegan-mozzarella-gluten-free": {
@@ -5130,7 +5130,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:37Z",
+   "fetched_at": "2026-08-08T13:52:25Z",
    "quality_flags": null
   },
   "american-light-mozz-alternative": {
@@ -5149,7 +5149,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:37Z",
+   "fetched_at": "2026-08-08T13:52:25Z",
    "quality_flags": null
   },
   "american-light-mozz-alternative-gluten-free": {
@@ -5168,7 +5168,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:37Z",
+   "fetched_at": "2026-08-08T13:52:25Z",
    "quality_flags": null
   },
   "ham-mushrooms": {
@@ -5187,7 +5187,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:37Z",
+   "fetched_at": "2026-08-08T13:52:25Z",
    "quality_flags": null
   },
   "ham-mushrooms-gluten-free": {
@@ -5206,7 +5206,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:37Z",
+   "fetched_at": "2026-08-08T13:52:25Z",
    "quality_flags": null
   },
   "ham-mushrooms-vegan-mozz-alternative": {
@@ -5225,7 +5225,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:37Z",
+   "fetched_at": "2026-08-08T13:52:25Z",
    "quality_flags": null
   },
   "ham-mushrooms-vegan-mozz-alternative-gluten-free": {
@@ -5244,7 +5244,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:37Z",
+   "fetched_at": "2026-08-08T13:52:25Z",
    "quality_flags": null
   },
   "ham-mushorroms-light-mozzarella": {
@@ -5263,7 +5263,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:37Z",
+   "fetched_at": "2026-08-08T13:52:25Z",
    "quality_flags": null
   },
   "ham-mushrooms-light-mozzarella-gluten-free": {
@@ -5282,7 +5282,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:37Z",
+   "fetched_at": "2026-08-08T13:52:25Z",
    "quality_flags": null
   },
   "pollo": {
@@ -5296,12 +5296,12 @@
    "carbs_g": 45.8,
    "fat_g": 12.3,
    "salt_g": 2.2,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": false,
+   "vegan": false,
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:37Z",
+   "fetched_at": "2026-08-08T13:52:25Z",
    "quality_flags": null
   },
   "pollo-gluten-free": {
@@ -5315,12 +5315,12 @@
    "carbs_g": 45.8,
    "fat_g": 12.9,
    "salt_g": 2.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": false,
+   "vegan": false,
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:37Z",
+   "fetched_at": "2026-08-08T13:52:25Z",
    "quality_flags": null
   },
   "pollo-vegan-mozzarella": {
@@ -5339,7 +5339,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:37Z",
+   "fetched_at": "2026-08-08T13:52:25Z",
    "quality_flags": null
   },
   "pollo-vegan-mozzarella-gluten-free": {
@@ -5358,7 +5358,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:37Z",
+   "fetched_at": "2026-08-08T13:52:25Z",
    "quality_flags": null
   },
   "pollo-light-mozz-alternative": {
@@ -5377,7 +5377,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:37Z",
+   "fetched_at": "2026-08-08T13:52:25Z",
    "quality_flags": null
   },
   "pollo-light-mozz-alternative-gluten-free": {
@@ -5396,7 +5396,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:37Z",
+   "fetched_at": "2026-08-08T13:52:25Z",
    "quality_flags": null
   },
   "mushrooms": {
@@ -5415,7 +5415,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:38Z",
+   "fetched_at": "2026-08-08T13:52:25Z",
    "quality_flags": null
   },
   "tomatoes": {
@@ -5434,7 +5434,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:38Z",
+   "fetched_at": "2026-08-08T13:52:25Z",
    "quality_flags": null
   },
   "strawberries": {
@@ -5453,7 +5453,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:38Z",
+   "fetched_at": "2026-08-08T13:52:25Z",
    "quality_flags": null
   },
   "bambinoccino": {
@@ -5467,12 +5467,12 @@
    "carbs_g": 1.3,
    "fat_g": 0.4,
    "salt_g": 0.02,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": false,
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:38Z",
+   "fetched_at": "2026-08-08T13:52:25Z",
    "quality_flags": null
   },
   "bambinoccino-oat-milk": {
@@ -5491,7 +5491,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:38Z",
+   "fetched_at": "2026-08-08T13:52:25Z",
    "quality_flags": null
   },
   "milk": {
@@ -5510,7 +5510,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:38Z",
+   "fetched_at": "2026-08-08T13:52:25Z",
    "quality_flags": null
   },
   "oat-milk": {
@@ -5529,7 +5529,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:38Z",
+   "fetched_at": "2026-08-08T13:52:25Z",
    "quality_flags": null
   },
   "innocent-apple-strawberry-carton": {
@@ -5548,7 +5548,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:38Z",
+   "fetched_at": "2026-08-08T13:52:25Z",
    "quality_flags": null
   },
   "innocent-apple-mango-carton": {
@@ -5567,7 +5567,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:38Z",
+   "fetched_at": "2026-08-08T13:52:25Z",
    "quality_flags": null
   },
   "arla-big-milk": {
@@ -5581,12 +5581,12 @@
    "carbs_g": 11.8,
    "fat_g": 9.0,
    "salt_g": 0.28,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": false,
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:38Z",
+   "fetched_at": "2026-08-08T13:52:25Z",
    "quality_flags": null
   },
   "sundae-with-chocolate-sauce": {
@@ -5605,7 +5605,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:38Z",
+   "fetched_at": "2026-08-08T13:52:25Z",
    "quality_flags": null
   },
   "sundae-with-fruit-sauce": {
@@ -5624,7 +5624,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:38Z",
+   "fetched_at": "2026-08-08T13:52:25Z",
    "quality_flags": null
   },
   "chocolate-brownie": {
@@ -5638,12 +5638,12 @@
    "carbs_g": 26.5,
    "fat_g": 24.7,
    "salt_g": 0.06,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": false,
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:38Z",
+   "fetched_at": "2026-08-08T13:52:25Z",
    "quality_flags": null
   },
   "strawberries-crean": {
@@ -5662,7 +5662,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:38Z",
+   "fetched_at": "2026-08-08T13:52:25Z",
    "quality_flags": null
   },
   "eggs-on-bruschetta-poached-eggs": {
@@ -5681,7 +5681,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:38Z",
+   "fetched_at": "2026-08-08T13:52:26Z",
    "quality_flags": null
   },
   "eggs-on-bruschetta-fried-eggs": {
@@ -5700,7 +5700,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:38Z",
+   "fetched_at": "2026-08-08T13:52:26Z",
    "quality_flags": null
   },
   "eggs-on-bruschetta-scrambled-eggs": {
@@ -5719,7 +5719,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:38Z",
+   "fetched_at": "2026-08-08T13:52:26Z",
    "quality_flags": null
   },
   "smashed-avocado-poached-eggs": {
@@ -5738,7 +5738,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:38Z",
+   "fetched_at": "2026-08-08T13:52:26Z",
    "quality_flags": null
   },
   "eggs-benedict": {
@@ -5752,12 +5752,12 @@
    "carbs_g": 52.0,
    "fat_g": 36.0,
    "salt_g": 3.2,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": false,
+   "vegan": false,
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:38Z",
+   "fetched_at": "2026-08-08T13:52:26Z",
    "quality_flags": null
   },
   "eggs-royale": {
@@ -5771,12 +5771,12 @@
    "carbs_g": 52.0,
    "fat_g": 34.0,
    "salt_g": 3.6,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": false,
+   "vegan": false,
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:38Z",
+   "fetched_at": "2026-08-08T13:52:26Z",
    "quality_flags": null
   },
   "eggs-florentine": {
@@ -5790,12 +5790,12 @@
    "carbs_g": 52.0,
    "fat_g": 29.0,
    "salt_g": 2.4,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": false,
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:38Z",
+   "fetched_at": "2026-08-08T13:52:26Z",
    "quality_flags": null
   },
   "shakshuka-baked-eggs": {
@@ -5809,12 +5809,12 @@
    "carbs_g": 65.0,
    "fat_g": 13.0,
    "salt_g": 3.1,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": false,
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:38Z",
+   "fetched_at": "2026-08-08T13:52:26Z",
    "quality_flags": null
   },
   "2-fried-eggs": {
@@ -5833,7 +5833,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:38Z",
+   "fetched_at": "2026-08-08T13:52:26Z",
    "quality_flags": null
   },
   "2-poached-eggs": {
@@ -5852,7 +5852,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:38Z",
+   "fetched_at": "2026-08-08T13:52:26Z",
    "quality_flags": null
   },
   "2-scrambled-eggs": {
@@ -5871,7 +5871,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:38Z",
+   "fetched_at": "2026-08-08T13:52:26Z",
    "quality_flags": null
   },
   "sour-dough-toast-with-butter": {
@@ -5890,7 +5890,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:38Z",
+   "fetched_at": "2026-08-08T13:52:26Z",
    "quality_flags": null
   },
   "gf-toast-with-butter": {
@@ -5909,7 +5909,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:38Z",
+   "fetched_at": "2026-08-08T13:52:26Z",
    "quality_flags": null
   },
   "smoked-salmon": {
@@ -5928,7 +5928,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:38Z",
+   "fetched_at": "2026-08-08T13:52:26Z",
    "quality_flags": null
   },
   "crispy-pancetta-3-slices": {
@@ -5947,7 +5947,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:38Z",
+   "fetched_at": "2026-08-08T13:52:26Z",
    "quality_flags": null
   },
   "2-pork-sausages": {
@@ -5966,7 +5966,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:38Z",
+   "fetched_at": "2026-08-08T13:52:26Z",
    "quality_flags": null
   },
   "2-vegetarian-sausages": {
@@ -5985,7 +5985,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:38Z",
+   "fetched_at": "2026-08-08T13:52:26Z",
    "quality_flags": null
   },
   "smashed-avocado": {
@@ -6004,7 +6004,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:38Z",
+   "fetched_at": "2026-08-08T13:52:26Z",
    "quality_flags": null
   },
   "baked-vine-tomato": {
@@ -6023,7 +6023,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:38Z",
+   "fetched_at": "2026-08-08T13:52:26Z",
    "quality_flags": null
   },
   "baked-beans": {
@@ -6042,7 +6042,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:38Z",
+   "fetched_at": "2026-08-08T13:52:26Z",
    "quality_flags": null
   },
   "whole-button-mushrooms": {
@@ -6061,7 +6061,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:38Z",
+   "fetched_at": "2026-08-08T13:52:26Z",
    "quality_flags": null
   },
   "extra-spinach": {
@@ -6080,7 +6080,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:38Z",
+   "fetched_at": "2026-08-08T13:52:26Z",
    "quality_flags": null
   },
   "extra-pancetta-2-slices": {
@@ -6099,7 +6099,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:38Z",
+   "fetched_at": "2026-08-08T13:52:26Z",
    "quality_flags": null
   },
   "extra-goats-cheese": {
@@ -6118,7 +6118,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:38Z",
+   "fetched_at": "2026-08-08T13:52:26Z",
    "quality_flags": null
   },
   "hash-browns": {
@@ -6137,7 +6137,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:38Z",
+   "fetched_at": "2026-08-08T13:52:26Z",
    "quality_flags": null
   },
   "strawberry-jam": {
@@ -6156,7 +6156,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:38Z",
+   "fetched_at": "2026-08-08T13:52:26Z",
    "quality_flags": null
   },
   "raspberry-jam": {
@@ -6175,7 +6175,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:38Z",
+   "fetched_at": "2026-08-08T13:52:26Z",
    "quality_flags": null
   },
   "marmalade": {
@@ -6194,7 +6194,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:38Z",
+   "fetched_at": "2026-08-08T13:52:26Z",
    "quality_flags": null
   },
   "honey": {
@@ -6213,7 +6213,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:38Z",
+   "fetched_at": "2026-08-08T13:52:26Z",
    "quality_flags": null
   },
   "tomato-ketchup": {
@@ -6232,7 +6232,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:38Z",
+   "fetched_at": "2026-08-08T13:52:26Z",
    "quality_flags": null
   },
   "brown-sauce": {
@@ -6251,7 +6251,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:38Z",
+   "fetched_at": "2026-08-08T13:52:26Z",
    "quality_flags": null
   },
   "pancetta-maple-syrup-pancakes": {
@@ -6265,12 +6265,12 @@
    "carbs_g": 60.0,
    "fat_g": 27.0,
    "salt_g": 1.5,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": false,
+   "vegan": false,
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:39Z",
+   "fetched_at": "2026-08-08T13:52:26Z",
    "quality_flags": null
   },
   "blueberries-mascarpone-pancakes": {
@@ -6289,7 +6289,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:39Z",
+   "fetched_at": "2026-08-08T13:52:26Z",
    "quality_flags": null
   },
   "all-butter-croissant-with-butter": {
@@ -6308,7 +6308,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:39Z",
+   "fetched_at": "2026-08-08T13:52:26Z",
    "quality_flags": null
   },
   "pain-au-chocolat": {
@@ -6322,12 +6322,12 @@
    "carbs_g": 33.0,
    "fat_g": 16.0,
    "salt_g": 0.49,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": false,
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:39Z",
+   "fetched_at": "2026-08-08T13:52:26Z",
    "quality_flags": null
   },
   "pain-aux-raisins": {
@@ -6346,7 +6346,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:39Z",
+   "fetched_at": "2026-08-08T13:52:26Z",
    "quality_flags": null
   },
   "breakfast-dough-balls-with-butter": {
@@ -6365,7 +6365,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:39Z",
+   "fetched_at": "2026-08-08T13:52:26Z",
    "quality_flags": null
   },
   "breakfast-dough-balls-gf-version-with-butter": {
@@ -6384,7 +6384,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:39Z",
+   "fetched_at": "2026-08-08T13:52:26Z",
    "quality_flags": null
   },
   "fresh-fruit-yoghurt-bowl": {
@@ -6398,12 +6398,12 @@
    "carbs_g": 19.5,
    "fat_g": 5.5,
    "salt_g": 0.04,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": false,
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:39Z",
+   "fetched_at": "2026-08-08T13:52:26Z",
    "quality_flags": null
   },
   "berry-berry-nice": {
@@ -6422,7 +6422,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:39Z",
+   "fetched_at": "2026-08-08T13:52:26Z",
    "quality_flags": null
   },
   "green-machine": {
@@ -6441,7 +6441,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:39Z",
+   "fetched_at": "2026-08-08T13:52:26Z",
    "quality_flags": null
   },
   "mango-tango": {
@@ -6460,7 +6460,7 @@
    "allergens": null,
    "source": "PizzaExpress Nutritional Information (England, Wales & Scotland)",
    "source_url": "https://cdn.sanity.io/files/lj3txstz/production/230f6a921a100e32ad47e5f9f92e1fdbd01fef23.pdf",
-   "fetched_at": "2026-08-06T15:00:39Z",
+   "fetched_at": "2026-08-08T13:52:26Z",
    "quality_flags": null
   }
  }

@@ -1,7 +1,7 @@
 {
  "chain_id": "hungry_horse",
  "item_count": 173,
- "fetched_at": "2026-08-06T15:03:37Z",
+ "fetched_at": "2026-08-08T13:52:01Z",
  "items": {
   "impossible-nuggets-ve-please-select-your-sauce-choice-listed-below": {
    "chain_id": "hungry_horse",
@@ -14,12 +14,12 @@
    "carbs_g": 39.6,
    "fat_g": 32.2,
    "salt_g": 2.24,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:37Z",
+   "fetched_at": "2026-08-08T13:52:01Z",
    "quality_flags": null
   },
   "texan-bbq-sauce": {
@@ -38,7 +38,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:37Z",
+   "fetched_at": "2026-08-08T13:52:01Z",
    "quality_flags": null
   },
   "franks-red-hot-pepper-sauce": {
@@ -57,7 +57,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:37Z",
+   "fetched_at": "2026-08-08T13:52:01Z",
    "quality_flags": null
   },
   "caribbean-dressing": {
@@ -76,7 +76,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:37Z",
+   "fetched_at": "2026-08-08T13:52:01Z",
    "quality_flags": null
   },
   "peri-peri-hot-sauce": {
@@ -95,7 +95,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:37Z",
+   "fetched_at": "2026-08-08T13:52:01Z",
    "quality_flags": null
   },
   "jerk-sauce": {
@@ -114,7 +114,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:37Z",
+   "fetched_at": "2026-08-08T13:52:01Z",
    "quality_flags": null
   },
   "oriental-salt-pepper-seasoning": {
@@ -133,7 +133,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:37Z",
+   "fetched_at": "2026-08-08T13:52:01Z",
    "quality_flags": null
   },
   "sweet-chilli-sauce": {
@@ -152,7 +152,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:37Z",
+   "fetched_at": "2026-08-08T13:52:01Z",
    "quality_flags": null
   },
   "sauce-korean-bbq": {
@@ -171,7 +171,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:37Z",
+   "fetched_at": "2026-08-08T13:52:01Z",
    "quality_flags": null
   },
   "crispy-chicken-strips-please-se-ect-your-sauce-choice-listed-below": {
@@ -190,7 +190,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:37Z",
+   "fetched_at": "2026-08-08T13:52:01Z",
    "quality_flags": null
   },
   "chicken-wings-please-se-ect-your-sauce-choice-listed-below": {
@@ -209,7 +209,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:37Z",
+   "fetched_at": "2026-08-08T13:52:01Z",
    "quality_flags": null
   },
   "halloumi-strips-v": {
@@ -223,12 +223,12 @@
    "carbs_g": 22.6,
    "fat_g": 27.8,
    "salt_g": 4.05,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:37Z",
+   "fetched_at": "2026-08-08T13:52:01Z",
    "quality_flags": null
   },
   "pan-fried-garlic-mushrooms-v": {
@@ -242,12 +242,12 @@
    "carbs_g": 22.1,
    "fat_g": 50.0,
    "salt_g": 0.65,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:37Z",
+   "fetched_at": "2026-08-08T13:52:01Z",
    "quality_flags": null
   },
   "crunchy-fried-corn-ve": {
@@ -261,12 +261,12 @@
    "carbs_g": 25.9,
    "fat_g": 16.2,
    "salt_g": 1.13,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:37Z",
+   "fetched_at": "2026-08-08T13:52:01Z",
    "quality_flags": null
   },
   "cheesy-garlic-ciabatta-v": {
@@ -280,12 +280,12 @@
    "carbs_g": 44.0,
    "fat_g": 29.6,
    "salt_g": 1.8,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:37Z",
+   "fetched_at": "2026-08-08T13:52:01Z",
    "quality_flags": null
   },
   "garlic-ciabatta-v": {
@@ -299,12 +299,12 @@
    "carbs_g": 43.5,
    "fat_g": 17.1,
    "salt_g": 1.0,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:37Z",
+   "fetched_at": "2026-08-08T13:52:01Z",
    "quality_flags": null
   },
   "ultimate-big-combo-suitable-for-2-people": {
@@ -323,7 +323,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:37Z",
+   "fetched_at": "2026-08-08T13:52:01Z",
    "quality_flags": null
   },
   "cluck-n-cheese-sharer-suitable-for-2-people": {
@@ -342,7 +342,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:37Z",
+   "fetched_at": "2026-08-08T13:52:01Z",
    "quality_flags": null
   },
   "muchos-nachos-grande-v-suitable-for-2-people": {
@@ -356,12 +356,12 @@
    "carbs_g": 144.3,
    "fat_g": 76.6,
    "salt_g": 5.65,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:37Z",
+   "fetched_at": "2026-08-08T13:52:02Z",
    "quality_flags": null
   },
   "chicken-and-smoked-bacon-please-select-your-bread-choice-listed-below": {
@@ -380,7 +380,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:37Z",
+   "fetched_at": "2026-08-08T13:52:02Z",
    "quality_flags": null
   },
   "white-baguette-10": {
@@ -399,7 +399,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:37Z",
+   "fetched_at": "2026-08-08T13:52:02Z",
    "quality_flags": null
   },
   "tortilla-wrap-12": {
@@ -418,7 +418,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:37Z",
+   "fetched_at": "2026-08-08T13:52:02Z",
    "quality_flags": null
   },
   "omega-3-fish-fingers-please-select-your-bread-choice-listed-below": {
@@ -437,7 +437,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:37Z",
+   "fetched_at": "2026-08-08T13:52:02Z",
    "quality_flags": null
   },
   "southern-fried-chicken-goujons-please-select-your-bread-choice-listed-below": {
@@ -456,7 +456,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:37Z",
+   "fetched_at": "2026-08-08T13:52:02Z",
    "quality_flags": null
   },
   "omega-3-fishless-fingers-ve-please-select-your-bread-choice-listed-below": {
@@ -470,12 +470,12 @@
    "carbs_g": 27.1,
    "fat_g": 15.4,
    "salt_g": 1.1,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:37Z",
+   "fetched_at": "2026-08-08T13:52:02Z",
    "quality_flags": null
   },
   "mexican-pasta-salad-v": {
@@ -489,12 +489,12 @@
    "carbs_g": 60.4,
    "fat_g": 15.1,
    "salt_g": 2.1,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:37Z",
+   "fetched_at": "2026-08-08T13:52:02Z",
    "quality_flags": null
   },
   "cheeseburger-quesadilla": {
@@ -513,7 +513,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:37Z",
+   "fetched_at": "2026-08-08T13:52:02Z",
    "quality_flags": null
   },
   "smoked-haddock-fishcakes": {
@@ -532,7 +532,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:37Z",
+   "fetched_at": "2026-08-08T13:52:02Z",
    "quality_flags": null
   },
   "lamb-kofta-wraps": {
@@ -551,7 +551,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:37Z",
+   "fetched_at": "2026-08-08T13:52:02Z",
    "quality_flags": null
   },
   "falafel-wraps-v": {
@@ -565,12 +565,12 @@
    "carbs_g": 51.4,
    "fat_g": 34.2,
    "salt_g": 2.31,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:37Z",
+   "fetched_at": "2026-08-08T13:52:02Z",
    "quality_flags": null
   },
   "ham-egg-and-cheese-melt": {
@@ -589,7 +589,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:37Z",
+   "fetched_at": "2026-08-08T13:52:02Z",
    "quality_flags": null
   },
   "steak-ruddles-ale-pie-please-select-your-side-choice-listed-below": {
@@ -608,7 +608,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:37Z",
+   "fetched_at": "2026-08-08T13:52:02Z",
    "quality_flags": null
   },
   "mashed-potato": {
@@ -627,7 +627,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:37Z",
+   "fetched_at": "2026-08-08T13:52:02Z",
    "quality_flags": null
   },
   "chips": {
@@ -646,7 +646,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:37Z",
+   "fetched_at": "2026-08-08T13:52:02Z",
    "quality_flags": null
   },
   "classic-fish-chips-please-select-your-side-choice-listed-below": {
@@ -665,7 +665,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:37Z",
+   "fetched_at": "2026-08-08T13:52:02Z",
    "quality_flags": null
   },
   "mushy-peas": {
@@ -684,7 +684,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:37Z",
+   "fetched_at": "2026-08-08T13:52:02Z",
    "quality_flags": null
   },
   "peas": {
@@ -703,7 +703,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:37Z",
+   "fetched_at": "2026-08-08T13:52:02Z",
    "quality_flags": null
   },
   "plant-based-fish-chips-ve-please-select-your-side-choice-listed-below": {
@@ -717,12 +717,12 @@
    "carbs_g": 110.2,
    "fat_g": 35.6,
    "salt_g": 1.8,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:37Z",
+   "fetched_at": "2026-08-08T13:52:02Z",
    "quality_flags": null
   },
   "classic-chicken-new-yorker": {
@@ -741,7 +741,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:37Z",
+   "fetched_at": "2026-08-08T13:52:02Z",
    "quality_flags": null
   },
   "roast-veggie-lasagne-ve": {
@@ -755,12 +755,12 @@
    "carbs_g": 62.8,
    "fat_g": 8.0,
    "salt_g": 3.26,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:37Z",
+   "fetched_at": "2026-08-08T13:52:02Z",
    "quality_flags": null
   },
   "chicken-tikka-masala": {
@@ -779,7 +779,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:37Z",
+   "fetched_at": "2026-08-08T13:52:02Z",
    "quality_flags": null
   },
   "classic-beef-lasagne": {
@@ -798,7 +798,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:37Z",
+   "fetched_at": "2026-08-08T13:52:02Z",
    "quality_flags": null
   },
   "classic-breaded-wholetail-scampi-please-select-your-side-choice-listed-below": {
@@ -817,7 +817,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:37Z",
+   "fetched_at": "2026-08-08T13:52:02Z",
    "quality_flags": null
   },
   "mushroom-ale-pie-ve": {
@@ -831,12 +831,12 @@
    "carbs_g": 173.0,
    "fat_g": 54.1,
    "salt_g": 2.04,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:37Z",
+   "fetched_at": "2026-08-08T13:52:02Z",
    "quality_flags": null
   },
   "full-english-breakfast": {
@@ -855,7 +855,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:38Z",
+   "fetched_at": "2026-08-08T13:52:02Z",
    "quality_flags": null
   },
   "mac-n-cheese-v": {
@@ -869,12 +869,12 @@
    "carbs_g": 86.4,
    "fat_g": 21.1,
    "salt_g": 4.23,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:38Z",
+   "fetched_at": "2026-08-08T13:52:02Z",
    "quality_flags": null
   },
   "onion-ring-horseshoe-stacker-v": {
@@ -888,12 +888,12 @@
    "carbs_g": 134.7,
    "fat_g": 74.6,
    "salt_g": 1.43,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:38Z",
+   "fetched_at": "2026-08-08T13:52:02Z",
    "quality_flags": null
   },
   "full-monty-mixed-grill": {
@@ -912,7 +912,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:38Z",
+   "fetched_at": "2026-08-08T13:52:02Z",
    "quality_flags": null
   },
   "burger-sizzler-combo": {
@@ -931,7 +931,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:38Z",
+   "fetched_at": "2026-08-08T13:52:02Z",
    "quality_flags": null
   },
   "8oz-smothered-steak-sizzler": {
@@ -950,7 +950,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:38Z",
+   "fetched_at": "2026-08-08T13:52:02Z",
    "quality_flags": null
   },
   "8oz-grilled-gammon": {
@@ -969,7 +969,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:38Z",
+   "fetched_at": "2026-08-08T13:52:02Z",
    "quality_flags": null
   },
   "11oz-rump-steak": {
@@ -988,7 +988,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:38Z",
+   "fetched_at": "2026-08-08T13:52:02Z",
    "quality_flags": null
   },
   "8oz-rump-steak": {
@@ -1007,7 +1007,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:38Z",
+   "fetched_at": "2026-08-08T13:52:02Z",
    "quality_flags": null
   },
   "12oz-grilled-gammon": {
@@ -1026,7 +1026,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:38Z",
+   "fetched_at": "2026-08-08T13:52:02Z",
    "quality_flags": null
   },
   "mini-mixed-grill": {
@@ -1045,7 +1045,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:38Z",
+   "fetched_at": "2026-08-08T13:52:02Z",
    "quality_flags": null
   },
   "ss-jerk-chicken-wings": {
@@ -1064,7 +1064,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:38Z",
+   "fetched_at": "2026-08-08T13:52:02Z",
    "quality_flags": null
   },
   "ss-mediterranean-seabass": {
@@ -1083,7 +1083,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:38Z",
+   "fetched_at": "2026-08-08T13:52:02Z",
    "quality_flags": null
   },
   "ss-crown-of-burgers": {
@@ -1102,7 +1102,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:38Z",
+   "fetched_at": "2026-08-08T13:52:02Z",
    "quality_flags": null
   },
   "ss-bangin-katsu-banquet-please-select-your-side-option-listed-below": {
@@ -1121,7 +1121,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:38Z",
+   "fetched_at": "2026-08-08T13:52:02Z",
    "quality_flags": null
   },
   "fries": {
@@ -1140,7 +1140,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:38Z",
+   "fetched_at": "2026-08-08T13:52:02Z",
    "quality_flags": null
   },
   "ss-tandoori-chicken-sizzler": {
@@ -1159,7 +1159,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:38Z",
+   "fetched_at": "2026-08-08T13:52:02Z",
    "quality_flags": null
   },
   "ss-crispy-chicken-sandwich": {
@@ -1178,7 +1178,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:38Z",
+   "fetched_at": "2026-08-08T13:52:02Z",
    "quality_flags": null
   },
   "ss-our-epic-chicken-new-yorker": {
@@ -1197,7 +1197,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:38Z",
+   "fetched_at": "2026-08-08T13:52:02Z",
    "quality_flags": null
   },
   "ss-lamb-kofta-flatbread": {
@@ -1216,7 +1216,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:38Z",
+   "fetched_at": "2026-08-08T13:52:02Z",
    "quality_flags": null
   },
   "ss-falafel-flatbread-v": {
@@ -1230,12 +1230,12 @@
    "carbs_g": 171.8,
    "fat_g": 80.4,
    "salt_g": 4.45,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:38Z",
+   "fetched_at": "2026-08-08T13:52:02Z",
    "quality_flags": null
   },
   "ss-lamb-keema-stack": {
@@ -1254,7 +1254,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:38Z",
+   "fetched_at": "2026-08-08T13:52:02Z",
    "quality_flags": null
   },
   "quadzilla-burger": {
@@ -1273,7 +1273,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:38Z",
+   "fetched_at": "2026-08-08T13:52:02Z",
    "quality_flags": null
   },
   "the-home-run": {
@@ -1292,7 +1292,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:38Z",
+   "fetched_at": "2026-08-08T13:52:02Z",
    "quality_flags": null
   },
   "the-gravy-one": {
@@ -1311,7 +1311,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:38Z",
+   "fetched_at": "2026-08-08T13:52:02Z",
    "quality_flags": null
   },
   "korean-bbq-chicken-burger": {
@@ -1330,7 +1330,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:38Z",
+   "fetched_at": "2026-08-08T13:52:02Z",
    "quality_flags": null
   },
   "smokin-jack-burger": {
@@ -1349,7 +1349,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:38Z",
+   "fetched_at": "2026-08-08T13:52:02Z",
    "quality_flags": null
   },
   "beyond-meat-stack-ve": {
@@ -1363,12 +1363,12 @@
    "carbs_g": 138.6,
    "fat_g": 55.5,
    "salt_g": 2.75,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:38Z",
+   "fetched_at": "2026-08-08T13:52:02Z",
    "quality_flags": null
   },
   "southern-fried-chicken-burger": {
@@ -1387,7 +1387,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:38Z",
+   "fetched_at": "2026-08-08T13:52:02Z",
    "quality_flags": null
   },
   "bacon-cheeseburger": {
@@ -1406,7 +1406,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:38Z",
+   "fetched_at": "2026-08-08T13:52:02Z",
    "quality_flags": null
   },
   "cheeseburger": {
@@ -1425,7 +1425,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:38Z",
+   "fetched_at": "2026-08-08T13:52:02Z",
    "quality_flags": null
   },
   "southern-comfort-texas-toast": {
@@ -1444,7 +1444,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:38Z",
+   "fetched_at": "2026-08-08T13:52:02Z",
    "quality_flags": null
   },
   "cheeseburger-chilli-dipper": {
@@ -1463,7 +1463,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:38Z",
+   "fetched_at": "2026-08-08T13:52:02Z",
    "quality_flags": null
   },
   "sloppy-joe-on-texas-toast": {
@@ -1482,7 +1482,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:38Z",
+   "fetched_at": "2026-08-08T13:52:02Z",
    "quality_flags": null
   },
   "the-veggie-one-v": {
@@ -1496,12 +1496,12 @@
    "carbs_g": 146.1,
    "fat_g": 58.7,
    "salt_g": 2.22,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:38Z",
+   "fetched_at": "2026-08-08T13:52:02Z",
    "quality_flags": null
   },
   "mix-it-up-please-select-your-options-from-the-list-below": {
@@ -1520,7 +1520,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:38Z",
+   "fetched_at": "2026-08-08T13:52:03Z",
    "quality_flags": null
   },
   "salmon-fillet": {
@@ -1539,7 +1539,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:38Z",
+   "fetched_at": "2026-08-08T13:52:03Z",
    "quality_flags": null
   },
   "rump-steak": {
@@ -1558,7 +1558,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:38Z",
+   "fetched_at": "2026-08-08T13:52:03Z",
    "quality_flags": null
   },
   "gammon-steak-5oz": {
@@ -1577,7 +1577,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:38Z",
+   "fetched_at": "2026-08-08T13:52:03Z",
    "quality_flags": null
   },
   "chickem-breast-skewer": {
@@ -1596,7 +1596,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:38Z",
+   "fetched_at": "2026-08-08T13:52:03Z",
    "quality_flags": null
   },
   "jalapeno-cheese-sausage": {
@@ -1615,7 +1615,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:38Z",
+   "fetched_at": "2026-08-08T13:52:03Z",
    "quality_flags": null
   },
   "flattened-half-roast-chicken": {
@@ -1634,7 +1634,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:38Z",
+   "fetched_at": "2026-08-08T13:52:03Z",
    "quality_flags": null
   },
   "impossible-nuggets": {
@@ -1653,7 +1653,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:38Z",
+   "fetched_at": "2026-08-08T13:52:03Z",
    "quality_flags": null
   },
   "halloumi-fries": {
@@ -1672,7 +1672,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:38Z",
+   "fetched_at": "2026-08-08T13:52:03Z",
    "quality_flags": null
   },
   "cornflake-chicken-strips": {
@@ -1691,7 +1691,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:38Z",
+   "fetched_at": "2026-08-08T13:52:03Z",
    "quality_flags": null
   },
   "southern-fried-chicken-skewer": {
@@ -1710,7 +1710,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:38Z",
+   "fetched_at": "2026-08-08T13:52:03Z",
    "quality_flags": null
   },
   "both-chicken-skewers": {
@@ -1729,7 +1729,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:38Z",
+   "fetched_at": "2026-08-08T13:52:03Z",
    "quality_flags": null
   },
   "jacket-potato": {
@@ -1748,7 +1748,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:38Z",
+   "fetched_at": "2026-08-08T13:52:03Z",
    "quality_flags": null
   },
   "dirty-rice": {
@@ -1767,7 +1767,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:38Z",
+   "fetched_at": "2026-08-08T13:52:03Z",
    "quality_flags": null
   },
   "corn-cobs-mini": {
@@ -1786,7 +1786,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:38Z",
+   "fetched_at": "2026-08-08T13:52:03Z",
    "quality_flags": null
   },
   "onion-rings": {
@@ -1805,7 +1805,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:38Z",
+   "fetched_at": "2026-08-08T13:52:03Z",
    "quality_flags": null
   },
   "sweet-potato-fries": {
@@ -1824,7 +1824,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:38Z",
+   "fetched_at": "2026-08-08T13:52:03Z",
    "quality_flags": null
   },
   "coleslaw": {
@@ -1843,7 +1843,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:38Z",
+   "fetched_at": "2026-08-08T13:52:03Z",
    "quality_flags": null
   },
   "classic-salad": {
@@ -1862,7 +1862,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:38Z",
+   "fetched_at": "2026-08-08T13:52:03Z",
    "quality_flags": null
   },
   "spicy-pasta": {
@@ -1881,7 +1881,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:38Z",
+   "fetched_at": "2026-08-08T13:52:03Z",
    "quality_flags": null
   },
   "kids-roast-beef": {
@@ -1900,7 +1900,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:38Z",
+   "fetched_at": "2026-08-08T13:52:03Z",
    "quality_flags": null
   },
   "kids-roasted-turkey": {
@@ -1919,7 +1919,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:38Z",
+   "fetched_at": "2026-08-08T13:52:03Z",
    "quality_flags": null
   },
   "kids-vegetable-tart-v": {
@@ -1933,12 +1933,12 @@
    "carbs_g": 83.4,
    "fat_g": 22.5,
    "salt_g": 2.13,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:38Z",
+   "fetched_at": "2026-08-08T13:52:03Z",
    "quality_flags": null
   },
   "topside-of-beef": {
@@ -1957,7 +1957,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:38Z",
+   "fetched_at": "2026-08-08T13:52:03Z",
    "quality_flags": null
   },
   "roast-turkey": {
@@ -1976,7 +1976,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:38Z",
+   "fetched_at": "2026-08-08T13:52:03Z",
    "quality_flags": null
   },
   "sunday-roast-vegetable-tart-v": {
@@ -1990,12 +1990,12 @@
    "carbs_g": 151.0,
    "fat_g": 42.5,
    "salt_g": 3.96,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:38Z",
+   "fetched_at": "2026-08-08T13:52:03Z",
    "quality_flags": null
   },
   "duo-of-meats": {
@@ -2014,7 +2014,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:38Z",
+   "fetched_at": "2026-08-08T13:52:03Z",
    "quality_flags": null
   },
   "salt-and-pepper-fries-v": {
@@ -2028,12 +2028,12 @@
    "carbs_g": 73.6,
    "fat_g": 22.9,
    "salt_g": 1.18,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:38Z",
+   "fetched_at": "2026-08-08T13:52:03Z",
    "quality_flags": null
   },
   "cheesy-chips-v": {
@@ -2047,12 +2047,12 @@
    "carbs_g": 79.7,
    "fat_g": 26.9,
    "salt_g": 1.04,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:38Z",
+   "fetched_at": "2026-08-08T13:52:03Z",
    "quality_flags": null
   },
   "chips-ve": {
@@ -2066,12 +2066,12 @@
    "carbs_g": 79.2,
    "fat_g": 14.4,
    "salt_g": 0.24,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:38Z",
+   "fetched_at": "2026-08-08T13:52:03Z",
    "quality_flags": null
   },
   "fries-ve": {
@@ -2085,12 +2085,12 @@
    "carbs_g": 70.0,
    "fat_g": 22.8,
    "salt_g": 0.35,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:38Z",
+   "fetched_at": "2026-08-08T13:52:03Z",
    "quality_flags": null
   },
   "baked-jacket-potato-v": {
@@ -2104,12 +2104,12 @@
    "carbs_g": 39.0,
    "fat_g": 7.4,
    "salt_g": 0.18,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:38Z",
+   "fetched_at": "2026-08-08T13:52:03Z",
    "quality_flags": null
   },
   "fresh-dressed-garden-salad-ve": {
@@ -2123,12 +2123,12 @@
    "carbs_g": 5.7,
    "fat_g": 0.6,
    "salt_g": 0.13,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:38Z",
+   "fetched_at": "2026-08-08T13:52:03Z",
    "quality_flags": null
   },
   "onion-rings-v": {
@@ -2142,12 +2142,12 @@
    "carbs_g": 27.1,
    "fat_g": 16.2,
    "salt_g": 0.05,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:38Z",
+   "fetched_at": "2026-08-08T13:52:03Z",
    "quality_flags": null
   },
   "coleslaw-v": {
@@ -2161,12 +2161,12 @@
    "carbs_g": 5.3,
    "fat_g": 5.3,
    "salt_g": 0.23,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:38Z",
+   "fetched_at": "2026-08-08T13:52:03Z",
    "quality_flags": null
   },
   "brown-bread-and-butter-v": {
@@ -2180,12 +2180,12 @@
    "carbs_g": 49.3,
    "fat_g": 8.2,
    "salt_g": 1.07,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:38Z",
+   "fetched_at": "2026-08-08T13:52:03Z",
    "quality_flags": null
   },
   "white-bread-and-butter-v": {
@@ -2199,12 +2199,12 @@
    "carbs_g": 59.4,
    "fat_g": 9.5,
    "salt_g": 1.33,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:38Z",
+   "fetched_at": "2026-08-08T13:52:03Z",
    "quality_flags": null
   },
   "extra-roast-potatoes": {
@@ -2223,7 +2223,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:38Z",
+   "fetched_at": "2026-08-08T13:52:03Z",
    "quality_flags": null
   },
   "extra-yorkshire-pudding-v": {
@@ -2237,12 +2237,12 @@
    "carbs_g": 16.8,
    "fat_g": 2.5,
    "salt_g": 0.3,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:38Z",
+   "fetched_at": "2026-08-08T13:52:03Z",
    "quality_flags": null
   },
   "extra-beef-burger": {
@@ -2261,7 +2261,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:38Z",
+   "fetched_at": "2026-08-08T13:52:03Z",
    "quality_flags": null
   },
   "extra-beyond-meat-burger-ve": {
@@ -2275,12 +2275,12 @@
    "carbs_g": 3.3,
    "fat_g": 13.7,
    "salt_g": 0.7,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:38Z",
+   "fetched_at": "2026-08-08T13:52:03Z",
    "quality_flags": null
   },
   "extra-buttermilk-chicken-burger": {
@@ -2299,7 +2299,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:38Z",
+   "fetched_at": "2026-08-08T13:52:03Z",
    "quality_flags": null
   },
   "extra-11oz-rump": {
@@ -2318,7 +2318,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:38Z",
+   "fetched_at": "2026-08-08T13:52:03Z",
    "quality_flags": null
   },
   "extra-chicken-breast": {
@@ -2337,7 +2337,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:38Z",
+   "fetched_at": "2026-08-08T13:52:03Z",
    "quality_flags": null
   },
   "extra-chicken-skewer-plain": {
@@ -2356,7 +2356,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:38Z",
+   "fetched_at": "2026-08-08T13:52:03Z",
    "quality_flags": null
   },
   "extra-chicken-skewer-southern-fried": {
@@ -2375,7 +2375,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:38Z",
+   "fetched_at": "2026-08-08T13:52:03Z",
    "quality_flags": null
   },
   "extra-sausage": {
@@ -2394,7 +2394,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:38Z",
+   "fetched_at": "2026-08-08T13:52:03Z",
    "quality_flags": null
   },
   "extra-streaky-bacon-new-bacon": {
@@ -2413,7 +2413,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:38Z",
+   "fetched_at": "2026-08-08T13:52:03Z",
    "quality_flags": null
   },
   "extra-parmigiana-sauce": {
@@ -2432,7 +2432,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:38Z",
+   "fetched_at": "2026-08-08T13:52:03Z",
    "quality_flags": null
   },
   "extra-sweet-chilli-sauce": {
@@ -2451,7 +2451,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:38Z",
+   "fetched_at": "2026-08-08T13:52:03Z",
    "quality_flags": null
   },
   "extra-piri-piri": {
@@ -2470,7 +2470,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:38Z",
+   "fetched_at": "2026-08-08T13:52:03Z",
    "quality_flags": null
   },
   "extra-sour-cream": {
@@ -2489,7 +2489,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:38Z",
+   "fetched_at": "2026-08-08T13:52:03Z",
    "quality_flags": null
   },
   "plain-bbq-sauce": {
@@ -2508,7 +2508,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:38Z",
+   "fetched_at": "2026-08-08T13:52:03Z",
    "quality_flags": null
   },
   "extra-beans": {
@@ -2527,7 +2527,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:38Z",
+   "fetched_at": "2026-08-08T13:52:03Z",
    "quality_flags": null
   },
   "extra-bhajis": {
@@ -2546,7 +2546,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:38Z",
+   "fetched_at": "2026-08-08T13:52:03Z",
    "quality_flags": null
   },
   "extra-butter": {
@@ -2565,7 +2565,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:38Z",
+   "fetched_at": "2026-08-08T13:52:03Z",
    "quality_flags": null
   },
   "extra-toast-v-please-select-your-bread-choice-below": {
@@ -2579,12 +2579,12 @@
    "carbs_g": 0.0,
    "fat_g": 6.4,
    "salt_g": 0.16,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:38Z",
+   "fetched_at": "2026-08-08T13:52:03Z",
    "quality_flags": null
   },
   "malted-bloomer-sliced": {
@@ -2603,7 +2603,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:38Z",
+   "fetched_at": "2026-08-08T13:52:03Z",
    "quality_flags": null
   },
   "white-bloomer-sliced": {
@@ -2622,7 +2622,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:38Z",
+   "fetched_at": "2026-08-08T13:52:03Z",
    "quality_flags": null
   },
   "extra-fried-egg": {
@@ -2641,7 +2641,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:38Z",
+   "fetched_at": "2026-08-08T13:52:03Z",
    "quality_flags": null
   },
   "extra-grated-cheese": {
@@ -2660,7 +2660,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:38Z",
+   "fetched_at": "2026-08-08T13:52:03Z",
    "quality_flags": null
   },
   "extra-gravy": {
@@ -2679,7 +2679,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:39Z",
+   "fetched_at": "2026-08-08T13:52:03Z",
    "quality_flags": null
   },
   "extra-mash": {
@@ -2698,7 +2698,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:39Z",
+   "fetched_at": "2026-08-08T13:52:03Z",
    "quality_flags": null
   },
   "extra-mushrooms": {
@@ -2717,7 +2717,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:39Z",
+   "fetched_at": "2026-08-08T13:52:03Z",
    "quality_flags": null
   },
   "extra-mushy-peas": {
@@ -2736,7 +2736,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:39Z",
+   "fetched_at": "2026-08-08T13:52:03Z",
    "quality_flags": null
   },
   "extra-naan": {
@@ -2755,7 +2755,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:39Z",
+   "fetched_at": "2026-08-08T13:52:03Z",
    "quality_flags": null
   },
   "extra-peas": {
@@ -2774,7 +2774,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:39Z",
+   "fetched_at": "2026-08-08T13:52:03Z",
    "quality_flags": null
   },
   "extra-poppadom-chutney": {
@@ -2793,7 +2793,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:39Z",
+   "fetched_at": "2026-08-08T13:52:03Z",
    "quality_flags": null
   },
   "extra-tomato": {
@@ -2812,7 +2812,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:39Z",
+   "fetched_at": "2026-08-08T13:52:03Z",
    "quality_flags": null
   },
   "extra-custard": {
@@ -2831,7 +2831,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:39Z",
+   "fetched_at": "2026-08-08T13:52:03Z",
    "quality_flags": null
   },
   "extra-chocolate-ice-cream": {
@@ -2850,7 +2850,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:39Z",
+   "fetched_at": "2026-08-08T13:52:03Z",
    "quality_flags": null
   },
   "extra-vanilla-ice-cream": {
@@ -2869,7 +2869,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:39Z",
+   "fetched_at": "2026-08-08T13:52:03Z",
    "quality_flags": null
   },
   "extra-gherkin-gravy": {
@@ -2888,7 +2888,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:39Z",
+   "fetched_at": "2026-08-08T13:52:03Z",
    "quality_flags": null
   },
   "extra-tartare-sauce": {
@@ -2907,7 +2907,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:39Z",
+   "fetched_at": "2026-08-08T13:52:03Z",
    "quality_flags": null
   },
   "the-ultimate-big-candymania": {
@@ -2926,7 +2926,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:39Z",
+   "fetched_at": "2026-08-08T13:52:03Z",
    "quality_flags": null
   },
   "the-horseshoe-doughnut": {
@@ -2945,7 +2945,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:39Z",
+   "fetched_at": "2026-08-08T13:52:03Z",
    "quality_flags": null
   },
   "millionaire-s-cheesecake-v": {
@@ -2959,12 +2959,12 @@
    "carbs_g": 71.1,
    "fat_g": 29.9,
    "salt_g": 0.41,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:39Z",
+   "fetched_at": "2026-08-08T13:52:03Z",
    "quality_flags": null
   },
   "indulgent-chocolate-torte-v": {
@@ -2978,12 +2978,12 @@
    "carbs_g": 41.4,
    "fat_g": 21.7,
    "salt_g": 0.05,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:39Z",
+   "fetched_at": "2026-08-08T13:52:03Z",
    "quality_flags": null
   },
   "indulgent-chocolate-torte-ve": {
@@ -2997,12 +2997,12 @@
    "carbs_g": 35.1,
    "fat_g": 21.6,
    "salt_g": 0.05,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:39Z",
+   "fetched_at": "2026-08-08T13:52:03Z",
    "quality_flags": null
   },
   "chocolate-fudge-cake-v": {
@@ -3016,12 +3016,12 @@
    "carbs_g": 91.1,
    "fat_g": 31.5,
    "salt_g": 0.72,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:39Z",
+   "fetched_at": "2026-08-08T13:52:03Z",
    "quality_flags": null
   },
   "sticky-toffee-bourbon-pudding-v": {
@@ -3035,12 +3035,12 @@
    "carbs_g": 82.5,
    "fat_g": 21.3,
    "salt_g": 0.61,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:39Z",
+   "fetched_at": "2026-08-08T13:52:03Z",
    "quality_flags": null
   },
   "apple-berry-crumble-v": {
@@ -3054,12 +3054,12 @@
    "carbs_g": 87.3,
    "fat_g": 11.5,
    "salt_g": 0.33,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:39Z",
+   "fetched_at": "2026-08-08T13:52:03Z",
    "quality_flags": null
   },
   "apple-berry-crumble-ve": {
@@ -3073,12 +3073,12 @@
    "carbs_g": 76.8,
    "fat_g": 12.5,
    "salt_g": 0.19,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:39Z",
+   "fetched_at": "2026-08-08T13:52:03Z",
    "quality_flags": null
   },
   "trifle-baked-alaska-v": {
@@ -3092,12 +3092,12 @@
    "carbs_g": 48.3,
    "fat_g": 12.2,
    "salt_g": 0.22,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:39Z",
+   "fetched_at": "2026-08-08T13:52:03Z",
    "quality_flags": null
   },
   "mini-millionaire-brownie": {
@@ -3116,7 +3116,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:39Z",
+   "fetched_at": "2026-08-08T13:52:03Z",
    "quality_flags": null
   },
   "peppercorn": {
@@ -3135,7 +3135,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:39Z",
+   "fetched_at": "2026-08-08T13:52:03Z",
    "quality_flags": null
   },
   "add-scampi": {
@@ -3154,7 +3154,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:39Z",
+   "fetched_at": "2026-08-08T13:52:03Z",
    "quality_flags": null
   },
   "add-fried-eggs": {
@@ -3173,7 +3173,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:39Z",
+   "fetched_at": "2026-08-08T13:52:03Z",
    "quality_flags": null
   },
   "breakfast-gravy-ve": {
@@ -3187,12 +3187,12 @@
    "carbs_g": 11.0,
    "fat_g": 0.0,
    "salt_g": 0.97,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:39Z",
+   "fetched_at": "2026-08-08T13:52:03Z",
    "quality_flags": null
   },
   "cauliflower-cheese-v": {
@@ -3206,12 +3206,12 @@
    "carbs_g": 8.8,
    "fat_g": 7.8,
    "salt_g": 0.68,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:39Z",
+   "fetched_at": "2026-08-08T13:52:03Z",
    "quality_flags": null
   },
   "pigs-in-blankets": {
@@ -3230,7 +3230,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:39Z",
+   "fetched_at": "2026-08-08T13:52:03Z",
    "quality_flags": null
   },
   "pigs-in-blankets-yorkie-roasties-trio": {
@@ -3249,7 +3249,7 @@
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:39Z",
+   "fetched_at": "2026-08-08T13:52:03Z",
    "quality_flags": null
   },
   "yorkshire-puddings-v": {
@@ -3263,12 +3263,12 @@
    "carbs_g": 33.6,
    "fat_g": 4.9,
    "salt_g": 0.6,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:39Z",
+   "fetched_at": "2026-08-08T13:52:03Z",
    "quality_flags": null
   },
   "roast-potatoes-v": {
@@ -3282,12 +3282,12 @@
    "carbs_g": 52.0,
    "fat_g": 12.0,
    "salt_g": 0.0,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Hungry Horse core main menu nutrition, Greene King)",
    "source_url": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/b458816b05d642ab91b2e5a255de1f0e?v=13b0672b",
-   "fetched_at": "2026-08-06T15:03:39Z",
+   "fetched_at": "2026-08-08T13:52:03Z",
    "quality_flags": null
   }
  }

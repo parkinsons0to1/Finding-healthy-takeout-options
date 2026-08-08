@@ -30,6 +30,22 @@ capitalisation comes from the PDF's small-caps headings and is left as-is so
 it stays traceable to the source.
 
 Politeness: one request for the whole 20-page guide.
+
+Dietary flag source
+--------------------
+This SAME table has a "Dietary" column (a code cell, e.g. "V, VE", "V,VE",
+"V", "H", or blank -- comma-joined, whitespace inconsistent, occasionally
+lower-cased "v"). Page 1's own prose defines the codes: "Vegan & Vegetarian
+... Our tortillas, vegetables, rice, beans, salsas, chips and guacamole, are
+vegetarian and vegan" (matches every "V, VE" row) and a separate "Halal"
+section explains "H" (on Chicken Asado only) as an unrelated halal-supplier
+note, not a vegetarian marker. A blank cell is read as a firm False, not
+left unset: meat/dairy-only rows (Pork Carnitas, Beef Barbacoa, Chorizo,
+Queso Fundido, Caesar Dressing) are blank with total consistency (checked:
+every blank row is a meat, fish, or dairy-only item; every "H"-only row is
+the same single chicken item across all 15 sections it appears in), unlike
+ask_italian.py/zizzi.py's allergen matrices where blank is genuinely
+ambiguous between "No" and "not filled in".
 """
 from __future__ import annotations
 
@@ -48,6 +64,15 @@ _FIELD_NEEDLES = (("carbs_g", "carbs"), ("fat_g", "fat"), ("salt_g", "salt"))
 
 def _norm(cell) -> str:
     return " ".join(str(cell or "").split()).lower()
+
+
+def _dietary(cell) -> tuple[bool, bool]:
+    """(vegetarian, vegan) from a "Dietary" cell -- see "Dietary flag source"
+    above. Codes are comma-joined and inconsistently spaced/cased; a code
+    that is neither "V" nor "VE" (i.e. "H" for Halal, or blank) means
+    neither flag is set."""
+    codes = {c.strip().upper() for c in str(cell or "").split(",") if c.strip()}
+    return ("V" in codes, "VE" in codes)
 
 
 def _merged_header(table) -> list[str]:
@@ -91,6 +116,7 @@ def fetch() -> list[dict]:
                 i_prot = next((i for i, h in enumerate(header) if "protein" in h), None)
                 if i_kcal is None or i_prot is None:
                     continue
+                i_diet = next((i for i, h in enumerate(header) if h == "dietary"), None)
                 extras = {}
                 for field, needle in _FIELD_NEEDLES:
                     idx = next((i for i, h in enumerate(header)
@@ -115,11 +141,15 @@ def fetch() -> list[dict]:
                     if key in seen:
                         continue
                     seen.add(key)
+                    vegetarian = vegan = None
+                    if i_diet is not None and i_diet < len(row):
+                        vegetarian, vegan = _dietary(row[i_diet])
                     rows.append(item(
                         CHAIN, label, SOURCE, SOURCE_URL,
                         item_id=label, category=section or None,
                         serving_desc="per serving",
                         kcal=kcal, protein_g=protein,
+                        vegetarian=vegetarian, vegan=vegan,
                         **{f: to_float(row[i]) for f, i in extras.items()
                            if i < len(row)},
                     ))

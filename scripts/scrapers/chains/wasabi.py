@@ -30,10 +30,21 @@ whitespace-collapse before matching. Tables extract cleanly with pdfplumber —
 no rotation handling needed.
 
 Politeness: one request for the whole 29-page catalogue.
+
+Dietary flag source
+--------------------
+This SAME table carries two more columns, "Suitable for Vegetarians" and
+"Vegan", each a plain Y/N per product — no separate document needed, unlike
+Zizzi/ASK Italian. Read by exact header match, same pattern as the numeric
+columns above. Confirms real independent data, not name-echoing: "Latte
+12oz (semi skimmed milk)" -> vegetarian Y, vegan N; "White Americano 12oz
+(oat mikl)" -> vegetarian Y, vegan Y; "Mini veggie breakfast bento" -> Y/N
+despite "veggie" in its own name (contains egg, per the allergen column).
 """
 from __future__ import annotations
 
 import io
+import re
 
 from ..base import fetch_protected, item, session, to_float
 
@@ -44,7 +55,13 @@ SOURCE_URL = ("https://www.wasabi.uk.com/wp-content/uploads/2025/11/"
 
 
 def _norm(cell) -> str:
-    return " ".join(str(cell or "").split()).lower()
+    # Some pages hard-wrap a header word across lines with a hyphen (e.g.
+    # "Suitable\nfor\nVegetar-\nians"); left as plain whitespace-collapse
+    # that becomes "vegetar- ians", which a substring check for
+    # "vegetarian" then misses. De-hyphenate line-wraps first so those pages
+    # match identically to pages where the same header isn't wrapped.
+    text = re.sub(r"-\s*\n\s*", "", str(cell or ""))
+    return " ".join(text.split()).lower()
 
 
 def _columns(header) -> tuple[int, int, int, dict[str, int]] | None:
@@ -70,7 +87,24 @@ def _columns(header) -> tuple[int, int, int, dict[str, int]] | None:
                     if needle in c and not c.startswith("sat")), None)
         if idx is not None:
             extras[field] = idx
-    return i_kcal, i_prot, i_size, extras
+    i_veg = find("suitable for", "vegetarian")
+    i_vgn = next((i for i, c in enumerate(cells) if c == "vegan"), None)
+    return i_kcal, i_prot, i_size, extras, i_veg, i_vgn
+
+
+def _yn(cell) -> bool | None:
+    """Unlike ask_italian.py/zizzi.py's allergen matrices (a bare "Yes" or a
+    BLANK cell -- blank is genuinely ambiguous between "No" and "not
+    filled in"), this column is an explicit binary Y/N with no third state
+    (checked: every cell in both columns, across the whole PDF, is exactly
+    "Y" or "N" -- see the module docstring). A firm "N" is therefore read as
+    False, not left unset."""
+    v = _norm(cell)
+    if v == "y":
+        return True
+    if v == "n":
+        return False
+    return None
 
 
 def _load() -> bytes | None:
@@ -103,7 +137,7 @@ def fetch() -> list[dict]:
                 cols = _columns(table[0])
                 if not cols:
                     continue
-                i_kcal, i_prot, i_size, extras = cols
+                i_kcal, i_prot, i_size, extras, i_veg, i_vgn = cols
                 for row in table[1:]:
                     if not row or not row[0]:
                         continue
@@ -133,10 +167,13 @@ def fetch() -> list[dict]:
                             # same per-100g -> per-portion conversion
                             extra_vals[field] = (round(v * size / 100, 1)
                                                  if v is not None else None)
+                    vegetarian = _yn(row[i_veg]) if i_veg is not None and i_veg < width else None
+                    vegan = _yn(row[i_vgn]) if i_vgn is not None and i_vgn < width else None
                     rows.append(item(
                         CHAIN, name, SOURCE, SOURCE_URL,
                         item_id=name, category=section or None,
                         serving_desc=f"per portion ({size:g} g)",
-                        kcal=kcal, protein_g=protein, **extra_vals,
+                        kcal=kcal, protein_g=protein,
+                        vegetarian=vegetarian, vegan=vegan, **extra_vals,
                     ))
     return rows
