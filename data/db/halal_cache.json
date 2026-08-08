@@ -176,6 +176,94 @@
    "chain_id": "greggs",
    "postcode": "",
    "name": "Greggs"
+  },
+  "greggs|M94DH|greggs": {
+   "status": "not_halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786170907.9118836,
+   "chain_id": "greggs",
+   "postcode": "M9 4DH",
+   "name": "Greggs"
+  },
+  "taco_bell|M43AQ|taco bell": {
+   "status": "not_halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786170917.6303387,
+   "chain_id": "taco_bell",
+   "postcode": "M4 3AQ",
+   "name": "Taco Bell"
+  },
+  "greggs|M23LW|greggs": {
+   "status": "not_halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786170925.2814908,
+   "chain_id": "greggs",
+   "postcode": "M2 3LW",
+   "name": "Greggs"
+  },
+  "pret|M21WL|pret a manger": {
+   "status": "not_halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786170926.5815048,
+   "chain_id": "pret",
+   "postcode": "M2 1WL",
+   "name": "Pret A Manger"
+  },
+  "greggs|M31WY|greggs": {
+   "status": "not_halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786170928.0181148,
+   "chain_id": "greggs",
+   "postcode": "M3 1WY",
+   "name": "Greggs"
+  },
+  "greggs|M11PX|greggs": {
+   "status": "not_halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786170929.469396,
+   "chain_id": "greggs",
+   "postcode": "M1 1PX",
+   "name": "Greggs"
+  },
+  "greggs|M15AN|greggs": {
+   "status": "not_halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786170933.1874013,
+   "chain_id": "greggs",
+   "postcode": "M1 5AN",
+   "name": "Greggs"
+  },
+  "greggs|M32PW|greggs": {
+   "status": "not_halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786170935.8985481,
+   "chain_id": "greggs",
+   "postcode": "M3 2PW",
+   "name": "Greggs"
+  },
+  "greggs|M88EP|greggs": {
+   "status": "not_halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786170943.5715947,
+   "chain_id": "greggs",
+   "postcode": "M8 8EP",
+   "name": "Greggs"
+  },
+  "greggs|M139AB|greggs": {
+   "status": "not_halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786170948.4809499,
+   "chain_id": "greggs",
+   "postcode": "M13 9AB",
+   "name": "Greggs"
+  },
+  "pret|M15EL|pret a manger": {
+   "status": "not_halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786171103.1692765,
+   "chain_id": "pret",
+   "postcode": "M1 5EL",
+   "name": "Pret A Manger"
   }
  }
 }
