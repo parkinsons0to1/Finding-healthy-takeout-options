@@ -80,6 +80,102 @@
    "chain_id": "nandos",
    "postcode": "SM1 2NB",
    "name": "Nando's"
+  },
+  "mcdonalds|SM39BL|mcdonalds": {
+   "status": "not_halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786170332.7814255,
+   "chain_id": "mcdonalds",
+   "postcode": "SM3 9BL",
+   "name": "McDonalds"
+  },
+  "kfc|SM13HE|kfc": {
+   "status": "not_halal",
+   "tier": "brand_per_outlet",
+   "stored_at": 1786170338.5641353,
+   "chain_id": "kfc",
+   "postcode": "SM1 3HE",
+   "name": "KFC"
+  },
+  "greggs|SM38HW|greggs": {
+   "status": "not_halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786170341.0159624,
+   "chain_id": "greggs",
+   "postcode": "SM3 8HW",
+   "name": "Greggs"
+  },
+  "greggs|SM60LY|greggs": {
+   "status": "not_halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786170346.6465821,
+   "chain_id": "greggs",
+   "postcode": "SM6 0LY",
+   "name": "Greggs"
+  },
+  "mcdonalds|SM39AG|mcdonalds": {
+   "status": "not_halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786170347.9417095,
+   "chain_id": "mcdonalds",
+   "postcode": "SM3 9AG",
+   "name": "McDonalds"
+  },
+  "kfc|SM60LH|kfc": {
+   "status": "not_halal",
+   "tier": "brand_per_outlet",
+   "stored_at": 1786170350.6210423,
+   "chain_id": "kfc",
+   "postcode": "SM6 0LH",
+   "name": "KFC"
+  },
+  "nandos|KT48HX|nando's": {
+   "status": "not_halal",
+   "tier": "brand_per_outlet",
+   "stored_at": 1786170357.036255,
+   "chain_id": "nandos",
+   "postcode": "KT4 8HX",
+   "name": "Nando's"
+  },
+  "kfc|KT48HT|kfc": {
+   "status": "not_halal",
+   "tier": "brand_per_outlet",
+   "stored_at": 1786170360.3939745,
+   "chain_id": "kfc",
+   "postcode": "KT4 8HT",
+   "name": "KFC"
+  },
+  "greggs|KT48DY|greggs": {
+   "status": "not_halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786170363.75448,
+   "chain_id": "greggs",
+   "postcode": "KT4 8DY",
+   "name": "Greggs"
+  },
+  "mcdonalds|CR04XS|mcdonald's": {
+   "status": "not_halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786170374.9825275,
+   "chain_id": "mcdonalds",
+   "postcode": "CR0 4XS",
+   "name": "McDonald's"
+  },
+  "kfc|SM45HT|kfc": {
+   "status": "halal",
+   "tier": "brand_per_outlet",
+   "stored_at": 1786170377.978755,
+   "chain_id": "kfc",
+   "postcode": "SM4 5HT",
+   "name": "KFC"
+  },
+  "greggs||greggs": {
+   "status": "not_halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786170383.0973074,
+   "chain_id": "greggs",
+   "postcode": "",
+   "name": "Greggs"
   }
  }
 }
