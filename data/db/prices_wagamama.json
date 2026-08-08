@@ -1,0 +1,750 @@
+{
+ "chain_id": "wagamama",
+ "fetched_at": "2026-08-08T06:49:24Z",
+ "store": "Wagamama Epsom",
+ "stores": [
+  "Wagamama Epsom"
+ ],
+ "basis": "collection",
+ "item_count": 123,
+ "prices": {
+  "meal deal for 1": {
+   "price_gbp": 22.0,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "meal deal for 1"
+  },
+  "meal deal for 2": {
+   "price_gbp": 43.0,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "meal deal for 2"
+  },
+  "meal deal for 4": {
+   "price_gbp": 84.0,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "meal deal for 4"
+  },
+  "new! buldak bibimbap": {
+   "price_gbp": 19.0,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "new! buldak bibimbap"
+  },
+  "buldak bibimbap": {
+   "price_gbp": 19.0,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "buldak bibimbap"
+  },
+  "new! buldak fire wings": {
+   "price_gbp": 10.5,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "new! buldak fire wings"
+  },
+  "buldak fire wings": {
+   "price_gbp": 10.5,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "buldak fire wings"
+  },
+  "new! chicken + prawn turmeric rice bowl": {
+   "price_gbp": 15.2,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "new! chicken + prawn turmeric rice bowl"
+  },
+  "chicken + prawn turmeric rice bowl": {
+   "price_gbp": 15.2,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "chicken + prawn turmeric rice bowl"
+  },
+  "new! gochujang salmon rice bowl": {
+   "price_gbp": 18.0,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "new! gochujang salmon rice bowl"
+  },
+  "gochujang salmon rice bowl": {
+   "price_gbp": 18.0,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "gochujang salmon rice bowl"
+  },
+  "new! gochujang tamarind pork ribs": {
+   "price_gbp": 9.9,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "new! gochujang tamarind pork ribs"
+  },
+  "gochujang tamarind pork ribs": {
+   "price_gbp": 9.9,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "gochujang tamarind pork ribs"
+  },
+  "new! gochujang tamarind corn ribs (vg)": {
+   "price_gbp": 7.9,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "new! gochujang tamarind corn ribs (vg)"
+  },
+  "gochujang tamarind corn ribs (vg)": {
+   "price_gbp": 7.9,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "gochujang tamarind corn ribs (vg)"
+  },
+  "new! spicy smashed cucumber (vg)": {
+   "price_gbp": 4.3,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "new! spicy smashed cucumber (vg)"
+  },
+  "spicy smashed cucumber (vg)": {
+   "price_gbp": 4.3,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "spicy smashed cucumber (vg)"
+  },
+  "new! matcha colada (regular) (vg)": {
+   "price_gbp": 6.3,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "new! matcha colada (regular) (vg)"
+  },
+  "matcha colada (regular) (vg)": {
+   "price_gbp": 6.3,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "matcha colada (regular) (vg)"
+  },
+  "new! matcha colada (large) (vg)": {
+   "price_gbp": 7.1,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "new! matcha colada (large) (vg)"
+  },
+  "matcha colada (large) (vg)": {
+   "price_gbp": 7.1,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "matcha colada (large) (vg)"
+  },
+  "new! ginger kombucha (vg)": {
+   "price_gbp": 5.0,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "new! ginger kombucha (vg)"
+  },
+  "ginger kombucha (vg)": {
+   "price_gbp": 5.0,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "ginger kombucha (vg)"
+  },
+  "beef + kimchee gyoza": {
+   "price_gbp": 8.9,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "beef + kimchee gyoza"
+  },
+  "yasai | vegetable gyoza (vg)": {
+   "price_gbp": 7.9,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "yasai | vegetable gyoza (vg)"
+  },
+  "chicken gyoza": {
+   "price_gbp": 8.2,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "chicken gyoza"
+  },
+  "duck gyoza": {
+   "price_gbp": 8.9,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "duck gyoza"
+  },
+  "korean fried chicken bao buns": {
+   "price_gbp": 9.5,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "korean fried chicken bao buns"
+  },
+  "tonkatsu pork bao buns": {
+   "price_gbp": 9.5,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "tonkatsu pork bao buns"
+  },
+  "korean barbecue brisket bao buns": {
+   "price_gbp": 9.5,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "korean barbecue brisket bao buns"
+  },
+  "oyster + shiitake mushroom bao buns (vg)": {
+   "price_gbp": 9.3,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "oyster + shiitake mushroom bao buns (vg)"
+  },
+  "hoisin pulled duck bao buns": {
+   "price_gbp": 9.7,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "hoisin pulled duck bao buns"
+  },
+  "hot honey fried chicken | yuzu": {
+   "price_gbp": 9.9,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "hot honey fried chicken | yuzu"
+  },
+  "hot honey fried chicken | teriyaki": {
+   "price_gbp": 9.9,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "hot honey fried chicken | teriyaki"
+  },
+  "hot honey fried chicken | firecracker": {
+   "price_gbp": 9.9,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "hot honey fried chicken | firecracker"
+  },
+  "ebi katsu": {
+   "price_gbp": 8.9,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "ebi katsu"
+  },
+  "bang bang cauliflower (vg)": {
+   "price_gbp": 7.3,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "bang bang cauliflower (vg)"
+  },
+  "koko 'prawn' crackers (vg)": {
+   "price_gbp": 3.7,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "koko 'prawn' crackers (vg)"
+  },
+  "edamame with salt (vg)": {
+   "price_gbp": 4.9,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "edamame with salt (vg)"
+  },
+  "edamame with chilli + garlic salt (vg)": {
+   "price_gbp": 4.9,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "edamame with chilli + garlic salt (vg)"
+  },
+  "wok-fried greens (vg)": {
+   "price_gbp": 6.6,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "wok-fried greens (vg)"
+  },
+  "chicken katsu curry": {
+   "price_gbp": 14.9,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "chicken katsu curry"
+  },
+  "yasai katsu curry | vegetables (vg)": {
+   "price_gbp": 14.5,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "yasai katsu curry | vegetables (vg)"
+  },
+  "prawn raisukaree curry": {
+   "price_gbp": 17.2,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "prawn raisukaree curry"
+  },
+  "chicken raisukaree curry": {
+   "price_gbp": 16.3,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "chicken raisukaree curry"
+  },
+  "tofu raisukaree curry (vg)": {
+   "price_gbp": 14.8,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "tofu raisukaree curry (vg)"
+  },
+  "prawn firecracker curry": {
+   "price_gbp": 16.9,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "prawn firecracker curry"
+  },
+  "chicken firecracker curry": {
+   "price_gbp": 16.3,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "chicken firecracker curry"
+  },
+  "tofu firecracker curry (vg)": {
+   "price_gbp": 14.8,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "tofu firecracker curry (vg)"
+  },
+  "saku saku duck soba": {
+   "price_gbp": 20.4,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "saku saku duck soba"
+  },
+  "chicken + prawn yaki soba": {
+   "price_gbp": 15.5,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "chicken + prawn yaki soba"
+  },
+  "yasai yaki soba | mushroom (vg)": {
+   "price_gbp": 13.9,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "yasai yaki soba | mushroom (vg)"
+  },
+  "steak teriyaki soba": {
+   "price_gbp": 20.5,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "steak teriyaki soba"
+  },
+  "salmon teriyaki soba": {
+   "price_gbp": 18.0,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "salmon teriyaki soba"
+  },
+  "chicken teriyaki soba": {
+   "price_gbp": 16.9,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "chicken teriyaki soba"
+  },
+  "katsu udon (vg)": {
+   "price_gbp": 13.9,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "katsu udon (vg)"
+  },
+  "yaki udon": {
+   "price_gbp": 15.3,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "yaki udon"
+  },
+  "tantanmen beef brisket ramen": {
+   "price_gbp": 18.3,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "tantanmen beef brisket ramen"
+  },
+  "gochujang pork belly ramen": {
+   "price_gbp": 17.1,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "gochujang pork belly ramen"
+  },
+  "grilled chicken ramen": {
+   "price_gbp": 14.9,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "grilled chicken ramen"
+  },
+  "chilli chicken ramen": {
+   "price_gbp": 15.9,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "chilli chicken ramen"
+  },
+  "kare burosu ramen (vg)": {
+   "price_gbp": 14.9,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "kare burosu ramen (vg)"
+  },
+  "beef brisket teriyaki donburi": {
+   "price_gbp": 17.2,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "beef brisket teriyaki donburi"
+  },
+  "chicken teriyaki donburi": {
+   "price_gbp": 15.3,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "chicken teriyaki donburi"
+  },
+  "grilled duck donburi": {
+   "price_gbp": 19.9,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "grilled duck donburi"
+  },
+  "pulled shiitake (vg)": {
+   "price_gbp": 14.3,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "pulled shiitake (vg)"
+  },
+  "large peach iced tea (vg)": {
+   "price_gbp": 4.9,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "large peach iced tea (vg)"
+  },
+  "regular peach iced tea (vg)": {
+   "price_gbp": 4.5,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "regular peach iced tea (vg)"
+  },
+  "coke (vg)": {
+   "price_gbp": 2.8,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "coke (vg)"
+  },
+  "diet coke (vg)": {
+   "price_gbp": 2.8,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "diet coke (vg)"
+  },
+  "coke zero (vg)": {
+   "price_gbp": 2.8,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "coke zero (vg)"
+  },
+  "sprite zero (vg)": {
+   "price_gbp": 2.8,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "sprite zero (vg)"
+  },
+  "still water (vg)": {
+   "price_gbp": 2.5,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "still water (vg)"
+  },
+  "sparkling water (vg)": {
+   "price_gbp": 2.5,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "sparkling water (vg)"
+  },
+  "tropical (regular) (v)": {
+   "price_gbp": 6.1,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "tropical (regular) (v)"
+  },
+  "tropical (large) (v)": {
+   "price_gbp": 6.9,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "tropical (large) (v)"
+  },
+  "power (regular) (vg)": {
+   "price_gbp": 6.1,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "power (regular) (vg)"
+  },
+  "power (large) (vg)": {
+   "price_gbp": 6.9,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "power (large) (vg)"
+  },
+  "positive (regular) (vg)": {
+   "price_gbp": 6.1,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "positive (regular) (vg)"
+  },
+  "positive (large) (vg)": {
+   "price_gbp": 6.9,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "positive (large) (vg)"
+  },
+  "jubel peach lager (vg)": {
+   "price_gbp": 5.2,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "jubel peach lager (vg)"
+  },
+  "sxollie cider (vg)": {
+   "price_gbp": 5.9,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "sxollie cider (vg)"
+  },
+  "asahi 330ml (vg)": {
+   "price_gbp": 5.0,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "asahi 330ml (vg)"
+  },
+  "camden pale ale (vg)": {
+   "price_gbp": 5.0,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "camden pale ale (vg)"
+  },
+  "asahi zero (vg)": {
+   "price_gbp": 5.3,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "asahi zero (vg)"
+  },
+  "brown rice (vg)": {
+   "price_gbp": 4.0,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "brown rice (vg)"
+  },
+  "sticky rice (vg)": {
+   "price_gbp": 4.0,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "sticky rice (vg)"
+  },
+  "steamed white rice (vg)": {
+   "price_gbp": 4.0,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "steamed white rice (vg)"
+  },
+  "cauliflower rice (vg)": {
+   "price_gbp": 4.0,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "cauliflower rice (vg)"
+  },
+  "noodles (v)": {
+   "price_gbp": 4.0,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "noodles (v)"
+  },
+  "katsu pickles (vg)": {
+   "price_gbp": 1.2,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "katsu pickles (vg)"
+  },
+  "tea-stained egg (v)": {
+   "price_gbp": 1.2,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "tea-stained egg (v)"
+  },
+  "kimchee (vg)": {
+   "price_gbp": 1.2,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "kimchee (vg)"
+  },
+  "chillies (vg)": {
+   "price_gbp": 1.2,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "chillies (vg)"
+  },
+  "new! buldak spicy hot sauce (vg)": {
+   "price_gbp": 1.2,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "new! buldak spicy hot sauce (vg)"
+  },
+  "buldak spicy hot sauce (vg)": {
+   "price_gbp": 1.2,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "buldak spicy hot sauce (vg)"
+  },
+  "raisukaree sauce (vg)": {
+   "price_gbp": 1.2,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "raisukaree sauce (vg)"
+  },
+  "katsu curry sauce (vg)": {
+   "price_gbp": 1.2,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "katsu curry sauce (vg)"
+  },
+  "firecracker curry sauce (vg)": {
+   "price_gbp": 1.2,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "firecracker curry sauce (vg)"
+  },
+  "extra hot katsu sauce (vg)": {
+   "price_gbp": 1.2,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "extra hot katsu sauce (vg)"
+  },
+  "amai sauce (vg)": {
+   "price_gbp": 1.2,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "amai sauce (vg)"
+  },
+  "teriyaki sauce (vg)": {
+   "price_gbp": 1.2,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "teriyaki sauce (vg)"
+  },
+  "chilli oil (vg)": {
+   "price_gbp": 0.0,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "chilli oil (vg)"
+  },
+  "soy sauce (vg)": {
+   "price_gbp": 0.0,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "soy sauce (vg)"
+  },
+  "shichimi (vg)": {
+   "price_gbp": 0.0,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "shichimi (vg)"
+  },
+  "white chocolate + ginger cheesecake (v)": {
+   "price_gbp": 8.2,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "white chocolate + ginger cheesecake (v)"
+  },
+  "smoked chocolate caramel cake (v)": {
+   "price_gbp": 8.3,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "smoked chocolate caramel cake (v)"
+  },
+  "chocolate brownie (v)": {
+   "price_gbp": 4.6,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "chocolate brownie (v)"
+  },
+  "lemon yuzu muffin (v)": {
+   "price_gbp": 4.2,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "lemon yuzu muffin (v)"
+  },
+  "miso caramel banana bread (v)": {
+   "price_gbp": 6.9,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "miso caramel banana bread (v)"
+  },
+  "kids chicken katsu with katsu curry sauce": {
+   "price_gbp": 6.7,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "kids chicken katsu with katsu curry sauce"
+  },
+  "kids chicken katsu with amai sauce": {
+   "price_gbp": 6.7,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "kids chicken katsu with amai sauce"
+  },
+  "kids yasai katsu with katsu curry sauce (vg)": {
+   "price_gbp": 5.9,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "kids yasai katsu with katsu curry sauce (vg)"
+  },
+  "kids yasai katsu with amai sauce (vg)": {
+   "price_gbp": 5.9,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "kids yasai katsu with amai sauce (vg)"
+  },
+  "kids chicken ramen noodle soup": {
+   "price_gbp": 6.7,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "kids chicken ramen noodle soup"
+  },
+  "kids yasai ramen noodle soup (vg)": {
+   "price_gbp": 5.9,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "kids yasai ramen noodle soup (vg)"
+  },
+  "kids chicken yaki soba": {
+   "price_gbp": 6.5,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "kids chicken yaki soba"
+  },
+  "kids yasai yaki soba | rice noodles (vg)": {
+   "price_gbp": 5.7,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "kids yasai yaki soba | rice noodles (vg)"
+  },
+  "kids chicken cha han": {
+   "price_gbp": 5.5,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "kids chicken cha han"
+  },
+  "kids yasai cha han (vg)": {
+   "price_gbp": 4.9,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "kids yasai cha han (vg)"
+  },
+  "cawston press apple + pear juice drink (vg)": {
+   "price_gbp": 3.3,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "cawston press apple + pear juice drink (vg)"
+  },
+  "cawston press apple + summer berries juice drink (vg)": {
+   "price_gbp": 3.3,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "cawston press apple + summer berries juice drink (vg)"
+  },
+  "mini brownie bite (v)": {
+   "price_gbp": 2.7,
+   "basis": "collection",
+   "store": "Wagamama Epsom",
+   "name": "mini brownie bite (v)"
+  }
+ }
+}
