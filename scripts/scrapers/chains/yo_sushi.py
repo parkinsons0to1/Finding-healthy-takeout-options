@@ -43,6 +43,37 @@ Names are lowercase in the source; they are title-cased here for display.
 
 Politeness: 2 requests (GB restaurant + Tesco kiosk menus), each large.
 
+Dietary flag source
+--------------------
+Each recipe's outer div carries `data-labels="52,50,31"` (numeric Tenkites
+label IDs, both allergens present AND dietary-suitability tags mixed in the
+same list — an explicit structured field, not text we're guessing from). The
+page's own filter UI maps IDs to names via
+`data-label-id="50" data-label-name="Vegetarians"` /
+`data-label-id="52" data-label-name="Plant Based"` — confirmed by hand:
+"classic edamame" carries `52,50,31` (vegan-suitable, correctly), "chicken
+katsu curry large" carries no 50/52 (correctly, it isn't). `Plant Based` is
+Tenkites/YO!'s own equivalent term for vegan (no separate "Vegan" label ID
+exists on this menu) and is used as-is, not re-derived from the dish's name.
+
+Matching a `data-labels` value to the right dish name needs care: the same
+`data-recipe-id` appears up to 5 times per dish (desktop/mobile/list-view
+variants of the same card), and a loosely-bounded "nearest name after this
+attribute" regex can walk past a short variant's markup into a *different*
+dish's name several KB later — caught by hand: an unbounded regex paired
+`data-recipe-id="60641"` (genuinely "mega veggie katsu curry", labels
+`52,50,...`) with "chicken katsu curry large" from a subsequent card,
+which would have wrongly flagged chicken curry as plant-based. Bounding the
+gap between `data-labels="..."` and the following `k10-w-recipe__name">` to
+400/300 chars (tight enough that only the immediately-nested name qualifies)
+fixes it — cross-checked against the two dishes above after tightening.
+
+Because the same dish appears several times with a consistently-tight match
+required for each, the label sets are pooled per lower-cased name across
+every occurrence on both live menus (restaurant + kiosk) — a real occurrence
+either contributes labels or is skipped, never contradicts another, so
+pooling can only add signal, not manufacture a false one.
+
 The PDF fallback
 ----------------
 `generic_pdf.parse_pdf` returns 0 on it: the pages are text but pdfplumber
@@ -81,6 +112,29 @@ _NUT_VAL_RE = re.compile(r'k10-recipe__nutrient-value[^>]*>(.*?)</span>', re.S)
 #: A card's nutrient table sits within this many chars of its marker.
 _CARD_WINDOW = 9000
 
+#: data-label-id -> data-label-name, read live from each menu's own filter UI
+#: rather than hardcoded, in case Tenkites renumbers them per tenant/refresh.
+_LABEL_DEF_RE = re.compile(r'data-label-id="(\d+)"\s+data-label-name="([^"]+)"')
+#: Dish -> dietary label IDs, tightly bound so the match can't wander into a
+#: neighbouring card's name (see module docstring).
+_DIET_LABELS_RE = re.compile(
+    r'data-recipe-id="\d+"[^>]*data-labels="([^"]*)"[^>]{0,400}>'
+    r'.{0,300}?k10-w-recipe__name">(.*?)</span>', re.S)
+
+
+def _diet_label_map(page: str) -> tuple[dict[str, set[str]], str | None, str | None]:
+    """(lower-cased dish name -> pooled dietary label IDs, veg id, vegan id)."""
+    id_to_name = dict(_LABEL_DEF_RE.findall(page))
+    veg_id = next((i for i, n in id_to_name.items() if n == "Vegetarians"), None)
+    vegan_id = next((i for i, n in id_to_name.items() if n == "Plant Based"), None)
+    out: dict[str, set[str]] = {}
+    for labels, name in _DIET_LABELS_RE.findall(page):
+        ids = set(labels.split(","))
+        keep = {i for i in (veg_id, vegan_id) if i} & ids
+        if keep:
+            out.setdefault(_clean(name).lower(), set()).update(keep)
+    return out, veg_id, vegan_id
+
 
 def _num(text: str) -> float | None:
     """Parse a Tenkites value: strips thousands separators ('3,825')."""
@@ -93,6 +147,7 @@ def _clean(text: str) -> str:
 
 def _parse_menu(page: str, category: str, url: str) -> list[dict]:
     names = [(m.start(), _clean(m.group(1))) for m in _NAME_RE.finditer(page)]
+    diet_map, veg_id, vegan_id = _diet_label_map(page)
     rows: list[dict] = []
     for m in _TABLE_RE.finditer(page):
         offset = m.start()
@@ -113,6 +168,11 @@ def _parse_menu(page: str, category: str, url: str) -> list[dict]:
             continue
         if kcal <= 0 or protein * 4 > kcal * 1.15:
             continue
+
+        diet_ids = diet_map.get(name.lower(), set())
+        vegan = True if vegan_id and vegan_id in diet_ids else None
+        vegetarian = True if (vegan or (veg_id and veg_id in diet_ids)) else None
+
         rows.append(item(
             CHAIN, name.title(), SOURCE, url,
             item_id=name, category=category, serving_desc="per serving",
@@ -120,6 +180,7 @@ def _parse_menu(page: str, category: str, url: str) -> list[dict]:
             carbs_g=_num(data.get("Carb (g)", "")),
             fat_g=_num(data.get("Fat (g)", "")),
             salt_g=_num(data.get("Salt (g)", "")),
+            vegetarian=vegetarian, vegan=vegan,
         ))
     return rows
 

@@ -1,7 +1,7 @@
 {
  "chain_id": "caffe_nero",
  "item_count": 96,
- "fetched_at": "2026-08-06T15:04:29Z",
+ "fetched_at": "2026-08-08T06:47:50Z",
  "items": {
   "pastel-de-nata": {
    "chain_id": "caffe_nero",
@@ -14,12 +14,12 @@
    "carbs_g": 25.0,
    "fat_g": 13.8,
    "salt_g": 0.6,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Caffè Nero GB allergen, nutritional & ingredient guide)",
    "source_url": "https://caffenerowebsite.blob.core.windows.net/production/data/menus/caffenero_nutrition_allergens-en_GB.pdf",
-   "fetched_at": "2026-08-06T15:04:29Z",
+   "fetched_at": "2026-08-08T06:47:50Z",
    "quality_flags": null
   },
   "almond-croissant": {
@@ -33,12 +33,12 @@
    "carbs_g": 36.4,
    "fat_g": 17.5,
    "salt_g": 0.61,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Caffè Nero GB allergen, nutritional & ingredient guide)",
    "source_url": "https://caffenerowebsite.blob.core.windows.net/production/data/menus/caffenero_nutrition_allergens-en_GB.pdf",
-   "fetched_at": "2026-08-06T15:04:29Z",
+   "fetched_at": "2026-08-08T06:47:50Z",
    "quality_flags": null
   },
   "apricot-croissant": {
@@ -52,12 +52,12 @@
    "carbs_g": 33.6,
    "fat_g": 11.0,
    "salt_g": 0.74,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Caffè Nero GB allergen, nutritional & ingredient guide)",
    "source_url": "https://caffenerowebsite.blob.core.windows.net/production/data/menus/caffenero_nutrition_allergens-en_GB.pdf",
-   "fetched_at": "2026-08-06T15:04:29Z",
+   "fetched_at": "2026-08-08T06:47:50Z",
    "quality_flags": null
   },
   "butter-croissant": {
@@ -71,12 +71,12 @@
    "carbs_g": 23.5,
    "fat_g": 12.0,
    "salt_g": 0.58,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Caffè Nero GB allergen, nutritional & ingredient guide)",
    "source_url": "https://caffenerowebsite.blob.core.windows.net/production/data/menus/caffenero_nutrition_allergens-en_GB.pdf",
-   "fetched_at": "2026-08-06T15:04:29Z",
+   "fetched_at": "2026-08-08T06:47:50Z",
    "quality_flags": null
   },
   "cinnamon-swirl": {
@@ -90,12 +90,12 @@
    "carbs_g": 45.3,
    "fat_g": 16.0,
    "salt_g": 0.58,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Caffè Nero GB allergen, nutritional & ingredient guide)",
    "source_url": "https://caffenerowebsite.blob.core.windows.net/production/data/menus/caffenero_nutrition_allergens-en_GB.pdf",
-   "fetched_at": "2026-08-06T15:04:29Z",
+   "fetched_at": "2026-08-08T06:47:50Z",
    "quality_flags": null
   },
   "pain-au-chocolat": {
@@ -109,12 +109,12 @@
    "carbs_g": 30.0,
    "fat_g": 14.0,
    "salt_g": 0.61,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Caffè Nero GB allergen, nutritional & ingredient guide)",
    "source_url": "https://caffenerowebsite.blob.core.windows.net/production/data/menus/caffenero_nutrition_allergens-en_GB.pdf",
-   "fetched_at": "2026-08-06T15:04:29Z",
+   "fetched_at": "2026-08-08T06:47:50Z",
    "quality_flags": null
   },
   "pain-aux-raisins": {
@@ -128,12 +128,12 @@
    "carbs_g": 43.3,
    "fat_g": 14.0,
    "salt_g": 0.77,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Caffè Nero GB allergen, nutritional & ingredient guide)",
    "source_url": "https://caffenerowebsite.blob.core.windows.net/production/data/menus/caffenero_nutrition_allergens-en_GB.pdf",
-   "fetched_at": "2026-08-06T15:04:29Z",
+   "fetched_at": "2026-08-08T06:47:50Z",
    "quality_flags": null
   },
   "raspberry-croissant": {
@@ -147,12 +147,12 @@
    "carbs_g": 39.5,
    "fat_g": 13.0,
    "salt_g": 0.41,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "brand PDF (Caffè Nero GB allergen, nutritional & ingredient guide)",
    "source_url": "https://caffenerowebsite.blob.core.windows.net/production/data/menus/caffenero_nutrition_allergens-en_GB.pdf",
-   "fetched_at": "2026-08-06T15:04:29Z",
+   "fetched_at": "2026-08-08T06:47:50Z",
    "quality_flags": null
   },
   "pistachio-croissant": {
@@ -166,12 +166,12 @@
    "carbs_g": 38.0,
    "fat_g": 21.0,
    "salt_g": 0.59,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Caffè Nero GB allergen, nutritional & ingredient guide)",
    "source_url": "https://caffenerowebsite.blob.core.windows.net/production/data/menus/caffenero_nutrition_allergens-en_GB.pdf",
-   "fetched_at": "2026-08-06T15:04:29Z",
+   "fetched_at": "2026-08-08T06:47:50Z",
    "quality_flags": null
   },
   "cinnamon-bun": {
@@ -185,12 +185,12 @@
    "carbs_g": 71.0,
    "fat_g": 24.0,
    "salt_g": 0.69,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Caffè Nero GB allergen, nutritional & ingredient guide)",
    "source_url": "https://caffenerowebsite.blob.core.windows.net/production/data/menus/caffenero_nutrition_allergens-en_GB.pdf",
-   "fetched_at": "2026-08-06T15:04:29Z",
+   "fetched_at": "2026-08-08T06:47:50Z",
    "quality_flags": null
   },
   "ultimate-chocolate-muffin": {
@@ -204,12 +204,12 @@
    "carbs_g": 66.1,
    "fat_g": 28.4,
    "salt_g": 0.45,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Caffè Nero GB allergen, nutritional & ingredient guide)",
    "source_url": "https://caffenerowebsite.blob.core.windows.net/production/data/menus/caffenero_nutrition_allergens-en_GB.pdf",
-   "fetched_at": "2026-08-06T15:04:29Z",
+   "fetched_at": "2026-08-08T06:47:50Z",
    "quality_flags": null
   },
   "blueberry-muffin": {
@@ -223,12 +223,12 @@
    "carbs_g": 61.0,
    "fat_g": 21.0,
    "salt_g": 0.62,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Caffè Nero GB allergen, nutritional & ingredient guide)",
    "source_url": "https://caffenerowebsite.blob.core.windows.net/production/data/menus/caffenero_nutrition_allergens-en_GB.pdf",
-   "fetched_at": "2026-08-06T15:04:29Z",
+   "fetched_at": "2026-08-08T06:47:50Z",
    "quality_flags": null
   },
   "sicilian-lemon-curd-muffin-fruit-scone": {
@@ -242,12 +242,12 @@
    "carbs_g": 60.0,
    "fat_g": 22.0,
    "salt_g": 0.55,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Caffè Nero GB allergen, nutritional & ingredient guide)",
    "source_url": "https://caffenerowebsite.blob.core.windows.net/production/data/menus/caffenero_nutrition_allergens-en_GB.pdf",
-   "fetched_at": "2026-08-06T15:04:29Z",
+   "fetched_at": "2026-08-08T06:47:50Z",
    "quality_flags": null
   },
   "raspberry-jam": {
@@ -261,12 +261,12 @@
    "carbs_g": 17.1,
    "fat_g": 0.1,
    "salt_g": 0.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "brand PDF (Caffè Nero GB allergen, nutritional & ingredient guide)",
    "source_url": "https://caffenerowebsite.blob.core.windows.net/production/data/menus/caffenero_nutrition_allergens-en_GB.pdf",
-   "fetched_at": "2026-08-06T15:04:29Z",
+   "fetched_at": "2026-08-08T06:47:51Z",
    "quality_flags": null
   },
   "strawberry-jam": {
@@ -280,12 +280,12 @@
    "carbs_g": 17.7,
    "fat_g": 0.03,
    "salt_g": 0.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "brand PDF (Caffè Nero GB allergen, nutritional & ingredient guide)",
    "source_url": "https://caffenerowebsite.blob.core.windows.net/production/data/menus/caffenero_nutrition_allergens-en_GB.pdf",
-   "fetched_at": "2026-08-06T15:04:29Z",
+   "fetched_at": "2026-08-08T06:47:51Z",
    "quality_flags": null
   },
   "lakeland-butter": {
@@ -299,12 +299,12 @@
    "carbs_g": 0.1,
    "fat_g": 5.7,
    "salt_g": 0.13,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Caffè Nero GB allergen, nutritional & ingredient guide)",
    "source_url": "https://caffenerowebsite.blob.core.windows.net/production/data/menus/caffenero_nutrition_allergens-en_GB.pdf",
-   "fetched_at": "2026-08-06T15:04:29Z",
+   "fetched_at": "2026-08-08T06:47:51Z",
    "quality_flags": null
   },
   "rodda-s-cornish-clotted-cream": {
@@ -318,12 +318,12 @@
    "carbs_g": 0.9,
    "fat_g": 25.4,
    "salt_g": 0.02,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Caffè Nero GB allergen, nutritional & ingredient guide)",
    "source_url": "https://caffenerowebsite.blob.core.windows.net/production/data/menus/caffenero_nutrition_allergens-en_GB.pdf",
-   "fetched_at": "2026-08-06T15:04:29Z",
+   "fetched_at": "2026-08-08T06:47:51Z",
    "quality_flags": null
   },
   "marshmallows": {
@@ -342,7 +342,7 @@
    "allergens": null,
    "source": "brand PDF (Caffè Nero GB allergen, nutritional & ingredient guide)",
    "source_url": "https://caffenerowebsite.blob.core.windows.net/production/data/menus/caffenero_nutrition_allergens-en_GB.pdf",
-   "fetched_at": "2026-08-06T15:04:29Z",
+   "fetched_at": "2026-08-08T06:47:51Z",
    "quality_flags": null
   },
   "seeds-fruit-mix-topper": {
@@ -356,12 +356,12 @@
    "carbs_g": 11.6,
    "fat_g": 5.6,
    "salt_g": 0.01,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "brand PDF (Caffè Nero GB allergen, nutritional & ingredient guide)",
    "source_url": "https://caffenerowebsite.blob.core.windows.net/production/data/menus/caffenero_nutrition_allergens-en_GB.pdf",
-   "fetched_at": "2026-08-06T15:04:29Z",
+   "fetched_at": "2026-08-08T06:47:51Z",
    "quality_flags": null
   },
   "dates-pecan-nuts": {
@@ -375,12 +375,12 @@
    "carbs_g": 5.3,
    "fat_g": 5.3,
    "salt_g": 0.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "brand PDF (Caffè Nero GB allergen, nutritional & ingredient guide)",
    "source_url": "https://caffenerowebsite.blob.core.windows.net/production/data/menus/caffenero_nutrition_allergens-en_GB.pdf",
-   "fetched_at": "2026-08-06T15:04:29Z",
+   "fetched_at": "2026-08-08T06:47:51Z",
    "quality_flags": null
   },
   "banana-chips": {
@@ -394,12 +394,12 @@
    "carbs_g": 16.5,
    "fat_g": 6.5,
    "salt_g": 0.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "brand PDF (Caffè Nero GB allergen, nutritional & ingredient guide)",
    "source_url": "https://caffenerowebsite.blob.core.windows.net/production/data/menus/caffenero_nutrition_allergens-en_GB.pdf",
-   "fetched_at": "2026-08-06T15:04:29Z",
+   "fetched_at": "2026-08-08T06:47:51Z",
    "quality_flags": null
   },
   "chocolate-chips": {
@@ -413,12 +413,12 @@
    "carbs_g": 6.2,
    "fat_g": 2.8,
    "salt_g": 0.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "brand PDF (Caffè Nero GB allergen, nutritional & ingredient guide)",
    "source_url": "https://caffenerowebsite.blob.core.windows.net/production/data/menus/caffenero_nutrition_allergens-en_GB.pdf",
-   "fetched_at": "2026-08-06T15:04:29Z",
+   "fetched_at": "2026-08-08T06:47:51Z",
    "quality_flags": null
   },
   "cinnamon": {
@@ -432,12 +432,12 @@
    "carbs_g": 0.8,
    "fat_g": 0.0,
    "salt_g": 0.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "brand PDF (Caffè Nero GB allergen, nutritional & ingredient guide)",
    "source_url": "https://caffenerowebsite.blob.core.windows.net/production/data/menus/caffenero_nutrition_allergens-en_GB.pdf",
-   "fetched_at": "2026-08-06T15:04:29Z",
+   "fetched_at": "2026-08-08T06:47:51Z",
    "quality_flags": null
   },
   "porridge-made-with-semi-skimmed-milk": {
@@ -451,12 +451,12 @@
    "carbs_g": 31.9,
    "fat_g": 6.5,
    "salt_g": 0.22,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Caffè Nero GB allergen, nutritional & ingredient guide)",
    "source_url": "https://caffenerowebsite.blob.core.windows.net/production/data/menus/caffenero_nutrition_allergens-en_GB.pdf",
-   "fetched_at": "2026-08-06T15:04:29Z",
+   "fetched_at": "2026-08-08T06:47:51Z",
    "quality_flags": null
   },
   "porridge-made-with-skimmed-milk": {
@@ -470,12 +470,12 @@
    "carbs_g": 32.1,
    "fat_g": 3.6,
    "salt_g": 0.22,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Caffè Nero GB allergen, nutritional & ingredient guide)",
    "source_url": "https://caffenerowebsite.blob.core.windows.net/production/data/menus/caffenero_nutrition_allergens-en_GB.pdf",
-   "fetched_at": "2026-08-06T15:04:29Z",
+   "fetched_at": "2026-08-08T06:47:51Z",
    "quality_flags": null
   },
   "porridge-made-with-whole-milk": {
@@ -489,12 +489,12 @@
    "carbs_g": 31.7,
    "fat_g": 10.3,
    "salt_g": 0.21,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Caffè Nero GB allergen, nutritional & ingredient guide)",
    "source_url": "https://caffenerowebsite.blob.core.windows.net/production/data/menus/caffenero_nutrition_allergens-en_GB.pdf",
-   "fetched_at": "2026-08-06T15:04:29Z",
+   "fetched_at": "2026-08-08T06:47:51Z",
    "quality_flags": null
   },
   "porridge-made-with-alpro-barista-soya": {
@@ -508,12 +508,12 @@
    "carbs_g": 28.3,
    "fat_g": 6.9,
    "salt_g": 0.16,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "brand PDF (Caffè Nero GB allergen, nutritional & ingredient guide)",
    "source_url": "https://caffenerowebsite.blob.core.windows.net/production/data/menus/caffenero_nutrition_allergens-en_GB.pdf",
-   "fetched_at": "2026-08-06T15:04:29Z",
+   "fetched_at": "2026-08-08T06:47:51Z",
    "quality_flags": null
   },
   "porridge-made-with-alpro-barista-coconut": {
@@ -527,12 +527,12 @@
    "carbs_g": 29.5,
    "fat_g": 5.9,
    "salt_g": 0.22,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "brand PDF (Caffè Nero GB allergen, nutritional & ingredient guide)",
    "source_url": "https://caffenerowebsite.blob.core.windows.net/production/data/menus/caffenero_nutrition_allergens-en_GB.pdf",
-   "fetched_at": "2026-08-06T15:04:29Z",
+   "fetched_at": "2026-08-08T06:47:51Z",
    "quality_flags": null
   },
   "porridge-made-with-alpro-barista-oat": {
@@ -546,12 +546,12 @@
    "carbs_g": 36.3,
    "fat_g": 9.1,
    "salt_g": 0.26,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "brand PDF (Caffè Nero GB allergen, nutritional & ingredient guide)",
    "source_url": "https://caffenerowebsite.blob.core.windows.net/production/data/menus/caffenero_nutrition_allergens-en_GB.pdf",
-   "fetched_at": "2026-08-06T15:04:29Z",
+   "fetched_at": "2026-08-08T06:47:51Z",
    "quality_flags": null
   },
   "porridge-made-with-alpro-barista-almond": {
@@ -565,12 +565,12 @@
    "carbs_g": 27.8,
    "fat_g": 5.5,
    "salt_g": 0.16,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "brand PDF (Caffè Nero GB allergen, nutritional & ingredient guide)",
    "source_url": "https://caffenerowebsite.blob.core.windows.net/production/data/menus/caffenero_nutrition_allergens-en_GB.pdf",
-   "fetched_at": "2026-08-06T15:04:29Z",
+   "fetched_at": "2026-08-08T06:47:51Z",
    "quality_flags": null
   },
   "belgian-chocolate-fudge-cake": {
@@ -584,12 +584,12 @@
    "carbs_g": 45.9,
    "fat_g": 22.9,
    "salt_g": 0.43,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Caffè Nero GB allergen, nutritional & ingredient guide)",
    "source_url": "https://caffenerowebsite.blob.core.windows.net/production/data/menus/caffenero_nutrition_allergens-en_GB.pdf",
-   "fetched_at": "2026-08-06T15:04:29Z",
+   "fetched_at": "2026-08-08T06:47:51Z",
    "quality_flags": null
   },
   "cappuccino-cake": {
@@ -603,12 +603,12 @@
    "carbs_g": 49.5,
    "fat_g": 19.0,
    "salt_g": 0.41,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Caffè Nero GB allergen, nutritional & ingredient guide)",
    "source_url": "https://caffenerowebsite.blob.core.windows.net/production/data/menus/caffenero_nutrition_allergens-en_GB.pdf",
-   "fetched_at": "2026-08-06T15:04:29Z",
+   "fetched_at": "2026-08-08T06:47:51Z",
    "quality_flags": null
   },
   "carrot-cake": {
@@ -622,12 +622,12 @@
    "carbs_g": 63.9,
    "fat_g": 20.8,
    "salt_g": 0.72,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Caffè Nero GB allergen, nutritional & ingredient guide)",
    "source_url": "https://caffenerowebsite.blob.core.windows.net/production/data/menus/caffenero_nutrition_allergens-en_GB.pdf",
-   "fetched_at": "2026-08-06T15:04:29Z",
+   "fetched_at": "2026-08-08T06:47:51Z",
    "quality_flags": null
   },
   "lemon-drizzle-loaf-cake": {
@@ -641,12 +641,12 @@
    "carbs_g": 43.0,
    "fat_g": 12.9,
    "salt_g": 0.43,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Caffè Nero GB allergen, nutritional & ingredient guide)",
    "source_url": "https://caffenerowebsite.blob.core.windows.net/production/data/menus/caffenero_nutrition_allergens-en_GB.pdf",
-   "fetched_at": "2026-08-06T15:04:29Z",
+   "fetched_at": "2026-08-08T06:47:51Z",
    "quality_flags": null
   },
   "banana-walnut-loaf-cake": {
@@ -660,12 +660,12 @@
    "carbs_g": 35.1,
    "fat_g": 16.4,
    "salt_g": 0.46,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Caffè Nero GB allergen, nutritional & ingredient guide)",
    "source_url": "https://caffenerowebsite.blob.core.windows.net/production/data/menus/caffenero_nutrition_allergens-en_GB.pdf",
-   "fetched_at": "2026-08-06T15:04:29Z",
+   "fetched_at": "2026-08-08T06:47:51Z",
    "quality_flags": null
   },
   "caramel-shortbread": {
@@ -679,12 +679,12 @@
    "carbs_g": 35.8,
    "fat_g": 16.1,
    "salt_g": 0.4,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Caffè Nero GB allergen, nutritional & ingredient guide)",
    "source_url": "https://caffenerowebsite.blob.core.windows.net/production/data/menus/caffenero_nutrition_allergens-en_GB.pdf",
-   "fetched_at": "2026-08-06T15:04:30Z",
+   "fetched_at": "2026-08-08T06:47:51Z",
    "quality_flags": null
   },
   "rocky-road": {
@@ -698,12 +698,12 @@
    "carbs_g": 33.3,
    "fat_g": 18.7,
    "salt_g": 0.12,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Caffè Nero GB allergen, nutritional & ingredient guide)",
    "source_url": "https://caffenerowebsite.blob.core.windows.net/production/data/menus/caffenero_nutrition_allergens-en_GB.pdf",
-   "fetched_at": "2026-08-06T15:04:30Z",
+   "fetched_at": "2026-08-08T06:47:51Z",
    "quality_flags": null
   },
   "belgian-chocolate-brownie": {
@@ -717,12 +717,12 @@
    "carbs_g": 34.3,
    "fat_g": 17.8,
    "salt_g": 0.34,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Caffè Nero GB allergen, nutritional & ingredient guide)",
    "source_url": "https://caffenerowebsite.blob.core.windows.net/production/data/menus/caffenero_nutrition_allergens-en_GB.pdf",
-   "fetched_at": "2026-08-06T15:04:30Z",
+   "fetched_at": "2026-08-08T06:47:51Z",
    "quality_flags": null
   },
   "granola-flapjack": {
@@ -736,12 +736,12 @@
    "carbs_g": 35.4,
    "fat_g": 13.9,
    "salt_g": 0.09,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "brand PDF (Caffè Nero GB allergen, nutritional & ingredient guide)",
    "source_url": "https://caffenerowebsite.blob.core.windows.net/production/data/menus/caffenero_nutrition_allergens-en_GB.pdf",
-   "fetched_at": "2026-08-06T15:04:30Z",
+   "fetched_at": "2026-08-08T06:47:51Z",
    "quality_flags": null
   },
   "chocolate-chip-cookie": {
@@ -755,12 +755,12 @@
    "carbs_g": 49.3,
    "fat_g": 14.6,
    "salt_g": 0.72,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "brand PDF (Caffè Nero GB allergen, nutritional & ingredient guide)",
    "source_url": "https://caffenerowebsite.blob.core.windows.net/production/data/menus/caffenero_nutrition_allergens-en_GB.pdf",
-   "fetched_at": "2026-08-06T15:04:30Z",
+   "fetched_at": "2026-08-08T06:47:51Z",
    "quality_flags": null
   },
   "oat-cranberry-cookie": {
@@ -774,12 +774,12 @@
    "carbs_g": 45.7,
    "fat_g": 17.5,
    "salt_g": 0.45,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "brand PDF (Caffè Nero GB allergen, nutritional & ingredient guide)",
    "source_url": "https://caffenerowebsite.blob.core.windows.net/production/data/menus/caffenero_nutrition_allergens-en_GB.pdf",
-   "fetched_at": "2026-08-06T15:04:30Z",
+   "fetched_at": "2026-08-08T06:47:51Z",
    "quality_flags": null
   },
   "mango-passionfruit-plant-based-cheesecake": {
@@ -793,12 +793,12 @@
    "carbs_g": 46.2,
    "fat_g": 19.7,
    "salt_g": 0.21,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "brand PDF (Caffè Nero GB allergen, nutritional & ingredient guide)",
    "source_url": "https://caffenerowebsite.blob.core.windows.net/production/data/menus/caffenero_nutrition_allergens-en_GB.pdf",
-   "fetched_at": "2026-08-06T15:04:30Z",
+   "fetched_at": "2026-08-08T06:47:51Z",
    "quality_flags": null
   },
   "apple-crumble-custard-tart": {
@@ -812,12 +812,12 @@
    "carbs_g": 42.4,
    "fat_g": 15.7,
    "salt_g": 0.38,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "brand PDF (Caffè Nero GB allergen, nutritional & ingredient guide)",
    "source_url": "https://caffenerowebsite.blob.core.windows.net/production/data/menus/caffenero_nutrition_allergens-en_GB.pdf",
-   "fetched_at": "2026-08-06T15:04:30Z",
+   "fetched_at": "2026-08-08T06:47:51Z",
    "quality_flags": null
   },
   "sicilian-lemon-meringue-cheesecake": {
@@ -831,12 +831,12 @@
    "carbs_g": 48.5,
    "fat_g": 17.2,
    "salt_g": 0.33,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Caffè Nero GB allergen, nutritional & ingredient guide)",
    "source_url": "https://caffenerowebsite.blob.core.windows.net/production/data/menus/caffenero_nutrition_allergens-en_GB.pdf",
-   "fetched_at": "2026-08-06T15:04:30Z",
+   "fetched_at": "2026-08-08T06:47:51Z",
    "quality_flags": null
   },
   "italian-cream-bun-maritozzo": {
@@ -850,12 +850,12 @@
    "carbs_g": 27.9,
    "fat_g": 17.1,
    "salt_g": 0.33,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Caffè Nero GB allergen, nutritional & ingredient guide)",
    "source_url": "https://caffenerowebsite.blob.core.windows.net/production/data/menus/caffenero_nutrition_allergens-en_GB.pdf",
-   "fetched_at": "2026-08-06T15:04:30Z",
+   "fetched_at": "2026-08-08T06:47:51Z",
    "quality_flags": null
   },
   "italian-tiramisu": {
@@ -869,12 +869,12 @@
    "carbs_g": 41.8,
    "fat_g": 12.1,
    "salt_g": 0.12,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Caffè Nero GB allergen, nutritional & ingredient guide)",
    "source_url": "https://caffenerowebsite.blob.core.windows.net/production/data/menus/caffenero_nutrition_allergens-en_GB.pdf",
-   "fetched_at": "2026-08-06T15:04:30Z",
+   "fetched_at": "2026-08-08T06:47:51Z",
    "quality_flags": null
   },
   "pistachio-chocolate-mousse-cake": {
@@ -893,7 +893,7 @@
    "allergens": null,
    "source": "brand PDF (Caffè Nero GB allergen, nutritional & ingredient guide)",
    "source_url": "https://caffenerowebsite.blob.core.windows.net/production/data/menus/caffenero_nutrition_allergens-en_GB.pdf",
-   "fetched_at": "2026-08-06T15:04:30Z",
+   "fetched_at": "2026-08-08T06:47:51Z",
    "quality_flags": null
   },
   "pork-pancetta-sausage-roll": {
@@ -912,7 +912,7 @@
    "allergens": null,
    "source": "brand PDF (Caffè Nero GB allergen, nutritional & ingredient guide)",
    "source_url": "https://caffenerowebsite.blob.core.windows.net/production/data/menus/caffenero_nutrition_allergens-en_GB.pdf",
-   "fetched_at": "2026-08-06T15:04:30Z",
+   "fetched_at": "2026-08-08T06:47:51Z",
    "quality_flags": null
   },
   "sourdough-bread-roll": {
@@ -926,12 +926,12 @@
    "carbs_g": 36.0,
    "fat_g": 0.5,
    "salt_g": 0.85,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "brand PDF (Caffè Nero GB allergen, nutritional & ingredient guide)",
    "source_url": "https://caffenerowebsite.blob.core.windows.net/production/data/menus/caffenero_nutrition_allergens-en_GB.pdf",
-   "fetched_at": "2026-08-06T15:04:30Z",
+   "fetched_at": "2026-08-08T06:47:51Z",
    "quality_flags": null
   },
   "roasted-vegetable-plant-based-savoury-roll": {
@@ -945,12 +945,12 @@
    "carbs_g": 32.4,
    "fat_g": 18.5,
    "salt_g": 1.2,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "brand PDF (Caffè Nero GB allergen, nutritional & ingredient guide)",
    "source_url": "https://caffenerowebsite.blob.core.windows.net/production/data/menus/caffenero_nutrition_allergens-en_GB.pdf",
-   "fetched_at": "2026-08-06T15:04:30Z",
+   "fetched_at": "2026-08-08T06:47:51Z",
    "quality_flags": null
   },
   "ham-cheese-croissant": {
@@ -969,7 +969,7 @@
    "allergens": null,
    "source": "brand PDF (Caffè Nero GB allergen, nutritional & ingredient guide)",
    "source_url": "https://caffenerowebsite.blob.core.windows.net/production/data/menus/caffenero_nutrition_allergens-en_GB.pdf",
-   "fetched_at": "2026-08-06T15:04:30Z",
+   "fetched_at": "2026-08-08T06:47:51Z",
    "quality_flags": null
   },
   "italian-prosciutto-yellow-datterini-tomato-flatbread": {
@@ -988,7 +988,7 @@
    "allergens": null,
    "source": "brand PDF (Caffè Nero GB allergen, nutritional & ingredient guide)",
    "source_url": "https://caffenerowebsite.blob.core.windows.net/production/data/menus/caffenero_nutrition_allergens-en_GB.pdf",
-   "fetched_at": "2026-08-06T15:04:30Z",
+   "fetched_at": "2026-08-08T06:47:51Z",
    "quality_flags": null
   },
   "italian-mozzarella-pesto-tomato-pizzetta": {
@@ -1002,12 +1002,12 @@
    "carbs_g": 49.6,
    "fat_g": 25.6,
    "salt_g": 2.72,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Caffè Nero GB allergen, nutritional & ingredient guide)",
    "source_url": "https://caffenerowebsite.blob.core.windows.net/production/data/menus/caffenero_nutrition_allergens-en_GB.pdf",
-   "fetched_at": "2026-08-06T15:04:30Z",
+   "fetched_at": "2026-08-08T06:47:51Z",
    "quality_flags": null
   },
   "ham-mozzarella-panini": {
@@ -1026,7 +1026,7 @@
    "allergens": null,
    "source": "brand PDF (Caffè Nero GB allergen, nutritional & ingredient guide)",
    "source_url": "https://caffenerowebsite.blob.core.windows.net/production/data/menus/caffenero_nutrition_allergens-en_GB.pdf",
-   "fetched_at": "2026-08-06T15:04:30Z",
+   "fetched_at": "2026-08-08T06:47:52Z",
    "quality_flags": null
   },
   "mozzarella-tomato-panini": {
@@ -1040,12 +1040,12 @@
    "carbs_g": 53.2,
    "fat_g": 18.3,
    "salt_g": 1.95,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Caffè Nero GB allergen, nutritional & ingredient guide)",
    "source_url": "https://caffenerowebsite.blob.core.windows.net/production/data/menus/caffenero_nutrition_allergens-en_GB.pdf",
-   "fetched_at": "2026-08-06T15:04:30Z",
+   "fetched_at": "2026-08-08T06:47:52Z",
    "quality_flags": null
   },
   "mushroom-tomato-ragu-panini": {
@@ -1059,12 +1059,12 @@
    "carbs_g": 50.0,
    "fat_g": 7.8,
    "salt_g": 1.14,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "brand PDF (Caffè Nero GB allergen, nutritional & ingredient guide)",
    "source_url": "https://caffenerowebsite.blob.core.windows.net/production/data/menus/caffenero_nutrition_allergens-en_GB.pdf",
-   "fetched_at": "2026-08-06T15:04:30Z",
+   "fetched_at": "2026-08-08T06:47:52Z",
    "quality_flags": null
   },
   "tuna-melt-panini": {
@@ -1083,7 +1083,7 @@
    "allergens": null,
    "source": "brand PDF (Caffè Nero GB allergen, nutritional & ingredient guide)",
    "source_url": "https://caffenerowebsite.blob.core.windows.net/production/data/menus/caffenero_nutrition_allergens-en_GB.pdf",
-   "fetched_at": "2026-08-06T15:04:30Z",
+   "fetched_at": "2026-08-08T06:47:52Z",
    "quality_flags": null
   },
   "brie-bacon-panini": {
@@ -1102,7 +1102,7 @@
    "allergens": null,
    "source": "brand PDF (Caffè Nero GB allergen, nutritional & ingredient guide)",
    "source_url": "https://caffenerowebsite.blob.core.windows.net/production/data/menus/caffenero_nutrition_allergens-en_GB.pdf",
-   "fetched_at": "2026-08-06T15:04:30Z",
+   "fetched_at": "2026-08-08T06:47:52Z",
    "quality_flags": null
   },
   "white-mono-new-four-cheese-treatment-and-balsamic-onion-carbonate-chutney-tostat": {
@@ -1116,12 +1116,12 @@
    "carbs_g": 46.0,
    "fat_g": 19.0,
    "salt_g": 1.6,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Caffè Nero GB allergen, nutritional & ingredient guide)",
    "source_url": "https://caffenerowebsite.blob.core.windows.net/production/data/menus/caffenero_nutrition_allergens-en_GB.pdf",
-   "fetched_at": "2026-08-06T15:04:30Z",
+   "fetched_at": "2026-08-08T06:47:52Z",
    "quality_flags": null
   },
   "white-diglycerides-new-chicken-and-acid-pesto-tostati-mustard-milk": {
@@ -1140,7 +1140,7 @@
    "allergens": null,
    "source": "brand PDF (Caffè Nero GB allergen, nutritional & ingredient guide)",
    "source_url": "https://caffenerowebsite.blob.core.windows.net/production/data/menus/caffenero_nutrition_allergens-en_GB.pdf",
-   "fetched_at": "2026-08-06T15:04:30Z",
+   "fetched_at": "2026-08-08T06:47:52Z",
    "quality_flags": null
   },
   "white-mono-treatment-chicken-and-bacon-carbonate-tostati-melt-milk-preservatives": {
@@ -1159,7 +1159,7 @@
    "allergens": null,
    "source": "brand PDF (Caffè Nero GB allergen, nutritional & ingredient guide)",
    "source_url": "https://caffenerowebsite.blob.core.windows.net/production/data/menus/caffenero_nutrition_allergens-en_GB.pdf",
-   "fetched_at": "2026-08-06T15:04:30Z",
+   "fetched_at": "2026-08-08T06:47:52Z",
    "quality_flags": null
   },
   "gluten-free-mozzarella-tomato-pesto-tostati": {
@@ -1173,12 +1173,12 @@
    "carbs_g": 18.1,
    "fat_g": 29.1,
    "salt_g": 2.22,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Caffè Nero GB allergen, nutritional & ingredient guide)",
    "source_url": "https://caffenerowebsite.blob.core.windows.net/production/data/menus/caffenero_nutrition_allergens-en_GB.pdf",
-   "fetched_at": "2026-08-06T15:04:30Z",
+   "fetched_at": "2026-08-08T06:47:52Z",
    "quality_flags": null
   },
   "ham-cheese-tostati-melt": {
@@ -1197,7 +1197,7 @@
    "allergens": null,
    "source": "brand PDF (Caffè Nero GB allergen, nutritional & ingredient guide)",
    "source_url": "https://caffenerowebsite.blob.core.windows.net/production/data/menus/caffenero_nutrition_allergens-en_GB.pdf",
-   "fetched_at": "2026-08-06T15:04:30Z",
+   "fetched_at": "2026-08-08T06:47:52Z",
    "quality_flags": null
   },
   "mozzarella-roasted-tomato-tostati-melt": {
@@ -1211,12 +1211,12 @@
    "carbs_g": 45.0,
    "fat_g": 16.0,
    "salt_g": 1.43,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Caffè Nero GB allergen, nutritional & ingredient guide)",
    "source_url": "https://caffenerowebsite.blob.core.windows.net/production/data/menus/caffenero_nutrition_allergens-en_GB.pdf",
-   "fetched_at": "2026-08-06T15:04:30Z",
+   "fetched_at": "2026-08-08T06:47:52Z",
    "quality_flags": null
   },
   "cheese-and-tomato-tostati": {
@@ -1230,12 +1230,12 @@
    "carbs_g": 42.0,
    "fat_g": 14.3,
    "salt_g": 1.39,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Caffè Nero GB allergen, nutritional & ingredient guide)",
    "source_url": "https://caffenerowebsite.blob.core.windows.net/production/data/menus/caffenero_nutrition_allergens-en_GB.pdf",
-   "fetched_at": "2026-08-06T15:04:30Z",
+   "fetched_at": "2026-08-08T06:47:52Z",
    "quality_flags": null
   },
   "egg-mushroom-tomato-ciabatta": {
@@ -1249,12 +1249,12 @@
    "carbs_g": 44.8,
    "fat_g": 11.8,
    "salt_g": 1.6,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Caffè Nero GB allergen, nutritional & ingredient guide)",
    "source_url": "https://caffenerowebsite.blob.core.windows.net/production/data/menus/caffenero_nutrition_allergens-en_GB.pdf",
-   "fetched_at": "2026-08-06T15:04:31Z",
+   "fetched_at": "2026-08-08T06:47:52Z",
    "quality_flags": null
   },
   "bacon-ciabatta": {
@@ -1273,7 +1273,7 @@
    "allergens": null,
    "source": "brand PDF (Caffè Nero GB allergen, nutritional & ingredient guide)",
    "source_url": "https://caffenerowebsite.blob.core.windows.net/production/data/menus/caffenero_nutrition_allergens-en_GB.pdf",
-   "fetched_at": "2026-08-06T15:04:31Z",
+   "fetched_at": "2026-08-08T06:47:52Z",
    "quality_flags": null
   },
   "butcher-s-sausage-ciabatta": {
@@ -1292,7 +1292,7 @@
    "allergens": null,
    "source": "brand PDF (Caffè Nero GB allergen, nutritional & ingredient guide)",
    "source_url": "https://caffenerowebsite.blob.core.windows.net/production/data/menus/caffenero_nutrition_allergens-en_GB.pdf",
-   "fetched_at": "2026-08-06T15:04:31Z",
+   "fetched_at": "2026-08-08T06:47:52Z",
    "quality_flags": null
   },
   "tuna-cucumber-sandwich": {
@@ -1311,7 +1311,7 @@
    "allergens": null,
    "source": "brand PDF (Caffè Nero GB allergen, nutritional & ingredient guide)",
    "source_url": "https://caffenerowebsite.blob.core.windows.net/production/data/menus/caffenero_nutrition_allergens-en_GB.pdf",
-   "fetched_at": "2026-08-06T15:04:31Z",
+   "fetched_at": "2026-08-08T06:47:52Z",
    "quality_flags": null
   },
   "free-range-egg-mayo-sandwich": {
@@ -1325,12 +1325,12 @@
    "carbs_g": 43.0,
    "fat_g": 27.0,
    "salt_g": 1.18,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Caffè Nero GB allergen, nutritional & ingredient guide)",
    "source_url": "https://caffenerowebsite.blob.core.windows.net/production/data/menus/caffenero_nutrition_allergens-en_GB.pdf",
-   "fetched_at": "2026-08-06T15:04:31Z",
+   "fetched_at": "2026-08-08T06:47:52Z",
    "quality_flags": null
   },
   "chicken-salad-sandwich": {
@@ -1349,7 +1349,7 @@
    "allergens": null,
    "source": "brand PDF (Caffè Nero GB allergen, nutritional & ingredient guide)",
    "source_url": "https://caffenerowebsite.blob.core.windows.net/production/data/menus/caffenero_nutrition_allergens-en_GB.pdf",
-   "fetched_at": "2026-08-06T15:04:31Z",
+   "fetched_at": "2026-08-08T06:47:52Z",
    "quality_flags": null
   },
   "blt-sandwich": {
@@ -1368,7 +1368,7 @@
    "allergens": null,
    "source": "brand PDF (Caffè Nero GB allergen, nutritional & ingredient guide)",
    "source_url": "https://caffenerowebsite.blob.core.windows.net/production/data/menus/caffenero_nutrition_allergens-en_GB.pdf",
-   "fetched_at": "2026-08-06T15:04:31Z",
+   "fetched_at": "2026-08-08T06:47:52Z",
    "quality_flags": null
   },
   "spicy-chicken-red-pepper-focaccia": {
@@ -1387,7 +1387,7 @@
    "allergens": null,
    "source": "brand PDF (Caffè Nero GB allergen, nutritional & ingredient guide)",
    "source_url": "https://caffenerowebsite.blob.core.windows.net/production/data/menus/caffenero_nutrition_allergens-en_GB.pdf",
-   "fetched_at": "2026-08-06T15:04:31Z",
+   "fetched_at": "2026-08-08T06:47:52Z",
    "quality_flags": null
   },
   "italian-fennel-salami-cotto-ham-mozzarella-focaccia": {
@@ -1406,7 +1406,7 @@
    "allergens": null,
    "source": "brand PDF (Caffè Nero GB allergen, nutritional & ingredient guide)",
    "source_url": "https://caffenerowebsite.blob.core.windows.net/production/data/menus/caffenero_nutrition_allergens-en_GB.pdf",
-   "fetched_at": "2026-08-06T15:04:31Z",
+   "fetched_at": "2026-08-08T06:47:52Z",
    "quality_flags": null
   },
   "chicken-bacon-caesar-wrap": {
@@ -1425,7 +1425,7 @@
    "allergens": null,
    "source": "brand PDF (Caffè Nero GB allergen, nutritional & ingredient guide)",
    "source_url": "https://caffenerowebsite.blob.core.windows.net/production/data/menus/caffenero_nutrition_allergens-en_GB.pdf",
-   "fetched_at": "2026-08-06T15:04:31Z",
+   "fetched_at": "2026-08-08T06:47:52Z",
    "quality_flags": null
   },
   "chicken-tomato-basil-hot-wrap": {
@@ -1444,7 +1444,7 @@
    "allergens": null,
    "source": "brand PDF (Caffè Nero GB allergen, nutritional & ingredient guide)",
    "source_url": "https://caffenerowebsite.blob.core.windows.net/production/data/menus/caffenero_nutrition_allergens-en_GB.pdf",
-   "fetched_at": "2026-08-06T15:04:31Z",
+   "fetched_at": "2026-08-08T06:47:52Z",
    "quality_flags": null
   },
   "smoky-three-bean-wrap-airport-stores-only": {
@@ -1458,12 +1458,12 @@
    "carbs_g": 64.0,
    "fat_g": 11.8,
    "salt_g": 1.09,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Caffè Nero GB allergen, nutritional & ingredient guide)",
    "source_url": "https://caffenerowebsite.blob.core.windows.net/production/data/menus/caffenero_nutrition_allergens-en_GB.pdf",
-   "fetched_at": "2026-08-06T15:04:31Z",
+   "fetched_at": "2026-08-08T06:47:52Z",
    "quality_flags": null
   },
   "feta-mixed-grain-salad": {
@@ -1477,12 +1477,12 @@
    "carbs_g": 9.6,
    "fat_g": 10.0,
    "salt_g": 1.21,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Caffè Nero GB allergen, nutritional & ingredient guide)",
    "source_url": "https://caffenerowebsite.blob.core.windows.net/production/data/menus/caffenero_nutrition_allergens-en_GB.pdf",
-   "fetched_at": "2026-08-06T15:04:31Z",
+   "fetched_at": "2026-08-08T06:47:52Z",
    "quality_flags": null
   },
   "chicken-mixed-grain-salad": {
@@ -1501,7 +1501,7 @@
    "allergens": null,
    "source": "brand PDF (Caffè Nero GB allergen, nutritional & ingredient guide)",
    "source_url": "https://caffenerowebsite.blob.core.windows.net/production/data/menus/caffenero_nutrition_allergens-en_GB.pdf",
-   "fetched_at": "2026-08-06T15:04:31Z",
+   "fetched_at": "2026-08-08T06:47:52Z",
    "quality_flags": null
   },
   "tomato-basil-soup": {
@@ -1515,12 +1515,12 @@
    "carbs_g": 11.2,
    "fat_g": 6.7,
    "salt_g": 1.4,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "brand PDF (Caffè Nero GB allergen, nutritional & ingredient guide)",
    "source_url": "https://caffenerowebsite.blob.core.windows.net/production/data/menus/caffenero_nutrition_allergens-en_GB.pdf",
-   "fetched_at": "2026-08-06T15:04:31Z",
+   "fetched_at": "2026-08-08T06:47:53Z",
    "quality_flags": null
   },
   "arrabbiata-meatball-pasta": {
@@ -1539,7 +1539,7 @@
    "allergens": null,
    "source": "brand PDF (Caffè Nero GB allergen, nutritional & ingredient guide)",
    "source_url": "https://caffenerowebsite.blob.core.windows.net/production/data/menus/caffenero_nutrition_allergens-en_GB.pdf",
-   "fetched_at": "2026-08-06T15:04:31Z",
+   "fetched_at": "2026-08-08T06:47:53Z",
    "quality_flags": null
   },
   "fruit-teacake": {
@@ -1553,12 +1553,12 @@
    "carbs_g": 53.5,
    "fat_g": 1.3,
    "salt_g": 0.61,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "brand PDF (Caffè Nero GB allergen, nutritional & ingredient guide)",
    "source_url": "https://caffenerowebsite.blob.core.windows.net/production/data/menus/caffenero_nutrition_allergens-en_GB.pdf",
-   "fetched_at": "2026-08-06T15:04:31Z",
+   "fetched_at": "2026-08-08T06:47:53Z",
    "quality_flags": null
   },
   "gianduja-chocolate": {
@@ -1572,12 +1572,12 @@
    "carbs_g": 4.7,
    "fat_g": 4.0,
    "salt_g": 0.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "brand PDF (Caffè Nero GB allergen, nutritional & ingredient guide)",
    "source_url": "https://caffenerowebsite.blob.core.windows.net/production/data/menus/caffenero_nutrition_allergens-en_GB.pdf",
-   "fetched_at": "2026-08-06T15:04:31Z",
+   "fetched_at": "2026-08-08T06:47:53Z",
    "quality_flags": null
   },
   "gingerbread-biscuit": {
@@ -1591,12 +1591,12 @@
    "carbs_g": 49.3,
    "fat_g": 9.1,
    "salt_g": 0.7,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Caffè Nero GB allergen, nutritional & ingredient guide)",
    "source_url": "https://caffenerowebsite.blob.core.windows.net/production/data/menus/caffenero_nutrition_allergens-en_GB.pdf",
-   "fetched_at": "2026-08-06T15:04:31Z",
+   "fetched_at": "2026-08-08T06:47:53Z",
    "quality_flags": null
   },
   "loacker-napolitaner": {
@@ -1610,12 +1610,12 @@
    "carbs_g": 26.1,
    "fat_g": 12.2,
    "salt_g": 0.17,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Caffè Nero GB allergen, nutritional & ingredient guide)",
    "source_url": "https://caffenerowebsite.blob.core.windows.net/production/data/menus/caffenero_nutrition_allergens-en_GB.pdf",
-   "fetched_at": "2026-08-06T15:04:31Z",
+   "fetched_at": "2026-08-08T06:47:53Z",
    "quality_flags": null
   },
   "loacker-vanille": {
@@ -1629,12 +1629,12 @@
    "carbs_g": 27.5,
    "fat_g": 12.2,
    "salt_g": 0.2,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Caffè Nero GB allergen, nutritional & ingredient guide)",
    "source_url": "https://caffenerowebsite.blob.core.windows.net/production/data/menus/caffenero_nutrition_allergens-en_GB.pdf",
-   "fetched_at": "2026-08-06T15:04:31Z",
+   "fetched_at": "2026-08-08T06:47:53Z",
    "quality_flags": null
   },
   "kettle-sea-salt-crisps": {
@@ -1648,12 +1648,12 @@
    "carbs_g": 22.7,
    "fat_g": 10.2,
    "salt_g": 0.26,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "brand PDF (Caffè Nero GB allergen, nutritional & ingredient guide)",
    "source_url": "https://caffenerowebsite.blob.core.windows.net/production/data/menus/caffenero_nutrition_allergens-en_GB.pdf",
-   "fetched_at": "2026-08-06T15:04:31Z",
+   "fetched_at": "2026-08-08T06:47:53Z",
    "quality_flags": null
   },
   "kettle-sea-salt-vinegar-crisps": {
@@ -1667,12 +1667,12 @@
    "carbs_g": 22.3,
    "fat_g": 11.2,
    "salt_g": 0.6,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "brand PDF (Caffè Nero GB allergen, nutritional & ingredient guide)",
    "source_url": "https://caffenerowebsite.blob.core.windows.net/production/data/menus/caffenero_nutrition_allergens-en_GB.pdf",
-   "fetched_at": "2026-08-06T15:04:31Z",
+   "fetched_at": "2026-08-08T06:47:53Z",
    "quality_flags": null
   },
   "kettle-cheddar-onion-crisps": {
@@ -1686,12 +1686,12 @@
    "carbs_g": 20.4,
    "fat_g": 12.0,
    "salt_g": 0.4,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Caffè Nero GB allergen, nutritional & ingredient guide)",
    "source_url": "https://caffenerowebsite.blob.core.windows.net/production/data/menus/caffenero_nutrition_allergens-en_GB.pdf",
-   "fetched_at": "2026-08-06T15:04:31Z",
+   "fetched_at": "2026-08-08T06:47:53Z",
    "quality_flags": null
   },
   "proper-corn-sea-salted-popcorn-vg-gf": {
@@ -1710,7 +1710,7 @@
    "allergens": null,
    "source": "brand PDF (Caffè Nero GB allergen, nutritional & ingredient guide)",
    "source_url": "https://caffenerowebsite.blob.core.windows.net/production/data/menus/caffenero_nutrition_allergens-en_GB.pdf",
-   "fetched_at": "2026-08-06T15:04:31Z",
+   "fetched_at": "2026-08-08T06:47:53Z",
    "quality_flags": null
   },
   "proper-corn-sweet-salty-popcorn-vg-gf": {
@@ -1729,7 +1729,7 @@
    "allergens": null,
    "source": "brand PDF (Caffè Nero GB allergen, nutritional & ingredient guide)",
    "source_url": "https://caffenerowebsite.blob.core.windows.net/production/data/menus/caffenero_nutrition_allergens-en_GB.pdf",
-   "fetched_at": "2026-08-06T15:04:31Z",
+   "fetched_at": "2026-08-08T06:47:53Z",
    "quality_flags": null
   },
   "berry-granola": {
@@ -1743,12 +1743,12 @@
    "carbs_g": 26.9,
    "fat_g": 16.1,
    "salt_g": 0.12,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Caffè Nero GB allergen, nutritional & ingredient guide)",
    "source_url": "https://caffenerowebsite.blob.core.windows.net/production/data/menus/caffenero_nutrition_allergens-en_GB.pdf",
-   "fetched_at": "2026-08-06T15:04:31Z",
+   "fetched_at": "2026-08-08T06:47:53Z",
    "quality_flags": null
   },
   "tim-s-raspberry-yogurt": {
@@ -1762,12 +1762,12 @@
    "carbs_g": 21.4,
    "fat_g": 14.7,
    "salt_g": 0.4,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Caffè Nero GB allergen, nutritional & ingredient guide)",
    "source_url": "https://caffenerowebsite.blob.core.windows.net/production/data/menus/caffenero_nutrition_allergens-en_GB.pdf",
-   "fetched_at": "2026-08-06T15:04:31Z",
+   "fetched_at": "2026-08-08T06:47:53Z",
    "quality_flags": null
   },
   "tim-s-vanilla-yogurt": {
@@ -1781,12 +1781,12 @@
    "carbs_g": 16.1,
    "fat_g": 15.9,
    "salt_g": 0.3,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand PDF (Caffè Nero GB allergen, nutritional & ingredient guide)",
    "source_url": "https://caffenerowebsite.blob.core.windows.net/production/data/menus/caffenero_nutrition_allergens-en_GB.pdf",
-   "fetched_at": "2026-08-06T15:04:31Z",
+   "fetched_at": "2026-08-08T06:47:53Z",
    "quality_flags": null
   },
   "mango-pineapple-fruit-pot": {
@@ -1800,12 +1800,12 @@
    "carbs_g": 23.0,
    "fat_g": 0.4,
    "salt_g": 0.01,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "brand PDF (Caffè Nero GB allergen, nutritional & ingredient guide)",
    "source_url": "https://caffenerowebsite.blob.core.windows.net/production/data/menus/caffenero_nutrition_allergens-en_GB.pdf",
-   "fetched_at": "2026-08-06T15:04:31Z",
+   "fetched_at": "2026-08-08T06:47:53Z",
    "quality_flags": null
   },
   "fruit-salad": {
@@ -1819,12 +1819,12 @@
    "carbs_g": 20.3,
    "fat_g": 0.3,
    "salt_g": 0.01,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "brand PDF (Caffè Nero GB allergen, nutritional & ingredient guide)",
    "source_url": "https://caffenerowebsite.blob.core.windows.net/production/data/menus/caffenero_nutrition_allergens-en_GB.pdf",
-   "fetched_at": "2026-08-06T15:04:31Z",
+   "fetched_at": "2026-08-08T06:47:53Z",
    "quality_flags": null
   }
  }

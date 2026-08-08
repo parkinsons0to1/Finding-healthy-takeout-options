@@ -24,6 +24,19 @@ one-cell fragments, so this adapter works from word positions instead:
 Beverage pages (22+) use a different, wide per-100ml/per-product table whose
 product names sit on separate lines from their size rows; they are deliberately
 not parsed here — the food range is where the protein is.
+
+Dietary flag source
+--------------------
+Every product name in this PDF carries a brand-published parenthetical diet
+code — "(V)" for vegetarian, "(Vg)" for vegan, e.g. "Pastel De Nata (V)",
+"Raspberry Jam (Vg)", "Mushroom & Tomato Ragu Panini (Vg)" (`(GF)` also
+appears, for gluten-free, unrelated to vegetarian/vegan and not used here).
+`_DIET_SUFFIX` already matched this to strip it from the display name; it
+previously discarded the match instead of reading it. `(Vg)` implies both
+vegetarian and vegan; `(V)` implies vegetarian only — Caffè Nero's own
+codes, not inferred from surrounding name text. Items with neither code are
+left unset (most of the range — sandwiches, meat/fish products — carries no
+code at all, so absence is not itself evidence of anything).
 """
 from __future__ import annotations
 
@@ -51,7 +64,7 @@ _PORTION_X = 975
 _LABEL_MIN_X = 850
 
 _NUM = re.compile(r"^<?\d+(?:[.,]\d+)?$")
-_DIET_SUFFIX = re.compile(r"\s*\((?:V|Vg|VE|GF)\)\s*", re.I)
+_DIET_SUFFIX = re.compile(r"\s*\((V|Vg|VE|GF)\)\s*", re.I)
 
 
 def _num(text: str) -> float | None:
@@ -124,6 +137,8 @@ def parse(raw: bytes) -> list[dict]:
                      and w.get("size", 0) > _NAME_MIN_SIZE),
                     key=lambda w: (round(w["top"] / 4), w["x0"]))
                 name = " ".join(w["text"] for w in name_words)
+                diet_m = _DIET_SUFFIX.search(name)
+                diet_code = diet_m.group(1).lower() if diet_m else None
                 name = re.sub(r"\s+", " ", _DIET_SUFFIX.sub(" ", name)).strip()
                 # trailing column headings occasionally bleed into a block
                 name = re.sub(r"\s*(PRODUCT|INGREDIENTS)\s*$", "", name).strip()
@@ -133,13 +148,16 @@ def parse(raw: bytes) -> list[dict]:
                 _, fat = _label_values(words, "fat", y0, y1)
                 _, carbs = _label_values(words, "carbs", y0, y1)
                 _, salt = _label_values(words, "salt", y0, y1)
+                vegan = True if diet_code in ("vg", "ve") else None
+                vegetarian = True if (vegan or diet_code == "v") else None
                 out.append(item(
                     CHAIN, name, SOURCE, SOURCE_URL, item_id=name,
                     category="Food",
                     serving_desc=(f"per portion ({weight:g}g)" if weight
                                   else "per portion"),
                     kcal=kcal, protein_g=protein,
-                    fat_g=fat, carbs_g=carbs, salt_g=salt))
+                    fat_g=fat, carbs_g=carbs, salt_g=salt,
+                    vegetarian=vegetarian, vegan=vegan))
     return out
 
 

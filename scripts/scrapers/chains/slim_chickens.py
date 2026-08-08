@@ -12,6 +12,19 @@ Discovery notes:
     JSON-LD, and some templates carry empty NutritionInformation objects. So
     "it's Tenkites" does not imply "parse it this way".
   * Values like "43 g" need the unit stripped; calories arrive as "303 kcal".
+
+Dietary flag source
+--------------------
+Some (not all) `MenuItem` nodes carry a schema.org `suitableForDiet` string,
+e.g. `"http://schema.org/VegetarianDiet"` — an explicit structured field, not
+inferred from the name. 214 occurrences in the live document, all
+`VegetarianDiet`; no `VeganDiet` value was found anywhere in the page (search
+for both "VeganDiet" case-sensitive and lower-cased came back empty), so
+`vegan` is left unset rather than assumed False for everything (schema.org
+lets a menu mark vegetarian without ever using the vegan term, and Slim
+Chickens genuinely may have zero vegan items — a fried-chicken menu — but
+that's not something this field can positively confirm either way, so it's
+left unset rather than guessed).
 """
 from __future__ import annotations
 
@@ -76,9 +89,15 @@ def fetch() -> list[dict]:
         if key in seen:
             continue
         seen.add(key)
+        diet = node.get("suitableForDiet") or ""
+        vegetarian = True if diet.endswith("VegetarianDiet") else None
+        vegan = True if diet.endswith("VeganDiet") else None
+        if vegan:
+            vegetarian = True   # vegan implies vegetarian
         out.append(item(
             CHAIN, name, SOURCE, SOURCE_URL, item_id=name,
             serving_desc="per serving", kcal=kcal, protein_g=protein,
             fat_g=_number(nutrition.get("fatContent")),
-            carbs_g=_number(nutrition.get("carbohydrateContent"))))
+            carbs_g=_number(nutrition.get("carbohydrateContent")),
+            vegetarian=vegetarian, vegan=vegan))
     return out

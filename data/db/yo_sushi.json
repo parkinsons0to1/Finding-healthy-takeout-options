@@ -1,7 +1,7 @@
 {
  "chain_id": "yo_sushi",
  "item_count": 165,
- "fetched_at": "2026-08-06T14:59:29Z",
+ "fetched_at": "2026-08-08T06:44:12Z",
  "items": {
   "chicken-katsu-curry-large": {
    "chain_id": "yo_sushi",
@@ -19,7 +19,7 @@
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/allergenpageyosushi",
-   "fetched_at": "2026-08-06T14:59:29Z",
+   "fetched_at": "2026-08-08T06:44:12Z",
    "quality_flags": null
   },
   "pumpkin-katsu-curry-large": {
@@ -33,12 +33,12 @@
    "carbs_g": 129.8,
    "fat_g": 18.1,
    "salt_g": 3.1,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/allergenpageyosushi",
-   "fetched_at": "2026-08-06T14:59:29Z",
+   "fetched_at": "2026-08-08T06:44:12Z",
    "quality_flags": null
   },
   "prawn-katsu-curry-large": {
@@ -57,7 +57,7 @@
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/allergenpageyosushi",
-   "fetched_at": "2026-08-06T14:59:29Z",
+   "fetched_at": "2026-08-08T06:44:12Z",
    "quality_flags": null
   },
   "chicken-katsu-curry-regular": {
@@ -76,7 +76,7 @@
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/allergenpageyosushi",
-   "fetched_at": "2026-08-06T14:59:29Z",
+   "fetched_at": "2026-08-08T06:44:12Z",
    "quality_flags": null
   },
   "pumpkin-katsu-curry-regular": {
@@ -90,12 +90,12 @@
    "carbs_g": 78.7,
    "fat_g": 6.5,
    "salt_g": 1.5,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/allergenpageyosushi",
-   "fetched_at": "2026-08-06T14:59:29Z",
+   "fetched_at": "2026-08-08T06:44:12Z",
    "quality_flags": null
   },
   "prawn-katsu-curry-regular": {
@@ -114,7 +114,7 @@
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/allergenpageyosushi",
-   "fetched_at": "2026-08-06T14:59:29Z",
+   "fetched_at": "2026-08-08T06:44:12Z",
    "quality_flags": null
   },
   "beef-teriyaki-donburi": {
@@ -133,7 +133,7 @@
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/allergenpageyosushi",
-   "fetched_at": "2026-08-06T14:59:29Z",
+   "fetched_at": "2026-08-08T06:44:12Z",
    "quality_flags": null
   },
   "chicken-teriyaki-donburi": {
@@ -152,7 +152,7 @@
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/allergenpageyosushi",
-   "fetched_at": "2026-08-06T14:59:29Z",
+   "fetched_at": "2026-08-08T06:44:12Z",
    "quality_flags": null
   },
   "pulled-shiitake-teriyaki-donburi": {
@@ -166,12 +166,12 @@
    "carbs_g": 123.7,
    "fat_g": 29.0,
    "salt_g": 3.6,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/allergenpageyosushi",
-   "fetched_at": "2026-08-06T14:59:29Z",
+   "fetched_at": "2026-08-08T06:44:12Z",
    "quality_flags": null
   },
   "korean-fried-chicken-donburi": {
@@ -190,7 +190,7 @@
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/allergenpageyosushi",
-   "fetched_at": "2026-08-06T14:59:29Z",
+   "fetched_at": "2026-08-08T06:44:12Z",
    "quality_flags": null
   },
   "chicken-bulgogi-fried-rice": {
@@ -209,7 +209,7 @@
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/allergenpageyosushi",
-   "fetched_at": "2026-08-06T14:59:29Z",
+   "fetched_at": "2026-08-08T06:44:12Z",
    "quality_flags": null
   },
   "shiitake-teriyaki-fried-rice": {
@@ -223,12 +223,12 @@
    "carbs_g": 52.5,
    "fat_g": 23.1,
    "salt_g": 3.2,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/allergenpageyosushi",
-   "fetched_at": "2026-08-06T14:59:29Z",
+   "fetched_at": "2026-08-08T06:44:12Z",
    "quality_flags": null
   },
   "salmon-teriyaki-fried-rice": {
@@ -247,7 +247,7 @@
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/allergenpageyosushi",
-   "fetched_at": "2026-08-06T14:59:29Z",
+   "fetched_at": "2026-08-08T06:44:12Z",
    "quality_flags": null
   },
   "vegetable-gyoza-shiitake-ramen": {
@@ -261,12 +261,12 @@
    "carbs_g": 86.3,
    "fat_g": 20.7,
    "salt_g": 8.0,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/allergenpageyosushi",
-   "fetched_at": "2026-08-06T14:59:29Z",
+   "fetched_at": "2026-08-08T06:44:12Z",
    "quality_flags": null
   },
   "spicy-seafood-tan-tan": {
@@ -285,7 +285,7 @@
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/allergenpageyosushi",
-   "fetched_at": "2026-08-06T14:59:29Z",
+   "fetched_at": "2026-08-08T06:44:12Z",
    "quality_flags": null
   },
   "chicken-dashi-ramen": {
@@ -304,7 +304,7 @@
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/allergenpageyosushi",
-   "fetched_at": "2026-08-06T14:59:29Z",
+   "fetched_at": "2026-08-08T06:44:12Z",
    "quality_flags": null
   },
   "chashu-chicken-ramen": {
@@ -323,7 +323,7 @@
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/allergenpageyosushi",
-   "fetched_at": "2026-08-06T14:59:29Z",
+   "fetched_at": "2026-08-08T06:44:12Z",
    "quality_flags": null
   },
   "chicken-bulgogi-noodles": {
@@ -342,7 +342,7 @@
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/allergenpageyosushi",
-   "fetched_at": "2026-08-06T14:59:29Z",
+   "fetched_at": "2026-08-08T06:44:12Z",
    "quality_flags": null
   },
   "shiitake-teriyaki-noodles": {
@@ -356,12 +356,12 @@
    "carbs_g": 48.3,
    "fat_g": 17.6,
    "salt_g": 2.7,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/allergenpageyosushi",
-   "fetched_at": "2026-08-06T14:59:29Z",
+   "fetched_at": "2026-08-08T06:44:12Z",
    "quality_flags": null
   },
   "prawn-noodles": {
@@ -380,7 +380,7 @@
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/allergenpageyosushi",
-   "fetched_at": "2026-08-06T14:59:29Z",
+   "fetched_at": "2026-08-08T06:44:12Z",
    "quality_flags": null
   },
   "chicken-katsu": {
@@ -399,7 +399,7 @@
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/allergenpageyosushi",
-   "fetched_at": "2026-08-06T14:59:29Z",
+   "fetched_at": "2026-08-08T06:44:12Z",
    "quality_flags": null
   },
   "pumpkin-katsu": {
@@ -413,12 +413,12 @@
    "carbs_g": 23.6,
    "fat_g": 5.6,
    "salt_g": 1.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/allergenpageyosushi",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:12Z",
    "quality_flags": null
   },
   "prawn-katsu": {
@@ -437,7 +437,7 @@
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/allergenpageyosushi",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:12Z",
    "quality_flags": null
   },
   "beef-teriyaki": {
@@ -456,7 +456,7 @@
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/allergenpageyosushi",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:12Z",
    "quality_flags": null
   },
   "chicken-teriyaki": {
@@ -475,7 +475,7 @@
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/allergenpageyosushi",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:12Z",
    "quality_flags": null
   },
   "pulled-shiitake-teriyaki": {
@@ -489,12 +489,12 @@
    "carbs_g": 24.5,
    "fat_g": 14.5,
    "salt_g": 2.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/allergenpageyosushi",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:12Z",
    "quality_flags": null
   },
   "chicken-gyoza": {
@@ -513,7 +513,7 @@
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/allergenpageyosushi",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:12Z",
    "quality_flags": null
   },
   "vegetable-gyoza": {
@@ -527,12 +527,12 @@
    "carbs_g": 23.0,
    "fat_g": 8.8,
    "salt_g": 2.5,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/allergenpageyosushi",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:12Z",
    "quality_flags": null
   },
   "loaded-chicken-teriyaki-gyoza": {
@@ -551,7 +551,7 @@
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/allergenpageyosushi",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:12Z",
    "quality_flags": null
   },
   "loaded-vegetable-korean-gyoza": {
@@ -565,12 +565,12 @@
    "carbs_g": 27.0,
    "fat_g": 8.9,
    "salt_g": 1.2,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/allergenpageyosushi",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:12Z",
    "quality_flags": null
   },
   "korean-fried-chicken": {
@@ -589,7 +589,7 @@
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/allergenpageyosushi",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:12Z",
    "quality_flags": null
   },
   "japanese-fried-chicken": {
@@ -608,7 +608,7 @@
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/allergenpageyosushi",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:12Z",
    "quality_flags": null
   },
   "chicken-yakitori": {
@@ -627,7 +627,7 @@
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/allergenpageyosushi",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:12Z",
    "quality_flags": null
   },
   "cod-shiso-tempura": {
@@ -646,7 +646,7 @@
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/allergenpageyosushi",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:12Z",
    "quality_flags": null
   },
   "popcorn-shrimp": {
@@ -665,7 +665,7 @@
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/allergenpageyosushi",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:12Z",
    "quality_flags": null
   },
   "spicy-pepper-squid": {
@@ -684,7 +684,7 @@
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/allergenpageyosushi",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:12Z",
    "quality_flags": null
   },
   "yo-fries": {
@@ -698,12 +698,12 @@
    "carbs_g": 32.8,
    "fat_g": 19.2,
    "salt_g": 1.8,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/allergenpageyosushi",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:12Z",
    "quality_flags": null
   },
   "mighty-duck-fries": {
@@ -722,7 +722,7 @@
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/allergenpageyosushi",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:12Z",
    "quality_flags": null
   },
   "tempura-cod-bao": {
@@ -741,7 +741,7 @@
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/allergenpageyosushi",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:12Z",
    "quality_flags": null
   },
   "pulled-shiitake-bao": {
@@ -755,12 +755,12 @@
    "carbs_g": 38.1,
    "fat_g": 21.9,
    "salt_g": 1.2,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/allergenpageyosushi",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:12Z",
    "quality_flags": null
   },
   "korean-chicken-bao": {
@@ -779,7 +779,7 @@
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/allergenpageyosushi",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:12Z",
    "quality_flags": null
   },
   "prawn-crackers": {
@@ -798,7 +798,7 @@
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/allergenpageyosushi",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:12Z",
    "quality_flags": null
   },
   "furi-furi-salt-pepper-chicken": {
@@ -817,7 +817,7 @@
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/allergenpageyosushi",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:12Z",
    "quality_flags": null
   },
   "pickled-kimchi-cucumber": {
@@ -831,12 +831,12 @@
    "carbs_g": 5.1,
    "fat_g": 0.3,
    "salt_g": 1.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/allergenpageyosushi",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:12Z",
    "quality_flags": null
   },
   "chicken-katsu-bao": {
@@ -855,7 +855,7 @@
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/allergenpageyosushi",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:12Z",
    "quality_flags": null
   },
   "katsu-egg": {
@@ -869,12 +869,12 @@
    "carbs_g": 10.1,
    "fat_g": 4.7,
    "salt_g": 0.7,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/allergenpageyosushi",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:12Z",
    "quality_flags": null
   },
   "miso-corn-ribs": {
@@ -888,12 +888,12 @@
    "carbs_g": 30.1,
    "fat_g": 6.9,
    "salt_g": 0.4,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/allergenpageyosushi",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:12Z",
    "quality_flags": null
   },
   "pak-choi-with-chilli-ginger": {
@@ -912,7 +912,7 @@
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/allergenpageyosushi",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:12Z",
    "quality_flags": null
   },
   "sesame-tender-stem-broccoli": {
@@ -926,12 +926,12 @@
    "carbs_g": 2.3,
    "fat_g": 1.4,
    "salt_g": 0.0,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/allergenpageyosushi",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:12Z",
    "quality_flags": null
   },
   "salmon-nigiri": {
@@ -950,7 +950,7 @@
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/allergenpageyosushi",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:12Z",
    "quality_flags": null
   },
   "tuna-nigiri": {
@@ -969,7 +969,7 @@
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/allergenpageyosushi",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:12Z",
    "quality_flags": null
   },
   "salmon-maki": {
@@ -988,7 +988,7 @@
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/allergenpageyosushi",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:12Z",
    "quality_flags": null
   },
   "salmon-sashimi": {
@@ -1007,7 +1007,7 @@
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/allergenpageyosushi",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:12Z",
    "quality_flags": null
   },
   "tuna-sashimi": {
@@ -1026,7 +1026,7 @@
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/allergenpageyosushi",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:12Z",
    "quality_flags": null
   },
   "nigiri-n-maki-mix": {
@@ -1045,7 +1045,7 @@
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/allergenpageyosushi",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:12Z",
    "quality_flags": null
   },
   "salmon-top-hits": {
@@ -1064,7 +1064,7 @@
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/allergenpageyosushi",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:12Z",
    "quality_flags": null
   },
   "crunchy-california-roll": {
@@ -1083,7 +1083,7 @@
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/allergenpageyosushi",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:12Z",
    "quality_flags": null
   },
   "yo-roll": {
@@ -1102,7 +1102,7 @@
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/allergenpageyosushi",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:12Z",
    "quality_flags": null
   },
   "popcorn-prawn-roll": {
@@ -1121,7 +1121,7 @@
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/allergenpageyosushi",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:12Z",
    "quality_flags": null
   },
   "dynamite-roll": {
@@ -1140,7 +1140,7 @@
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/allergenpageyosushi",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:12Z",
    "quality_flags": null
   },
   "monster-maki": {
@@ -1159,7 +1159,7 @@
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/allergenpageyosushi",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:12Z",
    "quality_flags": null
   },
   "salmon-dragon-roll": {
@@ -1178,7 +1178,7 @@
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/allergenpageyosushi",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:12Z",
    "quality_flags": null
   },
   "konbini-tuna-onigiri": {
@@ -1197,7 +1197,7 @@
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/allergenpageyosushi",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:12Z",
    "quality_flags": null
   },
   "salmon-avocado-handroll": {
@@ -1216,7 +1216,7 @@
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/allergenpageyosushi",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:12Z",
    "quality_flags": null
   },
   "california-handroll": {
@@ -1235,7 +1235,7 @@
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/allergenpageyosushi",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:12Z",
    "quality_flags": null
   },
   "classic-edamame": {
@@ -1249,12 +1249,12 @@
    "carbs_g": 5.9,
    "fat_g": 4.7,
    "salt_g": 1.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/allergenpageyosushi",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:12Z",
    "quality_flags": null
   },
   "kaiso-seaweed": {
@@ -1268,12 +1268,12 @@
    "carbs_g": 26.8,
    "fat_g": 3.3,
    "salt_g": 5.3,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/allergenpageyosushi",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:12Z",
    "quality_flags": null
   },
   "veggie-inari-taco": {
@@ -1287,12 +1287,12 @@
    "carbs_g": 20.4,
    "fat_g": 4.7,
    "salt_g": 0.7,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/allergenpageyosushi",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:12Z",
    "quality_flags": null
   },
   "sesame-cucumber-maki": {
@@ -1306,12 +1306,12 @@
    "carbs_g": 32.0,
    "fat_g": 0.5,
    "salt_g": 1.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/allergenpageyosushi",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:12Z",
    "quality_flags": null
   },
   "avocado-maki": {
@@ -1325,12 +1325,12 @@
    "carbs_g": 32.0,
    "fat_g": 6.4,
    "salt_g": 1.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/allergenpageyosushi",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:12Z",
    "quality_flags": null
   },
   "yasai-roll": {
@@ -1344,12 +1344,12 @@
    "carbs_g": 30.1,
    "fat_g": 5.3,
    "salt_g": 1.4,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/allergenpageyosushi",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:12Z",
    "quality_flags": null
   },
   "veggie-volcano-roll": {
@@ -1363,12 +1363,12 @@
    "carbs_g": 29.5,
    "fat_g": 10.3,
    "salt_g": 1.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/allergenpageyosushi",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:12Z",
    "quality_flags": null
   },
   "yasai-handroll": {
@@ -1382,12 +1382,12 @@
    "carbs_g": 16.7,
    "fat_g": 6.5,
    "salt_g": 0.6,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/allergenpageyosushi",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:12Z",
    "quality_flags": null
   },
   "kimchi-chicken": {
@@ -1406,7 +1406,7 @@
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/allergenpageyosushi",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:12Z",
    "quality_flags": null
   },
   "chicken-katsu-sushi-sando": {
@@ -1425,7 +1425,7 @@
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/allergenpageyosushi",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:12Z",
    "quality_flags": null
   },
   "spicy-chicken-katsu-roll": {
@@ -1444,7 +1444,7 @@
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/allergenpageyosushi",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:12Z",
    "quality_flags": null
   },
   "hoisin-duck-roll": {
@@ -1463,7 +1463,7 @@
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/allergenpageyosushi",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:12Z",
    "quality_flags": null
   },
   "korean-bbq-chicken-roll": {
@@ -1482,7 +1482,7 @@
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/allergenpageyosushi",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:12Z",
    "quality_flags": null
   },
   "sushi-for-two": {
@@ -1501,7 +1501,7 @@
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/allergenpageyosushi",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:12Z",
    "quality_flags": null
   },
   "chocolate-little-moons-mochi": {
@@ -1515,12 +1515,12 @@
    "carbs_g": 37.2,
    "fat_g": 9.8,
    "salt_g": 0.5,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/allergenpageyosushi",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:12Z",
    "quality_flags": null
   },
   "strawberry-cheesecake-little-moons-mochi": {
@@ -1534,12 +1534,12 @@
    "carbs_g": 35.1,
    "fat_g": 5.1,
    "salt_g": 0.2,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/allergenpageyosushi",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:12Z",
    "quality_flags": null
   },
   "dorayaki-pancakes": {
@@ -1553,12 +1553,12 @@
    "carbs_g": 36.7,
    "fat_g": 1.8,
    "salt_g": 0.0,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/allergenpageyosushi",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:12Z",
    "quality_flags": null
   },
   "apple-pie-gyoza": {
@@ -1572,12 +1572,12 @@
    "carbs_g": 33.1,
    "fat_g": 1.8,
    "salt_g": 0.1,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/allergenpageyosushi",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:12Z",
    "quality_flags": null
   },
   "cotton-candy-cheesecake": {
@@ -1591,12 +1591,12 @@
    "carbs_g": 27.3,
    "fat_g": 19.5,
    "salt_g": 0.0,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/allergenpageyosushi",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:12Z",
    "quality_flags": null
   },
   "miso-caramel-chocolate-brownie": {
@@ -1610,12 +1610,12 @@
    "carbs_g": 65.0,
    "fat_g": 24.8,
    "salt_g": 0.4,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/allergenpageyosushi",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:12Z",
    "quality_flags": null
   },
   "chocolate-cream-puff-made-with-kitkat": {
@@ -1629,12 +1629,12 @@
    "carbs_g": 42.4,
    "fat_g": 21.5,
    "salt_g": 0.4,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/allergenpageyosushi",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:12Z",
    "quality_flags": null
   },
   "tuna-avocado-tartare": {
@@ -1653,7 +1653,7 @@
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/allergenpageyosushi",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:12Z",
    "quality_flags": null
   },
   "tuna-non-stop": {
@@ -1672,7 +1672,7 @@
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/allergenpageyosushi",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:12Z",
    "quality_flags": null
   },
   "aburi-scallop-roll": {
@@ -1691,7 +1691,7 @@
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/allergenpageyosushi",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:12Z",
    "quality_flags": null
   },
   "soy-sauce": {
@@ -1705,12 +1705,12 @@
    "carbs_g": 1.4,
    "fat_g": 0.0,
    "salt_g": 2.8,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/allergenpageyosushi",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:12Z",
    "quality_flags": null
   },
   "pickled-ginger": {
@@ -1724,12 +1724,12 @@
    "carbs_g": 0.6,
    "fat_g": 0.1,
    "salt_g": 0.3,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/allergenpageyosushi",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:12Z",
    "quality_flags": null
   },
   "wasabi": {
@@ -1743,12 +1743,12 @@
    "carbs_g": 6.5,
    "fat_g": 1.3,
    "salt_g": 0.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/allergenpageyosushi",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:12Z",
    "quality_flags": null
   },
   "miso-soup": {
@@ -1762,12 +1762,12 @@
    "carbs_g": 6.7,
    "fat_g": 1.2,
    "salt_g": 2.7,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/allergenpageyosushi",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:12Z",
    "quality_flags": null
   },
   "steamed-rice": {
@@ -1781,12 +1781,12 @@
    "carbs_g": 68.8,
    "fat_g": 0.3,
    "salt_g": 0.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/allergenpageyosushi",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:12Z",
    "quality_flags": null
   },
   "curry-sauce": {
@@ -1800,12 +1800,12 @@
    "carbs_g": 7.8,
    "fat_g": 6.0,
    "salt_g": 1.5,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/allergenpageyosushi",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:12Z",
    "quality_flags": null
   },
   "bulgogi-karaage-fries": {
@@ -1824,7 +1824,7 @@
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/allergenpageyosushi",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:12Z",
    "quality_flags": null
   },
   "chicken-katsu-sando": {
@@ -1843,7 +1843,7 @@
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/allergenpageyosushi",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:12Z",
    "quality_flags": null
   },
   "pumpkin-katsu-sando": {
@@ -1857,12 +1857,12 @@
    "carbs_g": 148.5,
    "fat_g": 21.3,
    "salt_g": 4.7,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/allergenpageyosushi",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:12Z",
    "quality_flags": null
   },
   "mega-katsu-curry": {
@@ -1881,7 +1881,7 @@
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/allergenpageyosushi",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:12Z",
    "quality_flags": null
   },
   "mega-veggie-katsu-curry": {
@@ -1895,12 +1895,12 @@
    "carbs_g": 137.8,
    "fat_g": 10.2,
    "salt_g": 2.6,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/allergenpageyosushi",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:12Z",
    "quality_flags": null
   },
   "yo-classic-california-roll": {
@@ -1919,7 +1919,7 @@
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/kiosk02",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:13Z",
    "quality_flags": null
   },
   "yo-classic-salmon-avocado-roll": {
@@ -1938,7 +1938,7 @@
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/kiosk02",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:13Z",
    "quality_flags": null
   },
   "yo-classic-chicken-katsu-roll": {
@@ -1957,7 +1957,7 @@
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/kiosk02",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:13Z",
    "quality_flags": null
   },
   "yo-veggie-roll": {
@@ -1971,12 +1971,12 @@
    "carbs_g": 50.0,
    "fat_g": 0.6,
    "salt_g": 1.8,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/kiosk02",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:13Z",
    "quality_flags": null
   },
   "yo-classic-chilli-surimi-roll": {
@@ -1995,7 +1995,7 @@
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/kiosk02",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:13Z",
    "quality_flags": null
   },
   "yo-classic-tuna-mayo-roll-a1": {
@@ -2014,7 +2014,7 @@
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/kiosk02",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:13Z",
    "quality_flags": null
   },
   "yo-seafood-variety-bento": {
@@ -2033,7 +2033,7 @@
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/kiosk02",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:13Z",
    "quality_flags": null
   },
   "yo-chicken-variety-bento": {
@@ -2052,7 +2052,7 @@
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/kiosk02",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:13Z",
    "quality_flags": null
   },
   "yo-classic-sushi-selection": {
@@ -2071,7 +2071,7 @@
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/kiosk02",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:13Z",
    "quality_flags": null
   },
   "yo-o-mega-salmon-selection": {
@@ -2090,7 +2090,7 @@
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/kiosk02",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:13Z",
    "quality_flags": null
   },
   "yo-spicy-chicken-selection": {
@@ -2109,7 +2109,7 @@
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/kiosk02",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:13Z",
    "quality_flags": null
   },
   "yo-plant-power-selection": {
@@ -2123,12 +2123,12 @@
    "carbs_g": 87.0,
    "fat_g": 10.5,
    "salt_g": 3.3,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/kiosk02",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:13Z",
    "quality_flags": null
   },
   "yo-crunchy-rainbow-signature-set": {
@@ -2147,7 +2147,7 @@
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/kiosk02",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:13Z",
    "quality_flags": null
   },
   "yo-chicken-spice-signature-set": {
@@ -2166,7 +2166,7 @@
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/kiosk02",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:13Z",
    "quality_flags": null
   },
   "yo-classic-seafood-signature-set": {
@@ -2185,7 +2185,7 @@
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/kiosk02",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:13Z",
    "quality_flags": null
   },
   "yo-salmon-favourites-signature-set": {
@@ -2204,7 +2204,7 @@
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/kiosk02",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:13Z",
    "quality_flags": null
   },
   "mango-cheesecake-mochi": {
@@ -2218,12 +2218,12 @@
    "carbs_g": 35.2,
    "fat_g": 8.3,
    "salt_g": 0.2,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/kiosk02",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:13Z",
    "quality_flags": null
   },
   "raspberry-white-chocolate-mochi": {
@@ -2237,12 +2237,12 @@
    "carbs_g": 35.2,
    "fat_g": 8.3,
    "salt_g": 0.0,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/kiosk02",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:13Z",
    "quality_flags": null
   },
   "strawberry-cheesecake-mochi": {
@@ -2256,12 +2256,12 @@
    "carbs_g": 33.3,
    "fat_g": 5.1,
    "salt_g": 0.2,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/kiosk02",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:13Z",
    "quality_flags": null
   },
   "custard-dorayaki": {
@@ -2275,12 +2275,12 @@
    "carbs_g": 34.0,
    "fat_g": 1.8,
    "salt_g": 0.0,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/kiosk02",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:13Z",
    "quality_flags": null
   },
   "chocolate-dorayaki": {
@@ -2294,12 +2294,12 @@
    "carbs_g": 32.9,
    "fat_g": 12.5,
    "salt_g": 0.0,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/kiosk02",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:13Z",
    "quality_flags": null
   },
   "lemon-cheesecake-dorayaki": {
@@ -2313,12 +2313,12 @@
    "carbs_g": 34.0,
    "fat_g": 8.9,
    "salt_g": 0.0,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/kiosk02",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:13Z",
    "quality_flags": null
   },
   "strawberry-and-cream-dorayaki": {
@@ -2332,12 +2332,12 @@
    "carbs_g": 33.8,
    "fat_g": 9.7,
    "salt_g": 0.2,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/kiosk02",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:13Z",
    "quality_flags": null
   },
   "yuzu-cheesecake-mochi": {
@@ -2351,12 +2351,12 @@
    "carbs_g": 33.3,
    "fat_g": 5.7,
    "salt_g": 0.2,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/kiosk02",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:13Z",
    "quality_flags": null
   },
   "chocolate-mochi": {
@@ -2370,12 +2370,12 @@
    "carbs_g": 30.7,
    "fat_g": 9.6,
    "salt_g": 0.1,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/kiosk02",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:13Z",
    "quality_flags": null
   },
   "yo-korean-style-fried-chicken-bites": {
@@ -2394,7 +2394,7 @@
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/kiosk02",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:13Z",
    "quality_flags": null
   },
   "yo-mini-korean-style-fried-chicken-bites": {
@@ -2413,7 +2413,7 @@
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/kiosk02",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:13Z",
    "quality_flags": null
   },
   "yo-mini-teriyaki-fried-chicken-bites": {
@@ -2432,7 +2432,7 @@
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/kiosk02",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:13Z",
    "quality_flags": null
   },
   "yo-teriyaki-fried-chicken-bites": {
@@ -2451,7 +2451,7 @@
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/kiosk02",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:13Z",
    "quality_flags": null
   },
   "yo-salt-and-pepper-furi-furi-fried-chicken-bites": {
@@ -2470,7 +2470,7 @@
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/kiosk02",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:13Z",
    "quality_flags": null
   },
   "yo-5-piece-duck-gyoza-heat-me-first": {
@@ -2489,7 +2489,7 @@
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/kiosk02",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:13Z",
    "quality_flags": null
   },
   "yo-5-piece-chicken-gyoza-heat-me-up": {
@@ -2508,7 +2508,7 @@
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/kiosk02",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:13Z",
    "quality_flags": null
   },
   "yo-5-piece-vegetable-gyoza-heat-me-up": {
@@ -2522,12 +2522,12 @@
    "carbs_g": 46.7,
    "fat_g": 2.8,
    "salt_g": 3.3,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/kiosk02",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:13Z",
    "quality_flags": null
   },
   "chicken-katsu-curry": {
@@ -2546,7 +2546,7 @@
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/kiosk02",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:13Z",
    "quality_flags": null
   },
   "yo-chicken-teriyaki-noodles": {
@@ -2565,7 +2565,7 @@
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/kiosk02",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:13Z",
    "quality_flags": null
   },
   "yo-korean-beef-bulgogi-rice-bowl": {
@@ -2584,7 +2584,7 @@
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/kiosk02",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:13Z",
    "quality_flags": null
   },
   "yo-korean-style-sweet-chilli-chicken-noodles": {
@@ -2603,7 +2603,7 @@
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/kiosk02",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:13Z",
    "quality_flags": null
   },
   "yo-korean-style-sweet-chilli-chicken-rice-bowl": {
@@ -2622,7 +2622,7 @@
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/kiosk02",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:13Z",
    "quality_flags": null
   },
   "yo-pumpkin-katsu-curry-rice-bowl-heat-me-first": {
@@ -2636,12 +2636,12 @@
    "carbs_g": 82.0,
    "fat_g": 5.5,
    "salt_g": 1.8,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/kiosk02",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:13Z",
    "quality_flags": null
   },
   "yo-nigiri-selects": {
@@ -2660,7 +2660,7 @@
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/kiosk02",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:13Z",
    "quality_flags": null
   },
   "yo-salmon-nigiri": {
@@ -2679,7 +2679,7 @@
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/kiosk02",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:13Z",
    "quality_flags": null
   },
   "yo-sumptuous-chicken-sharer": {
@@ -2698,7 +2698,7 @@
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/kiosk02",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:13Z",
    "quality_flags": null
   },
   "yo-luxury-seafood-sushi-sharer": {
@@ -2717,7 +2717,7 @@
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/kiosk02",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:13Z",
    "quality_flags": null
   },
   "yo-deluxe-classic-sushi-sharer": {
@@ -2736,7 +2736,7 @@
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/kiosk02",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:13Z",
    "quality_flags": null
   },
   "yo-avocado-hosomaki": {
@@ -2750,12 +2750,12 @@
    "carbs_g": 33.0,
    "fat_g": 4.4,
    "salt_g": 1.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/kiosk02",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:13Z",
    "quality_flags": null
   },
   "yo-cucumber-hosomaki": {
@@ -2769,12 +2769,12 @@
    "carbs_g": 31.9,
    "fat_g": 0.3,
    "salt_g": 1.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/kiosk02",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:13Z",
    "quality_flags": null
   },
   "yo-salmon-hosomaki": {
@@ -2793,7 +2793,7 @@
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/kiosk02",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:13Z",
    "quality_flags": null
   },
   "yo-inari-nigiri": {
@@ -2807,12 +2807,12 @@
    "carbs_g": 32.8,
    "fat_g": 5.6,
    "salt_g": 1.2,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/kiosk02",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:13Z",
    "quality_flags": null
   },
   "yo-salted-edamame": {
@@ -2826,12 +2826,12 @@
    "carbs_g": 5.8,
    "fat_g": 4.7,
    "salt_g": 2.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/kiosk02",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:13Z",
    "quality_flags": null
   },
   "yo-seaweed-salad": {
@@ -2845,12 +2845,12 @@
    "carbs_g": 7.8,
    "fat_g": 3.4,
    "salt_g": 1.1,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/kiosk02",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:13Z",
    "quality_flags": null
   },
   "yo-tuna-mayo-cucumber-onigiri": {
@@ -2869,7 +2869,7 @@
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/kiosk02",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:13Z",
    "quality_flags": null
   },
   "yo-korean-style-chilli-fried-chicken-onigiri": {
@@ -2888,7 +2888,7 @@
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/kiosk02",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:13Z",
    "quality_flags": null
   },
   "yo-mango-chilli-chicken-roll": {
@@ -2907,7 +2907,7 @@
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/kiosk02",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:13Z",
    "quality_flags": null
   },
   "yo-crunchy-chicken-katsu-roll": {
@@ -2926,7 +2926,7 @@
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/kiosk02",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:13Z",
    "quality_flags": null
   },
   "yo-crunchy-california-roll": {
@@ -2945,7 +2945,7 @@
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/kiosk02",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:13Z",
    "quality_flags": null
   },
   "yo-crunchy-veggie-roll": {
@@ -2959,12 +2959,12 @@
    "carbs_g": 58.4,
    "fat_g": 9.3,
    "salt_g": 2.4,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/kiosk02",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:13Z",
    "quality_flags": null
   },
   "yo-crunchy-salmon-avocado-roll": {
@@ -2983,7 +2983,7 @@
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/kiosk02",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:13Z",
    "quality_flags": null
   },
   "yo-crunchy-chilli-salmon-avocado-roll": {
@@ -3002,7 +3002,7 @@
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/kiosk02",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:13Z",
    "quality_flags": null
   },
   "yo-crunchy-chilli-prawn-katsu-roll": {
@@ -3021,7 +3021,7 @@
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/kiosk02",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:13Z",
    "quality_flags": null
   },
   "yo-crunchy-chilli-chicken-katsu-roll": {
@@ -3040,7 +3040,7 @@
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/kiosk02",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:13Z",
    "quality_flags": null
   },
   "yo-fiery-buffalo-bites": {
@@ -3059,7 +3059,7 @@
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/kiosk02",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:13Z",
    "quality_flags": null
   },
   "yo-cajun-philly-roll": {
@@ -3078,7 +3078,7 @@
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/kiosk02",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:13Z",
    "quality_flags": null
   },
   "yo-chimichurri-chicken-roll": {
@@ -3097,7 +3097,7 @@
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/kiosk02",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:13Z",
    "quality_flags": null
   },
   "yo-jalapeno-dragon-roll": {
@@ -3116,7 +3116,7 @@
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/kiosk02",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:13Z",
    "quality_flags": null
   },
   "yo-the-cheeseburger-sushi-roll": {
@@ -3135,7 +3135,7 @@
    "allergens": null,
    "source": "YO! Sushi allergen & nutrition menu (Tenkites)",
    "source_url": "https://menus.tenkites.com/yosushi/kiosk02",
-   "fetched_at": "2026-08-06T14:59:30Z",
+   "fetched_at": "2026-08-08T06:44:13Z",
    "quality_flags": null
   }
  }

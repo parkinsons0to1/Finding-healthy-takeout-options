@@ -1,7 +1,7 @@
 {
  "chain_id": "slim_chickens",
  "item_count": 100,
- "fetched_at": "2026-08-06T17:55:34Z",
+ "fetched_at": "2026-08-08T06:39:41Z",
  "items": {
   "4-tenders": {
    "chain_id": "slim_chickens",
@@ -19,7 +19,7 @@
    "allergens": null,
    "source": "brand menu JSON-LD via Tenkites (Slim Chickens UK)",
    "source_url": "https://menus.tenkites.com/brg/slimscore?sitecode=SLM",
-   "fetched_at": "2026-08-06T17:55:34Z",
+   "fetched_at": "2026-08-08T06:39:41Z",
    "quality_flags": null
   },
   "5-tenders": {
@@ -38,7 +38,7 @@
    "allergens": null,
    "source": "brand menu JSON-LD via Tenkites (Slim Chickens UK)",
    "source_url": "https://menus.tenkites.com/brg/slimscore?sitecode=SLM",
-   "fetched_at": "2026-08-06T17:55:34Z",
+   "fetched_at": "2026-08-08T06:39:41Z",
    "quality_flags": null
   },
   "7-tenders": {
@@ -57,7 +57,7 @@
    "allergens": null,
    "source": "brand menu JSON-LD via Tenkites (Slim Chickens UK)",
    "source_url": "https://menus.tenkites.com/brg/slimscore?sitecode=SLM",
-   "fetched_at": "2026-08-06T17:55:34Z",
+   "fetched_at": "2026-08-08T06:39:41Z",
    "quality_flags": null
   },
   "slims-sauce": {
@@ -71,12 +71,12 @@
    "carbs_g": 4.0,
    "fat_g": 23.0,
    "salt_g": null,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand menu JSON-LD via Tenkites (Slim Chickens UK)",
    "source_url": "https://menus.tenkites.com/brg/slimscore?sitecode=SLM",
-   "fetched_at": "2026-08-06T17:55:34Z",
+   "fetched_at": "2026-08-08T06:39:41Z",
    "quality_flags": null
   },
   "cayenne-ranch": {
@@ -90,12 +90,12 @@
    "carbs_g": 3.0,
    "fat_g": 20.0,
    "salt_g": null,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand menu JSON-LD via Tenkites (Slim Chickens UK)",
    "source_url": "https://menus.tenkites.com/brg/slimscore?sitecode=SLM",
-   "fetched_at": "2026-08-06T17:55:34Z",
+   "fetched_at": "2026-08-08T06:39:41Z",
    "quality_flags": null
   },
   "house-ranch": {
@@ -109,12 +109,12 @@
    "carbs_g": 2.0,
    "fat_g": 19.0,
    "salt_g": null,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand menu JSON-LD via Tenkites (Slim Chickens UK)",
    "source_url": "https://menus.tenkites.com/brg/slimscore?sitecode=SLM",
-   "fetched_at": "2026-08-06T17:55:34Z",
+   "fetched_at": "2026-08-08T06:39:41Z",
    "quality_flags": null
   },
   "honey-mustard": {
@@ -128,12 +128,12 @@
    "carbs_g": 11.0,
    "fat_g": 14.0,
    "salt_g": null,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand menu JSON-LD via Tenkites (Slim Chickens UK)",
    "source_url": "https://menus.tenkites.com/brg/slimscore?sitecode=SLM",
-   "fetched_at": "2026-08-06T17:55:34Z",
+   "fetched_at": "2026-08-08T06:39:41Z",
    "quality_flags": null
   },
   "blue-cheese": {
@@ -147,12 +147,12 @@
    "carbs_g": 2.0,
    "fat_g": 21.0,
    "salt_g": null,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand menu JSON-LD via Tenkites (Slim Chickens UK)",
    "source_url": "https://menus.tenkites.com/brg/slimscore?sitecode=SLM",
-   "fetched_at": "2026-08-06T17:55:34Z",
+   "fetched_at": "2026-08-08T06:39:41Z",
    "quality_flags": null
   },
   "garlic-cheese": {
@@ -166,12 +166,12 @@
    "carbs_g": 2.0,
    "fat_g": 26.0,
    "salt_g": null,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand menu JSON-LD via Tenkites (Slim Chickens UK)",
    "source_url": "https://menus.tenkites.com/brg/slimscore?sitecode=SLM",
-   "fetched_at": "2026-08-06T17:55:34Z",
+   "fetched_at": "2026-08-08T06:39:41Z",
    "quality_flags": null
   },
   "korean-bbq": {
@@ -185,12 +185,12 @@
    "carbs_g": 21.0,
    "fat_g": 2.0,
    "salt_g": null,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand menu JSON-LD via Tenkites (Slim Chickens UK)",
    "source_url": "https://menus.tenkites.com/brg/slimscore?sitecode=SLM",
-   "fetched_at": "2026-08-06T17:55:34Z",
+   "fetched_at": "2026-08-08T06:39:41Z",
    "quality_flags": null
   },
   "gravy-mayo": {
@@ -209,7 +209,7 @@
    "allergens": null,
    "source": "brand menu JSON-LD via Tenkites (Slim Chickens UK)",
    "source_url": "https://menus.tenkites.com/brg/slimscore?sitecode=SLM",
-   "fetched_at": "2026-08-06T17:55:34Z",
+   "fetched_at": "2026-08-08T06:39:41Z",
    "quality_flags": null
   },
   "buffalo": {
@@ -223,12 +223,12 @@
    "carbs_g": null,
    "fat_g": null,
    "salt_g": null,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand menu JSON-LD via Tenkites (Slim Chickens UK)",
    "source_url": "https://menus.tenkites.com/brg/slimscore?sitecode=SLM",
-   "fetched_at": "2026-08-06T17:55:34Z",
+   "fetched_at": "2026-08-08T06:39:41Z",
    "quality_flags": null
   },
   "hot-honey-ranch": {
@@ -242,12 +242,12 @@
    "carbs_g": 8.0,
    "fat_g": 19.0,
    "salt_g": null,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand menu JSON-LD via Tenkites (Slim Chickens UK)",
    "source_url": "https://menus.tenkites.com/brg/slimscore?sitecode=SLM",
-   "fetched_at": "2026-08-06T17:55:34Z",
+   "fetched_at": "2026-08-08T06:39:41Z",
    "quality_flags": null
   },
   "3-tenders-meal": {
@@ -266,7 +266,7 @@
    "allergens": null,
    "source": "brand menu JSON-LD via Tenkites (Slim Chickens UK)",
    "source_url": "https://menus.tenkites.com/brg/slimscore?sitecode=SLM",
-   "fetched_at": "2026-08-06T17:55:34Z",
+   "fetched_at": "2026-08-08T06:39:41Z",
    "quality_flags": null
   },
   "4-tenders-meal": {
@@ -285,7 +285,7 @@
    "allergens": null,
    "source": "brand menu JSON-LD via Tenkites (Slim Chickens UK)",
    "source_url": "https://menus.tenkites.com/brg/slimscore?sitecode=SLM",
-   "fetched_at": "2026-08-06T17:55:34Z",
+   "fetched_at": "2026-08-08T06:39:41Z",
    "quality_flags": null
   },
   "5-tenders-meal": {
@@ -304,7 +304,7 @@
    "allergens": null,
    "source": "brand menu JSON-LD via Tenkites (Slim Chickens UK)",
    "source_url": "https://menus.tenkites.com/brg/slimscore?sitecode=SLM",
-   "fetched_at": "2026-08-06T17:55:34Z",
+   "fetched_at": "2026-08-08T06:39:41Z",
    "quality_flags": null
   },
   "7-tenders-meal": {
@@ -323,7 +323,7 @@
    "allergens": null,
    "source": "brand menu JSON-LD via Tenkites (Slim Chickens UK)",
    "source_url": "https://menus.tenkites.com/brg/slimscore?sitecode=SLM",
-   "fetched_at": "2026-08-06T17:55:34Z",
+   "fetched_at": "2026-08-08T06:39:41Z",
    "quality_flags": null
   },
   "plant-based-3-tenders-meal": {
@@ -337,12 +337,12 @@
    "carbs_g": 56.0,
    "fat_g": 47.0,
    "salt_g": null,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand menu JSON-LD via Tenkites (Slim Chickens UK)",
    "source_url": "https://menus.tenkites.com/brg/slimscore?sitecode=SLM",
-   "fetched_at": "2026-08-06T17:55:34Z",
+   "fetched_at": "2026-08-08T06:39:41Z",
    "quality_flags": null
   },
   "world-cup-combo": {
@@ -361,7 +361,7 @@
    "allergens": null,
    "source": "brand menu JSON-LD via Tenkites (Slim Chickens UK)",
    "source_url": "https://menus.tenkites.com/brg/slimscore?sitecode=SLM",
-   "fetched_at": "2026-08-06T17:55:34Z",
+   "fetched_at": "2026-08-08T06:39:41Z",
    "quality_flags": null
   },
   "6-crispy-wings": {
@@ -380,7 +380,7 @@
    "allergens": null,
    "source": "brand menu JSON-LD via Tenkites (Slim Chickens UK)",
    "source_url": "https://menus.tenkites.com/brg/slimscore?sitecode=SLM",
-   "fetched_at": "2026-08-06T17:55:34Z",
+   "fetched_at": "2026-08-08T06:39:41Z",
    "quality_flags": null
   },
   "8-crispy-wings": {
@@ -399,7 +399,7 @@
    "allergens": null,
    "source": "brand menu JSON-LD via Tenkites (Slim Chickens UK)",
    "source_url": "https://menus.tenkites.com/brg/slimscore?sitecode=SLM",
-   "fetched_at": "2026-08-06T17:55:34Z",
+   "fetched_at": "2026-08-08T06:39:41Z",
    "quality_flags": null
   },
   "10-crispy-wings": {
@@ -418,7 +418,7 @@
    "allergens": null,
    "source": "brand menu JSON-LD via Tenkites (Slim Chickens UK)",
    "source_url": "https://menus.tenkites.com/brg/slimscore?sitecode=SLM",
-   "fetched_at": "2026-08-06T17:55:34Z",
+   "fetched_at": "2026-08-08T06:39:41Z",
    "quality_flags": null
   },
   "6-honey-bbq-wings": {
@@ -437,7 +437,7 @@
    "allergens": null,
    "source": "brand menu JSON-LD via Tenkites (Slim Chickens UK)",
    "source_url": "https://menus.tenkites.com/brg/slimscore?sitecode=SLM",
-   "fetched_at": "2026-08-06T17:55:34Z",
+   "fetched_at": "2026-08-08T06:39:41Z",
    "quality_flags": null
   },
   "8-honey-bbq-wings": {
@@ -456,7 +456,7 @@
    "allergens": null,
    "source": "brand menu JSON-LD via Tenkites (Slim Chickens UK)",
    "source_url": "https://menus.tenkites.com/brg/slimscore?sitecode=SLM",
-   "fetched_at": "2026-08-06T17:55:34Z",
+   "fetched_at": "2026-08-08T06:39:41Z",
    "quality_flags": null
   },
   "10-honey-bbq-wings": {
@@ -475,7 +475,7 @@
    "allergens": null,
    "source": "brand menu JSON-LD via Tenkites (Slim Chickens UK)",
    "source_url": "https://menus.tenkites.com/brg/slimscore?sitecode=SLM",
-   "fetched_at": "2026-08-06T17:55:34Z",
+   "fetched_at": "2026-08-08T06:39:41Z",
    "quality_flags": null
   },
   "6-crispy-wings-meal": {
@@ -494,7 +494,7 @@
    "allergens": null,
    "source": "brand menu JSON-LD via Tenkites (Slim Chickens UK)",
    "source_url": "https://menus.tenkites.com/brg/slimscore?sitecode=SLM",
-   "fetched_at": "2026-08-06T17:55:34Z",
+   "fetched_at": "2026-08-08T06:39:41Z",
    "quality_flags": null
   },
   "8-crispy-wings-meal": {
@@ -513,7 +513,7 @@
    "allergens": null,
    "source": "brand menu JSON-LD via Tenkites (Slim Chickens UK)",
    "source_url": "https://menus.tenkites.com/brg/slimscore?sitecode=SLM",
-   "fetched_at": "2026-08-06T17:55:34Z",
+   "fetched_at": "2026-08-08T06:39:41Z",
    "quality_flags": null
   },
   "10-crispy-wings-meal": {
@@ -532,7 +532,7 @@
    "allergens": null,
    "source": "brand menu JSON-LD via Tenkites (Slim Chickens UK)",
    "source_url": "https://menus.tenkites.com/brg/slimscore?sitecode=SLM",
-   "fetched_at": "2026-08-06T17:55:34Z",
+   "fetched_at": "2026-08-08T06:39:41Z",
    "quality_flags": null
   },
   "6-buffalo-wings-meal": {
@@ -551,7 +551,7 @@
    "allergens": null,
    "source": "brand menu JSON-LD via Tenkites (Slim Chickens UK)",
    "source_url": "https://menus.tenkites.com/brg/slimscore?sitecode=SLM",
-   "fetched_at": "2026-08-06T17:55:34Z",
+   "fetched_at": "2026-08-08T06:39:41Z",
    "quality_flags": null
   },
   "8-buffalo-wings-meal": {
@@ -570,7 +570,7 @@
    "allergens": null,
    "source": "brand menu JSON-LD via Tenkites (Slim Chickens UK)",
    "source_url": "https://menus.tenkites.com/brg/slimscore?sitecode=SLM",
-   "fetched_at": "2026-08-06T17:55:34Z",
+   "fetched_at": "2026-08-08T06:39:41Z",
    "quality_flags": null
   },
   "10-buffalo-wings-meal": {
@@ -589,7 +589,7 @@
    "allergens": null,
    "source": "brand menu JSON-LD via Tenkites (Slim Chickens UK)",
    "source_url": "https://menus.tenkites.com/brg/slimscore?sitecode=SLM",
-   "fetched_at": "2026-08-06T17:55:34Z",
+   "fetched_at": "2026-08-08T06:39:41Z",
    "quality_flags": null
   },
   "6-honey-bbq-wings-meal": {
@@ -608,7 +608,7 @@
    "allergens": null,
    "source": "brand menu JSON-LD via Tenkites (Slim Chickens UK)",
    "source_url": "https://menus.tenkites.com/brg/slimscore?sitecode=SLM",
-   "fetched_at": "2026-08-06T17:55:34Z",
+   "fetched_at": "2026-08-08T06:39:41Z",
    "quality_flags": null
   },
   "8-honey-bbq-wings-meal": {
@@ -627,7 +627,7 @@
    "allergens": null,
    "source": "brand menu JSON-LD via Tenkites (Slim Chickens UK)",
    "source_url": "https://menus.tenkites.com/brg/slimscore?sitecode=SLM",
-   "fetched_at": "2026-08-06T17:55:34Z",
+   "fetched_at": "2026-08-08T06:39:41Z",
    "quality_flags": null
   },
   "10-honey-bbq-wings-meal": {
@@ -646,7 +646,7 @@
    "allergens": null,
    "source": "brand menu JSON-LD via Tenkites (Slim Chickens UK)",
    "source_url": "https://menus.tenkites.com/brg/slimscore?sitecode=SLM",
-   "fetched_at": "2026-08-06T17:55:34Z",
+   "fetched_at": "2026-08-08T06:39:41Z",
    "quality_flags": null
   },
   "6-boneless-bites": {
@@ -665,7 +665,7 @@
    "allergens": null,
    "source": "brand menu JSON-LD via Tenkites (Slim Chickens UK)",
    "source_url": "https://menus.tenkites.com/brg/slimscore?sitecode=SLM",
-   "fetched_at": "2026-08-06T17:55:34Z",
+   "fetched_at": "2026-08-08T06:39:41Z",
    "quality_flags": null
   },
   "8-boneless-bites": {
@@ -684,7 +684,7 @@
    "allergens": null,
    "source": "brand menu JSON-LD via Tenkites (Slim Chickens UK)",
    "source_url": "https://menus.tenkites.com/brg/slimscore?sitecode=SLM",
-   "fetched_at": "2026-08-06T17:55:34Z",
+   "fetched_at": "2026-08-08T06:39:41Z",
    "quality_flags": null
   },
   "10-boneless-bites": {
@@ -703,7 +703,7 @@
    "allergens": null,
    "source": "brand menu JSON-LD via Tenkites (Slim Chickens UK)",
    "source_url": "https://menus.tenkites.com/brg/slimscore?sitecode=SLM",
-   "fetched_at": "2026-08-06T17:55:34Z",
+   "fetched_at": "2026-08-08T06:39:41Z",
    "quality_flags": null
   },
   "6-boneless-bites-meal": {
@@ -722,7 +722,7 @@
    "allergens": null,
    "source": "brand menu JSON-LD via Tenkites (Slim Chickens UK)",
    "source_url": "https://menus.tenkites.com/brg/slimscore?sitecode=SLM",
-   "fetched_at": "2026-08-06T17:55:34Z",
+   "fetched_at": "2026-08-08T06:39:41Z",
    "quality_flags": null
   },
   "8-boneless-bites-meal": {
@@ -741,7 +741,7 @@
    "allergens": null,
    "source": "brand menu JSON-LD via Tenkites (Slim Chickens UK)",
    "source_url": "https://menus.tenkites.com/brg/slimscore?sitecode=SLM",
-   "fetched_at": "2026-08-06T17:55:34Z",
+   "fetched_at": "2026-08-08T06:39:41Z",
    "quality_flags": null
   },
   "10-boneless-bites-meal": {
@@ -760,7 +760,7 @@
    "allergens": null,
    "source": "brand menu JSON-LD via Tenkites (Slim Chickens UK)",
    "source_url": "https://menus.tenkites.com/brg/slimscore?sitecode=SLM",
-   "fetched_at": "2026-08-06T17:55:34Z",
+   "fetched_at": "2026-08-08T06:39:41Z",
    "quality_flags": null
   },
   "the-boneless-fix": {
@@ -779,7 +779,7 @@
    "allergens": null,
    "source": "brand menu JSON-LD via Tenkites (Slim Chickens UK)",
    "source_url": "https://menus.tenkites.com/brg/slimscore?sitecode=SLM",
-   "fetched_at": "2026-08-06T17:55:34Z",
+   "fetched_at": "2026-08-08T06:39:41Z",
    "quality_flags": null
   },
   "3-tender-3-crispy-wing": {
@@ -798,7 +798,7 @@
    "allergens": null,
    "source": "brand menu JSON-LD via Tenkites (Slim Chickens UK)",
    "source_url": "https://menus.tenkites.com/brg/slimscore?sitecode=SLM",
-   "fetched_at": "2026-08-06T17:55:34Z",
+   "fetched_at": "2026-08-08T06:39:41Z",
    "quality_flags": null
   },
   "5-tenders-5-crispy-wings": {
@@ -817,7 +817,7 @@
    "allergens": null,
    "source": "brand menu JSON-LD via Tenkites (Slim Chickens UK)",
    "source_url": "https://menus.tenkites.com/brg/slimscore?sitecode=SLM",
-   "fetched_at": "2026-08-06T17:55:34Z",
+   "fetched_at": "2026-08-08T06:39:41Z",
    "quality_flags": null
   },
   "protein-packed-boneless-box": {
@@ -836,7 +836,7 @@
    "allergens": null,
    "source": "brand menu JSON-LD via Tenkites (Slim Chickens UK)",
    "source_url": "https://menus.tenkites.com/brg/slimscore?sitecode=SLM",
-   "fetched_at": "2026-08-06T17:55:34Z",
+   "fetched_at": "2026-08-08T06:39:41Z",
    "quality_flags": null
   },
   "spider-man-brand-new-day-bundle": {
@@ -855,7 +855,7 @@
    "allergens": null,
    "source": "brand menu JSON-LD via Tenkites (Slim Chickens UK)",
    "source_url": "https://menus.tenkites.com/brg/slimscore?sitecode=SLM",
-   "fetched_at": "2026-08-06T17:55:34Z",
+   "fetched_at": "2026-08-08T06:39:41Z",
    "quality_flags": null
   },
   "hot-buffalo-sandwich-solo": {
@@ -874,7 +874,7 @@
    "allergens": null,
    "source": "brand menu JSON-LD via Tenkites (Slim Chickens UK)",
    "source_url": "https://menus.tenkites.com/brg/slimscore?sitecode=SLM",
-   "fetched_at": "2026-08-06T17:55:34Z",
+   "fetched_at": "2026-08-08T06:39:41Z",
    "quality_flags": null
   },
   "honey-bbq-sandwich-solo": {
@@ -893,7 +893,7 @@
    "allergens": null,
    "source": "brand menu JSON-LD via Tenkites (Slim Chickens UK)",
    "source_url": "https://menus.tenkites.com/brg/slimscore?sitecode=SLM",
-   "fetched_at": "2026-08-06T17:55:34Z",
+   "fetched_at": "2026-08-08T06:39:41Z",
    "quality_flags": null
   },
   "classic-chicken-sandwich-solo": {
@@ -912,7 +912,7 @@
    "allergens": null,
    "source": "brand menu JSON-LD via Tenkites (Slim Chickens UK)",
    "source_url": "https://menus.tenkites.com/brg/slimscore?sitecode=SLM",
-   "fetched_at": "2026-08-06T17:55:34Z",
+   "fetched_at": "2026-08-08T06:39:41Z",
    "quality_flags": null
   },
   "plant-based-buffalo-sandwich-solo": {
@@ -931,7 +931,7 @@
    "allergens": null,
    "source": "brand menu JSON-LD via Tenkites (Slim Chickens UK)",
    "source_url": "https://menus.tenkites.com/brg/slimscore?sitecode=SLM",
-   "fetched_at": "2026-08-06T17:55:34Z",
+   "fetched_at": "2026-08-08T06:39:41Z",
    "quality_flags": null
   },
   "buffalo-sandwich-meal": {
@@ -950,7 +950,7 @@
    "allergens": null,
    "source": "brand menu JSON-LD via Tenkites (Slim Chickens UK)",
    "source_url": "https://menus.tenkites.com/brg/slimscore?sitecode=SLM",
-   "fetched_at": "2026-08-06T17:55:34Z",
+   "fetched_at": "2026-08-08T06:39:41Z",
    "quality_flags": null
   },
   "honey-bbq-sandwich-meal": {
@@ -969,7 +969,7 @@
    "allergens": null,
    "source": "brand menu JSON-LD via Tenkites (Slim Chickens UK)",
    "source_url": "https://menus.tenkites.com/brg/slimscore?sitecode=SLM",
-   "fetched_at": "2026-08-06T17:55:34Z",
+   "fetched_at": "2026-08-08T06:39:41Z",
    "quality_flags": null
   },
   "classic-sandwich-meal": {
@@ -988,7 +988,7 @@
    "allergens": null,
    "source": "brand menu JSON-LD via Tenkites (Slim Chickens UK)",
    "source_url": "https://menus.tenkites.com/brg/slimscore?sitecode=SLM",
-   "fetched_at": "2026-08-06T17:55:34Z",
+   "fetched_at": "2026-08-08T06:39:41Z",
    "quality_flags": null
   },
   "cheese-bacon-add-on": {
@@ -1007,7 +1007,7 @@
    "allergens": null,
    "source": "brand menu JSON-LD via Tenkites (Slim Chickens UK)",
    "source_url": "https://menus.tenkites.com/brg/slimscore?sitecode=SLM",
-   "fetched_at": "2026-08-06T17:55:34Z",
+   "fetched_at": "2026-08-08T06:39:41Z",
    "quality_flags": null
   },
   "extra-chicken-breast": {
@@ -1026,7 +1026,7 @@
    "allergens": null,
    "source": "brand menu JSON-LD via Tenkites (Slim Chickens UK)",
    "source_url": "https://menus.tenkites.com/brg/slimscore?sitecode=SLM",
-   "fetched_at": "2026-08-06T17:55:34Z",
+   "fetched_at": "2026-08-08T06:39:41Z",
    "quality_flags": null
   },
   "plant-based-buffalo-sandwich-meal": {
@@ -1045,7 +1045,7 @@
    "allergens": null,
    "source": "brand menu JSON-LD via Tenkites (Slim Chickens UK)",
    "source_url": "https://menus.tenkites.com/brg/slimscore?sitecode=SLM",
-   "fetched_at": "2026-08-06T17:55:34Z",
+   "fetched_at": "2026-08-08T06:39:41Z",
    "quality_flags": null
   },
   "slim-s-wrap": {
@@ -1064,7 +1064,7 @@
    "allergens": null,
    "source": "brand menu JSON-LD via Tenkites (Slim Chickens UK)",
    "source_url": "https://menus.tenkites.com/brg/slimscore?sitecode=SLM",
-   "fetched_at": "2026-08-06T17:55:34Z",
+   "fetched_at": "2026-08-08T06:39:41Z",
    "quality_flags": null
   },
   "slim-s-wrap-meal": {
@@ -1083,7 +1083,7 @@
    "allergens": null,
    "source": "brand menu JSON-LD via Tenkites (Slim Chickens UK)",
    "source_url": "https://menus.tenkites.com/brg/slimscore?sitecode=SLM",
-   "fetched_at": "2026-08-06T17:55:34Z",
+   "fetched_at": "2026-08-08T06:39:41Z",
    "quality_flags": null
   },
   "buffalo-wrap": {
@@ -1102,7 +1102,7 @@
    "allergens": null,
    "source": "brand menu JSON-LD via Tenkites (Slim Chickens UK)",
    "source_url": "https://menus.tenkites.com/brg/slimscore?sitecode=SLM",
-   "fetched_at": "2026-08-06T17:55:34Z",
+   "fetched_at": "2026-08-08T06:39:41Z",
    "quality_flags": null
   },
   "buffalo-wrap-meal": {
@@ -1121,7 +1121,7 @@
    "allergens": null,
    "source": "brand menu JSON-LD via Tenkites (Slim Chickens UK)",
    "source_url": "https://menus.tenkites.com/brg/slimscore?sitecode=SLM",
-   "fetched_at": "2026-08-06T17:55:34Z",
+   "fetched_at": "2026-08-08T06:39:41Z",
    "quality_flags": null
   },
   "smoked-caesar-wrap": {
@@ -1140,7 +1140,7 @@
    "allergens": null,
    "source": "brand menu JSON-LD via Tenkites (Slim Chickens UK)",
    "source_url": "https://menus.tenkites.com/brg/slimscore?sitecode=SLM",
-   "fetched_at": "2026-08-06T17:55:34Z",
+   "fetched_at": "2026-08-08T06:39:41Z",
    "quality_flags": null
   },
   "smoked-caesar-wrap-meal": {
@@ -1159,7 +1159,7 @@
    "allergens": null,
    "source": "brand menu JSON-LD via Tenkites (Slim Chickens UK)",
    "source_url": "https://menus.tenkites.com/brg/slimscore?sitecode=SLM",
-   "fetched_at": "2026-08-06T17:55:34Z",
+   "fetched_at": "2026-08-08T06:39:41Z",
    "quality_flags": null
   },
   "slim-s-salad": {
@@ -1178,7 +1178,7 @@
    "allergens": null,
    "source": "brand menu JSON-LD via Tenkites (Slim Chickens UK)",
    "source_url": "https://menus.tenkites.com/brg/slimscore?sitecode=SLM",
-   "fetched_at": "2026-08-06T17:55:34Z",
+   "fetched_at": "2026-08-08T06:39:41Z",
    "quality_flags": null
   },
   "smoked-caesar-salad": {
@@ -1197,7 +1197,7 @@
    "allergens": null,
    "source": "brand menu JSON-LD via Tenkites (Slim Chickens UK)",
    "source_url": "https://menus.tenkites.com/brg/slimscore?sitecode=SLM",
-   "fetched_at": "2026-08-06T17:55:34Z",
+   "fetched_at": "2026-08-08T06:39:41Z",
    "quality_flags": null
   },
   "slim-s-salad-meal": {
@@ -1216,7 +1216,7 @@
    "allergens": null,
    "source": "brand menu JSON-LD via Tenkites (Slim Chickens UK)",
    "source_url": "https://menus.tenkites.com/brg/slimscore?sitecode=SLM",
-   "fetched_at": "2026-08-06T17:55:34Z",
+   "fetched_at": "2026-08-08T06:39:41Z",
    "quality_flags": null
   },
   "fried-pickles": {
@@ -1235,7 +1235,7 @@
    "allergens": null,
    "source": "brand menu JSON-LD via Tenkites (Slim Chickens UK)",
    "source_url": "https://menus.tenkites.com/brg/slimscore?sitecode=SLM",
-   "fetched_at": "2026-08-06T17:55:34Z",
+   "fetched_at": "2026-08-08T06:39:41Z",
    "quality_flags": null
   },
   "crispy-fried-onions": {
@@ -1254,7 +1254,7 @@
    "allergens": null,
    "source": "brand menu JSON-LD via Tenkites (Slim Chickens UK)",
    "source_url": "https://menus.tenkites.com/brg/slimscore?sitecode=SLM",
-   "fetched_at": "2026-08-06T17:55:34Z",
+   "fetched_at": "2026-08-08T06:39:41Z",
    "quality_flags": null
   },
   "regular-seasoned-fries": {
@@ -1273,7 +1273,7 @@
    "allergens": null,
    "source": "brand menu JSON-LD via Tenkites (Slim Chickens UK)",
    "source_url": "https://menus.tenkites.com/brg/slimscore?sitecode=SLM",
-   "fetched_at": "2026-08-06T17:55:34Z",
+   "fetched_at": "2026-08-08T06:39:41Z",
    "quality_flags": null
   },
   "3-tenders": {
@@ -1292,7 +1292,7 @@
    "allergens": null,
    "source": "brand menu JSON-LD via Tenkites (Slim Chickens UK)",
    "source_url": "https://menus.tenkites.com/brg/slimscore?sitecode=SLM",
-   "fetched_at": "2026-08-06T17:55:34Z",
+   "fetched_at": "2026-08-08T06:39:41Z",
    "quality_flags": null
   },
   "3-crispy-wings": {
@@ -1311,7 +1311,7 @@
    "allergens": null,
    "source": "brand menu JSON-LD via Tenkites (Slim Chickens UK)",
    "source_url": "https://menus.tenkites.com/brg/slimscore?sitecode=SLM",
-   "fetched_at": "2026-08-06T17:55:34Z",
+   "fetched_at": "2026-08-08T06:39:41Z",
    "quality_flags": null
   },
   "texas-toast": {
@@ -1325,12 +1325,12 @@
    "carbs_g": 28.0,
    "fat_g": 20.0,
    "salt_g": null,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand menu JSON-LD via Tenkites (Slim Chickens UK)",
    "source_url": "https://menus.tenkites.com/brg/slimscore?sitecode=SLM",
-   "fetched_at": "2026-08-06T17:55:34Z",
+   "fetched_at": "2026-08-08T06:39:41Z",
    "quality_flags": null
   },
   "buffalo-blue-loaded-fries": {
@@ -1349,7 +1349,7 @@
    "allergens": null,
    "source": "brand menu JSON-LD via Tenkites (Slim Chickens UK)",
    "source_url": "https://menus.tenkites.com/brg/slimscore?sitecode=SLM",
-   "fetched_at": "2026-08-06T17:55:34Z",
+   "fetched_at": "2026-08-08T06:39:41Z",
    "quality_flags": null
   },
   "hot-honey-ranch-loaded-fries": {
@@ -1368,7 +1368,7 @@
    "allergens": null,
    "source": "brand menu JSON-LD via Tenkites (Slim Chickens UK)",
    "source_url": "https://menus.tenkites.com/brg/slimscore?sitecode=SLM",
-   "fetched_at": "2026-08-06T17:55:34Z",
+   "fetched_at": "2026-08-08T06:39:41Z",
    "quality_flags": null
   },
   "gravy": {
@@ -1387,7 +1387,7 @@
    "allergens": null,
    "source": "brand menu JSON-LD via Tenkites (Slim Chickens UK)",
    "source_url": "https://menus.tenkites.com/brg/slimscore?sitecode=SLM",
-   "fetched_at": "2026-08-06T17:55:34Z",
+   "fetched_at": "2026-08-08T06:39:41Z",
    "quality_flags": null
   },
   "the-big-ranch-pot": {
@@ -1401,12 +1401,12 @@
    "carbs_g": 12.0,
    "fat_g": 89.0,
    "salt_g": null,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand menu JSON-LD via Tenkites (Slim Chickens UK)",
    "source_url": "https://menus.tenkites.com/brg/slimscore?sitecode=SLM",
-   "fetched_at": "2026-08-06T17:55:34Z",
+   "fetched_at": "2026-08-08T06:39:41Z",
    "quality_flags": null
   },
   "coleslaw": {
@@ -1420,12 +1420,12 @@
    "carbs_g": 8.0,
    "fat_g": 27.0,
    "salt_g": null,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand menu JSON-LD via Tenkites (Slim Chickens UK)",
    "source_url": "https://menus.tenkites.com/brg/slimscore?sitecode=SLM",
-   "fetched_at": "2026-08-06T17:55:34Z",
+   "fetched_at": "2026-08-08T06:39:41Z",
    "quality_flags": null
   },
   "mac-cheese": {
@@ -1439,12 +1439,12 @@
    "carbs_g": 54.0,
    "fat_g": 19.0,
    "salt_g": null,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand menu JSON-LD via Tenkites (Slim Chickens UK)",
    "source_url": "https://menus.tenkites.com/brg/slimscore?sitecode=SLM",
-   "fetched_at": "2026-08-06T17:55:34Z",
+   "fetched_at": "2026-08-08T06:39:41Z",
    "quality_flags": null
   },
   "hot-jalapeno-cheese-sauce": {
@@ -1458,12 +1458,12 @@
    "carbs_g": 10.0,
    "fat_g": 26.0,
    "salt_g": null,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand menu JSON-LD via Tenkites (Slim Chickens UK)",
    "source_url": "https://menus.tenkites.com/brg/slimscore?sitecode=SLM",
-   "fetched_at": "2026-08-06T17:55:34Z",
+   "fetched_at": "2026-08-08T06:39:41Z",
    "quality_flags": null
   },
   "mac-tender-pot": {
@@ -1482,7 +1482,7 @@
    "allergens": null,
    "source": "brand menu JSON-LD via Tenkites (Slim Chickens UK)",
    "source_url": "https://menus.tenkites.com/brg/slimscore?sitecode=SLM",
-   "fetched_at": "2026-08-06T17:55:34Z",
+   "fetched_at": "2026-08-08T06:39:41Z",
    "quality_flags": null
   },
   "slims-crave-box": {
@@ -1501,7 +1501,7 @@
    "allergens": null,
    "source": "brand menu JSON-LD via Tenkites (Slim Chickens UK)",
    "source_url": "https://menus.tenkites.com/brg/slimscore?sitecode=SLM",
-   "fetched_at": "2026-08-06T17:55:34Z",
+   "fetched_at": "2026-08-08T06:39:41Z",
    "quality_flags": null
   },
   "the-big-slim-s-pot": {
@@ -1515,12 +1515,12 @@
    "carbs_g": 16.0,
    "fat_g": 99.0,
    "salt_g": null,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand menu JSON-LD via Tenkites (Slim Chickens UK)",
    "source_url": "https://menus.tenkites.com/brg/slimscore?sitecode=SLM",
-   "fetched_at": "2026-08-06T17:55:34Z",
+   "fetched_at": "2026-08-08T06:39:41Z",
    "quality_flags": null
   },
   "bbq-ranch-fries": {
@@ -1539,7 +1539,7 @@
    "allergens": null,
    "source": "brand menu JSON-LD via Tenkites (Slim Chickens UK)",
    "source_url": "https://menus.tenkites.com/brg/slimscore?sitecode=SLM",
-   "fetched_at": "2026-08-06T17:55:34Z",
+   "fetched_at": "2026-08-08T06:39:41Z",
    "quality_flags": null
   },
   "bbq-tossed-boneless-bites": {
@@ -1558,7 +1558,7 @@
    "allergens": null,
    "source": "brand menu JSON-LD via Tenkites (Slim Chickens UK)",
    "source_url": "https://menus.tenkites.com/brg/slimscore?sitecode=SLM",
-   "fetched_at": "2026-08-06T17:55:34Z",
+   "fetched_at": "2026-08-08T06:39:41Z",
    "quality_flags": null
   },
   "buffalo-tossed-boneless-bites": {
@@ -1577,7 +1577,7 @@
    "allergens": null,
    "source": "brand menu JSON-LD via Tenkites (Slim Chickens UK)",
    "source_url": "https://menus.tenkites.com/brg/slimscore?sitecode=SLM",
-   "fetched_at": "2026-08-06T17:55:34Z",
+   "fetched_at": "2026-08-08T06:39:41Z",
    "quality_flags": null
   },
   "jalape-o-cheesy-fries": {
@@ -1596,7 +1596,7 @@
    "allergens": null,
    "source": "brand menu JSON-LD via Tenkites (Slim Chickens UK)",
    "source_url": "https://menus.tenkites.com/brg/slimscore?sitecode=SLM",
-   "fetched_at": "2026-08-06T17:55:34Z",
+   "fetched_at": "2026-08-08T06:39:41Z",
    "quality_flags": null
   },
   "kids-tenders-meal": {
@@ -1615,7 +1615,7 @@
    "allergens": null,
    "source": "brand menu JSON-LD via Tenkites (Slim Chickens UK)",
    "source_url": "https://menus.tenkites.com/brg/slimscore?sitecode=SLM",
-   "fetched_at": "2026-08-06T17:55:34Z",
+   "fetched_at": "2026-08-08T06:39:41Z",
    "quality_flags": null
   },
   "kids-tender-mac-cheese": {
@@ -1634,7 +1634,7 @@
    "allergens": null,
    "source": "brand menu JSON-LD via Tenkites (Slim Chickens UK)",
    "source_url": "https://menus.tenkites.com/brg/slimscore?sitecode=SLM",
-   "fetched_at": "2026-08-06T17:55:34Z",
+   "fetched_at": "2026-08-08T06:39:41Z",
    "quality_flags": null
   },
   "kids-boneless-bite-meal": {
@@ -1653,7 +1653,7 @@
    "allergens": null,
    "source": "brand menu JSON-LD via Tenkites (Slim Chickens UK)",
    "source_url": "https://menus.tenkites.com/brg/slimscore?sitecode=SLM",
-   "fetched_at": "2026-08-06T17:55:34Z",
+   "fetched_at": "2026-08-08T06:39:41Z",
    "quality_flags": null
   },
   "vanilla": {
@@ -1667,12 +1667,12 @@
    "carbs_g": 74.0,
    "fat_g": 21.0,
    "salt_g": null,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand menu JSON-LD via Tenkites (Slim Chickens UK)",
    "source_url": "https://menus.tenkites.com/brg/slimscore?sitecode=SLM",
-   "fetched_at": "2026-08-06T17:55:34Z",
+   "fetched_at": "2026-08-08T06:39:41Z",
    "quality_flags": null
   },
   "chocolate": {
@@ -1686,12 +1686,12 @@
    "carbs_g": 96.0,
    "fat_g": 22.0,
    "salt_g": null,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand menu JSON-LD via Tenkites (Slim Chickens UK)",
    "source_url": "https://menus.tenkites.com/brg/slimscore?sitecode=SLM",
-   "fetched_at": "2026-08-06T17:55:34Z",
+   "fetched_at": "2026-08-08T06:39:41Z",
    "quality_flags": null
   },
   "oreo": {
@@ -1705,12 +1705,12 @@
    "carbs_g": 95.0,
    "fat_g": 26.0,
    "salt_g": null,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand menu JSON-LD via Tenkites (Slim Chickens UK)",
    "source_url": "https://menus.tenkites.com/brg/slimscore?sitecode=SLM",
-   "fetched_at": "2026-08-06T17:55:34Z",
+   "fetched_at": "2026-08-08T06:39:41Z",
    "quality_flags": null
   },
   "strawberry": {
@@ -1724,12 +1724,12 @@
    "carbs_g": 95.0,
    "fat_g": 21.0,
    "salt_g": null,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand menu JSON-LD via Tenkites (Slim Chickens UK)",
    "source_url": "https://menus.tenkites.com/brg/slimscore?sitecode=SLM",
-   "fetched_at": "2026-08-06T17:55:34Z",
+   "fetched_at": "2026-08-08T06:39:41Z",
    "quality_flags": null
   },
   "popcorn": {
@@ -1743,12 +1743,12 @@
    "carbs_g": 95.0,
    "fat_g": 21.0,
    "salt_g": null,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand menu JSON-LD via Tenkites (Slim Chickens UK)",
    "source_url": "https://menus.tenkites.com/brg/slimscore?sitecode=SLM",
-   "fetched_at": "2026-08-06T17:55:34Z",
+   "fetched_at": "2026-08-08T06:39:41Z",
    "quality_flags": null
   },
   "biscoff-shake": {
@@ -1762,12 +1762,12 @@
    "carbs_g": 97.0,
    "fat_g": 37.0,
    "salt_g": null,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand menu JSON-LD via Tenkites (Slim Chickens UK)",
    "source_url": "https://menus.tenkites.com/brg/slimscore?sitecode=SLM",
-   "fetched_at": "2026-08-06T17:55:34Z",
+   "fetched_at": "2026-08-08T06:39:41Z",
    "quality_flags": null
   },
   "caramel": {
@@ -1781,12 +1781,12 @@
    "carbs_g": 104.0,
    "fat_g": 22.0,
    "salt_g": null,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand menu JSON-LD via Tenkites (Slim Chickens UK)",
    "source_url": "https://menus.tenkites.com/brg/slimscore?sitecode=SLM",
-   "fetched_at": "2026-08-06T17:55:34Z",
+   "fetched_at": "2026-08-08T06:39:41Z",
    "quality_flags": null
   },
   "flake-shake": {
@@ -1800,12 +1800,12 @@
    "carbs_g": 92.0,
    "fat_g": 30.0,
    "salt_g": null,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand menu JSON-LD via Tenkites (Slim Chickens UK)",
    "source_url": "https://menus.tenkites.com/brg/slimscore?sitecode=SLM",
-   "fetched_at": "2026-08-06T17:55:34Z",
+   "fetched_at": "2026-08-08T06:39:41Z",
    "quality_flags": null
   },
   "mocha-shake": {
@@ -1819,12 +1819,12 @@
    "carbs_g": 102.0,
    "fat_g": 22.0,
    "salt_g": null,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand menu JSON-LD via Tenkites (Slim Chickens UK)",
    "source_url": "https://menus.tenkites.com/brg/slimscore?sitecode=SLM",
-   "fetched_at": "2026-08-06T17:55:34Z",
+   "fetched_at": "2026-08-08T06:39:41Z",
    "quality_flags": null
   },
   "slims-cookie": {
@@ -1838,12 +1838,12 @@
    "carbs_g": 50.0,
    "fat_g": 18.0,
    "salt_g": null,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand menu JSON-LD via Tenkites (Slim Chickens UK)",
    "source_url": "https://menus.tenkites.com/brg/slimscore?sitecode=SLM",
-   "fetched_at": "2026-08-06T17:55:34Z",
+   "fetched_at": "2026-08-08T06:39:41Z",
    "quality_flags": null
   },
   "white-americano": {
@@ -1857,12 +1857,12 @@
    "carbs_g": 3.0,
    "fat_g": 1.0,
    "salt_g": null,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand menu JSON-LD via Tenkites (Slim Chickens UK)",
    "source_url": "https://menus.tenkites.com/brg/slimscore?sitecode=SLM",
-   "fetched_at": "2026-08-06T17:55:34Z",
+   "fetched_at": "2026-08-08T06:39:41Z",
    "quality_flags": null
   },
   "cappuccino": {
@@ -1876,12 +1876,12 @@
    "carbs_g": 12.0,
    "fat_g": 4.0,
    "salt_g": null,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand menu JSON-LD via Tenkites (Slim Chickens UK)",
    "source_url": "https://menus.tenkites.com/brg/slimscore?sitecode=SLM",
-   "fetched_at": "2026-08-06T17:55:34Z",
+   "fetched_at": "2026-08-08T06:39:41Z",
    "quality_flags": null
   },
   "latte": {
@@ -1895,12 +1895,12 @@
    "carbs_g": 12.0,
    "fat_g": 4.0,
    "salt_g": null,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "brand menu JSON-LD via Tenkites (Slim Chickens UK)",
    "source_url": "https://menus.tenkites.com/brg/slimscore?sitecode=SLM",
-   "fetched_at": "2026-08-06T17:55:34Z",
+   "fetched_at": "2026-08-08T06:39:41Z",
    "quality_flags": null
   }
  }
