@@ -51,6 +51,38 @@ TRAP 4 — long dish names wrap onto the following line
 
 Values are per portion. Some are large because ASK portions are whole dishes
 (e.g. Fiery Trio di Carne pizza = 1193 kcal / 50 g protein).
+
+Dietary flag source
+--------------------
+Pages 4-33 are a SEPARATE table (not the nutrition table above) — the 14-
+allergen matrix — and it has explicit `Vegetarian` and `Vegan` columns
+("Menu Item Name Celery Cereals ... Tree Nuts Vegetarian Vegan Comments"),
+with a plain "Yes" marking a dish suitable for that diet. This is joined
+into the nutrition rows by lower-cased dish name.
+
+TRAP 5 — `page.extract_tables()` on THIS table silently mis-attributes data
+    to the WRONG dish, unlike the nutrition table where it merely fails
+    Every second physical table-row it returns has `None` for the dish name
+    (e.g. immediately after "Fettuccine Bolognese" — a meat dish, not
+    vegetarian). The temptation is to read that as a second data row for
+    "Fettuccine Bolognese" (an allergen/may-contain sub-row) — checked
+    against `extract_text()` and it is not: that row is "Fettucine Lentil
+    Ragu", a genuinely different, genuinely vegetarian/vegan dish whose name
+    cell the table extractor simply dropped. Trusting the None-name row as a
+    continuation would have wrongly marked a beef ragu pasta vegan.
+    `extract_text()`/`extract_words()` keep every dish on its own correctly
+    -named line (confirmed: "Fettuccine Bolognese Yes Yes: Wheat Yes * * Yes
+    ..." then, on the next line, "Fettucine Lentil Ragu * Yes: Wheat * *
+    Yes Yes ..."), so this table is read the same word-position way as the
+    nutrition table above, not via `extract_tables()`.
+
+Column x-bands are read from each page's own header row (word x0 of
+"Vegetarian", "Vegan", "Comments", and the first allergen column "Celery")
+rather than hardcoded, since the matrix's column count means small layout
+shifts between pages/revisions are plausible. Only lines that carry their
+own dish name (x0 left of "Celery") are read — a line with dietary "Yes"
+marks but no name attached is skipped rather than guessed at, for the same
+reason TRAP 5 exists.
 """
 from __future__ import annotations
 
@@ -105,9 +137,47 @@ def _boundaries(page):
     return None
 
 
+def _diet_flags(raw: bytes) -> dict[str, tuple[bool | None, bool | None]]:
+    """lower-cased dish name -> (vegetarian, vegan), from the allergen matrix
+    on pages 4-33 (a different table to the nutrition one). See TRAP 5."""
+    import pdfplumber
+
+    out: dict[str, tuple[bool | None, bool | None]] = {}
+    with pdfplumber.open(io.BytesIO(raw)) as pdf:
+        for page in pdf.pages:
+            header = None
+            for line in _lines(page):
+                by_text = {w["text"]: w for w in line}
+                if "Celery" in by_text and "Vegetarian" in by_text and "Vegan" in by_text:
+                    left_of_veg = by_text.get("Nuts", by_text["Vegetarian"])
+                    right_of_vegan = by_text.get("Comments", by_text["Vegan"])
+                    header = {
+                        "name_end": by_text["Celery"]["x0"] - 5,
+                        "veg0": (left_of_veg["x1"] + by_text["Vegetarian"]["x0"]) / 2,
+                        "veg1": (by_text["Vegetarian"]["x1"] + by_text["Vegan"]["x0"]) / 2,
+                        "vegan1": (by_text["Vegan"]["x1"] + right_of_vegan["x0"]) / 2,
+                    }
+                    continue
+                if header is None:
+                    continue
+                name_words = [w for w in line if w["x0"] < header["name_end"]]
+                if not name_words:
+                    continue    # no dish name on this line -- see TRAP 5, skip rather than guess
+                name = " ".join(w["text"] for w in name_words).strip().lower()
+                if not name or name.startswith("menu item"):
+                    continue
+                vegetarian = any(w["text"] == "Yes" and header["veg0"] <= w["x0"] < header["veg1"]
+                                  for w in line)
+                vegan = any(w["text"] == "Yes" and header["veg1"] <= w["x0"] < header["vegan1"]
+                            for w in line)
+                out[name] = (vegetarian or None, vegan or None)
+    return out
+
+
 def _parse(raw: bytes) -> list[dict]:
     import pdfplumber
 
+    diet = _diet_flags(raw)
     out: list[dict] = []
     seen: set[str] = set()
     with pdfplumber.open(io.BytesIO(raw)) as pdf:
@@ -148,12 +218,14 @@ def _parse(raw: bytes) -> list[dict]:
                 if key in seen:
                     continue
                 seen.add(key)
+                vegetarian, vegan = diet.get(name.lower(), (None, None))
                 row = item(CHAIN, name, SOURCE, SOURCE_URL,
                            item_id=name, category=category,
                            serving_desc="per serving",
                            kcal=kcal, protein_g=protein,
                            fat_g=vals[_FAT_IDX], carbs_g=vals[_CARB_IDX],
-                           salt_g=vals[_SALT_IDX])
+                           salt_g=vals[_SALT_IDX],
+                           vegetarian=vegetarian, vegan=vegan)
                 out.append(row)
                 last = row
     return out

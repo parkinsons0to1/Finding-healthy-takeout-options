@@ -1,7 +1,7 @@
 {
  "chain_id": "ask_italian",
  "item_count": 348,
- "fetched_at": "2026-08-06T15:00:53Z",
+ "fetched_at": "2026-08-08T06:54:06Z",
  "items": {
   "grande-fritto-misto": {
    "chain_id": "ask_italian",
@@ -19,7 +19,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:53Z",
+   "fetched_at": "2026-08-08T06:54:06Z",
    "quality_flags": null
   },
   "lemon-meringue-pie-sundae": {
@@ -33,12 +33,12 @@
    "carbs_g": 95.0,
    "fat_g": 26.0,
    "salt_g": 0.41,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:53Z",
+   "fetched_at": "2026-08-08T06:54:06Z",
    "quality_flags": null
   },
   "non-gluten-prosciutto-truffle-stracciatella-pizza": {
@@ -57,7 +57,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:53Z",
+   "fetched_at": "2026-08-08T06:54:06Z",
    "quality_flags": null
   },
   "pollo-piccante-crocchettes": {
@@ -76,7 +76,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:53Z",
+   "fetched_at": "2026-08-08T06:54:06Z",
    "quality_flags": null
   },
   "prosciutto-truffle-stracciatella-pizza": {
@@ -95,7 +95,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:53Z",
+   "fetched_at": "2026-08-08T06:54:06Z",
    "quality_flags": null
   },
   "sticky-beef-short-rib": {
@@ -114,7 +114,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:53Z",
+   "fetched_at": "2026-08-08T06:54:06Z",
    "quality_flags": null
   },
   "white-chocolate-strawberry-panna-cotta": {
@@ -133,7 +133,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:53Z",
+   "fetched_at": "2026-08-08T06:54:06Z",
    "quality_flags": null
   },
   "smoky-chicken-salad": {
@@ -152,7 +152,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:53Z",
+   "fetched_at": "2026-08-08T06:54:06Z",
    "quality_flags": null
   },
   "crispy-pepperoni": {
@@ -171,7 +171,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:06Z",
    "quality_flags": null
   },
   "italian-olives": {
@@ -185,12 +185,12 @@
    "carbs_g": 4.7,
    "fat_g": 21.0,
    "salt_g": 3.7,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:06Z",
    "quality_flags": null
   },
   "garlic-bread": {
@@ -204,12 +204,12 @@
    "carbs_g": 112.0,
    "fat_g": 26.0,
    "salt_g": 2.8,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:06Z",
    "quality_flags": null
   },
   "garlic-bread-with-mozzarella": {
@@ -223,12 +223,12 @@
    "carbs_g": 112.0,
    "fat_g": 33.0,
    "salt_g": 3.2,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:06Z",
    "quality_flags": null
   },
   "balsamic-caramelised-onion-confiture": {
@@ -247,7 +247,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:06Z",
    "quality_flags": null
   },
   "nduja-cheese-dough-bites": {
@@ -266,7 +266,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:06Z",
    "quality_flags": null
   },
   "pesto-cheese-dough-bites": {
@@ -280,12 +280,12 @@
    "carbs_g": 114.0,
    "fat_g": 44.0,
    "salt_g": 4.7,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:06Z",
    "quality_flags": null
   },
   "rosemary-olive-oil-bread": {
@@ -299,12 +299,12 @@
    "carbs_g": 109.0,
    "fat_g": 13.0,
    "salt_g": 2.9,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:06Z",
    "quality_flags": null
   },
   "antipasti-classico": {
@@ -323,7 +323,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:06Z",
    "quality_flags": null
   },
   "3-chicken-lecca-lecca": {
@@ -342,7 +342,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:06Z",
    "quality_flags": null
   },
   "5-chicken-lecca-lecca": {
@@ -361,7 +361,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:06Z",
    "quality_flags": null
   },
   "ask-favourites-sharer": {
@@ -380,7 +380,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:06Z",
    "quality_flags": null
   },
   "bruschetta-pizzetta": {
@@ -394,12 +394,12 @@
    "carbs_g": 63.0,
    "fat_g": 11.0,
    "salt_g": 1.9,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:06Z",
    "quality_flags": null
   },
   "cheese-fondue": {
@@ -413,12 +413,12 @@
    "carbs_g": 61.0,
    "fat_g": 32.0,
    "salt_g": 3.2,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:06Z",
    "quality_flags": null
   },
   "king-prawn-al-forno": {
@@ -437,7 +437,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:06Z",
    "quality_flags": null
   },
   "large-calamari": {
@@ -456,7 +456,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:06Z",
    "quality_flags": null
   },
   "mushrooms-al-forno": {
@@ -470,12 +470,12 @@
    "carbs_g": 29.0,
    "fat_g": 29.0,
    "salt_g": 1.6,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:06Z",
    "quality_flags": null
   },
   "small-calamari": {
@@ -494,7 +494,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:06Z",
    "quality_flags": null
   },
   "trio-of-arancini": {
@@ -508,12 +508,12 @@
    "carbs_g": 44.0,
    "fat_g": 24.0,
    "salt_g": 2.3,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:06Z",
    "quality_flags": null
   },
   "burrata-tricolore": {
@@ -527,12 +527,12 @@
    "carbs_g": 6.1,
    "fat_g": 34.0,
    "salt_g": 1.4,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:06Z",
    "quality_flags": null
   },
   "fettuccine-bolognese": {
@@ -551,7 +551,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:06Z",
    "quality_flags": null
   },
   "fettucine-lentil-ragu": {
@@ -565,12 +565,12 @@
    "carbs_g": 102.0,
    "fat_g": 20.0,
    "salt_g": 2.4,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:06Z",
    "quality_flags": null
   },
   "linguine-carbonara": {
@@ -589,7 +589,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:06Z",
    "quality_flags": null
   },
   "linguine-con-frutti-di-mare": {
@@ -608,7 +608,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:06Z",
    "quality_flags": null
   },
   "spaghetti-bolognese": {
@@ -627,7 +627,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:06Z",
    "quality_flags": null
   },
   "spaghetti-pomodoro-with-burrata": {
@@ -646,7 +646,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:06Z",
    "quality_flags": null
   },
   "spaghetti-pomodoro-with-mozzarella": {
@@ -665,7 +665,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:06Z",
    "quality_flags": null
   },
   "vegetarian-linguine-carbonara": {
@@ -684,7 +684,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:06Z",
    "quality_flags": null
   },
   "burrata-pancetta-carbonara": {
@@ -703,7 +703,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:06Z",
    "quality_flags": null
   },
   "garlic-king-prawn": {
@@ -722,7 +722,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:06Z",
    "quality_flags": null
   },
   "pesto-stracciatella": {
@@ -736,12 +736,12 @@
    "carbs_g": 82.0,
    "fat_g": 41.0,
    "salt_g": 3.1,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:06Z",
    "quality_flags": null
   },
   "slow-cooked-beef": {
@@ -760,7 +760,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:06Z",
    "quality_flags": null
   },
   "luganica-sausage-nduja": {
@@ -779,7 +779,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:06Z",
    "quality_flags": null
   },
   "funghi-della-casa": {
@@ -793,12 +793,12 @@
    "carbs_g": 100.0,
    "fat_g": 31.0,
    "salt_g": 3.5,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "funghi-della-casa-with-chicken": {
@@ -817,7 +817,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "lasagna-classic": {
@@ -836,7 +836,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "lasagne-grande": {
@@ -855,7 +855,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "manzo-piccante": {
@@ -874,7 +874,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "calzone-carne-piccante": {
@@ -893,7 +893,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "fiery-trio-di-carne": {
@@ -912,7 +912,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "margherita": {
@@ -931,7 +931,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "pollo-coppa-e-funghi": {
@@ -950,7 +950,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "pollo-roquito": {
@@ -969,7 +969,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "pomodoro-pesto": {
@@ -983,12 +983,12 @@
    "carbs_g": 120.0,
    "fat_g": 22.0,
    "salt_g": 3.8,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "primavera": {
@@ -1007,7 +1007,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "salami-misti": {
@@ -1026,7 +1026,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "stromboli": {
@@ -1045,7 +1045,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "truffle-funghi": {
@@ -1059,12 +1059,12 @@
    "carbs_g": 128.0,
    "fat_g": 36.0,
    "salt_g": 4.3,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "balsamic-onion-confiture": {
@@ -1078,12 +1078,12 @@
    "carbs_g": 16.0,
    "fat_g": 1.4,
    "salt_g": 0.39,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "burrata": {
@@ -1102,7 +1102,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "coppa-ham": {
@@ -1121,7 +1121,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "curvi": {
@@ -1135,12 +1135,12 @@
    "carbs_g": 88.0,
    "fat_g": 1.0,
    "salt_g": 0.18,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "fettuccine": {
@@ -1154,12 +1154,12 @@
    "carbs_g": 78.0,
    "fat_g": 1.4,
    "salt_g": 0.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "frilly-tagliatelle": {
@@ -1173,12 +1173,12 @@
    "carbs_g": 66.0,
    "fat_g": 3.5,
    "salt_g": 0.5,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "linguine": {
@@ -1192,12 +1192,12 @@
    "carbs_g": 77.0,
    "fat_g": 1.6,
    "salt_g": 0.02,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "marinated-king-prawns": {
@@ -1216,7 +1216,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "nduja": {
@@ -1235,7 +1235,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "olives": {
@@ -1249,12 +1249,12 @@
    "carbs_g": 0.0,
    "fat_g": 1.3,
    "salt_g": 0.22,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "pancetta": {
@@ -1273,7 +1273,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "pappardelle": {
@@ -1287,12 +1287,12 @@
    "carbs_g": 63.0,
    "fat_g": 2.9,
    "salt_g": 0.07,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "pepperoni": {
@@ -1311,7 +1311,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "prosciutto": {
@@ -1330,7 +1330,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "red-dutch-chillies": {
@@ -1344,12 +1344,12 @@
    "carbs_g": 0.0,
    "fat_g": 0.0,
    "salt_g": 0.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "roast-chicken": {
@@ -1368,7 +1368,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "roasted-peppers": {
@@ -1382,12 +1382,12 @@
    "carbs_g": 1.5,
    "fat_g": 0.0,
    "salt_g": 0.13,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "rocket": {
@@ -1401,12 +1401,12 @@
    "carbs_g": 0.0,
    "fat_g": 0.0,
    "salt_g": 0.01,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "sauteed-mushrooms": {
@@ -1420,12 +1420,12 @@
    "carbs_g": 0.0,
    "fat_g": 1.3,
    "salt_g": 0.07,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "spaghetti": {
@@ -1444,7 +1444,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "spinach": {
@@ -1458,12 +1458,12 @@
    "carbs_g": 0.0,
    "fat_g": 0.0,
    "salt_g": 0.03,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "this-lardons": {
@@ -1477,12 +1477,12 @@
    "carbs_g": 2.3,
    "fat_g": 2.5,
    "salt_g": 1.8,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "whole-pan-fried-chicken-breast": {
@@ -1501,7 +1501,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "caesar-classica": {
@@ -1520,7 +1520,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "garden-grain-bowl-mozzarella": {
@@ -1539,7 +1539,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "pollo-milanese-with-chips": {
@@ -1558,7 +1558,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "pollo-milanese-with-potatoes": {
@@ -1577,7 +1577,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "risotto-con-funghi": {
@@ -1591,12 +1591,12 @@
    "carbs_g": 95.0,
    "fat_g": 32.0,
    "salt_g": 3.1,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "risotto-con-funghi-with-chicken": {
@@ -1615,7 +1615,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "sea-bass-alla-mediterranea": {
@@ -1634,7 +1634,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "tuscan-chicken-orzotto": {
@@ -1653,7 +1653,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "balsamic-glazed-greens": {
@@ -1667,12 +1667,12 @@
    "carbs_g": 9.0,
    "fat_g": 0.9,
    "salt_g": 0.52,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "bolgonese-bites": {
@@ -1691,7 +1691,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "caesar-side-salad": {
@@ -1710,7 +1710,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "chips-with-garlic-mayo": {
@@ -1724,12 +1724,12 @@
    "carbs_g": 65.0,
    "fat_g": 26.0,
    "salt_g": 1.9,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "garlic-and-cheese-chips-with-garlic-mayo": {
@@ -1748,7 +1748,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "honey-luganica-sausages": {
@@ -1767,7 +1767,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "seasoned-chips-with-garlic-mayo": {
@@ -1786,7 +1786,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "seasoned-roast-potatoes": {
@@ -1800,12 +1800,12 @@
    "carbs_g": 24.0,
    "fat_g": 7.4,
    "salt_g": 0.87,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "side-salad": {
@@ -1819,12 +1819,12 @@
    "carbs_g": 4.7,
    "fat_g": 3.4,
    "salt_g": 0.19,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "zucchini-fritti-with-garlic-mayo": {
@@ -1843,7 +1843,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "balsamic-mayo": {
@@ -1857,12 +1857,12 @@
    "carbs_g": 3.4,
    "fat_g": 8.5,
    "salt_g": 0.3,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "balsamic-onion-confiture-dip": {
@@ -1881,7 +1881,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "calabrian-chili-dip": {
@@ -1895,12 +1895,12 @@
    "carbs_g": 3.3,
    "fat_g": 9.9,
    "salt_g": 0.42,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "garlic-mayo": {
@@ -1914,12 +1914,12 @@
    "carbs_g": 2.1,
    "fat_g": 10.0,
    "salt_g": 0.36,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "hot-honey": {
@@ -1933,12 +1933,12 @@
    "carbs_g": 19.0,
    "fat_g": 0.0,
    "salt_g": 0.0,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "ketchup": {
@@ -1952,12 +1952,12 @@
    "carbs_g": 7.2,
    "fat_g": 0.0,
    "salt_g": 0.71,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "nduja-ketchup": {
@@ -1976,7 +1976,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "olive-tapenade": {
@@ -1990,12 +1990,12 @@
    "carbs_g": 0.0,
    "fat_g": 9.1,
    "salt_g": 0.63,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "pesto-garlic-mayo-dip": {
@@ -2009,12 +2009,12 @@
    "carbs_g": 3.1,
    "fat_g": 9.8,
    "salt_g": 0.44,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "smoked-chilli-jelly": {
@@ -2028,12 +2028,12 @@
    "carbs_g": 15.0,
    "fat_g": 0.0,
    "salt_g": 0.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "spicy-tomato-dip": {
@@ -2047,12 +2047,12 @@
    "carbs_g": 0.9,
    "fat_g": 0.0,
    "salt_g": 0.26,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "truffle-honey-dip": {
@@ -2066,12 +2066,12 @@
    "carbs_g": 15.0,
    "fat_g": 0.7,
    "salt_g": 0.08,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "aged-hard-cheese": {
@@ -2085,12 +2085,12 @@
    "carbs_g": 0.0,
    "fat_g": 2.0,
    "salt_g": 0.11,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "balsamic-vinegar": {
@@ -2104,12 +2104,12 @@
    "carbs_g": 0.8,
    "fat_g": 0.0,
    "salt_g": 0.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "chilli-oil": {
@@ -2123,12 +2123,12 @@
    "carbs_g": 0.0,
    "fat_g": 6.4,
    "salt_g": 0.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "extra-virgin-olive-oil": {
@@ -2147,7 +2147,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "ask-logo-wafer": {
@@ -2161,12 +2161,12 @@
    "carbs_g": 2.5,
    "fat_g": 0.0,
    "salt_g": 0.01,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "berry-sorbet-one-scoop": {
@@ -2180,12 +2180,12 @@
    "carbs_g": 13.0,
    "fat_g": 0.0,
    "salt_g": 0.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "biscoff-cheesecake": {
@@ -2199,12 +2199,12 @@
    "carbs_g": 55.0,
    "fat_g": 35.0,
    "salt_g": 0.55,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "caramello-chocolate-torta": {
@@ -2218,12 +2218,12 @@
    "carbs_g": 58.0,
    "fat_g": 29.0,
    "salt_g": 0.75,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "cherry-clotted-cream-gelato-one-scoop": {
@@ -2242,7 +2242,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "chocolate-etna": {
@@ -2256,12 +2256,12 @@
    "carbs_g": 70.0,
    "fat_g": 64.0,
    "salt_g": 0.35,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "chocolate-falls": {
@@ -2275,12 +2275,12 @@
    "carbs_g": 80.0,
    "fat_g": 42.0,
    "salt_g": 0.53,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "chocolate-gelato-one-scoop": {
@@ -2299,7 +2299,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "chocostachio-bomb": {
@@ -2318,7 +2318,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "congratulations-plaque": {
@@ -2332,12 +2332,12 @@
    "carbs_g": 1.2,
    "fat_g": 1.3,
    "salt_g": 0.0,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "dolce-dessert-board": {
@@ -2351,12 +2351,12 @@
    "carbs_g": 161.0,
    "fat_g": 90.0,
    "salt_g": 1.0,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "happy-birthday-plaque": {
@@ -2370,12 +2370,12 @@
    "carbs_g": 1.2,
    "fat_g": 1.3,
    "salt_g": 0.0,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "mini-bomboloni": {
@@ -2389,12 +2389,12 @@
    "carbs_g": 22.0,
    "fat_g": 13.0,
    "salt_g": 0.39,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "mini-brownie": {
@@ -2408,12 +2408,12 @@
    "carbs_g": 20.0,
    "fat_g": 11.0,
    "salt_g": 0.03,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "mini-dolce-brownie": {
@@ -2427,12 +2427,12 @@
    "carbs_g": 23.0,
    "fat_g": 11.0,
    "salt_g": 0.04,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "mini-dolce-bomboloni": {
@@ -2446,12 +2446,12 @@
    "carbs_g": 24.0,
    "fat_g": 13.0,
    "salt_g": 0.41,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "mini-dolce-mini-mascarpone-cherries": {
@@ -2470,7 +2470,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "mini-dolce-panna-cotta": {
@@ -2484,12 +2484,12 @@
    "carbs_g": 13.0,
    "fat_g": 11.0,
    "salt_g": 0.09,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "mini-dolce-tiramisu": {
@@ -2503,12 +2503,12 @@
    "carbs_g": 19.0,
    "fat_g": 11.0,
    "salt_g": 0.12,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "mini-marscarpone-cherries": {
@@ -2527,7 +2527,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "mini-panna-cotta": {
@@ -2541,12 +2541,12 @@
    "carbs_g": 13.0,
    "fat_g": 11.0,
    "salt_g": 0.09,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "mini-tiramisu": {
@@ -2560,12 +2560,12 @@
    "carbs_g": 17.0,
    "fat_g": 11.0,
    "salt_g": 0.11,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "salted-caramel-gelato-one-scoop": {
@@ -2584,7 +2584,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "sicillian-lemon-tart": {
@@ -2598,12 +2598,12 @@
    "carbs_g": 50.0,
    "fat_g": 35.0,
    "salt_g": 0.03,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "sticky-coffee-pudding": {
@@ -2617,12 +2617,12 @@
    "carbs_g": 78.0,
    "fat_g": 29.0,
    "salt_g": 1.4,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "the-lemon": {
@@ -2636,12 +2636,12 @@
    "carbs_g": 44.0,
    "fat_g": 36.0,
    "salt_g": 0.52,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "tiramisu-with-baileys": {
@@ -2655,12 +2655,12 @@
    "carbs_g": 38.0,
    "fat_g": 24.0,
    "salt_g": 0.22,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "toffee-bomboloni-sundae": {
@@ -2674,12 +2674,12 @@
    "carbs_g": 90.0,
    "fat_g": 34.0,
    "salt_g": 0.92,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "vanilla-gelato-one-scoop": {
@@ -2693,12 +2693,12 @@
    "carbs_g": 11.0,
    "fat_g": 3.7,
    "salt_g": 0.06,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:54Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "warm-chocolate-brownie": {
@@ -2712,12 +2712,12 @@
    "carbs_g": 81.0,
    "fat_g": 39.0,
    "salt_g": 0.22,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "takeaway-double-chips": {
@@ -2731,12 +2731,12 @@
    "carbs_g": 130.0,
    "fat_g": 53.0,
    "salt_g": 3.3,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "vegan-3-lecca-lecca": {
@@ -2750,12 +2750,12 @@
    "carbs_g": 19.0,
    "fat_g": 14.0,
    "salt_g": 1.3,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "vegan-5-lecca-lecca": {
@@ -2769,12 +2769,12 @@
    "carbs_g": 32.0,
    "fat_g": 23.0,
    "salt_g": 2.2,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "vegan-artichoke-garden-grain-bowl": {
@@ -2793,7 +2793,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "vegan-bruschetta-pizzetta": {
@@ -2807,12 +2807,12 @@
    "carbs_g": 63.0,
    "fat_g": 10.0,
    "salt_g": 1.7,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "vegan-fettuccine-lentil-ragu": {
@@ -2831,7 +2831,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "vegan-margherita": {
@@ -2845,12 +2845,12 @@
    "carbs_g": 121.0,
    "fat_g": 25.0,
    "salt_g": 4.3,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "vegan-primavera": {
@@ -2864,12 +2864,12 @@
    "carbs_g": 132.0,
    "fat_g": 39.0,
    "salt_g": 5.6,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "vegan-spaghetti-pomodoro": {
@@ -2883,12 +2883,12 @@
    "carbs_g": 104.0,
    "fat_g": 19.0,
    "salt_g": 3.4,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "vegan-garlic-bread-with-mozzarisella": {
@@ -2907,7 +2907,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "vegan-spicy-tomato-dough-bites": {
@@ -2926,7 +2926,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "vegan-pesto-dough-bites": {
@@ -2940,12 +2940,12 @@
    "carbs_g": 108.0,
    "fat_g": 29.0,
    "salt_g": 4.3,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "apple-juice": {
@@ -2959,12 +2959,12 @@
    "carbs_g": 33.0,
    "fat_g": 0.0,
    "salt_g": 0.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "appletiser": {
@@ -2978,12 +2978,12 @@
    "carbs_g": 30.0,
    "fat_g": 0.0,
    "salt_g": 0.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "cherry-syrup": {
@@ -2997,12 +2997,12 @@
    "carbs_g": 8.6,
    "fat_g": 0.0,
    "salt_g": 0.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "coke": {
@@ -3016,12 +3016,12 @@
    "carbs_g": 36.0,
    "fat_g": 0.0,
    "salt_g": 0.0,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "craft-lemonade": {
@@ -3035,12 +3035,12 @@
    "carbs_g": 23.0,
    "fat_g": 0.0,
    "salt_g": 0.0,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "elderflower-cordial": {
@@ -3054,12 +3054,12 @@
    "carbs_g": 12.0,
    "fat_g": 0.0,
    "salt_g": 0.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "ginger-yuzu-kombucha": {
@@ -3073,12 +3073,12 @@
    "carbs_g": 8.6,
    "fat_g": 0.0,
    "salt_g": 0.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "ginger-beer": {
@@ -3092,12 +3092,12 @@
    "carbs_g": 9.0,
    "fat_g": 0.0,
    "salt_g": 0.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "irn-bru": {
@@ -3111,12 +3111,12 @@
    "carbs_g": 15.0,
    "fat_g": 0.0,
    "salt_g": 0.03,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "large-coke": {
@@ -3130,12 +3130,12 @@
    "carbs_g": 73.0,
    "fat_g": 0.0,
    "salt_g": 0.0,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "large-san-pellegrino-aranciata-rossa": {
@@ -3154,7 +3154,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "large-san-pellegrino-limonata": {
@@ -3173,7 +3173,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "lime-lemonade": {
@@ -3187,12 +3187,12 @@
    "carbs_g": 9.6,
    "fat_g": 0.0,
    "salt_g": 0.0,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "lime-soda": {
@@ -3206,12 +3206,12 @@
    "carbs_g": 1.2,
    "fat_g": 0.0,
    "salt_g": 0.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "lime-cordial": {
@@ -3225,12 +3225,12 @@
    "carbs_g": 0.6,
    "fat_g": 0.0,
    "salt_g": 0.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "orange-juice": {
@@ -3244,12 +3244,12 @@
    "carbs_g": 32.0,
    "fat_g": 0.0,
    "salt_g": 0.13,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:07Z",
    "quality_flags": null
   },
   "orange-juice-lemonade": {
@@ -3263,12 +3263,12 @@
    "carbs_g": 23.0,
    "fat_g": 0.0,
    "salt_g": 0.06,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "orange-juice-soda": {
@@ -3282,12 +3282,12 @@
    "carbs_g": 14.0,
    "fat_g": 0.0,
    "salt_g": 0.06,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "pineapple-juice": {
@@ -3301,12 +3301,12 @@
    "carbs_g": 36.0,
    "fat_g": 1.7,
    "salt_g": 0.07,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "raspberry-and-pomegranate-prebiotic-soda": {
@@ -3325,7 +3325,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "raspberry-craft-lemonade": {
@@ -3339,12 +3339,12 @@
    "carbs_g": 29.0,
    "fat_g": 0.0,
    "salt_g": 0.0,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "san-pellegrino-aranciata-rosso": {
@@ -3363,7 +3363,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "san-pellegrino-limonata": {
@@ -3377,12 +3377,12 @@
    "carbs_g": 16.0,
    "fat_g": 0.0,
    "salt_g": 0.0,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "schweppes-lemonade": {
@@ -3396,12 +3396,12 @@
    "carbs_g": 8.4,
    "fat_g": 0.0,
    "salt_g": 0.0,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "sprite-zero-lime": {
@@ -3415,12 +3415,12 @@
    "carbs_g": 0.6,
    "fat_g": 0.0,
    "salt_g": 0.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "tonic-water": {
@@ -3434,12 +3434,12 @@
    "carbs_g": 9.8,
    "fat_g": 0.0,
    "salt_g": 0.0,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "americano-large": {
@@ -3453,12 +3453,12 @@
    "carbs_g": 2.6,
    "fat_g": 0.8,
    "salt_g": 0.06,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "americano-regular": {
@@ -3472,12 +3472,12 @@
    "carbs_g": 2.6,
    "fat_g": 0.8,
    "salt_g": 0.06,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "americano-with-oat-regular": {
@@ -3491,12 +3491,12 @@
    "carbs_g": 3.9,
    "fat_g": 1.2,
    "salt_g": 0.06,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "americano-with-oat-milk-large": {
@@ -3515,7 +3515,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "cappuccino-large": {
@@ -3529,12 +3529,12 @@
    "carbs_g": 11.0,
    "fat_g": 3.5,
    "salt_g": 0.25,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "cappuccino-regular": {
@@ -3548,12 +3548,12 @@
    "carbs_g": 7.3,
    "fat_g": 2.2,
    "salt_g": 0.16,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "cappuccino-with-oat-milk-large": {
@@ -3572,7 +3572,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "cappuccino-with-oat-milk-regular": {
@@ -3591,7 +3591,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "decaf-americano-large": {
@@ -3605,12 +3605,12 @@
    "carbs_g": 2.6,
    "fat_g": 0.8,
    "salt_g": 0.06,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "decaf-americano-regular": {
@@ -3624,12 +3624,12 @@
    "carbs_g": 2.6,
    "fat_g": 0.8,
    "salt_g": 0.06,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "decaf-americano-with-oat-regular": {
@@ -3648,7 +3648,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "decaf-americano-with-oat-milk-large": {
@@ -3667,7 +3667,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "decaf-cappuccino-large": {
@@ -3681,12 +3681,12 @@
    "carbs_g": 11.0,
    "fat_g": 3.5,
    "salt_g": 0.25,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "decaf-cappuccino-regular": {
@@ -3700,12 +3700,12 @@
    "carbs_g": 7.3,
    "fat_g": 2.2,
    "salt_g": 0.16,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "decaf-cappuccino-with-oat-milk-large": {
@@ -3724,7 +3724,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "decaf-cappuccino-with-oat-milk-regular": {
@@ -3743,7 +3743,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "decaf-double-macchiato-with-oat-milk": {
@@ -3762,7 +3762,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "decaf-flat-white": {
@@ -3776,12 +3776,12 @@
    "carbs_g": 6.0,
    "fat_g": 1.9,
    "salt_g": 0.14,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "decaf-flat-white-with-oat-milk-regular": {
@@ -3800,7 +3800,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "decaf-latte-large": {
@@ -3814,12 +3814,12 @@
    "carbs_g": 10.0,
    "fat_g": 3.4,
    "salt_g": 0.25,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "decaf-latte-regular": {
@@ -3833,12 +3833,12 @@
    "carbs_g": 6.6,
    "fat_g": 2.2,
    "salt_g": 0.16,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "decaf-latte-with-oat-milk-large": {
@@ -3857,7 +3857,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "decaf-latte-with-oat-milk-regular": {
@@ -3876,7 +3876,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "decaf-macchiato-large": {
@@ -3890,12 +3890,12 @@
    "carbs_g": 0.0,
    "fat_g": 0.0,
    "salt_g": 0.0,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "decaf-macchiato-regular": {
@@ -3909,12 +3909,12 @@
    "carbs_g": 0.0,
    "fat_g": 0.0,
    "salt_g": 0.0,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "decaf-mocha-large": {
@@ -3928,12 +3928,12 @@
    "carbs_g": 12.0,
    "fat_g": 3.1,
    "salt_g": 0.21,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "decaf-mocha-regular": {
@@ -3947,12 +3947,12 @@
    "carbs_g": 11.0,
    "fat_g": 2.7,
    "salt_g": 0.18,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "decaf-mocha-with-oat-large": {
@@ -3971,7 +3971,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "decaf-mocha-with-oat-milk-regular": {
@@ -3990,7 +3990,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "decaf-single-macchiato-with-oat-milk": {
@@ -4009,7 +4009,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "double-macchiato-with-oat-milk": {
@@ -4028,7 +4028,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "earl-grey-tea-with-milk": {
@@ -4042,12 +4042,12 @@
    "carbs_g": 2.6,
    "fat_g": 0.8,
    "salt_g": 0.06,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "earl-grey-with-oat-milk": {
@@ -4061,12 +4061,12 @@
    "carbs_g": 3.8,
    "fat_g": 1.2,
    "salt_g": 0.06,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "flat-white": {
@@ -4080,12 +4080,12 @@
    "carbs_g": 6.0,
    "fat_g": 1.9,
    "salt_g": 0.14,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "flat-white-with-oat-milk-regular": {
@@ -4104,7 +4104,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "fresh-mint-tea": {
@@ -4118,12 +4118,12 @@
    "carbs_g": 0.0,
    "fat_g": 0.0,
    "salt_g": 0.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "hot-chocolate": {
@@ -4137,12 +4137,12 @@
    "carbs_g": 29.0,
    "fat_g": 5.8,
    "salt_g": 0.34,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "latte-large": {
@@ -4156,12 +4156,12 @@
    "carbs_g": 10.0,
    "fat_g": 3.4,
    "salt_g": 0.25,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "latte-regular": {
@@ -4175,12 +4175,12 @@
    "carbs_g": 6.6,
    "fat_g": 2.2,
    "salt_g": 0.16,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "latte-with-oat-milk-large": {
@@ -4194,12 +4194,12 @@
    "carbs_g": 15.0,
    "fat_g": 5.0,
    "salt_g": 0.23,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "latte-with-oat-milk-regular": {
@@ -4213,12 +4213,12 @@
    "carbs_g": 9.8,
    "fat_g": 3.2,
    "salt_g": 0.14,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "macchiato-large": {
@@ -4232,12 +4232,12 @@
    "carbs_g": 0.0,
    "fat_g": 0.0,
    "salt_g": 0.0,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "macchiato-regular": {
@@ -4251,12 +4251,12 @@
    "carbs_g": 0.0,
    "fat_g": 0.0,
    "salt_g": 0.0,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "mocha-large": {
@@ -4270,12 +4270,12 @@
    "carbs_g": 12.0,
    "fat_g": 3.1,
    "salt_g": 0.21,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "mocha-regular": {
@@ -4289,12 +4289,12 @@
    "carbs_g": 11.0,
    "fat_g": 2.7,
    "salt_g": 0.18,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "mocha-with-oat-large": {
@@ -4308,12 +4308,12 @@
    "carbs_g": 16.0,
    "fat_g": 4.3,
    "salt_g": 0.19,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "mocha-with-oat-milk-regular": {
@@ -4332,7 +4332,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "oat-milk": {
@@ -4346,12 +4346,12 @@
    "carbs_g": 15.0,
    "fat_g": 5.0,
    "salt_g": 0.23,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "oat-milk-hot-chocolate": {
@@ -4365,12 +4365,12 @@
    "carbs_g": 34.0,
    "fat_g": 7.3,
    "salt_g": 0.32,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "single-macchiato-with-oat-milk": {
@@ -4389,7 +4389,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "sugar-stick": {
@@ -4403,12 +4403,12 @@
    "carbs_g": 3.0,
    "fat_g": 0.0,
    "salt_g": 0.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "sweetener": {
@@ -4422,12 +4422,12 @@
    "carbs_g": 0.9,
    "fat_g": 0.0,
    "salt_g": 0.0,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "traditional-english-with-oat-milk": {
@@ -4446,7 +4446,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "traditional-tea-with-milk": {
@@ -4460,12 +4460,12 @@
    "carbs_g": 2.6,
    "fat_g": 0.8,
    "salt_g": 0.06,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "peroni-libera-0": {
@@ -4479,12 +4479,12 @@
    "carbs_g": 17.0,
    "fat_g": 0.0,
    "salt_g": 0.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "cherry-blossom-spritz": {
@@ -4498,12 +4498,12 @@
    "carbs_g": 15.0,
    "fat_g": 0.0,
    "salt_g": 0.15,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "crodino": {
@@ -4517,12 +4517,12 @@
    "carbs_g": 8.9,
    "fat_g": 0.0,
    "salt_g": 0.02,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "lime-no-jito": {
@@ -4536,12 +4536,12 @@
    "carbs_g": 14.0,
    "fat_g": 0.0,
    "salt_g": 0.0,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "passion-fruit-highball": {
@@ -4555,12 +4555,12 @@
    "carbs_g": 52.0,
    "fat_g": 0.0,
    "salt_g": 0.25,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "peach-bubble-tea": {
@@ -4574,12 +4574,12 @@
    "carbs_g": 23.0,
    "fat_g": 0.0,
    "salt_g": 0.14,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "pineapple-martini": {
@@ -4593,12 +4593,12 @@
    "carbs_g": 28.0,
    "fat_g": 0.0,
    "salt_g": 0.21,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "strawberry-sling": {
@@ -4612,12 +4612,12 @@
    "carbs_g": 18.0,
    "fat_g": 0.0,
    "salt_g": 0.03,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "cheesy-pesto-pinwheels": {
@@ -4631,12 +4631,12 @@
    "carbs_g": 28.0,
    "fat_g": 8.0,
    "salt_g": 1.1,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "crinkly-veggie-dippers": {
@@ -4650,12 +4650,12 @@
    "carbs_g": 6.0,
    "fat_g": 0.0,
    "salt_g": 0.21,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "toasty-garlic-bread": {
@@ -4669,12 +4669,12 @@
    "carbs_g": 26.0,
    "fat_g": 11.0,
    "salt_g": 0.72,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "toasty-garlic-bread-with-mozzarella": {
@@ -4693,7 +4693,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "creamy-cheesy-carbonara": {
@@ -4712,7 +4712,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "crispy-chicken-burger": {
@@ -4731,7 +4731,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "spaghetti-brilliant-bolognese": {
@@ -4750,7 +4750,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "spaghetti-mighty-meatballs": {
@@ -4769,7 +4769,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "chicken-goujons-with-potatoes": {
@@ -4788,7 +4788,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "chicken-goujons-with-chips": {
@@ -4807,7 +4807,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "dip-and-dunk-curly-pasta": {
@@ -4821,12 +4821,12 @@
    "carbs_g": 58.0,
    "fat_g": 12.0,
    "salt_g": 1.0,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "curly-pasta": {
@@ -4840,12 +4840,12 @@
    "carbs_g": 53.0,
    "fat_g": 1.0,
    "salt_g": 0.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "tasty-tomato-sauce": {
@@ -4859,12 +4859,12 @@
    "carbs_g": 5.0,
    "fat_g": 6.4,
    "salt_g": 0.91,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "pesto-sauce": {
@@ -4878,12 +4878,12 @@
    "carbs_g": 13.0,
    "fat_g": 27.0,
    "salt_g": 1.5,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "creamy-cheese-sauce": {
@@ -4897,12 +4897,12 @@
    "carbs_g": 3.7,
    "fat_g": 9.2,
    "salt_g": 1.1,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "presto-pesto-chicken-pasta": {
@@ -4921,7 +4921,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "happy-face-pizza": {
@@ -4935,12 +4935,12 @@
    "carbs_g": 52.0,
    "fat_g": 8.9,
    "salt_g": 1.7,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "mushrooms": {
@@ -4954,12 +4954,12 @@
    "carbs_g": 0.0,
    "fat_g": 0.0,
    "salt_g": 0.02,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "chicken-breast": {
@@ -4978,7 +4978,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "ham": {
@@ -4997,7 +4997,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "crinkle-chips": {
@@ -5011,12 +5011,12 @@
    "carbs_g": 33.0,
    "fat_g": 17.0,
    "salt_g": 0.2,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "crinkly-veggies-side": {
@@ -5030,12 +5030,12 @@
    "carbs_g": 5.1,
    "fat_g": 0.0,
    "salt_g": 0.04,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "kids-roast-potatoes": {
@@ -5049,12 +5049,12 @@
    "carbs_g": 15.0,
    "fat_g": 7.0,
    "salt_g": 0.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "peas": {
@@ -5068,12 +5068,12 @@
    "carbs_g": 2.8,
    "fat_g": 0.0,
    "salt_g": 0.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "tomatoes": {
@@ -5087,12 +5087,12 @@
    "carbs_g": 0.7,
    "fat_g": 0.0,
    "salt_g": 0.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "kids-brownie": {
@@ -5106,12 +5106,12 @@
    "carbs_g": 25.0,
    "fat_g": 12.0,
    "salt_g": 0.04,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "build-your-own-sundae-chocolate-ice-cream": {
@@ -5130,7 +5130,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "build-your-own-sundae-vanilla-ice-cream": {
@@ -5149,7 +5149,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "build-your-own-sundae-berry-sorbet": {
@@ -5168,7 +5168,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "toffee-sauce": {
@@ -5182,12 +5182,12 @@
    "carbs_g": 1.5,
    "fat_g": 1.2,
    "salt_g": 0.02,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "build-your-own-sundae-salted-caramel-gelato": {
@@ -5206,7 +5206,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "mixed-berry-sauce": {
@@ -5220,12 +5220,12 @@
    "carbs_g": 1.7,
    "fat_g": 0.0,
    "salt_g": 0.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "chocolate-sauce": {
@@ -5239,12 +5239,12 @@
    "carbs_g": 2.6,
    "fat_g": 0.0,
    "salt_g": 0.0,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "mini-marshmallows": {
@@ -5263,7 +5263,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "mini-meringues": {
@@ -5277,12 +5277,12 @@
    "carbs_g": 3.8,
    "fat_g": 0.0,
    "salt_g": 0.0,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "white-chocolate-curls": {
@@ -5296,12 +5296,12 @@
    "carbs_g": 3.1,
    "fat_g": 1.6,
    "salt_g": 0.0,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "grapes": {
@@ -5315,12 +5315,12 @@
    "carbs_g": 1.0,
    "fat_g": 0.0,
    "salt_g": 0.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "fudge": {
@@ -5334,12 +5334,12 @@
    "carbs_g": 12.0,
    "fat_g": 2.0,
    "salt_g": 0.04,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "popcorn": {
@@ -5353,12 +5353,12 @@
    "carbs_g": 5.6,
    "fat_g": 0.7,
    "salt_g": 0.09,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "biscoff-crumb": {
@@ -5372,12 +5372,12 @@
    "carbs_g": 7.3,
    "fat_g": 1.9,
    "salt_g": 0.09,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "chilly-billy-pure-fruit-orange-and-apple": {
@@ -5396,7 +5396,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "chilly-billy-pure-fruit-apple-and-raspberry": {
@@ -5415,7 +5415,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "frutti": {
@@ -5429,12 +5429,12 @@
    "carbs_g": 20.0,
    "fat_g": 0.0,
    "salt_g": 0.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "gelato-doughnut-sandwich": {
@@ -5448,12 +5448,12 @@
    "carbs_g": 27.0,
    "fat_g": 11.0,
    "salt_g": 0.27,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "apple-juice-regular": {
@@ -5467,12 +5467,12 @@
    "carbs_g": 33.0,
    "fat_g": 0.0,
    "salt_g": 0.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "apple-juice-small": {
@@ -5486,12 +5486,12 @@
    "carbs_g": 20.0,
    "fat_g": 0.0,
    "salt_g": 0.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "babyccino": {
@@ -5505,12 +5505,12 @@
    "carbs_g": 3.4,
    "fat_g": 1.0,
    "salt_g": 0.07,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "blackcurrant-and-apple-fruity-water": {
@@ -5529,7 +5529,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "craft-lemonade-raspberry": {
@@ -5543,12 +5543,12 @@
    "carbs_g": 29.0,
    "fat_g": 0.0,
    "salt_g": 0.0,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "milk": {
@@ -5562,12 +5562,12 @@
    "carbs_g": 9.2,
    "fat_g": 3.0,
    "salt_g": 0.22,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "oat-milk-babyccino": {
@@ -5581,12 +5581,12 @@
    "carbs_g": 4.7,
    "fat_g": 1.4,
    "salt_g": 0.06,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "orange-juice-regular": {
@@ -5600,12 +5600,12 @@
    "carbs_g": 32.0,
    "fat_g": 0.0,
    "salt_g": 0.13,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "orange-juice-small": {
@@ -5619,12 +5619,12 @@
    "carbs_g": 19.0,
    "fat_g": 0.0,
    "salt_g": 0.08,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "pineapple-juice-large": {
@@ -5638,12 +5638,12 @@
    "carbs_g": 36.0,
    "fat_g": 1.7,
    "salt_g": 0.07,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "pineapple-juice-small": {
@@ -5657,12 +5657,12 @@
    "carbs_g": 22.0,
    "fat_g": 1.0,
    "salt_g": 0.04,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "mini-main-pasta-with-butter": {
@@ -5681,7 +5681,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "mini-main-pasta-with-tomato-sauce": {
@@ -5700,7 +5700,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "mini-main-pizza-pinwheels": {
@@ -5714,12 +5714,12 @@
    "carbs_g": 26.0,
    "fat_g": 4.9,
    "salt_g": 0.96,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "mini-starter-crinkly-veggie-dippers": {
@@ -5738,7 +5738,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "vegan-kids-make-your-own-pasta-curly-pasta": {
@@ -5757,7 +5757,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "vegan-tiny-tums-pasta": {
@@ -5771,12 +5771,12 @@
    "carbs_g": 57.0,
    "fat_g": 5.0,
    "salt_g": 0.6,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "vegan-thisisn-t-chicken-goujons": {
@@ -5795,7 +5795,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "vegan-kids-make-your-own-spaghetti": {
@@ -5814,7 +5814,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "vegan-kids-happy-face-pizza": {
@@ -5833,7 +5833,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "non-gluten-mushroom-al-forno": {
@@ -5852,7 +5852,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "non-gluten-bolognese": {
@@ -5871,7 +5871,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "non-gluten-burrata-pancetta-carbonara": {
@@ -5890,7 +5890,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:55Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "non-gluten-carbonara": {
@@ -5909,7 +5909,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:56Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "non-gluten-frutti-di-mare": {
@@ -5928,7 +5928,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:56Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "non-gluten-funghi-della-casa": {
@@ -5947,7 +5947,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:56Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "non-gluten-funghi-della-casa-with-chicken": {
@@ -5966,7 +5966,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:56Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "non-gluten-lentil-ragu": {
@@ -5980,12 +5980,12 @@
    "carbs_g": 108.0,
    "fat_g": 22.0,
    "salt_g": 3.0,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:56Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "non-gluten-luganica-nduja": {
@@ -6004,7 +6004,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:56Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "non-gluten-pesto-stracciatella": {
@@ -6023,7 +6023,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:56Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "non-gluten-pomodoro-with-burrata": {
@@ -6042,7 +6042,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:56Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "non-gluten-pomodoro-with-mozzarella": {
@@ -6061,7 +6061,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:56Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "non-gluten-slow-cooked-beef": {
@@ -6080,7 +6080,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:56Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "non-gluten-vegan-pomodoro": {
@@ -6099,7 +6099,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:56Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "non-gluten-fiery-trio-di-carne": {
@@ -6118,7 +6118,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:56Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "non-gluten-margherita": {
@@ -6132,12 +6132,12 @@
    "carbs_g": 157.0,
    "fat_g": 46.0,
    "salt_g": 3.5,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:56Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "non-gluten-pollo-coppa-e-funghi": {
@@ -6156,7 +6156,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:56Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "non-gluten-pollo-e-roquito": {
@@ -6175,7 +6175,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:56Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "non-gluten-pomodoro-pesto": {
@@ -6194,7 +6194,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:56Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "non-gluten-primavera": {
@@ -6208,12 +6208,12 @@
    "carbs_g": 169.0,
    "fat_g": 55.0,
    "salt_g": 4.9,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:56Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "non-gluten-salami-misti": {
@@ -6232,7 +6232,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:56Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "non-gluten-stromboli": {
@@ -6251,7 +6251,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:56Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "non-gluten-truffle-funghi": {
@@ -6265,12 +6265,12 @@
    "carbs_g": 159.0,
    "fat_g": 49.0,
    "salt_g": 4.6,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:56Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "non-gluten-base": {
@@ -6284,12 +6284,12 @@
    "carbs_g": 135.0,
    "fat_g": 13.0,
    "salt_g": 3.6,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:56Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "non-gluten-vegan-margherita": {
@@ -6308,7 +6308,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:56Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "non-gluten-vegan-primavera": {
@@ -6327,7 +6327,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:56Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "non-gluten-mini-dolce": {
@@ -6341,12 +6341,12 @@
    "carbs_g": 51.0,
    "fat_g": 33.0,
    "salt_g": 0.35,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:56Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "non-gluten-creamy-cheesy-carbonara": {
@@ -6365,7 +6365,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:56Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "non-gluten-pasta-brilliant-bolognese": {
@@ -6384,7 +6384,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:56Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "non-gluten-presto-pesto-chicken-pasta": {
@@ -6403,7 +6403,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:56Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "non-gluten-kids-ng-fusilli": {
@@ -6417,12 +6417,12 @@
    "carbs_g": 83.0,
    "fat_g": 2.6,
    "salt_g": 0.5,
-   "vegetarian": null,
-   "vegan": null,
+   "vegetarian": true,
+   "vegan": true,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:56Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "non-gluten-dip-dunk-pasta": {
@@ -6441,7 +6441,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:56Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "non-gluten-kids-pizza-face": {
@@ -6455,12 +6455,12 @@
    "carbs_g": 155.0,
    "fat_g": 26.0,
    "salt_g": 2.6,
-   "vegetarian": null,
+   "vegetarian": true,
    "vegan": null,
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:56Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   },
   "non-gluten-vegan-happy-face-pizza": {
@@ -6479,7 +6479,7 @@
    "allergens": null,
    "source": "ASK Italian Allergen and Nutritional Information Spring/Summer 2026 V2",
    "source_url": "https://cdn.sanity.io/files/ysupxjc9/production/b6039d513237130ab53a1ddc01afb713d1aa7dde.pdf",
-   "fetched_at": "2026-08-06T15:00:56Z",
+   "fetched_at": "2026-08-08T06:54:08Z",
    "quality_flags": null
   }
  }
