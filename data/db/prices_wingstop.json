@@ -1,0 +1,378 @@
+{
+ "chain_id": "wingstop",
+ "fetched_at": "2026-08-08T14:22:20Z",
+ "store": "Wingstop - Wandsworth (SW18 4FT)",
+ "stores": [
+  "Wingstop - Wandsworth (SW18 4FT)"
+ ],
+ "basis": "collection",
+ "item_count": 61,
+ "prices": {
+  "12 wings": {
+   "price_gbp": 11.5,
+   "basis": "collection",
+   "store": "Wingstop - Wandsworth (SW18 4FT)",
+   "name": "12 Wings"
+  },
+  "wings (12 pieces) 555g": {
+   "price_gbp": 11.5,
+   "basis": "collection",
+   "store": "Wingstop - Wandsworth (SW18 4FT)",
+   "name": "Wings (12 Pieces) 555g"
+  },
+  "8 wings": {
+   "price_gbp": 8.5,
+   "basis": "collection",
+   "store": "Wingstop - Wandsworth (SW18 4FT)",
+   "name": "8 Wings"
+  },
+  "wings (8 pieces) 370g": {
+   "price_gbp": 8.5,
+   "basis": "collection",
+   "store": "Wingstop - Wandsworth (SW18 4FT)",
+   "name": "Wings (8 Pieces) 370g"
+  },
+  "10 wings": {
+   "price_gbp": 9.95,
+   "basis": "collection",
+   "store": "Wingstop - Wandsworth (SW18 4FT)",
+   "name": "10 Wings"
+  },
+  "wings (10 pieces) 462g": {
+   "price_gbp": 9.95,
+   "basis": "collection",
+   "store": "Wingstop - Wandsworth (SW18 4FT)",
+   "name": "Wings (10 Pieces) 462g"
+  },
+  "8 pieces boneless": {
+   "price_gbp": 8.5,
+   "basis": "collection",
+   "store": "Wingstop - Wandsworth (SW18 4FT)",
+   "name": "8 Pieces Boneless"
+  },
+  "boneless (8 pieces) 176g": {
+   "price_gbp": 8.5,
+   "basis": "collection",
+   "store": "Wingstop - Wandsworth (SW18 4FT)",
+   "name": "Boneless (8 Pieces) 176g"
+  },
+  "10 pieces boneless": {
+   "price_gbp": 9.95,
+   "basis": "collection",
+   "store": "Wingstop - Wandsworth (SW18 4FT)",
+   "name": "10 Pieces Boneless"
+  },
+  "boneless (10 pieces) 220g": {
+   "price_gbp": 9.95,
+   "basis": "collection",
+   "store": "Wingstop - Wandsworth (SW18 4FT)",
+   "name": "Boneless (10 Pieces) 220g"
+  },
+  "12 pieces boneless": {
+   "price_gbp": 11.5,
+   "basis": "collection",
+   "store": "Wingstop - Wandsworth (SW18 4FT)",
+   "name": "12 Pieces Boneless"
+  },
+  "boneless (12 pieces) 264g": {
+   "price_gbp": 11.5,
+   "basis": "collection",
+   "store": "Wingstop - Wandsworth (SW18 4FT)",
+   "name": "Boneless (12 Pieces) 264g"
+  },
+  "3 tenders": {
+   "price_gbp": 5.95,
+   "basis": "collection",
+   "store": "Wingstop - Wandsworth (SW18 4FT)",
+   "name": "3 Tenders"
+  },
+  "tenders (3 pieces) 135g": {
+   "price_gbp": 5.95,
+   "basis": "collection",
+   "store": "Wingstop - Wandsworth (SW18 4FT)",
+   "name": "Tenders (3 Pieces) 135g"
+  },
+  "5 tenders": {
+   "price_gbp": 8.25,
+   "basis": "collection",
+   "store": "Wingstop - Wandsworth (SW18 4FT)",
+   "name": "5 Tenders"
+  },
+  "tenders (5 pieces) 225g": {
+   "price_gbp": 8.25,
+   "basis": "collection",
+   "store": "Wingstop - Wandsworth (SW18 4FT)",
+   "name": "Tenders (5 Pieces) 225g"
+  },
+  "sweet potato fries (regular)": {
+   "price_gbp": 3.5,
+   "basis": "collection",
+   "store": "Wingstop - Wandsworth (SW18 4FT)",
+   "name": "Sweet Potato Fries (Regular)"
+  },
+  "sweet potato fries (large)": {
+   "price_gbp": 4.5,
+   "basis": "collection",
+   "store": "Wingstop - Wandsworth (SW18 4FT)",
+   "name": "Sweet Potato Fries (Large)"
+  },
+  "honey mustard slaw": {
+   "price_gbp": 2.95,
+   "basis": "collection",
+   "store": "Wingstop - Wandsworth (SW18 4FT)",
+   "name": "Honey Mustard Slaw"
+  },
+  "fries (regular)": {
+   "price_gbp": 3.25,
+   "basis": "collection",
+   "store": "Wingstop - Wandsworth (SW18 4FT)",
+   "name": "Fries (Regular)"
+  },
+  "fries (large)": {
+   "price_gbp": 3.95,
+   "basis": "collection",
+   "store": "Wingstop - Wandsworth (SW18 4FT)",
+   "name": "Fries (Large)"
+  },
+  "4 pieces of corn": {
+   "price_gbp": 3.25,
+   "basis": "collection",
+   "store": "Wingstop - Wandsworth (SW18 4FT)",
+   "name": "4 Pieces of Corn"
+  },
+  "8 pieces of corn": {
+   "price_gbp": 5.75,
+   "basis": "collection",
+   "store": "Wingstop - Wandsworth (SW18 4FT)",
+   "name": "8 Pieces of Corn"
+  },
+  "buffalo ranch fries": {
+   "price_gbp": 4.95,
+   "basis": "collection",
+   "store": "Wingstop - Wandsworth (SW18 4FT)",
+   "name": "Buffalo Ranch Fries"
+  },
+  "cheese fries": {
+   "price_gbp": 4.95,
+   "basis": "collection",
+   "store": "Wingstop - Wandsworth (SW18 4FT)",
+   "name": "Cheese Fries"
+  },
+  "voodoo fries": {
+   "price_gbp": 4.95,
+   "basis": "collection",
+   "store": "Wingstop - Wandsworth (SW18 4FT)",
+   "name": "Voodoo Fries"
+  },
+  "water": {
+   "price_gbp": 2.75,
+   "basis": "collection",
+   "store": "Wingstop - Wandsworth (SW18 4FT)",
+   "name": "Water"
+  },
+  "coke zero": {
+   "price_gbp": 2.75,
+   "basis": "collection",
+   "store": "Wingstop - Wandsworth (SW18 4FT)",
+   "name": "Coke Zero"
+  },
+  "diet coke": {
+   "price_gbp": 2.75,
+   "basis": "collection",
+   "store": "Wingstop - Wandsworth (SW18 4FT)",
+   "name": "Diet Coke"
+  },
+  "sprite": {
+   "price_gbp": 2.75,
+   "basis": "collection",
+   "store": "Wingstop - Wandsworth (SW18 4FT)",
+   "name": "Sprite"
+  },
+  "fanta orange": {
+   "price_gbp": 2.75,
+   "basis": "collection",
+   "store": "Wingstop - Wandsworth (SW18 4FT)",
+   "name": "Fanta Orange"
+  },
+  "regular coke": {
+   "price_gbp": 2.75,
+   "basis": "collection",
+   "store": "Wingstop - Wandsworth (SW18 4FT)",
+   "name": "Regular Coke"
+  },
+  "irn-bru": {
+   "price_gbp": 2.75,
+   "basis": "collection",
+   "store": "Wingstop - Wandsworth (SW18 4FT)",
+   "name": "Irn-Bru"
+  },
+  "dr pepper": {
+   "price_gbp": 2.75,
+   "basis": "collection",
+   "store": "Wingstop - Wandsworth (SW18 4FT)",
+   "name": "Dr Pepper"
+  },
+  "churros (6x churros)": {
+   "price_gbp": 5.5,
+   "basis": "collection",
+   "store": "Wingstop - Wandsworth (SW18 4FT)",
+   "name": "Churros (6x Churros)"
+  },
+  "churros (10x churros)": {
+   "price_gbp": 6.75,
+   "basis": "collection",
+   "store": "Wingstop - Wandsworth (SW18 4FT)",
+   "name": "Churros (10x Churros)"
+  },
+  "\"the flavour fix\" boneless (for 1)": {
+   "price_gbp": 14.5,
+   "basis": "collection",
+   "store": "Wingstop - Wandsworth (SW18 4FT)",
+   "name": "\"The Flavour Fix\" Boneless (For 1)"
+  },
+  "\"the flavour fix\" wings (for 1)": {
+   "price_gbp": 14.5,
+   "basis": "collection",
+   "store": "Wingstop - Wandsworth (SW18 4FT)",
+   "name": "\"The Flavour Fix\" Wings (For 1)"
+  },
+  "\"the flavour craver\" (for 2)": {
+   "price_gbp": 27.5,
+   "basis": "collection",
+   "store": "Wingstop - Wandsworth (SW18 4FT)",
+   "name": "\"The Flavour Craver\" (For 2)"
+  },
+  "\"the crowd pleaser\" (for 5 or more)": {
+   "price_gbp": 100.0,
+   "basis": "collection",
+   "store": "Wingstop - Wandsworth (SW18 4FT)",
+   "name": "\"The Crowd Pleaser\" (For 5 or more)"
+  },
+  "lunch fix": {
+   "price_gbp": 8.95,
+   "basis": "collection",
+   "store": "Wingstop - Wandsworth (SW18 4FT)",
+   "name": "Lunch Fix"
+  },
+  "meal deal for 3": {
+   "price_gbp": 33.5,
+   "basis": "collection",
+   "store": "Wingstop - Wandsworth (SW18 4FT)",
+   "name": "Meal Deal for 3"
+  },
+  "meal deal for 4": {
+   "price_gbp": 37.5,
+   "basis": "collection",
+   "store": "Wingstop - Wandsworth (SW18 4FT)",
+   "name": "Meal Deal for 4"
+  },
+  "big flavour burger": {
+   "price_gbp": 6.75,
+   "basis": "collection",
+   "store": "Wingstop - Wandsworth (SW18 4FT)",
+   "name": "Big Flavour Burger"
+  },
+  "big flavour burger (240g)": {
+   "price_gbp": 6.75,
+   "basis": "collection",
+   "store": "Wingstop - Wandsworth (SW18 4FT)",
+   "name": "Big Flavour Burger (240g)"
+  },
+  "salted caramel": {
+   "price_gbp": 5.0,
+   "basis": "collection",
+   "store": "Wingstop - Wandsworth (SW18 4FT)",
+   "name": "Salted Caramel"
+  },
+  "oreo": {
+   "price_gbp": 5.25,
+   "basis": "collection",
+   "store": "Wingstop - Wandsworth (SW18 4FT)",
+   "name": "Oreo"
+  },
+  "biscoff": {
+   "price_gbp": 5.25,
+   "basis": "collection",
+   "store": "Wingstop - Wandsworth (SW18 4FT)",
+   "name": "Biscoff"
+  },
+  "vanilla": {
+   "price_gbp": 5.0,
+   "basis": "collection",
+   "store": "Wingstop - Wandsworth (SW18 4FT)",
+   "name": "Vanilla"
+  },
+  "chocolate": {
+   "price_gbp": 5.0,
+   "basis": "collection",
+   "store": "Wingstop - Wandsworth (SW18 4FT)",
+   "name": "Chocolate"
+  },
+  "strawberry": {
+   "price_gbp": 5.0,
+   "basis": "collection",
+   "store": "Wingstop - Wandsworth (SW18 4FT)",
+   "name": "Strawberry"
+  },
+  "mango": {
+   "price_gbp": 5.0,
+   "basis": "collection",
+   "store": "Wingstop - Wandsworth (SW18 4FT)",
+   "name": "Mango"
+  },
+  "ranch": {
+   "price_gbp": 1.5,
+   "basis": "collection",
+   "store": "Wingstop - Wandsworth (SW18 4FT)",
+   "name": "Ranch"
+  },
+  "ranch dip (42g)": {
+   "price_gbp": 1.5,
+   "basis": "collection",
+   "store": "Wingstop - Wandsworth (SW18 4FT)",
+   "name": "Ranch Dip (42g)"
+  },
+  "honey mustard": {
+   "price_gbp": 1.5,
+   "basis": "collection",
+   "store": "Wingstop - Wandsworth (SW18 4FT)",
+   "name": "Honey Mustard"
+  },
+  "blue cheese": {
+   "price_gbp": 1.5,
+   "basis": "collection",
+   "store": "Wingstop - Wandsworth (SW18 4FT)",
+   "name": "Blue Cheese"
+  },
+  "dips (42g)": {
+   "price_gbp": 1.5,
+   "basis": "collection",
+   "store": "Wingstop - Wandsworth (SW18 4FT)",
+   "name": "Dips (42g)"
+  },
+  "big ranch dip": {
+   "price_gbp": 4.95,
+   "basis": "collection",
+   "store": "Wingstop - Wandsworth (SW18 4FT)",
+   "name": "Big Ranch Dip"
+  },
+  "cajun ranch": {
+   "price_gbp": 1.75,
+   "basis": "collection",
+   "store": "Wingstop - Wandsworth (SW18 4FT)",
+   "name": "Cajun Ranch"
+  },
+  "bbq ranch": {
+   "price_gbp": 1.75,
+   "basis": "collection",
+   "store": "Wingstop - Wandsworth (SW18 4FT)",
+   "name": "BBQ Ranch"
+  },
+  "ranch trio": {
+   "price_gbp": 4.5,
+   "basis": "collection",
+   "store": "Wingstop - Wandsworth (SW18 4FT)",
+   "name": "Ranch Trio"
+  }
+ }
+}
