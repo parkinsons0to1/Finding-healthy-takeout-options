@@ -379,6 +379,25 @@ def test_price_caches_carry_no_zero_priced_or_channel_misattributed_rows():
             f"zizzi: delivery-exclusive items served as collection: {collection_only_exclusives}"
 
 
+def test_milkshake_mix_ins_are_not_orderable():
+    """Five Guys' PDF files 'Myprotein (12g)' under a category that says, in
+    its own words, 'Amount Of Individual Mix-Ins May Vary Depending Upon
+    Number Of Mix-Ins Included In Shake' — a scoop stirred into someone
+    else's milkshake, not a thing you can buy alone. At 54 kcal for 12g
+    protein it is 89% protein by calories, high enough to sit at the very
+    top of the whole leaderboard if left in — found by auditing the actual
+    output after Five Guys' nutrition was fixed to read per-serving."""
+    assert not _is_orderable({
+        "name": "Myprotein (12g)", "kcal": 54.0, "protein_g": 12.0,
+        "chain_id": "five_guys",
+        "category": "Milkshakes (Including Big Kids Shake) + Mix-Ins - "
+                    "Amount Of Individual Mix-Ins May Vary Depending Upon "
+                    "Number Of Mix-Ins Included In Shake"})
+    assert _is_orderable({"name": "Hamburger", "kcal": 666.0,
+                          "protein_g": 42.0, "chain_id": "five_guys",
+                          "category": "Burgers"})
+
+
 def _run_all() -> int:
     failures = 0
     for name, fn in sorted(globals().items()):

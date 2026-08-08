@@ -110,9 +110,16 @@ _NOT_A_PURCHASE_RE = re.compile(
 #: anchored `^extras?$` missed nearly all of them. A "choose your …" or
 #: numbered step is a builder for one priced meal, not a shelf of things you
 #: can buy; a bare "Chicken breast" from one is 77% protein by calories.
+#:
+#: Five Guys' PDF category spells this out almost too literally: "Milkshakes
+#: + Mix-Ins - Amount Of Individual Mix-Ins May Vary Depending Upon Number Of
+#: Mix-Ins Included In Shake". "Myprotein (12g)" out of that section is a
+#: scoop stirred into someone else's milkshake, not a thing you can buy on its
+#: own, and at 54 kcal for 12g protein it is 89% protein by calories — high
+#: enough to sit at the very top of the whole leaderboard if left in.
 _NON_PRODUCT_CATEGORY_RE = re.compile(
     r"\btoppings?\b|\bextras?\b|\badd[- ]?ons?\b|add a little extra"
-    r"|\bchoose your\b|\bstep\s*\d|\bupgrade\b"
+    r"|\bchoose your\b|\bstep\s*\d|\bupgrade\b|\bmix-?ins?\b"
     r"|optional sauce|dressing|condiment|dips?$", re.I)
 
 
