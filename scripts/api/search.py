@@ -314,6 +314,15 @@ def search(postcode: str | None = None, lat: float | None = None,
                 nutrition_source=item.get("source", ""),
                 nutrition_confidence="high",
                 price_basis=price_basis,
+                # Live prices reuse whichever single branch each chain's
+                # adapter scraped — there is no per-region scraping — so a
+                # search anywhere in the UK can surface a real, current price
+                # that belongs to a different branch than `outlet_name`
+                # above. Carrying the scrape's own branch name lets the UI
+                # say so instead of presenting it silently under the local
+                # outlet's identity.
+                price_store=(quote.store if quote and price_basis
+                            not in ("estimated", "unknown", "offer") else ""),
                 is_offer=bool(item.get("is_offer")),
                 offer_basis=item.get("offer_basis"),
                 offer_components=item.get("offer_components"),

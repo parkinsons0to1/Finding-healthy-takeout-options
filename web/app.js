@@ -40,6 +40,20 @@ function halalPill(status, tier) {
   return '<span class="pill unverified" title="No source could confirm this — ask in store">Halal unverified</span>';
 }
 
+//: Live prices reuse whichever single branch a chain's adapter happened to
+//: scrape — there is no per-region scraping — so the price shown can be
+//: real, current, and for a *different* branch than the one this card is
+//: about. `price_store` carries that branch's name; this decides whether it
+//: is worth telling the user, i.e. whether it's clearly a different place
+//: rather than the same branch spelled slightly differently ("Tortilla" vs
+//: "Tortilla - Wimbledon" should NOT warn — one just has more detail).
+function isDifferentBranch(outletName, priceStore) {
+  if (!priceStore) return false;
+  const a = outletName.trim().toLowerCase();
+  const b = priceStore.trim().toLowerCase();
+  return !a.includes(b) && !b.includes(a);
+}
+
 function itemCard(item, i) {
   const share = Math.round(item.protein_share * 100);
   const hasPrice = item.final_price_gbp != null;
@@ -61,6 +75,10 @@ function itemCard(item, i) {
     <div>
       <h3>${escapeHtml(item.name)}</h3>
       <div class="where">${escapeHtml(item.outlet_name)} · ${item.distance_miles} mi</div>
+      ${isDifferentBranch(item.outlet_name, item.price_store)
+        ? `<div class="where price-branch-note">Price is from ${escapeHtml(item.price_store)} — `
+          + `may differ at your local branch</div>`
+        : ''}
       <div class="macros">
         <span class="pill good">${item.protein_g}g protein</span>
         <span class="pill">${Math.round(item.kcal)} kcal</span>

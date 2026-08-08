@@ -48,6 +48,12 @@ class ScoredItem:
     nutrition_source: str
     nutrition_confidence: str
     price_basis: str
+    #: The branch a live price was actually scraped from — see
+    #: `api.prices.PriceQuote.store`. Empty for estimated/unknown prices,
+    #: which aren't tied to any one branch. Compared against `outlet_name` in
+    #: the UI: when they differ, the price shown is real and current but for
+    #: a different branch than the one the user is looking at.
+    price_store: str = ""
     #: Limited-time bundle fields — empty for ordinary menu items.
     is_offer: bool = False
     offer_basis: str | None = None
@@ -87,6 +93,7 @@ class ScoredItem:
             "nutrition_source": self.nutrition_source,
             "nutrition_confidence": self.nutrition_confidence,
             "price_basis": self.price_basis,
+            "price_store": self.price_store,
             "is_offer": self.is_offer,
             "offer_basis": self.offer_basis,
             "offer_components": self.offer_components,

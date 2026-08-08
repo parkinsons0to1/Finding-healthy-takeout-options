@@ -398,6 +398,34 @@ def test_milkshake_mix_ins_are_not_orderable():
                           "category": "Burgers"})
 
 
+def test_live_price_carries_its_own_branch_name():
+    """Live prices reuse whichever single branch a chain's adapter scraped —
+    there is no per-region scraping — so a search anywhere in the UK can
+    surface a real Sutton price under a Manchester outlet's name with no way
+    to tell the two apart. found by searching Manchester directly and
+    noticing Pret/Tortilla cards showed a local outlet name with a silently
+    South-London price attached. PriceQuote.store carries the scraped
+    branch so the UI can say so instead of presenting it as local."""
+    from scripts.api.prices import price_for
+
+    quote = price_for("pret", "Chicken & Edamame Protein Pot")
+    if quote is None or quote.basis not in ("collection", "delivery"):
+        return   # adapter not run in this checkout
+    assert quote.store, "a live quote must carry which branch it came from"
+    assert quote.store in quote.source
+
+
+def test_estimated_prices_carry_no_branch_name():
+    """An estimate isn't tied to any one branch, so it must not claim one —
+    that would fabricate a precision the number doesn't have."""
+    from scripts.api.scoring import ScoredItem
+
+    item = ScoredItem("Fillet Burger", "kfc", "KFC Anywhere", 0.5, 500, 30,
+                      5.99, 5.99, None, "halal", "brand_per_outlet", False,
+                      False, "", "high", "estimated", price_store="")
+    assert item.price_store == ""
+
+
 def _run_all() -> int:
     failures = 0
     for name, fn in sorted(globals().items()):

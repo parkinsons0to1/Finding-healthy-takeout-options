@@ -71,6 +71,15 @@ class PriceQuote:
     basis: str          # 'collection' | 'delivery' | 'estimated' | 'community'
     as_of: str
     source: str = ""
+    #: The specific branch a live price was scraped from, e.g. "Pret A Manger
+    #: - Sutton" — distinct from `source`'s full sentence so callers can
+    #: compare it against the outlet actually being shown to the user. A
+    #: search anywhere in the UK reuses the one branch each chain's adapter
+    #: happened to scrape (there is no per-region scraping), so a Manchester
+    #: search can surface a real, live, current price that is nonetheless
+    #: not the Manchester branch's own price. `store` is what lets that stay
+    #: honest instead of silently presenting under the local branch's name.
+    store: str = ""
 
 
 #: chain_id -> {item name (lowercased) -> price in GBP}
@@ -287,10 +296,11 @@ def _live_price(chain_id: str, item_name: str) -> PriceQuote | None:
         row = _live_index(chain_id).get(_token_key(item_name))
     if row is None:
         return None
+    store = row.get("store") or "a UK store"
     return PriceQuote(
         float(row["price_gbp"]), row.get("basis", "collection"),
-        ESTIMATE_AS_OF,
-        f"{row.get('basis', 'collection')} price at {row.get('store') or 'a UK store'}")
+        ESTIMATE_AS_OF, f"{row.get('basis', 'collection')} price at {store}",
+        store=store)
 
 
 def price_for(chain_id: str, item_name: str) -> PriceQuote | None:
