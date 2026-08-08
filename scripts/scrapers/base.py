@@ -36,7 +36,8 @@ def session() -> requests.Session:
 _IMPERSONATE_PROFILES = ("safari", "chrome", "edge")
 
 
-def fetch_protected(url: str, timeout: int = 90, referer: str | None = None):
+def fetch_protected(url: str, timeout: int = 90, referer: str | None = None,
+                    headers: dict | None = None):
     """Fetch a URL whose host rejects Python's TLS handshake.
 
     Some chains (Papa John's, GDK) sit behind Cloudflare, which fingerprints
@@ -44,6 +45,11 @@ def fetch_protected(url: str, timeout: int = 90, referer: str | None = None):
     through, and they 403 even on a static nutrition PDF. `curl_cffi`
     reproduces a real browser's handshake, which is enough. This is still
     plain HTTP: no browser, no JS execution, no automation.
+
+    `headers` merges in on top of `referer` (e.g. an `Origin` header some
+    origins gate on) — see `wingstop.py` for a case where the *presence* of
+    `Origin` (with no `Referer` at all) is what a Vita Mojo endpoint needs to
+    stop 500ing on `Referer`-bearing or header-bare requests alike.
 
     Returns the response, or None if every profile failed.
     """
@@ -53,7 +59,12 @@ def fetch_protected(url: str, timeout: int = 90, referer: str | None = None):
         return None
 
     proxy = os.environ.get("HTTPS_PROXY") or os.environ.get("https_proxy")
-    kwargs = {"timeout": timeout, "headers": {"Referer": referer} if referer else None}
+    merged_headers = {}
+    if referer:
+        merged_headers["Referer"] = referer
+    if headers:
+        merged_headers.update(headers)
+    kwargs = {"timeout": timeout, "headers": merged_headers or None}
     if proxy:
         kwargs["proxies"] = {"http": proxy, "https": proxy}
     ca = os.environ.get("REQUESTS_CA_BUNDLE") or "/root/.ccr/ca-bundle.crt"
