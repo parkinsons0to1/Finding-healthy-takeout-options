@@ -1,0 +1,1926 @@
+{
+ "chain_id": "chopstix",
+ "fetched_at": "2026-08-08T06:37:53Z",
+ "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+ "stores": [
+  "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)"
+ ],
+ "basis": "collection",
+ "item_count": 319,
+ "prices": {
+  "extra kung po chicken": {
+   "price_gbp": 4.4,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Extra Kung Po Chicken"
+  },
+  "kung po chicken - small": {
+   "price_gbp": 4.4,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Kung Po Chicken - Small"
+  },
+  "kung po chicken - small new": {
+   "price_gbp": 4.4,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Kung Po Chicken - Small NEW"
+  },
+  "hot wok for 1": {
+   "price_gbp": 14.99,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Hot Wok for 1"
+  },
+  "extra hoisin duck": {
+   "price_gbp": 4.4,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Extra Hoisin Duck"
+  },
+  "hoisin duck - small": {
+   "price_gbp": 4.4,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Hoisin Duck - Small"
+  },
+  "hoisin duck - small new": {
+   "price_gbp": 4.4,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Hoisin Duck - Small NEW"
+  },
+  "the green machine": {
+   "price_gbp": 12.99,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "The Green Machine"
+  },
+  "10 mini chicken balls with dip": {
+   "price_gbp": 3.5,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "10 Mini Chicken Balls with Dip"
+  },
+  "mini chicken balls sharer box with dip": {
+   "price_gbp": 7.95,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Mini Chicken Balls Sharer Box with Dip"
+  },
+  "2 apple pie rolls with sweet caramel dip": {
+   "price_gbp": 2.5,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "2 Apple Pie Rolls with Sweet Caramel Dip"
+  },
+  "k-pop bbq wings sharer box (10)": {
+   "price_gbp": 9.99,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "K-POP BBQ Wings Sharer Box (10)"
+  },
+  "salt & pepper cauli bites box": {
+   "price_gbp": 9.49,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Salt & Pepper Cauli Bites Box"
+  },
+  "salt & pepper cauli bites - regular": {
+   "price_gbp": 9.49,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Salt & Pepper Cauli Bites - Regular"
+  },
+  "salt & pepper cauli bites - regular new": {
+   "price_gbp": 9.49,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Salt & Pepper Cauli Bites - Regular NEW"
+  },
+  "salt & pepper cauli bites - large": {
+   "price_gbp": 9.49,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Salt & Pepper Cauli Bites - Large"
+  },
+  "salt & pepper cauli bites - large new": {
+   "price_gbp": 9.49,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Salt & Pepper Cauli Bites - Large NEW"
+  },
+  "kung po chicken box": {
+   "price_gbp": 9.49,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Kung Po Chicken Box"
+  },
+  "kung po chicken - regular": {
+   "price_gbp": 9.49,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Kung Po Chicken - Regular"
+  },
+  "kung po chicken - regular new": {
+   "price_gbp": 9.49,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Kung Po Chicken - Regular NEW"
+  },
+  "kung po chicken - large": {
+   "price_gbp": 9.49,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Kung Po Chicken - Large"
+  },
+  "kung po chicken - large new": {
+   "price_gbp": 9.49,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Kung Po Chicken - Large NEW"
+  },
+  "salt & pepper cauli bites sharer box (15)": {
+   "price_gbp": 5.45,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Salt & Pepper Cauli Bites Sharer Box (15)"
+  },
+  "hoisin duck box": {
+   "price_gbp": 9.49,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Hoisin Duck Box"
+  },
+  "hoisin duck - regular": {
+   "price_gbp": 9.49,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Hoisin Duck - Regular"
+  },
+  "hoisin duck - regular new": {
+   "price_gbp": 9.49,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Hoisin Duck - Regular NEW"
+  },
+  "hoisin duck - large": {
+   "price_gbp": 9.49,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Hoisin Duck - Large"
+  },
+  "hoisin duck - large new": {
+   "price_gbp": 9.49,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Hoisin Duck - Large NEW"
+  },
+  "extra salt & pepper cauli bites": {
+   "price_gbp": 4.4,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Extra Salt & Pepper Cauli Bites"
+  },
+  "salt & pepper cauli bites - small": {
+   "price_gbp": 4.4,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Salt & Pepper Cauli Bites - Small"
+  },
+  "salt & pepper cauli bites - small new": {
+   "price_gbp": 4.4,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Salt & Pepper Cauli Bites - Small NEW"
+  },
+  "salt & pepper cauli bites (5)": {
+   "price_gbp": 2.7,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Salt & Pepper Cauli Bites (5)"
+  },
+  "light soy sauce": {
+   "price_gbp": 0.99,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Light Soy Sauce"
+  },
+  "spring rolls sharer box (15) with dip": {
+   "price_gbp": 6.25,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Spring Rolls Sharer Box (15) with Dip"
+  },
+  "the most valuable box (mvb).": {
+   "price_gbp": 12.99,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "The Most Valuable Box (MVB)."
+  },
+  "salt & pepper wedges": {
+   "price_gbp": 3.95,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Salt & Pepper Wedges"
+  },
+  "spring roll mini stix meal": {
+   "price_gbp": 4.99,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Spring Roll Mini Stix Meal"
+  },
+  "chicken balls mini stix meal": {
+   "price_gbp": 4.99,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Chicken Balls Mini Stix Meal"
+  },
+  "big dipper": {
+   "price_gbp": 10.99,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Big Dipper"
+  },
+  "fruit shoot blackcurrant": {
+   "price_gbp": 1.99,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Fruit Shoot Blackcurrant"
+  },
+  "extra k-pop bbq chicken": {
+   "price_gbp": 3.9,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Extra K-POP BBQ Chicken"
+  },
+  "k-pop bbq chicken - small": {
+   "price_gbp": 3.9,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "K-POP BBQ Chicken - Small"
+  },
+  "k-pop bbq chicken - small new": {
+   "price_gbp": 3.9,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "K-POP BBQ Chicken - Small NEW"
+  },
+  "the mvb for 2": {
+   "price_gbp": 23.99,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "The MVB for 2"
+  },
+  "go large skinny cauliflower rice (vg)": {
+   "price_gbp": 7.99,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Go Large Skinny Cauliflower Rice (VG)"
+  },
+  "fruit shoot orange": {
+   "price_gbp": 1.99,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Fruit Shoot Orange"
+  },
+  "extra salted caramel chilli prawns": {
+   "price_gbp": 4.6,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Extra Salted Caramel Chilli Prawns"
+  },
+  "salted caramel chilli prawns - small": {
+   "price_gbp": 4.6,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Salted Caramel Chilli Prawns - Small"
+  },
+  "salted caramel chilli prawns - small new": {
+   "price_gbp": 4.6,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Salted Caramel Chilli Prawns - Small NEW"
+  },
+  "salted caramel chilli prawns box": {
+   "price_gbp": 9.69,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Salted Caramel Chilli Prawns Box"
+  },
+  "salted caramel chilli prawns - regular": {
+   "price_gbp": 9.69,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Salted Caramel Chilli Prawns - Regular"
+  },
+  "salted caramel chilli prawns - regular new": {
+   "price_gbp": 9.69,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Salted Caramel Chilli Prawns - Regular NEW"
+  },
+  "salted caramel chilli prawns - large": {
+   "price_gbp": 9.69,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Salted Caramel Chilli Prawns - Large"
+  },
+  "salted caramel chilli prawns - large new": {
+   "price_gbp": 9.69,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Salted Caramel Chilli Prawns - Large NEW"
+  },
+  "new extra smoky seoul chicken": {
+   "price_gbp": 4.4,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "NEW Extra Smoky Seoul Chicken"
+  },
+  "wok value sharer": {
+   "price_gbp": 9.99,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Wok Value Sharer"
+  },
+  "k-pop bbq chicken box": {
+   "price_gbp": 8.99,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "K-POP BBQ Chicken Box"
+  },
+  "k-pop bbq chicken - regular": {
+   "price_gbp": 8.99,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "K-POP BBQ Chicken - Regular"
+  },
+  "k-pop bbq chicken - regular new": {
+   "price_gbp": 8.99,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "K-POP BBQ Chicken - Regular NEW"
+  },
+  "k-pop bbq chicken - large": {
+   "price_gbp": 8.99,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "K-POP BBQ Chicken - Large"
+  },
+  "k-pop bbq chicken - large new": {
+   "price_gbp": 8.99,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "K-POP BBQ Chicken - Large NEW"
+  },
+  "apple pie roll sharer box (10) with sweet caramel dip": {
+   "price_gbp": 7.99,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Apple Pie Roll Sharer Box (10) with Sweet Caramel Dip"
+  },
+  "prawn crackers - delivery bag": {
+   "price_gbp": 2.5,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Prawn Crackers - Delivery Bag"
+  },
+  "triple topper box 3 toppings": {
+   "price_gbp": 10.99,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Triple Topper Box 3 Toppings"
+  },
+  "mini katsu chicken strips (3)": {
+   "price_gbp": 3.95,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Mini Katsu Chicken Strips (3)"
+  },
+  "robinsons raspberry & apple": {
+   "price_gbp": 2.49,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Robinsons Raspberry & Apple"
+  },
+  "the most valuable box (mvb)": {
+   "price_gbp": 12.99,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "The Most Valuable Box (MVB)"
+  },
+  "extra hoisinner duck": {
+   "price_gbp": 4.6,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Extra Hoisinner Duck"
+  },
+  "hoisinner duck - small": {
+   "price_gbp": 4.6,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Hoisinner Duck - Small"
+  },
+  "hoisinner duck - small new": {
+   "price_gbp": 4.6,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Hoisinner Duck - Small NEW"
+  },
+  "firecracker sauce (vg)": {
+   "price_gbp": 0.99,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Firecracker Sauce (VG)"
+  },
+  "new smoky seoul chicken box": {
+   "price_gbp": 9.49,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "NEW Smoky Seoul Chicken Box"
+  },
+  "new smoky seoul chicken - regular": {
+   "price_gbp": 9.49,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "NEW Smoky Seoul Chicken - Regular"
+  },
+  "new smoky seoul chicken - regular new": {
+   "price_gbp": 9.49,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "NEW Smoky Seoul Chicken - Regular NEW"
+  },
+  "new smoky seoul chicken - large": {
+   "price_gbp": 9.49,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "NEW Smoky Seoul Chicken - Large"
+  },
+  "new smoky seoul chicken - large new": {
+   "price_gbp": 9.49,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "NEW Smoky Seoul Chicken - Large NEW"
+  },
+  "tango orange sugar free": {
+   "price_gbp": 2.39,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Tango Orange Sugar Free"
+  },
+  "sweet chilli prawns box": {
+   "price_gbp": 9.49,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Sweet Chilli Prawns Box"
+  },
+  "sweet chilli prawns - regular": {
+   "price_gbp": 9.49,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Sweet Chilli Prawns - Regular"
+  },
+  "sweet chilli prawns - regular new": {
+   "price_gbp": 9.49,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Sweet Chilli Prawns - Regular NEW"
+  },
+  "sweet chilli prawns - large": {
+   "price_gbp": 9.49,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Sweet Chilli Prawns - Large"
+  },
+  "sweet chilli prawns - large new": {
+   "price_gbp": 9.49,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Sweet Chilli Prawns - Large NEW"
+  },
+  "teriyaki beef box": {
+   "price_gbp": 9.49,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Teriyaki Beef Box"
+  },
+  "teriyaki beef - regular": {
+   "price_gbp": 9.49,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Teriyaki Beef - Regular"
+  },
+  "teriyaki beef - regular new": {
+   "price_gbp": 9.49,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Teriyaki Beef - Regular NEW"
+  },
+  "teriyaki beef - large": {
+   "price_gbp": 9.49,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Teriyaki Beef - Large"
+  },
+  "teriyaki beef - large new": {
+   "price_gbp": 9.49,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Teriyaki Beef - Large NEW"
+  },
+  "new extra zesty lemon chicken": {
+   "price_gbp": 4.4,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "NEW Extra Zesty Lemon Chicken"
+  },
+  "new zesty lemon chicken box": {
+   "price_gbp": 9.49,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "NEW Zesty Lemon Chicken Box"
+  },
+  "new zesty lemon chicken - regular": {
+   "price_gbp": 9.49,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "NEW Zesty Lemon Chicken - Regular"
+  },
+  "new zesty lemon chicken - regular new": {
+   "price_gbp": 9.49,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "NEW Zesty Lemon Chicken - Regular NEW"
+  },
+  "new zesty lemon chicken - large": {
+   "price_gbp": 9.49,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "NEW Zesty Lemon Chicken - Large"
+  },
+  "new zesty lemon chicken - large new": {
+   "price_gbp": 9.49,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "NEW Zesty Lemon Chicken - Large NEW"
+  },
+  "sweet & sour dip": {
+   "price_gbp": 1.5,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Sweet & Sour Dip"
+  },
+  "new extra no beef teriyaki (vg)": {
+   "price_gbp": 4.4,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "NEW Extra No Beef Teriyaki (VG)"
+  },
+  "k-pop bbq wings (3)": {
+   "price_gbp": 3.75,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "K-POP BBQ Wings (3)"
+  },
+  "new massaman chicken & potato curry box": {
+   "price_gbp": 9.49,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "NEW Massaman Chicken & Potato Curry Box"
+  },
+  "new massaman chicken & potato curry - regular": {
+   "price_gbp": 9.49,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "NEW Massaman Chicken & Potato Curry - Regular"
+  },
+  "new massaman chicken & potato curry - regular new": {
+   "price_gbp": 9.49,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "NEW Massaman Chicken & Potato Curry - Regular NEW"
+  },
+  "new massaman chicken & potato curry - large": {
+   "price_gbp": 9.49,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "NEW Massaman Chicken & Potato Curry - Large"
+  },
+  "new massaman chicken & potato curry - large new": {
+   "price_gbp": 9.49,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "NEW Massaman Chicken & Potato Curry - Large NEW"
+  },
+  "new extra massaman chicken & potato curry": {
+   "price_gbp": 4.4,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "NEW Extra Massaman Chicken & Potato Curry"
+  },
+  "churr'all i need": {
+   "price_gbp": 13.99,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Churr'all I Need"
+  },
+  "sweet chilli dip": {
+   "price_gbp": 1.5,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Sweet Chilli Dip"
+  },
+  "10 mini chicken balls with katsu curry dip": {
+   "price_gbp": 2.95,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "10 Mini Chicken Balls with Katsu Curry Dip"
+  },
+  "10 mini chicken balls with sweet chilli dip": {
+   "price_gbp": 2.95,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "10 Mini Chicken Balls with Sweet Chilli Dip"
+  },
+  "wok value sharer level 2": {
+   "price_gbp": 14.99,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Wok Value Sharer Level 2"
+  },
+  "big dipper level 2": {
+   "price_gbp": 22.99,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Big Dipper Level 2"
+  },
+  "5 churros with 2 caramel dips": {
+   "price_gbp": 4.5,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "5 Churros with 2 Caramel Dips"
+  },
+  "extra teriyaki beef": {
+   "price_gbp": 4.4,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Extra Teriyaki Beef"
+  },
+  "teriyaki beef - small": {
+   "price_gbp": 4.4,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Teriyaki Beef - Small"
+  },
+  "teriyaki beef - small new": {
+   "price_gbp": 4.4,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Teriyaki Beef - Small NEW"
+  },
+  "wok value sharer level 3": {
+   "price_gbp": 23.99,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Wok Value Sharer Level 3"
+  },
+  "end game mega dipper feast": {
+   "price_gbp": 25.99,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "End Game Mega Dipper Feast"
+  },
+  "2 churros with caramel dip": {
+   "price_gbp": 2.5,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "2 Churros with Caramel Dip"
+  },
+  "big night in": {
+   "price_gbp": 47.99,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Big Night In"
+  },
+  "it's backextra sweet chilli prawns": {
+   "price_gbp": 4.4,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "IT'S BACKExtra Sweet Chilli Prawns"
+  },
+  "salt & pepper fix": {
+   "price_gbp": 13.99,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Salt & Pepper Fix"
+  },
+  "chicken ballin'": {
+   "price_gbp": 14.99,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Chicken Ballin'"
+  },
+  "free mini veg spring rolls (5)": {
+   "price_gbp": 0.0,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "FREE Mini Veg Spring Rolls (5)"
+  },
+  "red bull watermelon edition": {
+   "price_gbp": 3.15,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Red Bull Watermelon Edition"
+  },
+  "extra spice bag": {
+   "price_gbp": 4.6,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Extra Spice Bag"
+  },
+  "spice bag - small": {
+   "price_gbp": 4.6,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Spice Bag - Small"
+  },
+  "spice bag - small new": {
+   "price_gbp": 4.6,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Spice Bag - Small NEW"
+  },
+  "extra chicken katsu curry": {
+   "price_gbp": 4.6,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Extra Chicken Katsu Curry"
+  },
+  "chicken katsu curry - small": {
+   "price_gbp": 4.6,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Chicken Katsu Curry - Small"
+  },
+  "chicken katsu curry - small new": {
+   "price_gbp": 4.6,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Chicken Katsu Curry - Small NEW"
+  },
+  "extra cherry kiss chicken": {
+   "price_gbp": 4.6,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Extra Cherry Kiss Chicken"
+  },
+  "cherry kiss chicken - small": {
+   "price_gbp": 4.6,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Cherry Kiss Chicken - Small"
+  },
+  "cherry kiss chicken - small new": {
+   "price_gbp": 4.6,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Cherry Kiss Chicken - Small NEW"
+  },
+  "extra salt & pepper chicken": {
+   "price_gbp": 4.6,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Extra Salt & Pepper Chicken"
+  },
+  "salt & pepper chicken - small": {
+   "price_gbp": 4.6,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Salt & Pepper Chicken - Small"
+  },
+  "salt & pepper chicken - small new": {
+   "price_gbp": 4.6,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Salt & Pepper Chicken - Small NEW"
+  },
+  "panko chicken breast pieces x 3": {
+   "price_gbp": 3.95,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Panko Chicken Breast Pieces x 3"
+  },
+  "extra no chick'n sweet & sour": {
+   "price_gbp": 3.9,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Extra No Chick'n Sweet & Sour"
+  },
+  "no chick'n sweet & sour - small": {
+   "price_gbp": 3.9,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "No Chick'n Sweet & Sour - Small"
+  },
+  "no chick'n sweet & sour - small new": {
+   "price_gbp": 3.9,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "No Chick'n Sweet & Sour - Small NEW"
+  },
+  "spice bag": {
+   "price_gbp": 9.69,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Spice Bag"
+  },
+  "fortune cookie": {
+   "price_gbp": 1.2,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Fortune Cookie"
+  },
+  "mini katsu chicken strips sharer box (10)": {
+   "price_gbp": 9.99,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Mini Katsu Chicken Strips Sharer Box (10)"
+  },
+  "pepsi": {
+   "price_gbp": 2.39,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Pepsi"
+  },
+  "firecracker chicken box": {
+   "price_gbp": 9.69,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Firecracker Chicken Box"
+  },
+  "firecracker chicken - regular": {
+   "price_gbp": 9.69,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Firecracker Chicken - Regular"
+  },
+  "firecracker chicken - regular new": {
+   "price_gbp": 9.69,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Firecracker Chicken - Regular NEW"
+  },
+  "firecracker chicken - large": {
+   "price_gbp": 9.69,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Firecracker Chicken - Large"
+  },
+  "firecracker chicken - large new": {
+   "price_gbp": 9.69,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Firecracker Chicken - Large NEW"
+  },
+  "7 up zero sugar": {
+   "price_gbp": 2.39,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "7 UP Zero Sugar"
+  },
+  "extra sweet & sour chicken": {
+   "price_gbp": 4.6,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Extra Sweet & Sour Chicken"
+  },
+  "sweet & sour chicken - small": {
+   "price_gbp": 4.6,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Sweet & Sour Chicken - Small"
+  },
+  "sweet & sour chicken - small new": {
+   "price_gbp": 4.6,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Sweet & Sour Chicken - Small NEW"
+  },
+  "lipton ice tea lemon": {
+   "price_gbp": 2.59,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Lipton Ice Tea Lemon"
+  },
+  "salt & pepper potatoes": {
+   "price_gbp": 3.95,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Salt & Pepper Potatoes"
+  },
+  "extra firecracker chicken": {
+   "price_gbp": 4.6,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Extra Firecracker Chicken"
+  },
+  "firecracker chicken - small": {
+   "price_gbp": 4.6,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Firecracker Chicken - Small"
+  },
+  "firecracker chicken - small new": {
+   "price_gbp": 4.6,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Firecracker Chicken - Small NEW"
+  },
+  "sweet & sour chicken box": {
+   "price_gbp": 8.99,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Sweet & Sour Chicken Box"
+  },
+  "sweet & sour chicken - regular": {
+   "price_gbp": 8.99,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Sweet & Sour Chicken - Regular"
+  },
+  "sweet & sour chicken - regular new": {
+   "price_gbp": 8.99,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Sweet & Sour Chicken - Regular NEW"
+  },
+  "sweet & sour chicken - large": {
+   "price_gbp": 8.99,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Sweet & Sour Chicken - Large"
+  },
+  "sweet & sour chicken - large new": {
+   "price_gbp": 8.99,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Sweet & Sour Chicken - Large NEW"
+  },
+  "5 apple pie rolls with sweet caramel dip": {
+   "price_gbp": 4.5,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "5 Apple Pie Rolls with Sweet Caramel Dip"
+  },
+  "katsu curry sauce": {
+   "price_gbp": 1.5,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Katsu Curry Sauce"
+  },
+  "4 topper box 4 toppings": {
+   "price_gbp": 12.99,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "4 Topper Box 4 Toppings"
+  },
+  "spring rolls sharer box (15)": {
+   "price_gbp": 5.35,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Spring Rolls Sharer Box (15)"
+  },
+  "red bull energy drink": {
+   "price_gbp": 2.95,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Red Bull Energy Drink"
+  },
+  "diet pepsi": {
+   "price_gbp": 2.39,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Diet Pepsi"
+  },
+  "pepsi max": {
+   "price_gbp": 2.39,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Pepsi Max"
+  },
+  "extra fircracker chicken": {
+   "price_gbp": 4.6,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Extra Fircracker Chicken"
+  },
+  "fircracker chicken - small": {
+   "price_gbp": 4.6,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Fircracker Chicken - Small"
+  },
+  "fircracker chicken - small new": {
+   "price_gbp": 4.6,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Fircracker Chicken - Small NEW"
+  },
+  "prawn crackers bag": {
+   "price_gbp": 2.5,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Prawn Crackers Bag"
+  },
+  "red bull citrus zest": {
+   "price_gbp": 3.15,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Red Bull Citrus Zest"
+  },
+  "panko chicken breast pieces sharer box": {
+   "price_gbp": 9.99,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Panko Chicken Breast Pieces Sharer Box"
+  },
+  "panko chicken breast pieces sharer - regular": {
+   "price_gbp": 9.99,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Panko Chicken Breast Pieces Sharer - Regular"
+  },
+  "panko chicken breast pieces sharer - regular new": {
+   "price_gbp": 9.99,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Panko Chicken Breast Pieces Sharer - Regular NEW"
+  },
+  "panko chicken breast pieces sharer - large": {
+   "price_gbp": 9.99,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Panko Chicken Breast Pieces Sharer - Large"
+  },
+  "panko chicken breast pieces sharer - large new": {
+   "price_gbp": 9.99,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Panko Chicken Breast Pieces Sharer - Large NEW"
+  },
+  "diet pepsi (330ml)": {
+   "price_gbp": 2.39,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Diet Pepsi (330ml)"
+  },
+  "tango orange (330ml)": {
+   "price_gbp": 2.39,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Tango Orange (330ml)"
+  },
+  "salt & pepper wedges box": {
+   "price_gbp": 8.99,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Salt & Pepper Wedges Box"
+  },
+  "salt & pepper wedges - regular": {
+   "price_gbp": 8.99,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Salt & Pepper Wedges - Regular"
+  },
+  "salt & pepper wedges - regular new": {
+   "price_gbp": 8.99,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Salt & Pepper Wedges - Regular NEW"
+  },
+  "salt & pepper wedges - large": {
+   "price_gbp": 8.99,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Salt & Pepper Wedges - Large"
+  },
+  "salt & pepper wedges - large new": {
+   "price_gbp": 8.99,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Salt & Pepper Wedges - Large NEW"
+  },
+  "red bull sugar free pink edition": {
+   "price_gbp": 3.15,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Red Bull Sugar Free Pink Edition"
+  },
+  "go large vegetable chow mein (noodles) (vg)": {
+   "price_gbp": 7.5,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Go Large Vegetable Chow Mein (Noodles) (VG)"
+  },
+  "pepsi max (330ml)": {
+   "price_gbp": 2.39,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Pepsi Max (330ml)"
+  },
+  "go large egg fried rice": {
+   "price_gbp": 7.5,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Go Large Egg Fried Rice"
+  },
+  "water": {
+   "price_gbp": 1.99,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Water"
+  },
+  "mini veg spring rolls (5)": {
+   "price_gbp": 2.7,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Mini Veg Spring Rolls (5)"
+  },
+  "mini chicken balls (10)": {
+   "price_gbp": 3.7,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Mini Chicken Balls (10)"
+  },
+  "extra hot honey hustler chicken": {
+   "price_gbp": 4.6,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Extra Hot Honey Hustler Chicken"
+  },
+  "hot honey hustler chicken - small": {
+   "price_gbp": 4.6,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Hot Honey Hustler Chicken - Small"
+  },
+  "hot honey hustler chicken - small new": {
+   "price_gbp": 4.6,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Hot Honey Hustler Chicken - Small NEW"
+  },
+  "extra pumpkin katsu curry (v)": {
+   "price_gbp": 4.6,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Extra Pumpkin Katsu Curry (V)"
+  },
+  "pumpkin katsu curry (v) - small": {
+   "price_gbp": 4.6,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Pumpkin Katsu Curry (V) - Small"
+  },
+  "pumpkin katsu curry (v) - small new": {
+   "price_gbp": 4.6,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Pumpkin Katsu Curry (V) - Small NEW"
+  },
+  "go large vegetable chow mein (vg)": {
+   "price_gbp": 7.5,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Go Large Vegetable Chow Mein (VG)"
+  },
+  "hot wok for 2": {
+   "price_gbp": 27.5,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Hot Wok for 2"
+  },
+  "crispy veggie gyoza (3)": {
+   "price_gbp": 2.7,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Crispy Veggie Gyoza (3)"
+  },
+  "extra no beef teriyaki (v)": {
+   "price_gbp": 3.9,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Extra No Beef Teriyaki (V)"
+  },
+  "no beef teriyaki (v) - small": {
+   "price_gbp": 3.9,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "No Beef Teriyaki (V) - Small"
+  },
+  "no beef teriyaki (v) - small new": {
+   "price_gbp": 3.9,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "No Beef Teriyaki (V) - Small NEW"
+  },
+  "robinsons peach & mango": {
+   "price_gbp": 2.49,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Robinsons Peach & Mango"
+  },
+  "pepsi (330ml)": {
+   "price_gbp": 2.39,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Pepsi (330ml)"
+  },
+  "water (500ml)": {
+   "price_gbp": 1.99,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Water (500ml)"
+  },
+  "hot honey hustler chicken box": {
+   "price_gbp": 9.69,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Hot Honey Hustler Chicken Box"
+  },
+  "hot honey hustler chicken - regular": {
+   "price_gbp": 9.69,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Hot Honey Hustler Chicken - Regular"
+  },
+  "hot honey hustler chicken - regular new": {
+   "price_gbp": 9.69,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Hot Honey Hustler Chicken - Regular NEW"
+  },
+  "hot honey hustler chicken - large": {
+   "price_gbp": 9.69,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Hot Honey Hustler Chicken - Large"
+  },
+  "hot honey hustler chicken - large new": {
+   "price_gbp": 9.69,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Hot Honey Hustler Chicken - Large NEW"
+  },
+  "salt & pepper chicken box": {
+   "price_gbp": 8.99,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Salt & Pepper Chicken Box"
+  },
+  "salt & pepper chicken - regular": {
+   "price_gbp": 8.99,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Salt & Pepper Chicken - Regular"
+  },
+  "salt & pepper chicken - regular new": {
+   "price_gbp": 8.99,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Salt & Pepper Chicken - Regular NEW"
+  },
+  "salt & pepper chicken - large": {
+   "price_gbp": 8.99,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Salt & Pepper Chicken - Large"
+  },
+  "salt & pepper chicken - large new": {
+   "price_gbp": 8.99,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Salt & Pepper Chicken - Large NEW"
+  },
+  "3 panko chicken breast pieces": {
+   "price_gbp": 3.75,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "3 Panko Chicken Breast Pieces"
+  },
+  "robinsons raspberry and apple": {
+   "price_gbp": 2.49,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Robinsons Raspberry and Apple"
+  },
+  "sweet caramel dip": {
+   "price_gbp": 0.99,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Sweet Caramel Dip"
+  },
+  "firecracker dip": {
+   "price_gbp": 0.99,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Firecracker Dip"
+  },
+  "robinsons peach and mango": {
+   "price_gbp": 2.49,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Robinsons Peach and Mango"
+  },
+  "extra pumpkin katsu curry (vg)": {
+   "price_gbp": 3.9,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Extra Pumpkin Katsu Curry (VG)"
+  },
+  "pumpkin katsu curry (vg) - small": {
+   "price_gbp": 3.9,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Pumpkin Katsu Curry (VG) - Small"
+  },
+  "pumpkin katsu curry (vg) - small new": {
+   "price_gbp": 3.9,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Pumpkin Katsu Curry (VG) - Small NEW"
+  },
+  "chinese bbq dip": {
+   "price_gbp": 0.99,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Chinese BBQ Dip"
+  },
+  "10 mini chicken balls": {
+   "price_gbp": 3.7,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "10 Mini Chicken Balls"
+  },
+  "extra coconut crave chicken": {
+   "price_gbp": 4.6,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Extra Coconut Crave Chicken"
+  },
+  "coconut crave chicken - small": {
+   "price_gbp": 4.6,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Coconut Crave Chicken - Small"
+  },
+  "coconut crave chicken - small new": {
+   "price_gbp": 4.6,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Coconut Crave Chicken - Small NEW"
+  },
+  "extra no beef teriyaki": {
+   "price_gbp": 3.9,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Extra No Beef Teriyaki"
+  },
+  "no beef teriyaki - small": {
+   "price_gbp": 3.9,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "No Beef Teriyaki - Small"
+  },
+  "no beef teriyaki - small new": {
+   "price_gbp": 3.9,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "No Beef Teriyaki - Small NEW"
+  },
+  "extra no chick'n sweet n sour": {
+   "price_gbp": 3.9,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Extra No Chick'n Sweet n Sour"
+  },
+  "7 up free (330ml)": {
+   "price_gbp": 2.39,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "7 UP Free (330ml)"
+  },
+  "pepsi max cherry (330ml)": {
+   "price_gbp": 2.39,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Pepsi Max Cherry (330ml)"
+  },
+  "extra soy-mazing chicken": {
+   "price_gbp": 4.6,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Extra Soy-Mazing Chicken"
+  },
+  "soy-mazing chicken - small": {
+   "price_gbp": 4.6,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Soy-Mazing Chicken - Small"
+  },
+  "soy-mazing chicken - small new": {
+   "price_gbp": 4.6,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Soy-Mazing Chicken - Small NEW"
+  },
+  "crispy veggie gyoza sharer box (10)": {
+   "price_gbp": 5.75,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Crispy Veggie Gyoza Sharer Box (10)"
+  },
+  "triple topper 3 toppings": {
+   "price_gbp": 10.99,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Triple Topper 3 Toppings"
+  },
+  "extra chinese chicken curry": {
+   "price_gbp": 3.9,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Extra Chinese Chicken Curry"
+  },
+  "chinese chicken curry - small": {
+   "price_gbp": 3.9,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Chinese Chicken Curry - Small"
+  },
+  "chinese chicken curry - small new": {
+   "price_gbp": 3.9,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Chinese Chicken Curry - Small NEW"
+  },
+  "pumpkin katsu curry box": {
+   "price_gbp": 8.99,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Pumpkin Katsu Curry Box"
+  },
+  "pumpkin katsu curry - regular": {
+   "price_gbp": 8.99,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Pumpkin Katsu Curry - Regular"
+  },
+  "pumpkin katsu curry - regular new": {
+   "price_gbp": 8.99,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Pumpkin Katsu Curry - Regular NEW"
+  },
+  "pumpkin katsu curry - large": {
+   "price_gbp": 8.99,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Pumpkin Katsu Curry - Large"
+  },
+  "pumpkin katsu curry - large new": {
+   "price_gbp": 8.99,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Pumpkin Katsu Curry - Large NEW"
+  },
+  "panko chicken breast pieces sharer box (10)": {
+   "price_gbp": 9.99,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Panko Chicken Breast Pieces Sharer Box (10)"
+  },
+  "extra caramel drizzle chicken": {
+   "price_gbp": 3.9,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Extra Caramel Drizzle Chicken"
+  },
+  "caramel drizzle chicken - small": {
+   "price_gbp": 3.9,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Caramel Drizzle Chicken - Small"
+  },
+  "caramel drizzle chicken - small new": {
+   "price_gbp": 3.9,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Caramel Drizzle Chicken - Small NEW"
+  },
+  "build a box 2 toppings": {
+   "price_gbp": 8.99,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Build a Box 2 Toppings"
+  },
+  "pepsi max cherry": {
+   "price_gbp": 2.39,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Pepsi Max Cherry"
+  },
+  "spice bag box": {
+   "price_gbp": 9.69,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Spice Bag Box"
+  },
+  "spice bag - regular": {
+   "price_gbp": 9.69,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Spice Bag - Regular"
+  },
+  "spice bag - regular new": {
+   "price_gbp": 9.69,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Spice Bag - Regular NEW"
+  },
+  "spice bag - large": {
+   "price_gbp": 9.69,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Spice Bag - Large"
+  },
+  "spice bag - large new": {
+   "price_gbp": 9.69,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Spice Bag - Large NEW"
+  },
+  "chinese bbq dip (vg)": {
+   "price_gbp": 0.99,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Chinese BBQ Dip (VG)"
+  },
+  "no beef teriyaki box": {
+   "price_gbp": 8.99,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "No Beef Teriyaki Box"
+  },
+  "no beef teriyaki - regular": {
+   "price_gbp": 8.99,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "No Beef Teriyaki - Regular"
+  },
+  "no beef teriyaki - regular new": {
+   "price_gbp": 8.99,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "No Beef Teriyaki - Regular NEW"
+  },
+  "no beef teriyaki - large": {
+   "price_gbp": 8.99,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "No Beef Teriyaki - Large"
+  },
+  "no beef teriyaki - large new": {
+   "price_gbp": 8.99,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "No Beef Teriyaki - Large NEW"
+  },
+  "prawn crackers": {
+   "price_gbp": 2.5,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Prawn Crackers"
+  },
+  "extra soymazing chicken": {
+   "price_gbp": 4.6,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Extra Soymazing Chicken"
+  },
+  "soymazing chicken - small": {
+   "price_gbp": 4.6,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Soymazing Chicken - Small"
+  },
+  "soymazing chicken - small new": {
+   "price_gbp": 4.6,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Soymazing Chicken - Small NEW"
+  },
+  "2 sugared baonut": {
+   "price_gbp": 4.35,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "2 Sugared Baonut"
+  },
+  "extra katsu chicken curry": {
+   "price_gbp": 4.6,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Extra Katsu Chicken Curry"
+  },
+  "katsu chicken curry - small": {
+   "price_gbp": 4.6,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Katsu Chicken Curry - Small"
+  },
+  "katsu chicken curry - small new": {
+   "price_gbp": 4.6,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Katsu Chicken Curry - Small NEW"
+  },
+  "cherry kiss chicken box": {
+   "price_gbp": 9.69,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Cherry Kiss Chicken Box"
+  },
+  "cherry kiss chicken - regular": {
+   "price_gbp": 9.69,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Cherry Kiss Chicken - Regular"
+  },
+  "cherry kiss chicken - regular new": {
+   "price_gbp": 9.69,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Cherry Kiss Chicken - Regular NEW"
+  },
+  "cherry kiss chicken - large": {
+   "price_gbp": 9.69,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Cherry Kiss Chicken - Large"
+  },
+  "cherry kiss chicken - large new": {
+   "price_gbp": 9.69,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Cherry Kiss Chicken - Large NEW"
+  },
+  "no chick'n sweet n sour box": {
+   "price_gbp": 8.99,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "No Chick'n Sweet n Sour Box"
+  },
+  "no chick'n sweet & sour - regular": {
+   "price_gbp": 8.99,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "No Chick'n Sweet & Sour - Regular"
+  },
+  "no chick'n sweet & sour - regular new": {
+   "price_gbp": 8.99,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "No Chick'n Sweet & Sour - Regular NEW"
+  },
+  "no chick'n sweet & sour - large": {
+   "price_gbp": 8.99,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "No Chick'n Sweet & Sour - Large"
+  },
+  "no chick'n sweet & sour - large new": {
+   "price_gbp": 8.99,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "No Chick'n Sweet & Sour - Large NEW"
+  },
+  "chinese chicken curry box": {
+   "price_gbp": 8.99,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Chinese Chicken Curry Box"
+  },
+  "chinese chicken curry - regular": {
+   "price_gbp": 8.99,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Chinese Chicken Curry - Regular"
+  },
+  "chinese chicken curry - regular new": {
+   "price_gbp": 8.99,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Chinese Chicken Curry - Regular NEW"
+  },
+  "chinese chicken curry - large": {
+   "price_gbp": 8.99,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Chinese Chicken Curry - Large"
+  },
+  "chinese chicken curry - large new": {
+   "price_gbp": 8.99,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Chinese Chicken Curry - Large NEW"
+  },
+  "soy-mazing chicken box": {
+   "price_gbp": 9.69,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Soy-Mazing Chicken Box"
+  },
+  "soy-mazing chicken - regular": {
+   "price_gbp": 9.69,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Soy-Mazing Chicken - Regular"
+  },
+  "soy-mazing chicken - regular new": {
+   "price_gbp": 9.69,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Soy-Mazing Chicken - Regular NEW"
+  },
+  "soy-mazing chicken - large": {
+   "price_gbp": 9.69,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Soy-Mazing Chicken - Large"
+  },
+  "soy-mazing chicken - large new": {
+   "price_gbp": 9.69,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Soy-Mazing Chicken - Large NEW"
+  },
+  "spring rolls sharer box - vg (15)": {
+   "price_gbp": 5.35,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Spring Rolls Sharer Box - VG (15)"
+  },
+  "sweet chilli dip (vg)": {
+   "price_gbp": 0.99,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Sweet Chilli Dip (VG)"
+  },
+  "2 sugared baonuts": {
+   "price_gbp": 4.35,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "2 Sugared Baonuts"
+  },
+  "katsu chicken curry box": {
+   "price_gbp": 9.69,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Katsu Chicken Curry Box"
+  },
+  "katsu chicken curry - regular": {
+   "price_gbp": 9.69,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Katsu Chicken Curry - Regular"
+  },
+  "katsu chicken curry - regular new": {
+   "price_gbp": 9.69,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Katsu Chicken Curry - Regular NEW"
+  },
+  "katsu chicken curry - large": {
+   "price_gbp": 9.69,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Katsu Chicken Curry - Large"
+  },
+  "katsu chicken curry - large new": {
+   "price_gbp": 9.69,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Katsu Chicken Curry - Large NEW"
+  },
+  "1 sugared baonut": {
+   "price_gbp": 2.49,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "1 Sugared Baonut"
+  },
+  "spicy coconut crave chicken box": {
+   "price_gbp": 9.69,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Spicy Coconut Crave Chicken Box"
+  },
+  "coconut crave chicken - regular": {
+   "price_gbp": 9.69,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Coconut Crave Chicken - Regular"
+  },
+  "coconut crave chicken - regular new": {
+   "price_gbp": 9.69,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Coconut Crave Chicken - Regular NEW"
+  },
+  "coconut crave chicken - large": {
+   "price_gbp": 9.69,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Coconut Crave Chicken - Large"
+  },
+  "coconut crave chicken - large new": {
+   "price_gbp": 9.69,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Coconut Crave Chicken - Large NEW"
+  },
+  "mini chicken balls sharer box": {
+   "price_gbp": 6.95,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Mini Chicken Balls Sharer Box"
+  },
+  "mini chicken balls sharer - regular": {
+   "price_gbp": 6.95,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Mini Chicken Balls Sharer - Regular"
+  },
+  "mini chicken balls sharer - regular new": {
+   "price_gbp": 6.95,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Mini Chicken Balls Sharer - Regular NEW"
+  },
+  "mini chicken balls sharer - large": {
+   "price_gbp": 6.95,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Mini Chicken Balls Sharer - Large"
+  },
+  "mini chicken balls sharer - large new": {
+   "price_gbp": 6.95,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Mini Chicken Balls Sharer - Large NEW"
+  },
+  "caramel drizzle chicken box": {
+   "price_gbp": 8.99,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Caramel Drizzle Chicken Box"
+  },
+  "caramel drizzle chicken - regular": {
+   "price_gbp": 8.99,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Caramel Drizzle Chicken - Regular"
+  },
+  "caramel drizzle chicken - regular new": {
+   "price_gbp": 8.99,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Caramel Drizzle Chicken - Regular NEW"
+  },
+  "caramel drizzle chicken - large": {
+   "price_gbp": 8.99,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Caramel Drizzle Chicken - Large"
+  },
+  "caramel drizzle chicken - large new": {
+   "price_gbp": 8.99,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Caramel Drizzle Chicken - Large NEW"
+  },
+  "sweet caramel sauce (v)": {
+   "price_gbp": 0.99,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Sweet Caramel Sauce (V)"
+  },
+  "go large egg-fried rice": {
+   "price_gbp": 7.5,
+   "basis": "collection",
+   "store": "Chopstix online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Go Large Egg-Fried Rice"
+  }
+ }
+}
