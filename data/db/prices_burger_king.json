@@ -1,6 +1,6 @@
 {
  "chain_id": "burger_king",
- "fetched_at": "2026-08-07T06:35:22Z",
+ "fetched_at": "2026-08-08T06:54:17Z",
  "store": "Burger King #30309",
  "stores": [
   "Burger King #30309"
@@ -1167,13 +1167,13 @@
    "name": "Chicken Melt Meal"
   },
   "chicken melt & fries": {
-   "price_gbp": 7.48,
+   "price_gbp": 6.48,
    "basis": "collection",
    "store": "Burger King #30309",
    "name": "Chicken Melt & Fries"
   },
   "beef melt & fries": {
-   "price_gbp": 6.48,
+   "price_gbp": 5.48,
    "basis": "collection",
    "store": "Burger King #30309",
    "name": "Beef Melt & Fries"

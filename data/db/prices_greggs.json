@@ -1,6 +1,6 @@
 {
  "chain_id": "greggs",
- "fetched_at": "2026-08-07T06:51:15Z",
+ "fetched_at": "2026-08-08T06:54:42Z",
  "store": "Greggs Sutton, 74 High St",
  "stores": [
   "Greggs Sutton, 74 High St"
@@ -296,11 +296,11 @@
    "store": "Greggs Sutton, 74 High St",
    "name": "Sausage Roll (multipack)"
   },
-  "vegan roll pork-free (allergen update)": {
+  "vegan roll pork-free": {
    "price_gbp": 1.35,
    "basis": "collection",
    "store": "Greggs Sutton, 74 High St",
-   "name": "Vegan Roll Pork-Free (Allergen Update)"
+   "name": "Vegan Roll Pork-Free"
   },
   "chicken roll": {
    "price_gbp": 1.35,
