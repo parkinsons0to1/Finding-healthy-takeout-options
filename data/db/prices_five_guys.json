@@ -1,0 +1,258 @@
+{
+ "chain_id": "five_guys",
+ "fetched_at": "2026-08-07T17:02:01Z",
+ "store": "Five Guys - Croydon Leisure (CR0 4YA)",
+ "stores": [
+  "Five Guys - Croydon Leisure (CR0 4YA)"
+ ],
+ "basis": "collection",
+ "item_count": 42,
+ "prices": {
+  "cheeseburger": {
+   "price_gbp": 12.25,
+   "basis": "collection",
+   "store": "Five Guys - Croydon Leisure (CR0 4YA)",
+   "name": "Cheeseburger"
+  },
+  "bacon cheeseburger": {
+   "price_gbp": 13.35,
+   "basis": "collection",
+   "store": "Five Guys - Croydon Leisure (CR0 4YA)",
+   "name": "Bacon Cheeseburger"
+  },
+  "hamburger": {
+   "price_gbp": 10.35,
+   "basis": "collection",
+   "store": "Five Guys - Croydon Leisure (CR0 4YA)",
+   "name": "Hamburger"
+  },
+  "bacon burger": {
+   "price_gbp": 12.75,
+   "basis": "collection",
+   "store": "Five Guys - Croydon Leisure (CR0 4YA)",
+   "name": "Bacon Burger"
+  },
+  "little cheeseburger": {
+   "price_gbp": 9.55,
+   "basis": "collection",
+   "store": "Five Guys - Croydon Leisure (CR0 4YA)",
+   "name": "Little Cheeseburger"
+  },
+  "little bacon cheeseburger": {
+   "price_gbp": 10.75,
+   "basis": "collection",
+   "store": "Five Guys - Croydon Leisure (CR0 4YA)",
+   "name": "Little Bacon Cheeseburger"
+  },
+  "little hamburger": {
+   "price_gbp": 7.65,
+   "basis": "collection",
+   "store": "Five Guys - Croydon Leisure (CR0 4YA)",
+   "name": "Little Hamburger"
+  },
+  "little bacon burger": {
+   "price_gbp": 9.95,
+   "basis": "collection",
+   "store": "Five Guys - Croydon Leisure (CR0 4YA)",
+   "name": "Little Bacon Burger"
+  },
+  "lettuce wrap": {
+   "price_gbp": 7.65,
+   "basis": "collection",
+   "store": "Five Guys - Croydon Leisure (CR0 4YA)",
+   "name": "Lettuce Wrap"
+  },
+  "cheese dog": {
+   "price_gbp": 8.85,
+   "basis": "collection",
+   "store": "Five Guys - Croydon Leisure (CR0 4YA)",
+   "name": "Cheese Dog"
+  },
+  "bacon cheese dog": {
+   "price_gbp": 9.65,
+   "basis": "collection",
+   "store": "Five Guys - Croydon Leisure (CR0 4YA)",
+   "name": "Bacon Cheese Dog"
+  },
+  "hot dog": {
+   "price_gbp": 7.35,
+   "basis": "collection",
+   "store": "Five Guys - Croydon Leisure (CR0 4YA)",
+   "name": "Hot Dog"
+  },
+  "bacon dog": {
+   "price_gbp": 9.15,
+   "basis": "collection",
+   "store": "Five Guys - Croydon Leisure (CR0 4YA)",
+   "name": "Bacon Dog"
+  },
+  "veggie sandwich": {
+   "price_gbp": 5.75,
+   "basis": "collection",
+   "store": "Five Guys - Croydon Leisure (CR0 4YA)",
+   "name": "Veggie Sandwich"
+  },
+  "cheese veggie sandwich": {
+   "price_gbp": 6.65,
+   "basis": "collection",
+   "store": "Five Guys - Croydon Leisure (CR0 4YA)",
+   "name": "Cheese Veggie Sandwich"
+  },
+  "blt": {
+   "price_gbp": 6.95,
+   "basis": "collection",
+   "store": "Five Guys - Croydon Leisure (CR0 4YA)",
+   "name": "BLT"
+  },
+  "grilled cheese": {
+   "price_gbp": 5.75,
+   "basis": "collection",
+   "store": "Five Guys - Croydon Leisure (CR0 4YA)",
+   "name": "Grilled Cheese"
+  },
+  "kids burger with shake": {
+   "price_gbp": 9.5,
+   "basis": "collection",
+   "store": "Five Guys - Croydon Leisure (CR0 4YA)",
+   "name": "Kids Burger With Shake"
+  },
+  "kids hot dog with shake": {
+   "price_gbp": 9.5,
+   "basis": "collection",
+   "store": "Five Guys - Croydon Leisure (CR0 4YA)",
+   "name": "Kids Hot Dog With Shake"
+  },
+  "kids grilled cheese with shake": {
+   "price_gbp": 9.5,
+   "basis": "collection",
+   "store": "Five Guys - Croydon Leisure (CR0 4YA)",
+   "name": "Kids Grilled Cheese With Shake"
+  },
+  "kids burger with juice": {
+   "price_gbp": 7.5,
+   "basis": "collection",
+   "store": "Five Guys - Croydon Leisure (CR0 4YA)",
+   "name": "Kids Burger With Juice"
+  },
+  "kids hot dog with juice": {
+   "price_gbp": 7.5,
+   "basis": "collection",
+   "store": "Five Guys - Croydon Leisure (CR0 4YA)",
+   "name": "Kids Hot Dog With Juice"
+  },
+  "kids grilled cheese with juice": {
+   "price_gbp": 7.5,
+   "basis": "collection",
+   "store": "Five Guys - Croydon Leisure (CR0 4YA)",
+   "name": "Kids Grilled Cheese With Juice"
+  },
+  "kids burger with soda": {
+   "price_gbp": 7.5,
+   "basis": "collection",
+   "store": "Five Guys - Croydon Leisure (CR0 4YA)",
+   "name": "Kids Burger With Soda"
+  },
+  "kids hot dog with soda": {
+   "price_gbp": 7.5,
+   "basis": "collection",
+   "store": "Five Guys - Croydon Leisure (CR0 4YA)",
+   "name": "Kids Hot Dog With Soda"
+  },
+  "kids grilled cheese with soda": {
+   "price_gbp": 7.5,
+   "basis": "collection",
+   "store": "Five Guys - Croydon Leisure (CR0 4YA)",
+   "name": "Kids Grilled Cheese With Soda"
+  },
+  "new: loaded fries": {
+   "price_gbp": 7.95,
+   "basis": "collection",
+   "store": "Five Guys - Croydon Leisure (CR0 4YA)",
+   "name": "NEW: Loaded Fries"
+  },
+  "new: loaded cajun fries": {
+   "price_gbp": 7.95,
+   "basis": "collection",
+   "store": "Five Guys - Croydon Leisure (CR0 4YA)",
+   "name": "NEW: Loaded Cajun Fries"
+  },
+  "little salted fries": {
+   "price_gbp": 4.75,
+   "basis": "collection",
+   "store": "Five Guys - Croydon Leisure (CR0 4YA)",
+   "name": "LITTLE SALTED FRIES"
+  },
+  "regular salted fries": {
+   "price_gbp": 5.95,
+   "basis": "collection",
+   "store": "Five Guys - Croydon Leisure (CR0 4YA)",
+   "name": "REGULAR SALTED FRIES"
+  },
+  "large salted fries": {
+   "price_gbp": 6.95,
+   "basis": "collection",
+   "store": "Five Guys - Croydon Leisure (CR0 4YA)",
+   "name": "LARGE SALTED FRIES"
+  },
+  "little cajun fries": {
+   "price_gbp": 4.75,
+   "basis": "collection",
+   "store": "Five Guys - Croydon Leisure (CR0 4YA)",
+   "name": "Little Cajun Fries"
+  },
+  "regular cajun fries": {
+   "price_gbp": 5.95,
+   "basis": "collection",
+   "store": "Five Guys - Croydon Leisure (CR0 4YA)",
+   "name": "REGULAR CAJUN FRIES"
+  },
+  "large cajun fries": {
+   "price_gbp": 6.95,
+   "basis": "collection",
+   "store": "Five Guys - Croydon Leisure (CR0 4YA)",
+   "name": "Large Cajun Fries"
+  },
+  "milkshake": {
+   "price_gbp": 6.55,
+   "basis": "collection",
+   "store": "Five Guys - Croydon Leisure (CR0 4YA)",
+   "name": "Milkshake"
+  },
+  "little shake": {
+   "price_gbp": 4.35,
+   "basis": "collection",
+   "store": "Five Guys - Croydon Leisure (CR0 4YA)",
+   "name": "Little Shake"
+  },
+  "new: jimmy\u2019s iced coffee shake": {
+   "price_gbp": 6.55,
+   "basis": "collection",
+   "store": "Five Guys - Croydon Leisure (CR0 4YA)",
+   "name": "NEW: Jimmy\u2019s Iced Coffee Shake"
+  },
+  "returning: pistachio": {
+   "price_gbp": 6.55,
+   "basis": "collection",
+   "store": "Five Guys - Croydon Leisure (CR0 4YA)",
+   "name": "RETURNING: Pistachio"
+  },
+  "unlimited soda": {
+   "price_gbp": 4.55,
+   "basis": "collection",
+   "store": "Five Guys - Croydon Leisure (CR0 4YA)",
+   "name": "Unlimited Soda"
+  },
+  "hawkstone zero": {
+   "price_gbp": 6.15,
+   "basis": "collection",
+   "store": "Five Guys - Croydon Leisure (CR0 4YA)",
+   "name": "Hawkstone Zero"
+  },
+  "smart water": {
+   "price_gbp": 2.95,
+   "basis": "collection",
+   "store": "Five Guys - Croydon Leisure (CR0 4YA)",
+   "name": "Smart Water"
+  }
+ }
+}

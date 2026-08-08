@@ -1,0 +1,852 @@
+{
+ "chain_id": "slim_chickens",
+ "fetched_at": "2026-08-07T16:59:32Z",
+ "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+ "stores": [
+  "Slim Chickens Edgware Road Click & Collect (W2 2HR)"
+ ],
+ "basis": "collection",
+ "item_count": 140,
+ "prices": {
+  "3 tenders meal": {
+   "price_gbp": 11.35,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "3 Tenders Meal"
+  },
+  "4 tender meal": {
+   "price_gbp": 12.85,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "4 Tender Meal"
+  },
+  "5 tender meal": {
+   "price_gbp": 13.85,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "5 Tender Meal"
+  },
+  "7 tender meal": {
+   "price_gbp": 15.35,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "7 Tender Meal"
+  },
+  "6 wings meal": {
+   "price_gbp": 12.85,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "6 Wings Meal"
+  },
+  "6 crispy wings meal": {
+   "price_gbp": 12.85,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "6 Crispy Wings Meal"
+  },
+  "8 wings meal": {
+   "price_gbp": 14.85,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "8 Wings Meal"
+  },
+  "8 crispy wings meal": {
+   "price_gbp": 14.85,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "8 Crispy Wings Meal"
+  },
+  "10 wings meal": {
+   "price_gbp": 16.35,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "10 Wings Meal"
+  },
+  "10 crispy wings meal": {
+   "price_gbp": 16.35,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "10 Crispy Wings Meal"
+  },
+  "6 buffalo wings meal": {
+   "price_gbp": 12.85,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "6 Buffalo Wings Meal"
+  },
+  "8 buffalo wings meal": {
+   "price_gbp": 14.85,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "8 Buffalo Wings Meal"
+  },
+  "10 buffalo wings meal": {
+   "price_gbp": 16.35,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "10 Buffalo Wings Meal"
+  },
+  "6 honey bbq wings meal": {
+   "price_gbp": 12.85,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "6 Honey BBQ Wings Meal"
+  },
+  "8 honey bbq wings meal": {
+   "price_gbp": 14.85,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "8 Honey BBQ Wings Meal"
+  },
+  "10 honey bbq wings meal": {
+   "price_gbp": 16.35,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "10 Honey BBQ Wings Meal"
+  },
+  "6 boneless bites meal": {
+   "price_gbp": 12.85,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "6 Boneless Bites Meal"
+  },
+  "8 boneless bites meal": {
+   "price_gbp": 14.85,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "8 Boneless Bites Meal"
+  },
+  "10 boneless bites meal": {
+   "price_gbp": 16.35,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "10 Boneless Bites Meal"
+  },
+  "hot buffalo sandwich meal": {
+   "price_gbp": 14.25,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "Hot Buffalo Sandwich Meal"
+  },
+  "honey bbq sandwich meal": {
+   "price_gbp": 13.75,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "Honey BBQ Sandwich Meal"
+  },
+  "plant based buffalo sandwich meal": {
+   "price_gbp": 14.25,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "Plant Based Buffalo Sandwich Meal"
+  },
+  "classic chicken sandwich meal": {
+   "price_gbp": 12.75,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "Classic Chicken Sandwich Meal"
+  },
+  "chicken and bacon smoked caesar salad meal": {
+   "price_gbp": 13.35,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "Chicken and Bacon Smoked Caesar Salad Meal"
+  },
+  "smoked caesar salad meal": {
+   "price_gbp": 13.35,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "Smoked Caesar Salad Meal"
+  },
+  "salad meal": {
+   "price_gbp": 13.35,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "Salad Meal"
+  },
+  "chicken and bacon smoked caesar wrap meal": {
+   "price_gbp": 9.95,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "Chicken and Bacon Smoked Caesar Wrap Meal"
+  },
+  "smoked caesar wrap meal": {
+   "price_gbp": 9.95,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "Smoked Caesar Wrap Meal"
+  },
+  "slim's wrap meal": {
+   "price_gbp": 9.95,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "Slim's Wrap Meal"
+  },
+  "slims wrap meal": {
+   "price_gbp": 9.95,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "Slims Wrap Meal"
+  },
+  "buffalo wrap meal": {
+   "price_gbp": 9.95,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "Buffalo Wrap Meal"
+  },
+  "spider-man brand new day bundle": {
+   "price_gbp": 14.95,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "Spider-Man Brand New Day Bundle"
+  },
+  "3 & 3 meal": {
+   "price_gbp": 14.85,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "3 & 3 Meal"
+  },
+  "5 & 5 meal": {
+   "price_gbp": 17.35,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "5 & 5 Meal"
+  },
+  "3 plant based tenders meal": {
+   "price_gbp": 12.75,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "3 Plant Based Tenders Meal"
+  },
+  "jalapeno cheesy fries": {
+   "price_gbp": 4.95,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "Jalapeno Cheesy Fries"
+  },
+  "the big slims pot": {
+   "price_gbp": 3.95,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "The Big Slims Pot"
+  },
+  "the big slim's pot": {
+   "price_gbp": 3.95,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "The Big Slim's Pot"
+  },
+  "hot jalapeno cheese sauce": {
+   "price_gbp": 3.95,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "Hot Jalapeno Cheese Sauce"
+  },
+  "coleslaw": {
+   "price_gbp": 2.95,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "Coleslaw"
+  },
+  "mac & cheese": {
+   "price_gbp": 3.95,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "Mac & Cheese"
+  },
+  "gravy": {
+   "price_gbp": 2.95,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "Gravy"
+  },
+  "seasoned fries": {
+   "price_gbp": 3.95,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "Seasoned Fries"
+  },
+  "regular seasoned fries": {
+   "price_gbp": 3.95,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "Regular Seasoned Fries"
+  },
+  "buffalo chicken loaded fries": {
+   "price_gbp": 7.95,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "Buffalo Chicken Loaded Fries"
+  },
+  "hot honey ranch loaded fries": {
+   "price_gbp": 7.95,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "Hot Honey Ranch Loaded Fries"
+  },
+  "crispy fried onions": {
+   "price_gbp": 3.95,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "Crispy Fried Onions"
+  },
+  "fried pickles": {
+   "price_gbp": 3.95,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "Fried Pickles"
+  },
+  "texas toast": {
+   "price_gbp": 1.95,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "Texas Toast"
+  },
+  "3 sauces for 2": {
+   "price_gbp": 2.0,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "3 Sauces for 2"
+  },
+  "house sauce": {
+   "price_gbp": 1.45,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "House Sauce"
+  },
+  "slims cookie": {
+   "price_gbp": 2.95,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "Slims Cookie"
+  },
+  "slim's cookie": {
+   "price_gbp": 2.95,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "Slim's Cookie"
+  },
+  "side of 3 tenders": {
+   "price_gbp": 5.45,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "Side of 3 Tenders"
+  },
+  "3 tenders": {
+   "price_gbp": 5.45,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "3 Tenders"
+  },
+  "5 tenders solo": {
+   "price_gbp": 9.45,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "5 Tenders Solo"
+  },
+  "5 tenders": {
+   "price_gbp": 9.45,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "5 Tenders"
+  },
+  "7 tenders solo": {
+   "price_gbp": 11.45,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "7 Tenders Solo"
+  },
+  "7 tenders": {
+   "price_gbp": 11.45,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "7 Tenders"
+  },
+  "3 wings solo": {
+   "price_gbp": 4.45,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "3 Wings Solo"
+  },
+  "3 wings": {
+   "price_gbp": 4.45,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "3 Wings"
+  },
+  "3 crispy wings solo": {
+   "price_gbp": 4.45,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "3 Crispy Wings Solo"
+  },
+  "3 crispy wings": {
+   "price_gbp": 4.45,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "3 Crispy Wings"
+  },
+  "6 wings solo": {
+   "price_gbp": 8.45,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "6 Wings Solo"
+  },
+  "6 wings": {
+   "price_gbp": 8.45,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "6 Wings"
+  },
+  "6 crispy wings solo": {
+   "price_gbp": 8.45,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "6 Crispy Wings Solo"
+  },
+  "6 crispy wings": {
+   "price_gbp": 8.45,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "6 Crispy Wings"
+  },
+  "8 wings solo": {
+   "price_gbp": 10.45,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "8 Wings Solo"
+  },
+  "8 wings": {
+   "price_gbp": 10.45,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "8 Wings"
+  },
+  "8 crispy wings solo": {
+   "price_gbp": 10.45,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "8 Crispy Wings Solo"
+  },
+  "8 crispy wings": {
+   "price_gbp": 10.45,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "8 Crispy Wings"
+  },
+  "6 boneless bites solo": {
+   "price_gbp": 8.45,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "6 Boneless Bites Solo"
+  },
+  "6 boneless bites": {
+   "price_gbp": 8.45,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "6 Boneless Bites"
+  },
+  "8 boneless bites": {
+   "price_gbp": 10.45,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "8 Boneless Bites"
+  },
+  "10 boneless bites": {
+   "price_gbp": 11.95,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "10 Boneless Bites"
+  },
+  "the big ranch pot": {
+   "price_gbp": 3.95,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "The Big Ranch Pot"
+  },
+  "ranch": {
+   "price_gbp": 1.45,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "Ranch"
+  },
+  "garlic cheese": {
+   "price_gbp": 1.45,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "Garlic Cheese"
+  },
+  "gravy mayo": {
+   "price_gbp": 1.45,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "Gravy Mayo"
+  },
+  "slims sauce": {
+   "price_gbp": 1.45,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "Slims Sauce"
+  },
+  "slim's sauce": {
+   "price_gbp": 1.45,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "Slim's Sauce"
+  },
+  "honey mustard": {
+   "price_gbp": 1.45,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "Honey Mustard"
+  },
+  "blue cheese": {
+   "price_gbp": 1.45,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "Blue Cheese"
+  },
+  "honey bbq": {
+   "price_gbp": 1.45,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "Honey BBQ"
+  },
+  "sweet chilli": {
+   "price_gbp": 1.45,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "Sweet Chilli"
+  },
+  "cayenne ranch": {
+   "price_gbp": 1.45,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "Cayenne Ranch"
+  },
+  "korean bbq": {
+   "price_gbp": 1.45,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "Korean BBQ"
+  },
+  "mango habanero": {
+   "price_gbp": 1.45,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "Mango Habanero"
+  },
+  "spicy bbq": {
+   "price_gbp": 1.45,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "Spicy BBQ"
+  },
+  "buffalo": {
+   "price_gbp": 1.45,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "Buffalo"
+  },
+  "hot honey ranch": {
+   "price_gbp": 1.45,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "Hot Honey Ranch"
+  },
+  "slim reaper": {
+   "price_gbp": 1.45,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "Slim Reaper"
+  },
+  "salted caramel shake": {
+   "price_gbp": 6.0,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "Salted Caramel Shake"
+  },
+  "flake shake": {
+   "price_gbp": 6.0,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "Flake Shake"
+  },
+  "biscoff shake": {
+   "price_gbp": 6.0,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "Biscoff Shake"
+  },
+  "vanilla shake": {
+   "price_gbp": 6.0,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "Vanilla Shake"
+  },
+  "strawberry shake": {
+   "price_gbp": 6.0,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "Strawberry Shake"
+  },
+  "chocolate shake": {
+   "price_gbp": 6.0,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "Chocolate Shake"
+  },
+  "oreo shake": {
+   "price_gbp": 6.0,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "Oreo Shake"
+  },
+  "popcorn shake": {
+   "price_gbp": 6.0,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "Popcorn Shake"
+  },
+  "bottomless soft drink": {
+   "price_gbp": 3.45,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "Bottomless Soft Drink"
+  },
+  "monster ultra": {
+   "price_gbp": 3.5,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "Monster Ultra"
+  },
+  "monster mango": {
+   "price_gbp": 3.8,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "Monster Mango"
+  },
+  "still water": {
+   "price_gbp": 1.5,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "Still Water"
+  },
+  "tropicana oj": {
+   "price_gbp": 2.5,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "Tropicana OJ"
+  },
+  "lucky saint": {
+   "price_gbp": 5.0,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "Lucky Saint"
+  },
+  "brixton coldharbour lager": {
+   "price_gbp": 6.0,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "Brixton Coldharbour Lager"
+  },
+  "brixton low voltage session ip": {
+   "price_gbp": 6.0,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "Brixton Low Voltage Session IP"
+  },
+  "kids boneless bite meal": {
+   "price_gbp": 6.95,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "Kids Boneless Bite Meal"
+  },
+  "kid's tender meal": {
+   "price_gbp": 6.95,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "Kid's Tender Meal"
+  },
+  "kids tender meal": {
+   "price_gbp": 6.95,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "Kids Tender Meal"
+  },
+  "kid's mac and tender bowl": {
+   "price_gbp": 6.95,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "Kid's Mac and Tender Bowl"
+  },
+  "kids mac and tender bowl": {
+   "price_gbp": 6.95,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "Kids Mac and Tender Bowl"
+  },
+  "chicken and bacon smoked caesar salad solo": {
+   "price_gbp": 9.45,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "Chicken and Bacon Smoked Caesar Salad Solo"
+  },
+  "smoked caesar salad solo": {
+   "price_gbp": 9.45,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "Smoked Caesar Salad Solo"
+  },
+  "chicken and bacon smoked caesar salad": {
+   "price_gbp": 9.45,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "Chicken and Bacon Smoked Caesar Salad"
+  },
+  "smoked caesar salad": {
+   "price_gbp": 9.45,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "Smoked Caesar Salad"
+  },
+  "chicken and bacon smoked caesar wrap solo": {
+   "price_gbp": 4.95,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "Chicken and Bacon Smoked Caesar Wrap Solo"
+  },
+  "smoked caesar wrap solo": {
+   "price_gbp": 4.95,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "Smoked Caesar Wrap Solo"
+  },
+  "chicken and bacon smoked caesar wrap": {
+   "price_gbp": 4.95,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "Chicken and Bacon Smoked Caesar Wrap"
+  },
+  "smoked caesar wrap": {
+   "price_gbp": 4.95,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "Smoked Caesar Wrap"
+  },
+  "3 tenders solo": {
+   "price_gbp": 5.45,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "3 Tenders Solo"
+  },
+  "slims wrap solo": {
+   "price_gbp": 4.95,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "Slims Wrap Solo"
+  },
+  "slim's wrap solo": {
+   "price_gbp": 4.95,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "Slim's Wrap Solo"
+  },
+  "slims wrap": {
+   "price_gbp": 4.95,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "Slims Wrap"
+  },
+  "slim's wrap": {
+   "price_gbp": 4.95,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "Slim's Wrap"
+  },
+  "buffalo wrap solo": {
+   "price_gbp": 4.95,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "Buffalo Wrap Solo"
+  },
+  "buffalo wrap": {
+   "price_gbp": 4.95,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "Buffalo Wrap"
+  },
+  "6 buffalo wings solo": {
+   "price_gbp": 8.45,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "6 Buffalo Wings Solo"
+  },
+  "6 buffalo wings": {
+   "price_gbp": 8.45,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "6 Buffalo Wings"
+  },
+  "8 buffalo wings solo": {
+   "price_gbp": 10.45,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "8 Buffalo Wings Solo"
+  },
+  "8 buffalo wings": {
+   "price_gbp": 10.45,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "8 Buffalo Wings"
+  },
+  "10 buffalo wings solo": {
+   "price_gbp": 11.95,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "10 Buffalo Wings Solo"
+  },
+  "10 buffalo wings": {
+   "price_gbp": 11.95,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "10 Buffalo Wings"
+  },
+  "6 honey bbq wings solo": {
+   "price_gbp": 8.45,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "6 Honey BBQ Wings Solo"
+  },
+  "6 honey bbq wings": {
+   "price_gbp": 8.45,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "6 Honey BBQ Wings"
+  },
+  "8 honey bbq wings solo": {
+   "price_gbp": 10.45,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "8 Honey BBQ Wings Solo"
+  },
+  "8 honey bbq wings": {
+   "price_gbp": 10.45,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "8 Honey BBQ Wings"
+  },
+  "10 honey bbq wings solo": {
+   "price_gbp": 11.95,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "10 Honey BBQ Wings Solo"
+  },
+  "10 honey bbq wings": {
+   "price_gbp": 11.95,
+   "basis": "collection",
+   "store": "Slim Chickens Edgware Road Click & Collect (W2 2HR)",
+   "name": "10 Honey BBQ Wings"
+  }
+ }
+}

@@ -1,0 +1,594 @@
+{
+ "chain_id": "wimpy",
+ "fetched_at": "2026-08-07T17:03:15Z",
+ "store": "Wimpy - Morden",
+ "stores": [
+  "Wimpy - Morden"
+ ],
+ "basis": "collection",
+ "item_count": 97,
+ "prices": {
+  "kids' hamburger meal": {
+   "price_gbp": 5.4,
+   "basis": "collection",
+   "store": "Wimpy - Morden",
+   "name": "Kids' Hamburger Meal"
+  },
+  "kids hamburger meal": {
+   "price_gbp": 5.4,
+   "basis": "collection",
+   "store": "Wimpy - Morden",
+   "name": "Kids Hamburger Meal"
+  },
+  "bacon & egg muffin": {
+   "price_gbp": 3.9,
+   "basis": "collection",
+   "store": "Wimpy - Morden",
+   "name": "Bacon & Egg Muffin"
+  },
+  "wimpy whirl": {
+   "price_gbp": 3.1,
+   "basis": "collection",
+   "store": "Wimpy - Morden",
+   "name": "Wimpy Whirl"
+  },
+  "pepsi\u00ae": {
+   "price_gbp": 3.65,
+   "basis": "collection",
+   "store": "Wimpy - Morden",
+   "name": "Pepsi\u00ae"
+  },
+  "kids' 2 crispy chicken strips meal": {
+   "price_gbp": 5.4,
+   "basis": "collection",
+   "store": "Wimpy - Morden",
+   "name": "Kids' 2 Crispy Chicken Strips Meal"
+  },
+  "kids 2 crispy chicken strips meal": {
+   "price_gbp": 5.4,
+   "basis": "collection",
+   "store": "Wimpy - Morden",
+   "name": "Kids 2 Crispy Chicken Strips Meal"
+  },
+  "pepsi max cherry\u00ae": {
+   "price_gbp": 3.65,
+   "basis": "collection",
+   "store": "Wimpy - Morden",
+   "name": "Pepsi Max Cherry\u00ae"
+  },
+  "wimpy chips": {
+   "price_gbp": 3.75,
+   "basis": "collection",
+   "store": "Wimpy - Morden",
+   "name": "Wimpy Chips"
+  },
+  "hash brown": {
+   "price_gbp": 1.65,
+   "basis": "collection",
+   "store": "Wimpy - Morden",
+   "name": "Hash Brown"
+  },
+  "sausage, egg & hash brown muffin": {
+   "price_gbp": 4.65,
+   "basis": "collection",
+   "store": "Wimpy - Morden",
+   "name": "Sausage, Egg & Hash Brown Muffin"
+  },
+  "spicy bean & slaw meal": {
+   "price_gbp": 14.25,
+   "basis": "collection",
+   "store": "Wimpy - Morden",
+   "name": "Spicy Bean & Slaw Meal"
+  },
+  "wimpy mayo": {
+   "price_gbp": 1.4,
+   "basis": "collection",
+   "store": "Wimpy - Morden",
+   "name": "Wimpy Mayo"
+  },
+  "coleslaw": {
+   "price_gbp": 1.5,
+   "basis": "collection",
+   "store": "Wimpy - Morden",
+   "name": "Coleslaw"
+  },
+  "chocolate thick shake": {
+   "price_gbp": 4.95,
+   "basis": "collection",
+   "store": "Wimpy - Morden",
+   "name": "Chocolate Thick Shake"
+  },
+  "wimpy hamburger meal": {
+   "price_gbp": 12.0,
+   "basis": "collection",
+   "store": "Wimpy - Morden",
+   "name": "Wimpy Hamburger Meal"
+  },
+  "with regular chips": {
+   "price_gbp": 0.0,
+   "basis": "collection",
+   "store": "Wimpy - Morden",
+   "name": "With regular chips"
+  },
+  "10 onion rings": {
+   "price_gbp": 4.95,
+   "basis": "collection",
+   "store": "Wimpy - Morden",
+   "name": "10 Onion Rings"
+  },
+  "hot n loaded meal": {
+   "price_gbp": 16.7,
+   "basis": "collection",
+   "store": "Wimpy - Morden",
+   "name": "Hot N Loaded Meal"
+  },
+  "fish burger": {
+   "price_gbp": 6.95,
+   "basis": "collection",
+   "store": "Wimpy - Morden",
+   "name": "Fish Burger"
+  },
+  "vanilla thick shake": {
+   "price_gbp": 4.95,
+   "basis": "collection",
+   "store": "Wimpy - Morden",
+   "name": "Vanilla Thick Shake"
+  },
+  "tango orange sugar free\u00ae": {
+   "price_gbp": 3.65,
+   "basis": "collection",
+   "store": "Wimpy - Morden",
+   "name": "Tango Orange Sugar Free\u00ae"
+  },
+  "quarterpounder bacon & cheese": {
+   "price_gbp": 8.6,
+   "basis": "collection",
+   "store": "Wimpy - Morden",
+   "name": "Quarterpounder Bacon & Cheese"
+  },
+  "wimpy ketchup": {
+   "price_gbp": 1.4,
+   "basis": "collection",
+   "store": "Wimpy - Morden",
+   "name": "Wimpy Ketchup"
+  },
+  "hash brown & egg muffin": {
+   "price_gbp": 3.9,
+   "basis": "collection",
+   "store": "Wimpy - Morden",
+   "name": "Hash Brown & Egg Muffin"
+  },
+  "steakhouse seasoned chips": {
+   "price_gbp": 3.85,
+   "basis": "collection",
+   "store": "Wimpy - Morden",
+   "name": "Steakhouse Seasoned Chips"
+  },
+  "vegan mayo": {
+   "price_gbp": 1.4,
+   "basis": "collection",
+   "store": "Wimpy - Morden",
+   "name": "Vegan Mayo"
+  },
+  "hp\u2122 sauce": {
+   "price_gbp": 1.4,
+   "basis": "collection",
+   "store": "Wimpy - Morden",
+   "name": "HP\u2122 Sauce"
+  },
+  "wimpy whirl with strawberry sauce": {
+   "price_gbp": 3.95,
+   "basis": "collection",
+   "store": "Wimpy - Morden",
+   "name": "Wimpy Whirl with Strawberry Sauce"
+  },
+  "the beyond burger\u00ae": {
+   "price_gbp": 10.6,
+   "basis": "collection",
+   "store": "Wimpy - Morden",
+   "name": "The Beyond Burger\u00ae"
+  },
+  "big n mighty": {
+   "price_gbp": 12.0,
+   "basis": "collection",
+   "store": "Wimpy - Morden",
+   "name": "Big N Mighty"
+  },
+  "fish burger meal": {
+   "price_gbp": 14.35,
+   "basis": "collection",
+   "store": "Wimpy - Morden",
+   "name": "Fish Burger Meal"
+  },
+  "quarterpounder bacon & cheese meal": {
+   "price_gbp": 16.0,
+   "basis": "collection",
+   "store": "Wimpy - Morden",
+   "name": "Quarterpounder Bacon & Cheese Meal"
+  },
+  "lipton ice tea\u00ae lemon bottle": {
+   "price_gbp": 3.95,
+   "basis": "collection",
+   "store": "Wimpy - Morden",
+   "name": "Lipton Ice Tea\u00ae Lemon Bottle"
+  },
+  "wimpy hamburger": {
+   "price_gbp": 4.6,
+   "basis": "collection",
+   "store": "Wimpy - Morden",
+   "name": "Wimpy Hamburger"
+  },
+  "crispy chicken": {
+   "price_gbp": 7.4,
+   "basis": "collection",
+   "store": "Wimpy - Morden",
+   "name": "Crispy Chicken"
+  },
+  "5 plant-based strips": {
+   "price_gbp": 7.65,
+   "basis": "collection",
+   "store": "Wimpy - Morden",
+   "name": "5 Plant-based Strips"
+  },
+  "the beyond burger\u00ae meal": {
+   "price_gbp": 18.0,
+   "basis": "collection",
+   "store": "Wimpy - Morden",
+   "name": "The Beyond Burger\u00ae Meal"
+  },
+  "big n mighty meal": {
+   "price_gbp": 19.4,
+   "basis": "collection",
+   "store": "Wimpy - Morden",
+   "name": "Big N Mighty Meal"
+  },
+  "bendy & cheese meal": {
+   "price_gbp": 13.2,
+   "basis": "collection",
+   "store": "Wimpy - Morden",
+   "name": "Bendy & Cheese Meal"
+  },
+  "kids' cheeseburger meal": {
+   "price_gbp": 5.4,
+   "basis": "collection",
+   "store": "Wimpy - Morden",
+   "name": "Kids' Cheeseburger Meal"
+  },
+  "kids cheeseburger meal": {
+   "price_gbp": 5.4,
+   "basis": "collection",
+   "store": "Wimpy - Morden",
+   "name": "Kids Cheeseburger Meal"
+  },
+  "wimpy special sauce (contains: egg & mustard)": {
+   "price_gbp": 1.4,
+   "basis": "collection",
+   "store": "Wimpy - Morden",
+   "name": "Wimpy Special Sauce (Contains: Egg & Mustard)"
+  },
+  "spicy bean & slaw": {
+   "price_gbp": 6.85,
+   "basis": "collection",
+   "store": "Wimpy - Morden",
+   "name": "Spicy Bean & Slaw"
+  },
+  "6 mozzarella melts": {
+   "price_gbp": 5.05,
+   "basis": "collection",
+   "store": "Wimpy - Morden",
+   "name": "6 Mozzarella Melts"
+  },
+  "kids' 2 plant-based strips meal": {
+   "price_gbp": 5.4,
+   "basis": "collection",
+   "store": "Wimpy - Morden",
+   "name": "Kids' 2 Plant-based Strips Meal"
+  },
+  "kids 2 plant-based strips meal": {
+   "price_gbp": 5.4,
+   "basis": "collection",
+   "store": "Wimpy - Morden",
+   "name": "Kids 2 Plant-based Strips Meal"
+  },
+  "iced coffee": {
+   "price_gbp": 3.3,
+   "basis": "collection",
+   "store": "Wimpy - Morden",
+   "name": "Iced Coffee"
+  },
+  "crispy chicken stack": {
+   "price_gbp": 8.3,
+   "basis": "collection",
+   "store": "Wimpy - Morden",
+   "name": "Crispy Chicken Stack"
+  },
+  "sweet potato chips upgrade": {
+   "price_gbp": 0.0,
+   "basis": "collection",
+   "store": "Wimpy - Morden",
+   "name": "Sweet Potato Chips Upgrade"
+  },
+  "still ballygowan water\u00ae": {
+   "price_gbp": 2.2,
+   "basis": "collection",
+   "store": "Wimpy - Morden",
+   "name": "Still Ballygowan Water\u00ae"
+  },
+  "wimpy whirl with chocolate sauce": {
+   "price_gbp": 3.95,
+   "basis": "collection",
+   "store": "Wimpy - Morden",
+   "name": "Wimpy Whirl with Chocolate Sauce"
+  },
+  "double wimpy cheeseburger": {
+   "price_gbp": 8.35,
+   "basis": "collection",
+   "store": "Wimpy - Morden",
+   "name": "Double Wimpy Cheeseburger"
+  },
+  "original quarterpounder cheese meal": {
+   "price_gbp": 14.15,
+   "basis": "collection",
+   "store": "Wimpy - Morden",
+   "name": "Original Quarterpounder Cheese Meal"
+  },
+  "mushrooms": {
+   "price_gbp": 1.65,
+   "basis": "collection",
+   "store": "Wimpy - Morden",
+   "name": "Mushrooms"
+  },
+  "original halfpounder": {
+   "price_gbp": 10.8,
+   "basis": "collection",
+   "store": "Wimpy - Morden",
+   "name": "Original Halfpounder"
+  },
+  "original halfpounder meal": {
+   "price_gbp": 18.2,
+   "basis": "collection",
+   "store": "Wimpy - Morden",
+   "name": "Original Halfpounder Meal"
+  },
+  "wimpy cheeseburger meal": {
+   "price_gbp": 12.7,
+   "basis": "collection",
+   "store": "Wimpy - Morden",
+   "name": "Wimpy Cheeseburger Meal"
+  },
+  "hot n loaded": {
+   "price_gbp": 9.3,
+   "basis": "collection",
+   "store": "Wimpy - Morden",
+   "name": "Hot N Loaded"
+  },
+  "battered cod & chips": {
+   "price_gbp": 12.0,
+   "basis": "collection",
+   "store": "Wimpy - Morden",
+   "name": "Battered Cod & Chips"
+  },
+  "steakhouse seasoned chips upgrade": {
+   "price_gbp": 0.0,
+   "basis": "collection",
+   "store": "Wimpy - Morden",
+   "name": "Steakhouse Seasoned Chips Upgrade"
+  },
+  "bbq sauce": {
+   "price_gbp": 1.4,
+   "basis": "collection",
+   "store": "Wimpy - Morden",
+   "name": "BBQ Sauce"
+  },
+  "crispy chicken bacon stack meal": {
+   "price_gbp": 17.35,
+   "basis": "collection",
+   "store": "Wimpy - Morden",
+   "name": "Crispy Chicken Bacon Stack Meal"
+  },
+  "habanero sauce": {
+   "price_gbp": 1.4,
+   "basis": "collection",
+   "store": "Wimpy - Morden",
+   "name": "Habanero Sauce"
+  },
+  "5 chicken strips": {
+   "price_gbp": 7.65,
+   "basis": "collection",
+   "store": "Wimpy - Morden",
+   "name": "5 Chicken Strips"
+  },
+  "salted caramel thick shake": {
+   "price_gbp": 4.95,
+   "basis": "collection",
+   "store": "Wimpy - Morden",
+   "name": "Salted Caramel Thick Shake"
+  },
+  "bendy & cheese": {
+   "price_gbp": 5.8,
+   "basis": "collection",
+   "store": "Wimpy - Morden",
+   "name": "Bendy & Cheese"
+  },
+  "double sausage, egg & hash brown muffin": {
+   "price_gbp": 5.8,
+   "basis": "collection",
+   "store": "Wimpy - Morden",
+   "name": "Double Sausage, Egg & Hash Brown Muffin"
+  },
+  "double wimpy cheeseburger meal": {
+   "price_gbp": 15.75,
+   "basis": "collection",
+   "store": "Wimpy - Morden",
+   "name": "Double Wimpy Cheeseburger Meal"
+  },
+  "4 mozzarella melts": {
+   "price_gbp": 3.7,
+   "basis": "collection",
+   "store": "Wimpy - Morden",
+   "name": "4 Mozzarella Melts"
+  },
+  "coffee thick shake": {
+   "price_gbp": 4.95,
+   "basis": "collection",
+   "store": "Wimpy - Morden",
+   "name": "Coffee Thick Shake"
+  },
+  "banana thick shake": {
+   "price_gbp": 4.95,
+   "basis": "collection",
+   "store": "Wimpy - Morden",
+   "name": "Banana Thick Shake"
+  },
+  "pepsi max\u00ae": {
+   "price_gbp": 3.65,
+   "basis": "collection",
+   "store": "Wimpy - Morden",
+   "name": "Pepsi Max\u00ae"
+  },
+  "6 onion rings": {
+   "price_gbp": 3.7,
+   "basis": "collection",
+   "store": "Wimpy - Morden",
+   "name": "6 Onion Rings"
+  },
+  "breakfast stack": {
+   "price_gbp": 7.2,
+   "basis": "collection",
+   "store": "Wimpy - Morden",
+   "name": "Breakfast Stack"
+  },
+  "3 chicken strips": {
+   "price_gbp": 4.35,
+   "basis": "collection",
+   "store": "Wimpy - Morden",
+   "name": "3 Chicken Strips"
+  },
+  "crispy chicken meal": {
+   "price_gbp": 14.8,
+   "basis": "collection",
+   "store": "Wimpy - Morden",
+   "name": "Crispy Chicken Meal"
+  },
+  "lipton ice tea\u00ae peach bottle": {
+   "price_gbp": 3.95,
+   "basis": "collection",
+   "store": "Wimpy - Morden",
+   "name": "Lipton Ice Tea\u00ae Peach Bottle"
+  },
+  "sweet potato chips": {
+   "price_gbp": 5.05,
+   "basis": "collection",
+   "store": "Wimpy - Morden",
+   "name": "Sweet Potato Chips"
+  },
+  "10 plant-based strips": {
+   "price_gbp": 13.1,
+   "basis": "collection",
+   "store": "Wimpy - Morden",
+   "name": "10 Plant-based Strips"
+  },
+  "peas": {
+   "price_gbp": 1.65,
+   "basis": "collection",
+   "store": "Wimpy - Morden",
+   "name": "Peas"
+  },
+  "10 chicken strips": {
+   "price_gbp": 13.1,
+   "basis": "collection",
+   "store": "Wimpy - Morden",
+   "name": "10 Chicken Strips"
+  },
+  "crispy chicken bacon stack": {
+   "price_gbp": 9.95,
+   "basis": "collection",
+   "store": "Wimpy - Morden",
+   "name": "Crispy Chicken Bacon Stack"
+  },
+  "chicken wrap": {
+   "price_gbp": 5.75,
+   "basis": "collection",
+   "store": "Wimpy - Morden",
+   "name": "Chicken Wrap"
+  },
+  "halfpounder bacon & cheese meal": {
+   "price_gbp": 20.05,
+   "basis": "collection",
+   "store": "Wimpy - Morden",
+   "name": "Halfpounder Bacon & Cheese Meal"
+  },
+  "3 plant-based strips": {
+   "price_gbp": 4.35,
+   "basis": "collection",
+   "store": "Wimpy - Morden",
+   "name": "3 Plant-based Strips"
+  },
+  "bacon, egg & hash brown muffin": {
+   "price_gbp": 4.65,
+   "basis": "collection",
+   "store": "Wimpy - Morden",
+   "name": "Bacon, Egg & Hash Brown Muffin"
+  },
+  "halfpounder bacon & cheese": {
+   "price_gbp": 12.65,
+   "basis": "collection",
+   "store": "Wimpy - Morden",
+   "name": "Halfpounder Bacon & Cheese"
+  },
+  "plant-based wrap": {
+   "price_gbp": 5.75,
+   "basis": "collection",
+   "store": "Wimpy - Morden",
+   "name": "Plant-based Wrap"
+  },
+  "crispy chicken stack meal": {
+   "price_gbp": 15.7,
+   "basis": "collection",
+   "store": "Wimpy - Morden",
+   "name": "Crispy Chicken Stack Meal"
+  },
+  "strawberry thick shake": {
+   "price_gbp": 4.95,
+   "basis": "collection",
+   "store": "Wimpy - Morden",
+   "name": "Strawberry Thick Shake"
+  },
+  "7up zero sugar\u00ae": {
+   "price_gbp": 3.65,
+   "basis": "collection",
+   "store": "Wimpy - Morden",
+   "name": "7UP Zero Sugar\u00ae"
+  },
+  "sausage & egg muffin": {
+   "price_gbp": 3.9,
+   "basis": "collection",
+   "store": "Wimpy - Morden",
+   "name": "Sausage & Egg Muffin"
+  },
+  "double bacon, egg & hash brown muffin": {
+   "price_gbp": 5.8,
+   "basis": "collection",
+   "store": "Wimpy - Morden",
+   "name": "Double Bacon, Egg & Hash Brown Muffin"
+  },
+  "wimpy cheeseburger": {
+   "price_gbp": 5.3,
+   "basis": "collection",
+   "store": "Wimpy - Morden",
+   "name": "Wimpy Cheeseburger"
+  },
+  "heinz\u00ae baked beans": {
+   "price_gbp": 1.65,
+   "basis": "collection",
+   "store": "Wimpy - Morden",
+   "name": "Heinz\u00ae Baked Beans"
+  },
+  "original quarterpounder cheese": {
+   "price_gbp": 6.75,
+   "basis": "collection",
+   "store": "Wimpy - Morden",
+   "name": "Original Quarterpounder Cheese"
+  }
+ }
+}

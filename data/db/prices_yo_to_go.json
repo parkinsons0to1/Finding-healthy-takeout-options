@@ -1,0 +1,336 @@
+{
+ "chain_id": "yo_to_go",
+ "fetched_at": "2026-08-07T17:01:11Z",
+ "store": "Yo! Tesco Kiosk -  Tooley Street",
+ "stores": [
+  "Yo! Tesco Kiosk -  Tooley Street"
+ ],
+ "basis": "collection",
+ "item_count": 54,
+ "prices": {
+  "korean beef rice bowl": {
+   "price_gbp": 7.25,
+   "basis": "collection",
+   "store": "Yo! Tesco Kiosk -  Tooley Street",
+   "name": "Korean beef rice bowl"
+  },
+  "mango and passionfruit bubble tea": {
+   "price_gbp": 4.5,
+   "basis": "collection",
+   "store": "Yo! Tesco Kiosk -  Tooley Street",
+   "name": "mango and passionfruit bubble tea"
+  },
+  "salmon nigiri": {
+   "price_gbp": 6.95,
+   "basis": "collection",
+   "store": "Yo! Tesco Kiosk -  Tooley Street",
+   "name": "salmon nigiri"
+  },
+  "tokyo! top hits": {
+   "price_gbp": 10.95,
+   "basis": "collection",
+   "store": "Yo! Tesco Kiosk -  Tooley Street",
+   "name": "TokYO! top hits"
+  },
+  "chicken katsu curry": {
+   "price_gbp": 6.95,
+   "basis": "collection",
+   "store": "Yo! Tesco Kiosk -  Tooley Street",
+   "name": "chicken katsu curry"
+  },
+  "inari nigiri": {
+   "price_gbp": 4.55,
+   "basis": "collection",
+   "store": "Yo! Tesco Kiosk -  Tooley Street",
+   "name": "inari nigiri"
+  },
+  "veggie crunch roll": {
+   "price_gbp": 7.25,
+   "basis": "collection",
+   "store": "Yo! Tesco Kiosk -  Tooley Street",
+   "name": "veggie crunch roll"
+  },
+  "cucumber maki": {
+   "price_gbp": 3.25,
+   "basis": "collection",
+   "store": "Yo! Tesco Kiosk -  Tooley Street",
+   "name": "cucumber maki"
+  },
+  "wasabi": {
+   "price_gbp": 0.15,
+   "basis": "collection",
+   "store": "Yo! Tesco Kiosk -  Tooley Street",
+   "name": "wasabi"
+  },
+  "california crunch roll": {
+   "price_gbp": 7.75,
+   "basis": "collection",
+   "store": "Yo! Tesco Kiosk -  Tooley Street",
+   "name": "california crunch roll"
+  },
+  "edamame": {
+   "price_gbp": 3.25,
+   "basis": "collection",
+   "store": "Yo! Tesco Kiosk -  Tooley Street",
+   "name": "edamame"
+  },
+  "tuna + cucumber onigiri": {
+   "price_gbp": 3.95,
+   "basis": "collection",
+   "store": "Yo! Tesco Kiosk -  Tooley Street",
+   "name": "tuna + cucumber onigiri"
+  },
+  "little moons mango cheesecake mochi": {
+   "price_gbp": 3.75,
+   "basis": "collection",
+   "store": "Yo! Tesco Kiosk -  Tooley Street",
+   "name": "little moons mango cheesecake mochi"
+  },
+  "salmon + avocado roll": {
+   "price_gbp": 7.25,
+   "basis": "collection",
+   "store": "Yo! Tesco Kiosk -  Tooley Street",
+   "name": "salmon + avocado roll"
+  },
+  "chicken all stars": {
+   "price_gbp": 17.95,
+   "basis": "collection",
+   "store": "Yo! Tesco Kiosk -  Tooley Street",
+   "name": "chicken all stars"
+  },
+  "sushi sharer": {
+   "price_gbp": 17.95,
+   "basis": "collection",
+   "store": "Yo! Tesco Kiosk -  Tooley Street",
+   "name": "sushi sharer"
+  },
+  "spicy california roll": {
+   "price_gbp": 7.25,
+   "basis": "collection",
+   "store": "Yo! Tesco Kiosk -  Tooley Street",
+   "name": "spicy california roll"
+  },
+  "korean chicken onigiri": {
+   "price_gbp": 3.95,
+   "basis": "collection",
+   "store": "Yo! Tesco Kiosk -  Tooley Street",
+   "name": "Korean chicken onigiri"
+  },
+  "strawberry ramune soda": {
+   "price_gbp": 3.5,
+   "basis": "collection",
+   "store": "Yo! Tesco Kiosk -  Tooley Street",
+   "name": "strawberry ramune soda"
+  },
+  "soy sauce": {
+   "price_gbp": 0.15,
+   "basis": "collection",
+   "store": "Yo! Tesco Kiosk -  Tooley Street",
+   "name": "soy sauce"
+  },
+  "feed 2 for \u00a320": {
+   "price_gbp": 20.0,
+   "basis": "collection",
+   "store": "Yo! Tesco Kiosk -  Tooley Street",
+   "name": "Feed 2 for \u00a320"
+  },
+  "sapporo seafood platter": {
+   "price_gbp": 17.95,
+   "basis": "collection",
+   "store": "Yo! Tesco Kiosk -  Tooley Street",
+   "name": "sapporo seafood platter"
+  },
+  "korean chicken rice bowl": {
+   "price_gbp": 6.95,
+   "basis": "collection",
+   "store": "Yo! Tesco Kiosk -  Tooley Street",
+   "name": "Korean chicken rice bowl"
+  },
+  "california roll": {
+   "price_gbp": 7.25,
+   "basis": "collection",
+   "store": "Yo! Tesco Kiosk -  Tooley Street",
+   "name": "california Roll"
+  },
+  "yo! faves pick 'n' mix": {
+   "price_gbp": 10.95,
+   "basis": "collection",
+   "store": "Yo! Tesco Kiosk -  Tooley Street",
+   "name": "YO! faves pick 'n' mix"
+  },
+  "shrimply the best": {
+   "price_gbp": 17.95,
+   "basis": "collection",
+   "store": "Yo! Tesco Kiosk -  Tooley Street",
+   "name": "shrimply the best"
+  },
+  "korean chicken noodles": {
+   "price_gbp": 6.95,
+   "basis": "collection",
+   "store": "Yo! Tesco Kiosk -  Tooley Street",
+   "name": "Korean chicken noodles"
+  },
+  "spicy salmon + avocado crunch roll": {
+   "price_gbp": 7.75,
+   "basis": "collection",
+   "store": "Yo! Tesco Kiosk -  Tooley Street",
+   "name": "spicy salmon + avocado crunch roll"
+  },
+  "prawn katsu crunch roll": {
+   "price_gbp": 7.75,
+   "basis": "collection",
+   "store": "Yo! Tesco Kiosk -  Tooley Street",
+   "name": "prawn katsu crunch roll"
+  },
+  "korean chicken bites": {
+   "price_gbp": 6.95,
+   "basis": "collection",
+   "store": "Yo! Tesco Kiosk -  Tooley Street",
+   "name": "Korean chicken bites"
+  },
+  "chicken katsu crunch roll": {
+   "price_gbp": 7.75,
+   "basis": "collection",
+   "store": "Yo! Tesco Kiosk -  Tooley Street",
+   "name": "chicken katsu crunch roll"
+  },
+  "avocado maki": {
+   "price_gbp": 3.25,
+   "basis": "collection",
+   "store": "Yo! Tesco Kiosk -  Tooley Street",
+   "name": "avocado maki"
+  },
+  "o-mega salmon": {
+   "price_gbp": 10.95,
+   "basis": "collection",
+   "store": "Yo! Tesco Kiosk -  Tooley Street",
+   "name": "o-mega salmon"
+  },
+  "ramune soda": {
+   "price_gbp": 3.5,
+   "basis": "collection",
+   "store": "Yo! Tesco Kiosk -  Tooley Street",
+   "name": "ramune soda"
+  },
+  "spicy chicken katsu roll": {
+   "price_gbp": 7.25,
+   "basis": "collection",
+   "store": "Yo! Tesco Kiosk -  Tooley Street",
+   "name": "spicy chicken katsu roll"
+  },
+  "classic catch": {
+   "price_gbp": 17.95,
+   "basis": "collection",
+   "store": "Yo! Tesco Kiosk -  Tooley Street",
+   "name": "classic catch"
+  },
+  "ginger": {
+   "price_gbp": 0.15,
+   "basis": "collection",
+   "store": "Yo! Tesco Kiosk -  Tooley Street",
+   "name": "ginger"
+  },
+  "chicken gyoza": {
+   "price_gbp": 5.25,
+   "basis": "collection",
+   "store": "Yo! Tesco Kiosk -  Tooley Street",
+   "name": "chicken gyoza"
+  },
+  "roll & 2 sides": {
+   "price_gbp": 12.95,
+   "basis": "collection",
+   "store": "Yo! Tesco Kiosk -  Tooley Street",
+   "name": "Roll & 2 Sides"
+  },
+  "osaka veggie platter": {
+   "price_gbp": 17.95,
+   "basis": "collection",
+   "store": "Yo! Tesco Kiosk -  Tooley Street",
+   "name": "osaka veggie platter"
+  },
+  "duck teriyaki rice bowl": {
+   "price_gbp": 6.95,
+   "basis": "collection",
+   "store": "Yo! Tesco Kiosk -  Tooley Street",
+   "name": "duck teriyaki rice bowl"
+  },
+  "pumpkin katsu curry": {
+   "price_gbp": 6.55,
+   "basis": "collection",
+   "store": "Yo! Tesco Kiosk -  Tooley Street",
+   "name": "pumpkin katsu curry"
+  },
+  "kaiso salad": {
+   "price_gbp": 3.95,
+   "basis": "collection",
+   "store": "Yo! Tesco Kiosk -  Tooley Street",
+   "name": "kaiso salad"
+  },
+  "little moons raspberry white chocolate mochi": {
+   "price_gbp": 3.75,
+   "basis": "collection",
+   "store": "Yo! Tesco Kiosk -  Tooley Street",
+   "name": "little moons raspberry white chocolate mochi"
+  },
+  "duck gyoza": {
+   "price_gbp": 5.75,
+   "basis": "collection",
+   "store": "Yo! Tesco Kiosk -  Tooley Street",
+   "name": "duck gyoza"
+  },
+  "strawberry lemonade bubble tea": {
+   "price_gbp": 4.5,
+   "basis": "collection",
+   "store": "Yo! Tesco Kiosk -  Tooley Street",
+   "name": "strawberry lemonade bubble tea"
+  },
+  "teriyaki chicken bites": {
+   "price_gbp": 6.95,
+   "basis": "collection",
+   "store": "Yo! Tesco Kiosk -  Tooley Street",
+   "name": "teriyaki chicken bites"
+  },
+  "salmon maki": {
+   "price_gbp": 4.45,
+   "basis": "collection",
+   "store": "Yo! Tesco Kiosk -  Tooley Street",
+   "name": "salmon maki"
+  },
+  "crunchy katsu + hoisin colab": {
+   "price_gbp": 9.45,
+   "basis": "collection",
+   "store": "Yo! Tesco Kiosk -  Tooley Street",
+   "name": "crunchy katsu + hoisin colab"
+  },
+  "custard doriyaki": {
+   "price_gbp": 2.75,
+   "basis": "collection",
+   "store": "Yo! Tesco Kiosk -  Tooley Street",
+   "name": "custard doriyaki"
+  },
+  "little moons strawberry cheesecake mochi": {
+   "price_gbp": 3.75,
+   "basis": "collection",
+   "store": "Yo! Tesco Kiosk -  Tooley Street",
+   "name": "little moons strawberry cheesecake mochi"
+  },
+  "hoisin duck crunch roll": {
+   "price_gbp": 7.25,
+   "basis": "collection",
+   "store": "Yo! Tesco Kiosk -  Tooley Street",
+   "name": "hoisin duck crunch roll"
+  },
+  "veggie gyoza": {
+   "price_gbp": 4.95,
+   "basis": "collection",
+   "store": "Yo! Tesco Kiosk -  Tooley Street",
+   "name": "veggie gyoza"
+  },
+  "little moons chocolate mochi": {
+   "price_gbp": 3.75,
+   "basis": "collection",
+   "store": "Yo! Tesco Kiosk -  Tooley Street",
+   "name": "little moons chocolate mochi"
+  }
+ }
+}

@@ -1,0 +1,540 @@
+{
+ "chain_id": "gdk",
+ "fetched_at": "2026-08-07T16:57:45Z",
+ "store": "German Doner Kebab - Sutton",
+ "stores": [
+  "German Doner Kebab - Sutton"
+ ],
+ "basis": "collection",
+ "item_count": 88,
+ "prices": {
+  "feed the fam": {
+   "price_gbp": 37.99,
+   "basis": "collection",
+   "store": "German Doner Kebab - Sutton",
+   "name": "Feed the Fam"
+  },
+  "meal for 2": {
+   "price_gbp": 23.49,
+   "basis": "collection",
+   "store": "German Doner Kebab - Sutton",
+   "name": "Meal for 2"
+  },
+  "rice up your life": {
+   "price_gbp": 16.98,
+   "basis": "collection",
+   "store": "German Doner Kebab - Sutton",
+   "name": "Rice Up your Life"
+  },
+  "london jerk og sides boss box": {
+   "price_gbp": 15.99,
+   "basis": "collection",
+   "store": "German Doner Kebab - Sutton",
+   "name": "London Jerk OG Sides Boss Box"
+  },
+  "london jerk doner wrap sides boss box": {
+   "price_gbp": 15.99,
+   "basis": "collection",
+   "store": "German Doner Kebab - Sutton",
+   "name": "London Jerk Doner Wrap Sides Boss Box"
+  },
+  "boss box og kebab": {
+   "price_gbp": 15.99,
+   "basis": "collection",
+   "store": "German Doner Kebab - Sutton",
+   "name": "Boss Box OG Kebab"
+  },
+  "boss box doner wrap": {
+   "price_gbp": 15.99,
+   "basis": "collection",
+   "store": "German Doner Kebab - Sutton",
+   "name": "Boss Box Doner Wrap"
+  },
+  "boss box doner quesadilla": {
+   "price_gbp": 15.99,
+   "basis": "collection",
+   "store": "German Doner Kebab - Sutton",
+   "name": "Boss Box Doner Quesadilla"
+  },
+  "boss box ov kebab vegetarian": {
+   "price_gbp": 15.99,
+   "basis": "collection",
+   "store": "German Doner Kebab - Sutton",
+   "name": "Boss Box OV Kebab Vegetarian"
+  },
+  "london jerk og kebab": {
+   "price_gbp": 9.19,
+   "basis": "collection",
+   "store": "German Doner Kebab - Sutton",
+   "name": "London Jerk OG Kebab"
+  },
+  "large london jerk og kebab": {
+   "price_gbp": 11.19,
+   "basis": "collection",
+   "store": "German Doner Kebab - Sutton",
+   "name": "Large London Jerk OG Kebab"
+  },
+  "og kebab": {
+   "price_gbp": 9.19,
+   "basis": "collection",
+   "store": "German Doner Kebab - Sutton",
+   "name": "OG Kebab"
+  },
+  "large og kebab": {
+   "price_gbp": 11.19,
+   "basis": "collection",
+   "store": "German Doner Kebab - Sutton",
+   "name": "Large OG Kebab"
+  },
+  "london jerk doner rice bowl": {
+   "price_gbp": 9.49,
+   "basis": "collection",
+   "store": "German Doner Kebab - Sutton",
+   "name": "London Jerk Doner Rice Bowl"
+  },
+  "london jerk doner box & fries": {
+   "price_gbp": 9.19,
+   "basis": "collection",
+   "store": "German Doner Kebab - Sutton",
+   "name": "London Jerk Doner Box & Fries"
+  },
+  "large london jerk doner box & fries": {
+   "price_gbp": 11.19,
+   "basis": "collection",
+   "store": "German Doner Kebab - Sutton",
+   "name": "Large London Jerk Doner Box & Fries"
+  },
+  "doner box fries": {
+   "price_gbp": 9.19,
+   "basis": "collection",
+   "store": "German Doner Kebab - Sutton",
+   "name": "Doner Box Fries"
+  },
+  "doner box fries & salad": {
+   "price_gbp": 9.19,
+   "basis": "collection",
+   "store": "German Doner Kebab - Sutton",
+   "name": "Doner Box Fries & Salad"
+  },
+  "doner box fries & cheese": {
+   "price_gbp": 9.19,
+   "basis": "collection",
+   "store": "German Doner Kebab - Sutton",
+   "name": "Doner Box Fries & Cheese"
+  },
+  "doner gym box": {
+   "price_gbp": 8.69,
+   "basis": "collection",
+   "store": "German Doner Kebab - Sutton",
+   "name": "Doner Gym Box"
+  },
+  "doner rice bowl": {
+   "price_gbp": 9.49,
+   "basis": "collection",
+   "store": "German Doner Kebab - Sutton",
+   "name": "Doner Rice Bowl"
+  },
+  "large doner box with fries": {
+   "price_gbp": 11.19,
+   "basis": "collection",
+   "store": "German Doner Kebab - Sutton",
+   "name": "Large Doner Box With Fries"
+  },
+  "large doner box with fries & salad": {
+   "price_gbp": 11.19,
+   "basis": "collection",
+   "store": "German Doner Kebab - Sutton",
+   "name": "Large Doner Box With Fries & Salad"
+  },
+  "large doner box fries & cheese": {
+   "price_gbp": 11.19,
+   "basis": "collection",
+   "store": "German Doner Kebab - Sutton",
+   "name": "Large Doner Box Fries & Cheese"
+  },
+  "large doner gym box": {
+   "price_gbp": 10.69,
+   "basis": "collection",
+   "store": "German Doner Kebab - Sutton",
+   "name": "Large Doner Gym Box"
+  },
+  "london jerk doner wrap": {
+   "price_gbp": 9.19,
+   "basis": "collection",
+   "store": "German Doner Kebab - Sutton",
+   "name": "London Jerk Doner Wrap"
+  },
+  "large london jerk doner wrap": {
+   "price_gbp": 11.19,
+   "basis": "collection",
+   "store": "German Doner Kebab - Sutton",
+   "name": "Large London Jerk Doner Wrap"
+  },
+  "doner wrap": {
+   "price_gbp": 9.19,
+   "basis": "collection",
+   "store": "German Doner Kebab - Sutton",
+   "name": "Doner Wrap"
+  },
+  "large doner wrap": {
+   "price_gbp": 11.19,
+   "basis": "collection",
+   "store": "German Doner Kebab - Sutton",
+   "name": "Large Doner Wrap"
+  },
+  "doner burrito": {
+   "price_gbp": 9.49,
+   "basis": "collection",
+   "store": "German Doner Kebab - Sutton",
+   "name": "Doner Burrito"
+  },
+  "doner quesadilla": {
+   "price_gbp": 8.69,
+   "basis": "collection",
+   "store": "German Doner Kebab - Sutton",
+   "name": "Doner Quesadilla"
+  },
+  "ov kebab vegetarian": {
+   "price_gbp": 9.19,
+   "basis": "collection",
+   "store": "German Doner Kebab - Sutton",
+   "name": "OV Kebab Vegetarian"
+  },
+  "ov kebab plant-based": {
+   "price_gbp": 9.19,
+   "basis": "collection",
+   "store": "German Doner Kebab - Sutton",
+   "name": "OV Kebab Plant-based"
+  },
+  "ov jr plant-based": {
+   "price_gbp": 6.99,
+   "basis": "collection",
+   "store": "German Doner Kebab - Sutton",
+   "name": "OV Jr Plant-Based"
+  },
+  "plain fries": {
+   "price_gbp": 3.09,
+   "basis": "collection",
+   "store": "German Doner Kebab - Sutton",
+   "name": "Plain Fries"
+  },
+  "large plain fries": {
+   "price_gbp": 3.49,
+   "basis": "collection",
+   "store": "German Doner Kebab - Sutton",
+   "name": "Large Plain Fries"
+  },
+  "doner seasoned fries": {
+   "price_gbp": 3.09,
+   "basis": "collection",
+   "store": "German Doner Kebab - Sutton",
+   "name": "Doner Seasoned Fries"
+  },
+  "large doner seasoned fries": {
+   "price_gbp": 3.49,
+   "basis": "collection",
+   "store": "German Doner Kebab - Sutton",
+   "name": "Large Doner Seasoned Fries"
+  },
+  "flaming fries": {
+   "price_gbp": 3.09,
+   "basis": "collection",
+   "store": "German Doner Kebab - Sutton",
+   "name": "Flaming Fries"
+  },
+  "large flaming fries": {
+   "price_gbp": 3.49,
+   "basis": "collection",
+   "store": "German Doner Kebab - Sutton",
+   "name": "Large Flaming Fries"
+  },
+  "cheesy fries": {
+   "price_gbp": 3.49,
+   "basis": "collection",
+   "store": "German Doner Kebab - Sutton",
+   "name": "Cheesy Fries"
+  },
+  "large cheesy fries": {
+   "price_gbp": 3.99,
+   "basis": "collection",
+   "store": "German Doner Kebab - Sutton",
+   "name": "Large Cheesy Fries"
+  },
+  "chilli cheese bites": {
+   "price_gbp": 4.19,
+   "basis": "collection",
+   "store": "German Doner Kebab - Sutton",
+   "name": "Chilli Cheese Bites"
+  },
+  "hash brown bites (12)": {
+   "price_gbp": 3.69,
+   "basis": "collection",
+   "store": "German Doner Kebab - Sutton",
+   "name": "Hash Brown Bites (12)"
+  },
+  "doner seasoned  hash brown bites (12)": {
+   "price_gbp": 3.69,
+   "basis": "collection",
+   "store": "German Doner Kebab - Sutton",
+   "name": "Doner Seasoned  Hash Brown Bites (12)"
+  },
+  "flaming hash brown bites (12)": {
+   "price_gbp": 3.69,
+   "basis": "collection",
+   "store": "German Doner Kebab - Sutton",
+   "name": "Flaming Hash Brown Bites (12)"
+  },
+  "cheesy hash brown bites (12)": {
+   "price_gbp": 4.19,
+   "basis": "collection",
+   "store": "German Doner Kebab - Sutton",
+   "name": "Cheesy Hash Brown Bites (12)"
+  },
+  "2 chicken spring roll": {
+   "price_gbp": 4.19,
+   "basis": "collection",
+   "store": "German Doner Kebab - Sutton",
+   "name": "2 Chicken Spring Roll"
+  },
+  "2 beef spring roll": {
+   "price_gbp": 4.19,
+   "basis": "collection",
+   "store": "German Doner Kebab - Sutton",
+   "name": "2 Beef Spring Roll"
+  },
+  "one of each spring roll": {
+   "price_gbp": 4.19,
+   "basis": "collection",
+   "store": "German Doner Kebab - Sutton",
+   "name": "One of Each Spring Roll"
+  },
+  "mix spring roll - 2 of each": {
+   "price_gbp": 7.79,
+   "basis": "collection",
+   "store": "German Doner Kebab - Sutton",
+   "name": "Mix Spring Roll - 2 of Each"
+  },
+  "chicken spring roll - 4 pack": {
+   "price_gbp": 7.79,
+   "basis": "collection",
+   "store": "German Doner Kebab - Sutton",
+   "name": "Chicken Spring Roll - 4 Pack"
+  },
+  "beef spring roll - 4 pack": {
+   "price_gbp": 7.79,
+   "basis": "collection",
+   "store": "German Doner Kebab - Sutton",
+   "name": "Beef Spring Roll - 4 Pack"
+  },
+  "sharing platter": {
+   "price_gbp": 9.49,
+   "basis": "collection",
+   "store": "German Doner Kebab - Sutton",
+   "name": "Sharing Platter"
+  },
+  "cheesy garlic waffle bread": {
+   "price_gbp": 3.99,
+   "basis": "collection",
+   "store": "German Doner Kebab - Sutton",
+   "name": "Cheesy Garlic Waffle Bread"
+  },
+  "garlic signature pot": {
+   "price_gbp": 0.69,
+   "basis": "collection",
+   "store": "German Doner Kebab - Sutton",
+   "name": "Garlic Signature Pot"
+  },
+  "spicy signature pot": {
+   "price_gbp": 0.69,
+   "basis": "collection",
+   "store": "German Doner Kebab - Sutton",
+   "name": "Spicy Signature Pot"
+  },
+  "yogurt signature pot": {
+   "price_gbp": 0.69,
+   "basis": "collection",
+   "store": "German Doner Kebab - Sutton",
+   "name": "Yogurt Signature Pot"
+  },
+  "3 sauce set pots": {
+   "price_gbp": 1.79,
+   "basis": "collection",
+   "store": "German Doner Kebab - Sutton",
+   "name": "3 Sauce Set Pots"
+  },
+  "melted cheese sauce": {
+   "price_gbp": 0.79,
+   "basis": "collection",
+   "store": "German Doner Kebab - Sutton",
+   "name": "Melted Cheese Sauce"
+  },
+  "mild curry ketchup pot": {
+   "price_gbp": 0.79,
+   "basis": "collection",
+   "store": "German Doner Kebab - Sutton",
+   "name": "Mild Curry Ketchup Pot"
+  },
+  "spicy curry ketchup pot": {
+   "price_gbp": 0.79,
+   "basis": "collection",
+   "store": "German Doner Kebab - Sutton",
+   "name": "Spicy Curry Ketchup Pot"
+  },
+  "red bull pink edition sugar free": {
+   "price_gbp": 3.39,
+   "basis": "collection",
+   "store": "German Doner Kebab - Sutton",
+   "name": "Red Bull Pink Edition Sugar Free"
+  },
+  "coke can": {
+   "price_gbp": 2.39,
+   "basis": "collection",
+   "store": "German Doner Kebab - Sutton",
+   "name": "Coke Can"
+  },
+  "diet coke can": {
+   "price_gbp": 2.29,
+   "basis": "collection",
+   "store": "German Doner Kebab - Sutton",
+   "name": "Diet Coke Can"
+  },
+  "coke zero can": {
+   "price_gbp": 2.29,
+   "basis": "collection",
+   "store": "German Doner Kebab - Sutton",
+   "name": "Coke Zero Can"
+  },
+  "fanta can": {
+   "price_gbp": 2.29,
+   "basis": "collection",
+   "store": "German Doner Kebab - Sutton",
+   "name": "Fanta Can"
+  },
+  "sprite zero can": {
+   "price_gbp": 2.29,
+   "basis": "collection",
+   "store": "German Doner Kebab - Sutton",
+   "name": "Sprite Zero Can"
+  },
+  "dr. pepper can": {
+   "price_gbp": 2.29,
+   "basis": "collection",
+   "store": "German Doner Kebab - Sutton",
+   "name": "Dr. Pepper Can"
+  },
+  "oasis summer fruits": {
+   "price_gbp": 2.29,
+   "basis": "collection",
+   "store": "German Doner Kebab - Sutton",
+   "name": "Oasis Summer Fruits"
+  },
+  "still water": {
+   "price_gbp": 2.29,
+   "basis": "collection",
+   "store": "German Doner Kebab - Sutton",
+   "name": "Still Water"
+  },
+  "sparkling water": {
+   "price_gbp": 2.29,
+   "basis": "collection",
+   "store": "German Doner Kebab - Sutton",
+   "name": "Sparkling Water"
+  },
+  "tropicana": {
+   "price_gbp": 2.29,
+   "basis": "collection",
+   "store": "German Doner Kebab - Sutton",
+   "name": "Tropicana"
+  },
+  "ayran": {
+   "price_gbp": 2.29,
+   "basis": "collection",
+   "store": "German Doner Kebab - Sutton",
+   "name": "Ayran"
+  },
+  "red bull": {
+   "price_gbp": 3.39,
+   "basis": "collection",
+   "store": "German Doner Kebab - Sutton",
+   "name": "Red Bull"
+  },
+  "red bull summer edition (white peach)": {
+   "price_gbp": 3.39,
+   "basis": "collection",
+   "store": "German Doner Kebab - Sutton",
+   "name": "Red Bull Summer Edition (White Peach)"
+  },
+  "monster ultra white": {
+   "price_gbp": 3.39,
+   "basis": "collection",
+   "store": "German Doner Kebab - Sutton",
+   "name": "Monster Ultra White"
+  },
+  "monster mango loco": {
+   "price_gbp": 3.39,
+   "basis": "collection",
+   "store": "German Doner Kebab - Sutton",
+   "name": "Monster Mango Loco"
+  },
+  "monster pipeline punch": {
+   "price_gbp": 3.39,
+   "basis": "collection",
+   "store": "German Doner Kebab - Sutton",
+   "name": "Monster Pipeline Punch"
+  },
+  "innocent kids apple & mango": {
+   "price_gbp": 1.99,
+   "basis": "collection",
+   "store": "German Doner Kebab - Sutton",
+   "name": "Innocent Kids Apple & Mango"
+  },
+  "innocent kids apple & strawberries": {
+   "price_gbp": 1.99,
+   "basis": "collection",
+   "store": "German Doner Kebab - Sutton",
+   "name": "Innocent Kids Apple & Strawberries"
+  },
+  "berliner doughnut bites - 4 bites": {
+   "price_gbp": 2.49,
+   "basis": "collection",
+   "store": "German Doner Kebab - Sutton",
+   "name": "Berliner Doughnut Bites - 4 Bites"
+  },
+  "berliner doughnut bites - 8 bites": {
+   "price_gbp": 3.79,
+   "basis": "collection",
+   "store": "German Doner Kebab - Sutton",
+   "name": "Berliner Doughnut Bites - 8 Bites"
+  },
+  "berliner doughnut bites - 12 bites": {
+   "price_gbp": 4.99,
+   "basis": "collection",
+   "store": "German Doner Kebab - Sutton",
+   "name": "Berliner Doughnut Bites - 12 Bites"
+  },
+  "og jr": {
+   "price_gbp": 6.99,
+   "basis": "collection",
+   "store": "German Doner Kebab - Sutton",
+   "name": "OG Jr"
+  },
+  "jr doner burger": {
+   "price_gbp": 3.99,
+   "basis": "collection",
+   "store": "German Doner Kebab - Sutton",
+   "name": "Jr Doner Burger"
+  },
+  "boss box jr \u2013 og kebab": {
+   "price_gbp": 11.99,
+   "basis": "collection",
+   "store": "German Doner Kebab - Sutton",
+   "name": "Boss Box Jr \u2013 OG Kebab"
+  },
+  "boss box jr \u2013 jr doner burger": {
+   "price_gbp": 8.99,
+   "basis": "collection",
+   "store": "German Doner Kebab - Sutton",
+   "name": "Boss Box Jr \u2013 Jr Doner Burger"
+  }
+ }
+}
