@@ -1,0 +1,624 @@
+{
+ "chain_id": "toby_carvery",
+ "fetched_at": "2026-08-08T14:11:52Z",
+ "store": "Toby Carvery - Park Place (CR4 4HB)",
+ "stores": [
+  "Toby Carvery - Park Place (CR4 4HB)"
+ ],
+ "basis": "collection",
+ "item_count": 102,
+ "prices": {
+  "our famous carvery": {
+   "price_gbp": 12.99,
+   "basis": "collection",
+   "store": "Toby Carvery - Park Place (CR4 4HB)",
+   "name": "Our Famous Carvery"
+  },
+  "meat-free carvery for one (v)": {
+   "price_gbp": 10.99,
+   "basis": "collection",
+   "store": "Toby Carvery - Park Place (CR4 4HB)",
+   "name": "Meat-Free Carvery For One (V)"
+  },
+  "meat-free carvery for one": {
+   "price_gbp": 10.99,
+   "basis": "collection",
+   "store": "Toby Carvery - Park Place (CR4 4HB)",
+   "name": "Meat-Free Carvery For One"
+  },
+  "toby's choice for 1": {
+   "price_gbp": 17.49,
+   "basis": "collection",
+   "store": "Toby Carvery - Park Place (CR4 4HB)",
+   "name": "Toby's Choice for 1"
+  },
+  "ulti-meat carvery": {
+   "price_gbp": 13.99,
+   "basis": "collection",
+   "store": "Toby Carvery - Park Place (CR4 4HB)",
+   "name": "Ulti-Meat Carvery"
+  },
+  "toby taster bundle": {
+   "price_gbp": 10.99,
+   "basis": "collection",
+   "store": "Toby Carvery - Park Place (CR4 4HB)",
+   "name": "Toby Taster Bundle"
+  },
+  "mini pigs in blankets": {
+   "price_gbp": 3.99,
+   "basis": "collection",
+   "store": "Toby Carvery - Park Place (CR4 4HB)",
+   "name": "Mini Pigs in Blankets"
+  },
+  "mac & cheese pigs in blankets": {
+   "price_gbp": 4.49,
+   "basis": "collection",
+   "store": "Toby Carvery - Park Place (CR4 4HB)",
+   "name": "Mac & Cheese Pigs in Blankets"
+  },
+  "bacon & cheddar loaded roasties": {
+   "price_gbp": 4.49,
+   "basis": "collection",
+   "store": "Toby Carvery - Park Place (CR4 4HB)",
+   "name": "Bacon & Cheddar Loaded Roasties"
+  },
+  "sage & onion loaded roasties (v)": {
+   "price_gbp": 4.49,
+   "basis": "collection",
+   "store": "Toby Carvery - Park Place (CR4 4HB)",
+   "name": "Sage & Onion Loaded Roasties (V)"
+  },
+  "sage & onion loaded roasties": {
+   "price_gbp": 4.49,
+   "basis": "collection",
+   "store": "Toby Carvery - Park Place (CR4 4HB)",
+   "name": "Sage & Onion Loaded Roasties"
+  },
+  "loaded mac & cheese": {
+   "price_gbp": 4.49,
+   "basis": "collection",
+   "store": "Toby Carvery - Park Place (CR4 4HB)",
+   "name": "Loaded Mac & Cheese"
+  },
+  "poppin' chicken": {
+   "price_gbp": 4.49,
+   "basis": "collection",
+   "store": "Toby Carvery - Park Place (CR4 4HB)",
+   "name": "Poppin' Chicken"
+  },
+  "ciabatta garlic bread (v)": {
+   "price_gbp": 4.29,
+   "basis": "collection",
+   "store": "Toby Carvery - Park Place (CR4 4HB)",
+   "name": "Ciabatta Garlic Bread (V)"
+  },
+  "ciabatta garlic bread": {
+   "price_gbp": 4.29,
+   "basis": "collection",
+   "store": "Toby Carvery - Park Place (CR4 4HB)",
+   "name": "Ciabatta Garlic Bread"
+  },
+  "ciabatta garlic bread with cheese (v)": {
+   "price_gbp": 4.29,
+   "basis": "collection",
+   "store": "Toby Carvery - Park Place (CR4 4HB)",
+   "name": "Ciabatta Garlic Bread With Cheese (V)"
+  },
+  "ciabatta garlic bread with cheese": {
+   "price_gbp": 4.29,
+   "basis": "collection",
+   "store": "Toby Carvery - Park Place (CR4 4HB)",
+   "name": "Ciabatta Garlic Bread With Cheese"
+  },
+  "cheesy mushrooms (v)": {
+   "price_gbp": 4.29,
+   "basis": "collection",
+   "store": "Toby Carvery - Park Place (CR4 4HB)",
+   "name": "Cheesy Mushrooms (V)"
+  },
+  "cheesy mushrooms": {
+   "price_gbp": 4.29,
+   "basis": "collection",
+   "store": "Toby Carvery - Park Place (CR4 4HB)",
+   "name": "Cheesy Mushrooms"
+  },
+  "caramelised onion & shallot tarte tatin (v)*": {
+   "price_gbp": 4.49,
+   "basis": "collection",
+   "store": "Toby Carvery - Park Place (CR4 4HB)",
+   "name": "Caramelised Onion & Shallot Tarte Tatin (V)*"
+  },
+  "caramelised onion & shallot tarte tatin": {
+   "price_gbp": 4.49,
+   "basis": "collection",
+   "store": "Toby Carvery - Park Place (CR4 4HB)",
+   "name": "Caramelised Onion & Shallot Tarte Tatin"
+  },
+  "caramelised onion & shallot tart (ve)*": {
+   "price_gbp": 4.49,
+   "basis": "collection",
+   "store": "Toby Carvery - Park Place (CR4 4HB)",
+   "name": "Caramelised Onion & Shallot Tart (VE)*"
+  },
+  "caramelised onion & shallot tart": {
+   "price_gbp": 4.49,
+   "basis": "collection",
+   "store": "Toby Carvery - Park Place (CR4 4HB)",
+   "name": "Caramelised Onion & Shallot Tart"
+  },
+  "melt in the middle roast (v)": {
+   "price_gbp": 12.99,
+   "basis": "collection",
+   "store": "Toby Carvery - Park Place (CR4 4HB)",
+   "name": "Melt in the Middle Roast (V)"
+  },
+  "melt in the middle roast": {
+   "price_gbp": 12.99,
+   "basis": "collection",
+   "store": "Toby Carvery - Park Place (CR4 4HB)",
+   "name": "Melt in the Middle Roast"
+  },
+  "spicy butternut squash tart (v)*": {
+   "price_gbp": 12.99,
+   "basis": "collection",
+   "store": "Toby Carvery - Park Place (CR4 4HB)",
+   "name": "Spicy Butternut Squash Tart (V)*"
+  },
+  "spicy butternut squash tart": {
+   "price_gbp": 12.99,
+   "basis": "collection",
+   "store": "Toby Carvery - Park Place (CR4 4HB)",
+   "name": "Spicy Butternut Squash Tart"
+  },
+  "cheese, potato & leek pie (v)": {
+   "price_gbp": 12.99,
+   "basis": "collection",
+   "store": "Toby Carvery - Park Place (CR4 4HB)",
+   "name": "Cheese, Potato & Leek Pie (V)"
+  },
+  "cheese, potato & leek pie": {
+   "price_gbp": 12.99,
+   "basis": "collection",
+   "store": "Toby Carvery - Park Place (CR4 4HB)",
+   "name": "Cheese, Potato & Leek Pie"
+  },
+  "spicy butternut squash tart (ve)*": {
+   "price_gbp": 12.99,
+   "basis": "collection",
+   "store": "Toby Carvery - Park Place (CR4 4HB)",
+   "name": "Spicy Butternut Squash Tart (VE)*"
+  },
+  "cabbage, leek & peas (v)": {
+   "price_gbp": 1.49,
+   "basis": "collection",
+   "store": "Toby Carvery - Park Place (CR4 4HB)",
+   "name": "Cabbage, Leek & Peas (V)"
+  },
+  "cabbage, leek & peas": {
+   "price_gbp": 1.49,
+   "basis": "collection",
+   "store": "Toby Carvery - Park Place (CR4 4HB)",
+   "name": "Cabbage, Leek & Peas"
+  },
+  "potato & squash bake (v)": {
+   "price_gbp": 1.49,
+   "basis": "collection",
+   "store": "Toby Carvery - Park Place (CR4 4HB)",
+   "name": "Potato & Squash Bake (V)"
+  },
+  "potato & squash bake": {
+   "price_gbp": 1.49,
+   "basis": "collection",
+   "store": "Toby Carvery - Park Place (CR4 4HB)",
+   "name": "Potato & Squash Bake"
+  },
+  "ben and jerrys ice cream tub (v)": {
+   "price_gbp": 5.49,
+   "basis": "collection",
+   "store": "Toby Carvery - Park Place (CR4 4HB)",
+   "name": "Ben and Jerrys Ice Cream Tub (V)"
+  },
+  "ben and jerrys ice cream tub": {
+   "price_gbp": 5.49,
+   "basis": "collection",
+   "store": "Toby Carvery - Park Place (CR4 4HB)",
+   "name": "Ben and Jerrys Ice Cream Tub"
+  },
+  "chocolate & cookie dough brownie (v)": {
+   "price_gbp": 5.99,
+   "basis": "collection",
+   "store": "Toby Carvery - Park Place (CR4 4HB)",
+   "name": "Chocolate & Cookie Dough Brownie (V)"
+  },
+  "chocolate & cookie dough brownie": {
+   "price_gbp": 5.99,
+   "basis": "collection",
+   "store": "Toby Carvery - Park Place (CR4 4HB)",
+   "name": "Chocolate & Cookie Dough Brownie"
+  },
+  "chocolate fudge cake (v)": {
+   "price_gbp": 5.99,
+   "basis": "collection",
+   "store": "Toby Carvery - Park Place (CR4 4HB)",
+   "name": "Chocolate Fudge Cake (V)"
+  },
+  "chocolate fudge cake": {
+   "price_gbp": 5.99,
+   "basis": "collection",
+   "store": "Toby Carvery - Park Place (CR4 4HB)",
+   "name": "Chocolate Fudge Cake"
+  },
+  "sticky toffee pudding (v)": {
+   "price_gbp": 5.79,
+   "basis": "collection",
+   "store": "Toby Carvery - Park Place (CR4 4HB)",
+   "name": "Sticky Toffee Pudding (V)"
+  },
+  "sticky toffee pudding": {
+   "price_gbp": 5.79,
+   "basis": "collection",
+   "store": "Toby Carvery - Park Place (CR4 4HB)",
+   "name": "Sticky Toffee Pudding"
+  },
+  "bramley apple pie (ve)": {
+   "price_gbp": 5.79,
+   "basis": "collection",
+   "store": "Toby Carvery - Park Place (CR4 4HB)",
+   "name": "Bramley Apple Pie (VE)"
+  },
+  "bramley apple pie": {
+   "price_gbp": 5.79,
+   "basis": "collection",
+   "store": "Toby Carvery - Park Place (CR4 4HB)",
+   "name": "Bramley Apple Pie"
+  },
+  "baked vanilla cheesecake (v)": {
+   "price_gbp": 5.79,
+   "basis": "collection",
+   "store": "Toby Carvery - Park Place (CR4 4HB)",
+   "name": "Baked Vanilla Cheesecake (V)"
+  },
+  "baked vanilla cheesecake": {
+   "price_gbp": 5.79,
+   "basis": "collection",
+   "store": "Toby Carvery - Park Place (CR4 4HB)",
+   "name": "Baked Vanilla Cheesecake"
+  },
+  "children's carvery": {
+   "price_gbp": 7.49,
+   "basis": "collection",
+   "store": "Toby Carvery - Park Place (CR4 4HB)",
+   "name": "Children's Carvery"
+  },
+  "children's meat free carvery (v)": {
+   "price_gbp": 6.99,
+   "basis": "collection",
+   "store": "Toby Carvery - Park Place (CR4 4HB)",
+   "name": "Children's Meat Free Carvery (V)"
+  },
+  "children's meat free carvery": {
+   "price_gbp": 6.99,
+   "basis": "collection",
+   "store": "Toby Carvery - Park Place (CR4 4HB)",
+   "name": "Children's Meat Free Carvery"
+  },
+  "r whites lemonade can": {
+   "price_gbp": 2.55,
+   "basis": "collection",
+   "store": "Toby Carvery - Park Place (CR4 4HB)",
+   "name": "R Whites Lemonade Can"
+  },
+  "pepsi max can": {
+   "price_gbp": 2.55,
+   "basis": "collection",
+   "store": "Toby Carvery - Park Place (CR4 4HB)",
+   "name": "Pepsi Max Can"
+  },
+  "appletiser 250ml": {
+   "price_gbp": 3.8,
+   "basis": "collection",
+   "store": "Toby Carvery - Park Place (CR4 4HB)",
+   "name": "Appletiser 250ml"
+  },
+  "7up sugar free 330ml": {
+   "price_gbp": 3.75,
+   "basis": "collection",
+   "store": "Toby Carvery - Park Place (CR4 4HB)",
+   "name": "7Up Sugar Free 330ml"
+  },
+  "coca cola 330ml": {
+   "price_gbp": 3.7,
+   "basis": "collection",
+   "store": "Toby Carvery - Park Place (CR4 4HB)",
+   "name": "Coca Cola 330ml"
+  },
+  "coca cola diet 330ml": {
+   "price_gbp": 3.6,
+   "basis": "collection",
+   "store": "Toby Carvery - Park Place (CR4 4HB)",
+   "name": "Coca Cola Diet 330ml"
+  },
+  "j2o dragonberry 275ml": {
+   "price_gbp": 3.75,
+   "basis": "collection",
+   "store": "Toby Carvery - Park Place (CR4 4HB)",
+   "name": "J2O Dragonberry 275ml"
+  },
+  "j2o apple & mango 275ml": {
+   "price_gbp": 3.75,
+   "basis": "collection",
+   "store": "Toby Carvery - Park Place (CR4 4HB)",
+   "name": "J2O Apple & Mango 275ml"
+  },
+  "j2o orange & passionfruit 275ml": {
+   "price_gbp": 3.75,
+   "basis": "collection",
+   "store": "Toby Carvery - Park Place (CR4 4HB)",
+   "name": "J2O Orange & Passionfruit 275ml"
+  },
+  "fentimans ginger beer 275ml": {
+   "price_gbp": 3.9,
+   "basis": "collection",
+   "store": "Toby Carvery - Park Place (CR4 4HB)",
+   "name": "Fentimans Ginger Beer 275ml"
+  },
+  "fentimans rose lemonade 275ml": {
+   "price_gbp": 3.9,
+   "basis": "collection",
+   "store": "Toby Carvery - Park Place (CR4 4HB)",
+   "name": "Fentimans Rose Lemonade 275ml"
+  },
+  "harrogate sparkling spring water glass 750ml": {
+   "price_gbp": 3.75,
+   "basis": "collection",
+   "store": "Toby Carvery - Park Place (CR4 4HB)",
+   "name": "Harrogate Sparkling Spring Water Glass 750ml"
+  },
+  "harrogate sparkling spring water glass 330ml": {
+   "price_gbp": 2.7,
+   "basis": "collection",
+   "store": "Toby Carvery - Park Place (CR4 4HB)",
+   "name": "Harrogate Sparkling Spring Water Glass 330ml"
+  },
+  "harrogate still spring water glass 750ml": {
+   "price_gbp": 3.75,
+   "basis": "collection",
+   "store": "Toby Carvery - Park Place (CR4 4HB)",
+   "name": "Harrogate Still Spring Water Glass 750ml"
+  },
+  "harrogate still spring water glass 330ml": {
+   "price_gbp": 2.7,
+   "basis": "collection",
+   "store": "Toby Carvery - Park Place (CR4 4HB)",
+   "name": "Harrogate Still Spring Water Glass 330ml"
+  },
+  "corona extra 330ml": {
+   "price_gbp": 5.0,
+   "basis": "collection",
+   "store": "Toby Carvery - Park Place (CR4 4HB)",
+   "name": "Corona Extra 330ml"
+  },
+  "rekorderlig strawberry & lime cider 500ml": {
+   "price_gbp": 5.55,
+   "basis": "collection",
+   "store": "Toby Carvery - Park Place (CR4 4HB)",
+   "name": "Rekorderlig Strawberry & Lime Cider 500ml"
+  },
+  "rekorderlig strawberry lime 0.0% 500ml": {
+   "price_gbp": 4.95,
+   "basis": "collection",
+   "store": "Toby Carvery - Park Place (CR4 4HB)",
+   "name": "Rekorderlig Strawberry Lime 0.0% 500ml"
+  },
+  "peroni 0.0 alcohol free lager": {
+   "price_gbp": 3.95,
+   "basis": "collection",
+   "store": "Toby Carvery - Park Place (CR4 4HB)",
+   "name": "Peroni 0.0 Alcohol Free Lager"
+  },
+  "molin di ponte prosecco": {
+   "price_gbp": 21.5,
+   "basis": "collection",
+   "store": "Toby Carvery - Park Place (CR4 4HB)",
+   "name": "Molin di Ponte Prosecco"
+  },
+  "i heart shiraz": {
+   "price_gbp": 19.45,
+   "basis": "collection",
+   "store": "Toby Carvery - Park Place (CR4 4HB)",
+   "name": "I Heart Shiraz"
+  },
+  "yealands sauvignon blanc": {
+   "price_gbp": 24.95,
+   "basis": "collection",
+   "store": "Toby Carvery - Park Place (CR4 4HB)",
+   "name": "Yealands Sauvignon Blanc"
+  },
+  "barefoot white zinfandel": {
+   "price_gbp": 18.45,
+   "basis": "collection",
+   "store": "Toby Carvery - Park Place (CR4 4HB)",
+   "name": "Barefoot White Zinfandel"
+  },
+  "kingsize breakfast": {
+   "price_gbp": 8.99,
+   "basis": "collection",
+   "store": "Toby Carvery - Park Place (CR4 4HB)",
+   "name": "Kingsize Breakfast"
+  },
+  "kingsize vegetarian breakfast (v)": {
+   "price_gbp": 9.49,
+   "basis": "collection",
+   "store": "Toby Carvery - Park Place (CR4 4HB)",
+   "name": "Kingsize Vegetarian Breakfast (V)"
+  },
+  "kingsize vegetarian breakfast": {
+   "price_gbp": 9.49,
+   "basis": "collection",
+   "store": "Toby Carvery - Park Place (CR4 4HB)",
+   "name": "Kingsize Vegetarian Breakfast"
+  },
+  "toby breakfast": {
+   "price_gbp": 6.99,
+   "basis": "collection",
+   "store": "Toby Carvery - Park Place (CR4 4HB)",
+   "name": "Toby Breakfast"
+  },
+  "vegetarian breakfast (v)": {
+   "price_gbp": 6.99,
+   "basis": "collection",
+   "store": "Toby Carvery - Park Place (CR4 4HB)",
+   "name": "Vegetarian Breakfast (V)"
+  },
+  "vegetarian breakfast": {
+   "price_gbp": 6.99,
+   "basis": "collection",
+   "store": "Toby Carvery - Park Place (CR4 4HB)",
+   "name": "Vegetarian Breakfast"
+  },
+  "hash browns": {
+   "price_gbp": 0.99,
+   "basis": "collection",
+   "store": "Toby Carvery - Park Place (CR4 4HB)",
+   "name": "Hash Browns"
+  },
+  "white & brown toast (v)": {
+   "price_gbp": 1.79,
+   "basis": "collection",
+   "store": "Toby Carvery - Park Place (CR4 4HB)",
+   "name": "White & Brown Toast (v)"
+  },
+  "white & brown toast": {
+   "price_gbp": 1.79,
+   "basis": "collection",
+   "store": "Toby Carvery - Park Place (CR4 4HB)",
+   "name": "White & Brown Toast"
+  },
+  "ultimate breakfast yorkie wrap": {
+   "price_gbp": 4.49,
+   "basis": "collection",
+   "store": "Toby Carvery - Park Place (CR4 4HB)",
+   "name": "Ultimate Breakfast Yorkie Wrap"
+  },
+  "sausage, bacon & egg bap": {
+   "price_gbp": 3.99,
+   "basis": "collection",
+   "store": "Toby Carvery - Park Place (CR4 4HB)",
+   "name": "Sausage, Bacon & Egg Bap"
+  },
+  "sausage & bacon bap": {
+   "price_gbp": 3.99,
+   "basis": "collection",
+   "store": "Toby Carvery - Park Place (CR4 4HB)",
+   "name": "Sausage & Bacon Bap"
+  },
+  "bacon bap": {
+   "price_gbp": 3.79,
+   "basis": "collection",
+   "store": "Toby Carvery - Park Place (CR4 4HB)",
+   "name": "Bacon Bap"
+  },
+  "bacon & egg bap": {
+   "price_gbp": 3.99,
+   "basis": "collection",
+   "store": "Toby Carvery - Park Place (CR4 4HB)",
+   "name": "Bacon & Egg Bap"
+  },
+  "sausage bap": {
+   "price_gbp": 3.79,
+   "basis": "collection",
+   "store": "Toby Carvery - Park Place (CR4 4HB)",
+   "name": "Sausage Bap"
+  },
+  "sausage & egg bap": {
+   "price_gbp": 3.99,
+   "basis": "collection",
+   "store": "Toby Carvery - Park Place (CR4 4HB)",
+   "name": "Sausage & Egg Bap"
+  },
+  "this\u2122 isn\u2019t pork sausage bap (ve)": {
+   "price_gbp": 3.79,
+   "basis": "collection",
+   "store": "Toby Carvery - Park Place (CR4 4HB)",
+   "name": "THIS\u2122 Isn\u2019t Pork Sausage Bap (VE)"
+  },
+  "this\u2122 isn\u2019t pork sausage bap": {
+   "price_gbp": 3.79,
+   "basis": "collection",
+   "store": "Toby Carvery - Park Place (CR4 4HB)",
+   "name": "THIS\u2122 Isn\u2019t Pork Sausage Bap"
+  },
+  "this\u2122 isn\u2019t pork sausage & egg bap (v)": {
+   "price_gbp": 3.99,
+   "basis": "collection",
+   "store": "Toby Carvery - Park Place (CR4 4HB)",
+   "name": "THIS\u2122 Isn\u2019t Pork Sausage & Egg Bap (V)"
+  },
+  "this\u2122 isn\u2019t pork sausage & egg bap": {
+   "price_gbp": 3.99,
+   "basis": "collection",
+   "store": "Toby Carvery - Park Place (CR4 4HB)",
+   "name": "THIS\u2122 Isn\u2019t Pork Sausage & Egg Bap"
+  },
+  "egg bap (v)": {
+   "price_gbp": 3.99,
+   "basis": "collection",
+   "store": "Toby Carvery - Park Place (CR4 4HB)",
+   "name": "Egg Bap (v)"
+  },
+  "egg bap": {
+   "price_gbp": 3.99,
+   "basis": "collection",
+   "store": "Toby Carvery - Park Place (CR4 4HB)",
+   "name": "Egg Bap"
+  },
+  "squeezy tomato sauce": {
+   "price_gbp": 0.3,
+   "basis": "collection",
+   "store": "Toby Carvery - Park Place (CR4 4HB)",
+   "name": "Squeezy Tomato Sauce"
+  },
+  "squeezy brown sauce": {
+   "price_gbp": 0.3,
+   "basis": "collection",
+   "store": "Toby Carvery - Park Place (CR4 4HB)",
+   "name": "Squeezy Brown Sauce"
+  },
+  "tea": {
+   "price_gbp": 2.49,
+   "basis": "collection",
+   "store": "Toby Carvery - Park Place (CR4 4HB)",
+   "name": "Tea"
+  },
+  "americano": {
+   "price_gbp": 2.49,
+   "basis": "collection",
+   "store": "Toby Carvery - Park Place (CR4 4HB)",
+   "name": "Americano"
+  },
+  "large breakfast": {
+   "price_gbp": 9.49,
+   "basis": "collection",
+   "store": "Toby Carvery - Park Place (CR4 4HB)",
+   "name": "Large Breakfast"
+  },
+  "large vegetarian breakfast (v)": {
+   "price_gbp": 9.49,
+   "basis": "collection",
+   "store": "Toby Carvery - Park Place (CR4 4HB)",
+   "name": "Large Vegetarian Breakfast (V)"
+  },
+  "large vegetarian breakfast": {
+   "price_gbp": 9.49,
+   "basis": "collection",
+   "store": "Toby Carvery - Park Place (CR4 4HB)",
+   "name": "Large Vegetarian Breakfast"
+  },
+  "standard breakfast": {
+   "price_gbp": 7.49,
+   "basis": "collection",
+   "store": "Toby Carvery - Park Place (CR4 4HB)",
+   "name": "Standard Breakfast"
+  }
+ }
+}
