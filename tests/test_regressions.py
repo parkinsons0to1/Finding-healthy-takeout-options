@@ -469,6 +469,28 @@ def test_kosher_filter_excludes_rather_than_silently_ignoring():
     assert passes_diet(i, set())
 
 
+def test_dedupe_prefers_the_halal_branch_over_the_nearer_one():
+    """Two branches of the same chain selling the same item must not both
+    appear — but which one survives matters: this project's very first
+    shipped bug was calling KFC Sutton not halal when it is. Neighbouring
+    branches of the same chain genuinely do differ on halal status, so when
+    they disagree, the halal-verified one must win even if it is further
+    away — showing the nearer, unverified-or-not-halal branch instead is
+    the same class of mistake, just made by the ranking instead of by a
+    wrong halal lookup."""
+    from scripts.api.scoring import ScoredItem, _dedupe_by_nearest_branch
+
+    near_not_halal = ScoredItem(
+        "Zinger Burger", "kfc", "KFC Near", 0.1, 500, 30, 5.99, 5.99, None,
+        "not_halal", "brand_per_outlet", False, False, "", "high", "estimated")
+    far_halal = ScoredItem(
+        "Zinger Burger", "kfc", "KFC Far", 2.0, 500, 30, 5.99, 5.99, None,
+        "halal", "brand_per_outlet", False, False, "", "high", "estimated")
+
+    kept = _dedupe_by_nearest_branch([near_not_halal, far_halal])
+    assert len(kept) == 1 and kept[0].outlet_name == "KFC Far"
+
+
 def _run_all() -> int:
     failures = 0
     for name, fn in sorted(globals().items()):
