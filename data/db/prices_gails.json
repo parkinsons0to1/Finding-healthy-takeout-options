@@ -1,0 +1,2142 @@
+{
+ "chain_id": "gails",
+ "fetched_at": "2026-08-08T06:17:05Z",
+ "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+ "stores": [
+  "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)"
+ ],
+ "basis": "collection",
+ "item_count": 355,
+ "prices": {
+  "parmesan chicken on a cream bun": {
+   "price_gbp": 7.1,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Parmesan Chicken on a Cream Bun"
+  },
+  "parmesan chicken sandwich": {
+   "price_gbp": 7.1,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Parmesan Chicken Sandwich"
+  },
+  "6 parmesan chicken sandwiches": {
+   "price_gbp": 42.5,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "6 Parmesan Chicken Sandwiches"
+  },
+  "6 parmesan chicken": {
+   "price_gbp": 42.5,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "6 Parmesan Chicken"
+  },
+  "momo watermelon kombucha": {
+   "price_gbp": 4.8,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Momo Watermelon Kombucha"
+  },
+  "belu sparkling water": {
+   "price_gbp": 2.4,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Belu Sparkling Water"
+  },
+  "harissa chicken salad": {
+   "price_gbp": 9.5,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Harissa Chicken Salad"
+  },
+  "apple & blackcurrant overnight oats": {
+   "price_gbp": 4.6,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Apple & Blackcurrant Overnight Oats"
+  },
+  "blackcurrant overnight oats": {
+   "price_gbp": 4.6,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Blackcurrant Overnight Oats"
+  },
+  "belu spring water": {
+   "price_gbp": 2.4,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Belu Spring Water"
+  },
+  "breakfast pot bundle": {
+   "price_gbp": 55.5,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Breakfast Pot Bundle"
+  },
+  "smoked chicken caesar club": {
+   "price_gbp": 9.0,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Smoked Chicken Caesar Club"
+  },
+  "black sesame iced matcha": {
+   "price_gbp": 5.9,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Black Sesame Iced Matcha"
+  },
+  "6 filled buns": {
+   "price_gbp": 28.0,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "6 Filled Buns"
+  },
+  "6x passionfruit filled buns": {
+   "price_gbp": 28.0,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "6x Passionfruit Filled Buns"
+  },
+  "blackberry cold brew": {
+   "price_gbp": 4.9,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Blackberry Cold Brew"
+  },
+  "cold brew": {
+   "price_gbp": 4.1,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Cold Brew"
+  },
+  "cherry & chia iced tea": {
+   "price_gbp": 5.4,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Cherry & Chia Iced Tea"
+  },
+  "plum matcha latte": {
+   "price_gbp": 6.0,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Plum Matcha Latte"
+  },
+  "muscovado cold brew": {
+   "price_gbp": 4.7,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Muscovado Cold Brew"
+  },
+  "tiramisu cold brew": {
+   "price_gbp": 5.2,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Tiramisu Cold Brew"
+  },
+  "roasted strawberry, pistachio & quinoa pot": {
+   "price_gbp": 4.7,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Roasted Strawberry, Pistachio & Quinoa Pot"
+  },
+  "roasted straw,pistachio+quinoa": {
+   "price_gbp": 4.7,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Roasted Straw,Pistachio+Quinoa"
+  },
+  "filled bun": {
+   "price_gbp": 4.7,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Filled Bun"
+  },
+  "passionfruit filled bun": {
+   "price_gbp": 4.7,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Passionfruit Filled Bun"
+  },
+  "cheese, tomato & basil savoury bun": {
+   "price_gbp": 4.8,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Cheese, Tomato & Basil Savoury Bun"
+  },
+  "tomato brioche": {
+   "price_gbp": 4.8,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Tomato Brioche"
+  },
+  "blueberry & berry brioche box (serves 6)": {
+   "price_gbp": 27.0,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Blueberry & Berry Brioche Box (Serves 6)"
+  },
+  "6 cheese, tomato & basil savoury buns": {
+   "price_gbp": 28.5,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "6 Cheese, Tomato & Basil Savoury Buns"
+  },
+  "x6 tomato brioche box": {
+   "price_gbp": 28.5,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "X6 Tomato Brioche Box"
+  },
+  "6 flourless chocolate & extra virgin olive oil mousse cakes": {
+   "price_gbp": 27.0,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "6 Flourless Chocolate & Extra Virgin Olive Oil Mousse Cakes"
+  },
+  "x6 chocolate evvo mousse cake": {
+   "price_gbp": 27.0,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "X6 Chocolate EVVO Mousse Cake"
+  },
+  "6 berry brioches": {
+   "price_gbp": 27.5,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "6 Berry Brioches"
+  },
+  "x6 mixed berry brioche": {
+   "price_gbp": 27.5,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "x6 Mixed Berry Brioche"
+  },
+  "12 aubergine, crunchy slaw & herbs sandwich halves": {
+   "price_gbp": 42.0,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "12 Aubergine, Crunchy Slaw & Herbs Sandwich Halves"
+  },
+  "12 charred aubergine halves": {
+   "price_gbp": 42.0,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "12 Charred Aubergine Halves"
+  },
+  "summer vegetable & charred aubergine salad": {
+   "price_gbp": 8.9,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Summer Vegetable & Charred Aubergine Salad"
+  },
+  "summer veg+aubergine salad": {
+   "price_gbp": 8.9,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Summer Veg+Aubergine Salad"
+  },
+  "chicken & charred corn salad": {
+   "price_gbp": 9.3,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Chicken & Charred Corn Salad"
+  },
+  "chicken+ charred corn salad": {
+   "price_gbp": 9.3,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Chicken+ Charred Corn Salad"
+  },
+  "aubergine, crunchy slaw & herbs": {
+   "price_gbp": 7.0,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Aubergine, Crunchy Slaw & Herbs"
+  },
+  "aubergine+slaw sandwich": {
+   "price_gbp": 7.0,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Aubergine+Slaw Sandwich"
+  },
+  "berry brioche": {
+   "price_gbp": 4.6,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Berry Brioche"
+  },
+  "mixed berry brioche": {
+   "price_gbp": 4.6,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Mixed Berry Brioche"
+  },
+  "raspberry & almond overnight oats": {
+   "price_gbp": 4.6,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Raspberry & Almond Overnight Oats"
+  },
+  "rasp + almond overnight oats": {
+   "price_gbp": 4.6,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Rasp + Almond Overnight Oats"
+  },
+  "5 strawberry & ricotta cakes": {
+   "price_gbp": 22.5,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "5 Strawberry & Ricotta Cakes"
+  },
+  "5 strawb ricotta cakes": {
+   "price_gbp": 22.5,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "5 Strawb Ricotta Cakes"
+  },
+  "strawberry & ricotta cake": {
+   "price_gbp": 4.5,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Strawberry & Ricotta Cake"
+  },
+  "strawberry + ricotta cake": {
+   "price_gbp": 4.5,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Strawberry + Ricotta Cake"
+  },
+  "half smoked chicken caesar club": {
+   "price_gbp": 5.4,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Half Smoked Chicken Caesar Club"
+  },
+  "chicken caesar club - half": {
+   "price_gbp": 5.4,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Chicken Caesar Club - Half"
+  },
+  "candle votive set": {
+   "price_gbp": 42.0,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Candle Votive Set"
+  },
+  "nationwide gail's house blend coffee whole beans 200g": {
+   "price_gbp": 7.7,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Nationwide GAIL's House Blend Coffee Whole Beans 200g"
+  },
+  "nationwide gail's house blend coffee pre ground 200g": {
+   "price_gbp": 7.7,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Nationwide GAIL's House Blend Coffee Pre Ground 200g"
+  },
+  "6 ham, cheese & pickles": {
+   "price_gbp": 45.5,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "6 Ham, Cheese & Pickles"
+  },
+  "x6 ham, cheese + pickle box": {
+   "price_gbp": 45.5,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "x6 Ham, Cheese + Pickle box"
+  },
+  "ham, cheese & pickle": {
+   "price_gbp": 6.9,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Ham, Cheese & Pickle"
+  },
+  "ham, cheese + pickle": {
+   "price_gbp": 6.9,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Ham, Cheese + Pickle"
+  },
+  "iced turmeric tea": {
+   "price_gbp": 4.4,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Iced Turmeric Tea"
+  },
+  "turmeric tea": {
+   "price_gbp": 4.1,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Turmeric Tea"
+  },
+  "momo rhubarb kombucha": {
+   "price_gbp": 4.8,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Momo Rhubarb Kombucha"
+  },
+  "4 pistachio lemon & rose cakes": {
+   "price_gbp": 16.0,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "4 Pistachio Lemon & Rose Cakes"
+  },
+  "4 pistachio rose cakes": {
+   "price_gbp": 16.0,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "4 Pistachio Rose Cakes"
+  },
+  "daily dose berry boost": {
+   "price_gbp": 4.7,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Daily Dose Berry Boost"
+  },
+  "daily dose brilliant beets": {
+   "price_gbp": 4.3,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Daily Dose Brilliant Beets"
+  },
+  "daily dose ginger zinger": {
+   "price_gbp": 4.3,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Daily Dose Ginger Zinger"
+  },
+  "rapscallion dry lime": {
+   "price_gbp": 3.6,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Rapscallion Dry Lime"
+  },
+  "iced matcha with cucumber & elderflower": {
+   "price_gbp": 4.9,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Iced Matcha with Cucumber & Elderflower"
+  },
+  "companion 2": {
+   "price_gbp": 9.5,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Companion 2"
+  },
+  "seasonal cookie box": {
+   "price_gbp": 29.5,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Seasonal Cookie Box"
+  },
+  "morning goods box (serves 6)": {
+   "price_gbp": 24.5,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Morning Goods Box (Serves 6)"
+  },
+  "pistachio & chocolate croissant": {
+   "price_gbp": 4.4,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Pistachio & Chocolate Croissant"
+  },
+  "pistachio chocolate croissant": {
+   "price_gbp": 4.4,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Pistachio Chocolate Croissant"
+  },
+  "6 pistachio & chocolate croissants": {
+   "price_gbp": 26.0,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "6 Pistachio & Chocolate Croissants"
+  },
+  "6x pistachio croissant": {
+   "price_gbp": 26.0,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "6x Pistachio Croissant"
+  },
+  "10 smoked chicken caesar club sandwich halves": {
+   "price_gbp": 45.0,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "10 Smoked Chicken Caesar Club Sandwich Halves"
+  },
+  "10 chicken caesar club halves": {
+   "price_gbp": 45.0,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "10 Chicken Caesar Club Halves"
+  },
+  "6 pain aux raisins": {
+   "price_gbp": 19.5,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "6 Pain aux Raisins"
+  },
+  "pain aux raisins x6": {
+   "price_gbp": 19.5,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Pain Aux Raisins X6"
+  },
+  "pain aux raisins": {
+   "price_gbp": 3.3,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Pain aux Raisins"
+  },
+  "oat, pecan & cranberry cookie": {
+   "price_gbp": 3.3,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Oat, Pecan & Cranberry Cookie"
+  },
+  "oat, pecan + cranberry cookie": {
+   "price_gbp": 3.3,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Oat, Pecan + Cranberry Cookie"
+  },
+  "chicken, tarragon & ham hand pie": {
+   "price_gbp": 5.7,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Chicken, Tarragon & Ham Hand Pie"
+  },
+  "chicken + ham hand pie": {
+   "price_gbp": 5.7,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Chicken + Ham Hand Pie"
+  },
+  "hot chocolate 70%, dark": {
+   "price_gbp": 4.1,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Hot Chocolate 70%, Dark"
+  },
+  "navy oversized tote bag": {
+   "price_gbp": 28.0,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Navy Oversized Tote Bag"
+  },
+  "gail's apron": {
+   "price_gbp": 25.0,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "GAIL's Apron"
+  },
+  "poetry tote bag": {
+   "price_gbp": 18.0,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Poetry Tote Bag"
+  },
+  "challah tin loaf": {
+   "price_gbp": 5.5,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Challah Tin Loaf"
+  },
+  "parmesan biscuit": {
+   "price_gbp": 6.8,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Parmesan Biscuit"
+  },
+  "chocolate chunk cookie": {
+   "price_gbp": 3.3,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Chocolate Chunk Cookie"
+  },
+  "toasted coconut, rye & maple granola 350g": {
+   "price_gbp": 6.0,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Toasted Coconut, Rye & Maple Granola 350g"
+  },
+  "coconut + maple granola": {
+   "price_gbp": 6.0,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Coconut + Maple Granola"
+  },
+  "classic fruit & nut granola 400g": {
+   "price_gbp": 6.0,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Classic Fruit & Nut Granola 400g"
+  },
+  "gails fruit + nut granola": {
+   "price_gbp": 6.0,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "GAILs Fruit + Nut Granola"
+  },
+  "crustless cheddar, potato & caramelised onion pie": {
+   "price_gbp": 5.7,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Crustless Cheddar, Potato & Caramelised Onion Pie"
+  },
+  "crustless potato pie": {
+   "price_gbp": 5.7,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Crustless Potato Pie"
+  },
+  "seasonal salad pots bundle": {
+   "price_gbp": 55.0,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Seasonal Salad Pots Bundle"
+  },
+  "salad pots (serves 6-12)": {
+   "price_gbp": 42.0,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Salad Pots (Serves 6-12)"
+  },
+  "beetroot, lentil & goat's cheese with toasted hazelnuts": {
+   "price_gbp": 7.0,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Beetroot, Lentil & Goat's Cheese with Toasted Hazelnuts"
+  },
+  "beetroot and goats cheese salad": {
+   "price_gbp": 7.0,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Beetroot And Goats Cheese Salad"
+  },
+  "babka bun & sesame & cardamom morning bun box": {
+   "price_gbp": 24.0,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Babka Bun & Sesame & Cardamom Morning Bun Box"
+  },
+  "6 sesame & cardamom morning buns": {
+   "price_gbp": 24.0,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "6 Sesame & Cardamom Morning Buns"
+  },
+  "sesame & cardamom morning bun": {
+   "price_gbp": 4.0,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Sesame & Cardamom Morning Bun"
+  },
+  "sesame + cardamom bun": {
+   "price_gbp": 4.0,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Sesame + Cardamom Bun"
+  },
+  "babka bun": {
+   "price_gbp": 4.0,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Babka Bun"
+  },
+  "chocolate babka bun": {
+   "price_gbp": 4.0,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Chocolate Babka Bun"
+  },
+  "breakfast bacon & egg slider": {
+   "price_gbp": 7.7,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Breakfast Bacon & Egg Slider"
+  },
+  "bacon egg slider": {
+   "price_gbp": 7.7,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Bacon Egg Slider"
+  },
+  "6 chocolate babka buns": {
+   "price_gbp": 24.0,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "6 Chocolate Babka Buns"
+  },
+  "good earth sourdough 1kg": {
+   "price_gbp": 5.1,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Good Earth Sourdough 1kg"
+  },
+  "good earth loaf": {
+   "price_gbp": 5.1,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Good Earth Loaf"
+  },
+  "rye & barley sourdough 860g": {
+   "price_gbp": 5.3,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Rye & Barley Sourdough 860g"
+  },
+  "rye + barley sourdough": {
+   "price_gbp": 5.3,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Rye + Barley Sourdough"
+  },
+  "pastrami rachel": {
+   "price_gbp": 7.7,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Pastrami Rachel"
+  },
+  "vanilla shortbread with heritage grain": {
+   "price_gbp": 6.2,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Vanilla Shortbread With Heritage Grain"
+  },
+  "vanilla shortbread w heritage": {
+   "price_gbp": 6.2,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Vanilla Shortbread w Heritage"
+  },
+  "heritage grain crispbreads": {
+   "price_gbp": 5.7,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Heritage Grain Crispbreads"
+  },
+  "heritage wheat crispbread": {
+   "price_gbp": 5.7,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Heritage Wheat Crispbread"
+  },
+  "momo raspberry & hibiscus kombucha": {
+   "price_gbp": 4.8,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Momo Raspberry & Hibiscus Kombucha"
+  },
+  "12 pastrami rachel sandwich halves": {
+   "price_gbp": 46.0,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "12 Pastrami Rachel Sandwich Halves"
+  },
+  "pastrami rachel & harissa chicken sandwich box": {
+   "price_gbp": 45.0,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Pastrami Rachel & Harissa Chicken Sandwich Box"
+  },
+  "small iced mocha": {
+   "price_gbp": 4.5,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Small Iced Mocha"
+  },
+  "matcha tea": {
+   "price_gbp": 4.1,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Matcha Tea"
+  },
+  "small matcha tea": {
+   "price_gbp": 3.8,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Small Matcha Tea"
+  },
+  "rapscallion burnt lemon can": {
+   "price_gbp": 3.6,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Rapscallion Burnt Lemon Can"
+  },
+  "rapscallion ginja ninja can": {
+   "price_gbp": 3.6,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Rapscallion Ginja Ninja Can"
+  },
+  "rapscallion ginja ninja": {
+   "price_gbp": 3.6,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Rapscallion Ginja Ninja"
+  },
+  "bruern farms sourdough 750g": {
+   "price_gbp": 5.3,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Bruern Farms Sourdough 750g"
+  },
+  "bruern farms sourdough": {
+   "price_gbp": 5.3,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Bruern Farms Sourdough"
+  },
+  "12 mixed mini savoury rolls": {
+   "price_gbp": 27.5,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "12 Mixed Mini Savoury Rolls"
+  },
+  "sausage roll": {
+   "price_gbp": 4.6,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Sausage Roll"
+  },
+  "12 mini sausage rolls": {
+   "price_gbp": 27.5,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "12 Mini Sausage Rolls"
+  },
+  "12 mini sausage roll": {
+   "price_gbp": 27.5,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "12 Mini Sausage Roll"
+  },
+  "gail's wholebean decaf 500g": {
+   "price_gbp": 18.0,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "GAIL's Wholebean Decaf 500g"
+  },
+  "muscovado iced latte": {
+   "price_gbp": 4.8,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Muscovado Iced Latte"
+  },
+  "harissa chicken sandwich": {
+   "price_gbp": 7.5,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Harissa Chicken Sandwich"
+  },
+  "12 harissa chicken sandwich halves": {
+   "price_gbp": 45.0,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "12 Harissa Chicken Sandwich Halves"
+  },
+  "12 harissa chicken halves": {
+   "price_gbp": 45.0,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "12 Harissa Chicken Halves"
+  },
+  "12 mini croissants": {
+   "price_gbp": 20.0,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "12 Mini Croissants"
+  },
+  "mini croissant box": {
+   "price_gbp": 20.0,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Mini Croissant Box"
+  },
+  "12 mini pain au chocolat": {
+   "price_gbp": 22.0,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "12 Mini Pain Au Chocolat"
+  },
+  "12 mini pain aux raisins": {
+   "price_gbp": 22.0,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "12 Mini Pain Aux Raisins"
+  },
+  "mini pain aux raisins box": {
+   "price_gbp": 22.0,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Mini Pain Aux Raisins Box"
+  },
+  "12 mini pastries": {
+   "price_gbp": 22.0,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "12 Mini Pastries"
+  },
+  "mozzarella & pesto sandwich": {
+   "price_gbp": 6.7,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Mozzarella & Pesto Sandwich"
+  },
+  "mozzarella and pesto sandwich": {
+   "price_gbp": 6.7,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Mozzarella and Pesto Sandwich"
+  },
+  "12 mozzarella & pesto halves": {
+   "price_gbp": 40.0,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "12 Mozzarella & Pesto Halves"
+  },
+  "12 mozzarella + pesto halves": {
+   "price_gbp": 40.0,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "12 Mozzarella + Pesto halves"
+  },
+  "daily dose turmeric shot": {
+   "price_gbp": 3.5,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Daily Dose Turmeric Shot"
+  },
+  "gail's sourdough 2kg": {
+   "price_gbp": 13.0,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "GAIL's Sourdough 2kg"
+  },
+  "gails sourdough 2kg": {
+   "price_gbp": 13.0,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "GAILs Sourdough 2kg"
+  },
+  "barley, chocolate & hazelnut cookie": {
+   "price_gbp": 3.3,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Barley, Chocolate & Hazelnut Cookie"
+  },
+  "barley, choc + hazelnut cookie": {
+   "price_gbp": 3.3,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Barley, Choc + Hazelnut Cookie"
+  },
+  "companion 1": {
+   "price_gbp": 6.5,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Companion 1"
+  },
+  "carrot cake": {
+   "price_gbp": 4.9,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Carrot Cake"
+  },
+  "carrot cake + pecan crunch": {
+   "price_gbp": 4.9,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Carrot Cake + Pecan Crunch"
+  },
+  "smoked salmon bagel, gail's schmear, pickled pink onions": {
+   "price_gbp": 7.3,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Smoked Salmon Bagel, GAIL's Schmear, Pickled Pink Onions"
+  },
+  "smoked salmon bagel": {
+   "price_gbp": 7.3,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Smoked Salmon Bagel"
+  },
+  "10 smoked salmon bagel halves": {
+   "price_gbp": 36.5,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "10 Smoked Salmon Bagel Halves"
+  },
+  "ginger & treacle loaf cake": {
+   "price_gbp": 12.0,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Ginger & Treacle Loaf Cake"
+  },
+  "ginger loaf cake packed": {
+   "price_gbp": 12.0,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Ginger Loaf Cake Packed"
+  },
+  "chocolate loaf cake": {
+   "price_gbp": 12.0,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Chocolate Loaf Cake"
+  },
+  "lemon drizzle loaf cake": {
+   "price_gbp": 12.0,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Lemon Drizzle Loaf Cake"
+  },
+  "12 mini spinach rolls": {
+   "price_gbp": 27.5,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "12 Mini Spinach Rolls"
+  },
+  "12 mini spinach roll": {
+   "price_gbp": 27.5,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "12 Mini Spinach Roll"
+  },
+  "spinach & feta roll": {
+   "price_gbp": 4.6,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Spinach & Feta Roll"
+  },
+  "spinach and feta roll": {
+   "price_gbp": 4.6,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Spinach And Feta Roll"
+  },
+  "small hot matcha": {
+   "price_gbp": 4.3,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Small Hot Matcha"
+  },
+  "small iced matcha": {
+   "price_gbp": 4.6,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Small Iced Matcha"
+  },
+  "blackcurrant & hibiscus tea": {
+   "price_gbp": 3.4,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Blackcurrant & Hibiscus Tea"
+  },
+  "darjeeling second flush tea": {
+   "price_gbp": 3.4,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Darjeeling Second Flush Tea"
+  },
+  "mixed scone box": {
+   "price_gbp": 23.0,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Mixed Scone Box"
+  },
+  "maple & pecan scone": {
+   "price_gbp": 3.9,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Maple & Pecan Scone"
+  },
+  "maple + pecan drop scone": {
+   "price_gbp": 3.9,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Maple + Pecan Drop Scone"
+  },
+  "hazelnut and walnut sourdough 500g": {
+   "price_gbp": 4.9,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Hazelnut and Walnut Sourdough 500g"
+  },
+  "hazelnut and walnut sourdough": {
+   "price_gbp": 4.9,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Hazelnut and Walnut Sourdough"
+  },
+  "brown sourdough 750g": {
+   "price_gbp": 5.3,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Brown Sourdough 750g"
+  },
+  "wildpress apple": {
+   "price_gbp": 4.2,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Wildpress Apple"
+  },
+  "pistachio financiers": {
+   "price_gbp": 6.2,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Pistachio Financiers"
+  },
+  "pistachio financier": {
+   "price_gbp": 6.2,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Pistachio Financier"
+  },
+  "cheddar & chive drop scone": {
+   "price_gbp": 3.5,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Cheddar & Chive Drop Scone"
+  },
+  "cheddar and chive drop scone": {
+   "price_gbp": 3.5,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Cheddar And Chive Drop Scone"
+  },
+  "sour cherry and chocolate scone": {
+   "price_gbp": 3.9,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Sour Cherry and Chocolate Scone"
+  },
+  "cherry + chocolate scone": {
+   "price_gbp": 3.9,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Cherry + Chocolate scone"
+  },
+  "iced matcha": {
+   "price_gbp": 4.9,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Iced Matcha"
+  },
+  "small iced chocolate - whole": {
+   "price_gbp": 4.2,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Small Iced Chocolate - Whole"
+  },
+  "iced flat white": {
+   "price_gbp": 4.3,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Iced Flat White"
+  },
+  "iced chocolate": {
+   "price_gbp": 4.5,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Iced Chocolate"
+  },
+  "iced mocha": {
+   "price_gbp": 4.8,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Iced Mocha"
+  },
+  "gail's sourdough 650g": {
+   "price_gbp": 4.9,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "GAIL's Sourdough 650g"
+  },
+  "gails sourdough": {
+   "price_gbp": 4.9,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "GAILs Sourdough"
+  },
+  "momo elderflower kombucha": {
+   "price_gbp": 4.8,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Momo Elderflower Kombucha"
+  },
+  "chocolate and hazelnut biscotti": {
+   "price_gbp": 6.4,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Chocolate and Hazelnut Biscotti"
+  },
+  "chocolate + hazelnut biscotti": {
+   "price_gbp": 6.4,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Chocolate + Hazelnut Biscotti"
+  },
+  "mini avocado and chickpea": {
+   "price_gbp": 3.1,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Mini Avocado and Chickpea"
+  },
+  "avocado + chickpea challah": {
+   "price_gbp": 3.1,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Avocado + Chickpea Challah"
+  },
+  "iced chai latte": {
+   "price_gbp": 4.6,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Iced Chai Latte"
+  },
+  "cortado": {
+   "price_gbp": 4.1,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Cortado"
+  },
+  "small filter coffee": {
+   "price_gbp": 3.2,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Small Filter Coffee"
+  },
+  "regular filter coffee": {
+   "price_gbp": 3.5,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Regular Filter Coffee"
+  },
+  "green tea": {
+   "price_gbp": 3.4,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Green Tea"
+  },
+  "peppermint tea": {
+   "price_gbp": 3.4,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Peppermint Tea"
+  },
+  "rooibos tea": {
+   "price_gbp": 3.4,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Rooibos Tea"
+  },
+  "lemongrass and ginger tea": {
+   "price_gbp": 3.4,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Lemongrass and Ginger Tea"
+  },
+  "earl grey tea": {
+   "price_gbp": 3.4,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Earl Grey Tea"
+  },
+  "english breakfast tea": {
+   "price_gbp": 3.4,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "English Breakfast Tea"
+  },
+  "small latte": {
+   "price_gbp": 3.9,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Small Latte"
+  },
+  "small cappuccino": {
+   "price_gbp": 3.9,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Small Cappuccino"
+  },
+  "short black": {
+   "price_gbp": 3.3,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Short Black"
+  },
+  "single macchiato": {
+   "price_gbp": 3.3,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Single Macchiato"
+  },
+  "single espresso": {
+   "price_gbp": 2.9,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Single Espresso"
+  },
+  "regular latte": {
+   "price_gbp": 4.2,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Regular Latte"
+  },
+  "regular cappuccino": {
+   "price_gbp": 4.2,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Regular Cappuccino"
+  },
+  "long black": {
+   "price_gbp": 3.5,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Long Black"
+  },
+  "flat white": {
+   "price_gbp": 4.1,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Flat White"
+  },
+  "double macchiato": {
+   "price_gbp": 3.6,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Double Macchiato"
+  },
+  "double espresso": {
+   "price_gbp": 3.2,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Double Espresso"
+  },
+  "chai latte": {
+   "price_gbp": 4.4,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Chai Latte"
+  },
+  "iced latte": {
+   "price_gbp": 4.4,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Iced Latte"
+  },
+  "hot chocolate 75% cocoa, dark": {
+   "price_gbp": 4.1,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Hot Chocolate 75% Cocoa, Dark"
+  },
+  "plain scone": {
+   "price_gbp": 2.9,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Plain Scone"
+  },
+  "roasted sweet potato & freekeh salad": {
+   "price_gbp": 7.0,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Roasted Sweet Potato & Freekeh Salad"
+  },
+  "freekeh and sweet potato salad": {
+   "price_gbp": 7.0,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Freekeh And Sweet Potato Salad"
+  },
+  "speculoos biscuits": {
+   "price_gbp": 6.2,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Speculoos Biscuits"
+  },
+  "pistachio & sour cherry biscotti": {
+   "price_gbp": 6.4,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Pistachio & Sour Cherry Biscotti"
+  },
+  "pistachio + cherry biscotti": {
+   "price_gbp": 6.4,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Pistachio + Cherry Biscotti"
+  },
+  "filter coffee box": {
+   "price_gbp": 40.0,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Filter Coffee Box"
+  },
+  "filter delivery box": {
+   "price_gbp": 40.0,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Filter Delivery Box"
+  },
+  "mango & passionfruit chia pot": {
+   "price_gbp": 4.6,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Mango & Passionfruit Chia Pot"
+  },
+  "mango and passionfruit chia pot": {
+   "price_gbp": 4.6,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Mango And Passionfruit Chia Pot"
+  },
+  "brownie bites": {
+   "price_gbp": 6.2,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Brownie Bites"
+  },
+  "brown butter financiers": {
+   "price_gbp": 6.2,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Brown Butter Financiers"
+  },
+  "organic strawberry jam": {
+   "price_gbp": 5.6,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Organic Strawberry Jam"
+  },
+  "spelt, cauliflower & ferments salad": {
+   "price_gbp": 7.0,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Spelt, Cauliflower & Ferments Salad"
+  },
+  "spelt and ferments salad": {
+   "price_gbp": 7.0,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Spelt And Ferments Salad"
+  },
+  "gluten-free sourdough 350g": {
+   "price_gbp": 4.9,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Gluten-Free Sourdough 350g"
+  },
+  "gluten-free sourdough": {
+   "price_gbp": 4.9,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Gluten-Free Sourdough"
+  },
+  "nut biscuits": {
+   "price_gbp": 6.2,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Nut Biscuits"
+  },
+  "two farmers wild mushroom & garlic crisps 40g": {
+   "price_gbp": 1.65,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Two Farmers Wild Mushroom & Garlic Crisps 40g"
+  },
+  "two farmers cheese & onion crisps 40g": {
+   "price_gbp": 1.65,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Two Farmers Cheese & Onion Crisps 40g"
+  },
+  "two farmers salted crisps 40g": {
+   "price_gbp": 1.65,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Two Farmers Salted Crisps 40g"
+  },
+  "daily dose glorious greens": {
+   "price_gbp": 4.7,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Daily Dose Glorious Greens"
+  },
+  "seville orange marmalade": {
+   "price_gbp": 5.6,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Seville Orange Marmalade"
+  },
+  "crunchy hazelnut spread": {
+   "price_gbp": 10.0,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Crunchy Hazelnut Spread"
+  },
+  "hazelnut & chocolate spread": {
+   "price_gbp": 10.0,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Hazelnut & Chocolate Spread"
+  },
+  "hazelnut and chocolate spread": {
+   "price_gbp": 10.0,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Hazelnut And Chocolate Spread"
+  },
+  "quiche box": {
+   "price_gbp": 33.0,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Quiche Box"
+  },
+  "gail's house blend coffee pre ground 200g": {
+   "price_gbp": 7.7,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "GAIL's House Blend Coffee Pre Ground 200g"
+  },
+  "daily dose hot shot": {
+   "price_gbp": 3.5,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Daily Dose Hot Shot"
+  },
+  "gail's house blend coffee whole bean 1kg": {
+   "price_gbp": 33.0,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "GAIL's House Blend Coffee Whole Bean 1kg"
+  },
+  "oxfordshire honey": {
+   "price_gbp": 8.0,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Oxfordshire Honey"
+  },
+  "organic raspberry & rose jam": {
+   "price_gbp": 5.6,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Organic Raspberry & Rose Jam"
+  },
+  "raspberry and rose jam": {
+   "price_gbp": 5.6,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Raspberry And Rose Jam"
+  },
+  "pecan & cinnamon crumb cake": {
+   "price_gbp": 4.2,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Pecan & Cinnamon Crumb Cake"
+  },
+  "pecan crumb cake": {
+   "price_gbp": 4.2,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Pecan Crumb Cake"
+  },
+  "flourless chocolate & extra virgin olive oil mousse cake": {
+   "price_gbp": 4.5,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Flourless Chocolate & Extra Virgin Olive Oil Mousse Cake"
+  },
+  "chocolate evoo mousse cake": {
+   "price_gbp": 4.5,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Chocolate EVOO Mousse Cake"
+  },
+  "chocolate & tahini bite": {
+   "price_gbp": 2.1,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Chocolate & Tahini Bite"
+  },
+  "chocolate and tahini bite": {
+   "price_gbp": 2.1,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Chocolate And Tahini Bite"
+  },
+  "pistachio, lemon & rose cake": {
+   "price_gbp": 4.0,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Pistachio, Lemon & Rose Cake"
+  },
+  "pistachio, lemon and rose cake": {
+   "price_gbp": 4.0,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Pistachio, Lemon And Rose Cake"
+  },
+  "honey cake": {
+   "price_gbp": 2.1,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Honey Cake"
+  },
+  "granola bar": {
+   "price_gbp": 3.2,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Granola Bar"
+  },
+  "reverse chocolate chunk cookie": {
+   "price_gbp": 3.3,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Reverse Chocolate Chunk Cookie"
+  },
+  "chocolate brownie finger": {
+   "price_gbp": 3.2,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Chocolate Brownie Finger"
+  },
+  "blueberry & vanilla custard brioche": {
+   "price_gbp": 4.4,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Blueberry & Vanilla Custard Brioche"
+  },
+  "blueberry brioche": {
+   "price_gbp": 4.4,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Blueberry Brioche"
+  },
+  "madeleine": {
+   "price_gbp": 1.4,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Madeleine"
+  },
+  "sea salt caramel, banana & pecan cake": {
+   "price_gbp": 4.3,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Sea Salt Caramel, Banana & Pecan Cake"
+  },
+  "caramel, banana and pecan cake": {
+   "price_gbp": 4.3,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Caramel, Banana And Pecan Cake"
+  },
+  "cheese straw": {
+   "price_gbp": 3.1,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Cheese Straw"
+  },
+  "borekita": {
+   "price_gbp": 2.6,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Borekita"
+  },
+  "ham, cheddar cheese & leek quiche": {
+   "price_gbp": 5.5,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Ham, Cheddar Cheese & Leek Quiche"
+  },
+  "ham, cheese + leek quiche": {
+   "price_gbp": 5.5,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Ham, Cheese + Leek Quiche"
+  },
+  "ham & cheese croissant": {
+   "price_gbp": 5.4,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Ham & Cheese Croissant"
+  },
+  "ham and cheese croissant": {
+   "price_gbp": 5.4,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Ham And Cheese Croissant"
+  },
+  "breakfast egg slider": {
+   "price_gbp": 6.4,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Breakfast Egg Slider"
+  },
+  "mini smoked salmon & avocado yoghurt": {
+   "price_gbp": 3.2,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Mini Smoked Salmon & Avocado Yoghurt"
+  },
+  "salmon and avocado yoghurt roll": {
+   "price_gbp": 3.2,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Salmon And Avocado Yoghurt Roll"
+  },
+  "mini salami & cornichon": {
+   "price_gbp": 3.2,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Mini Salami & Cornichon"
+  },
+  "mini salami on a cream bun": {
+   "price_gbp": 3.2,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Mini Salami On A Cream Bun"
+  },
+  "afternoon tea (serves 4)": {
+   "price_gbp": 80.0,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Afternoon Tea (serves 4)"
+  },
+  "afternoon tea hamper(serves 4)": {
+   "price_gbp": 80.0,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Afternoon Tea Hamper(Serves 4)"
+  },
+  "gail's house blend coffee whole beans 200g": {
+   "price_gbp": 7.7,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "GAIL's House Blend Coffee Whole Beans 200g"
+  },
+  "quicke's whey butter": {
+   "price_gbp": 4.9,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Quicke's Whey Butter"
+  },
+  "severn & wye smoked salmon 100g": {
+   "price_gbp": 7.3,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Severn & Wye Smoked Salmon 100g"
+  },
+  "cheddar cheese crackers": {
+   "price_gbp": 4.8,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Cheddar Cheese Crackers"
+  },
+  "chocolate sabl\u00e9s": {
+   "price_gbp": 6.2,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Chocolate Sabl\u00e9s"
+  },
+  "seeded crackers": {
+   "price_gbp": 4.4,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Seeded Crackers"
+  },
+  "organic apricot & lavender leaf jam": {
+   "price_gbp": 5.6,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Organic Apricot & Lavender Leaf Jam"
+  },
+  "8 cinnamon buns": {
+   "price_gbp": 32.0,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "8 Cinnamon Buns"
+  },
+  "4 cinnamon buns": {
+   "price_gbp": 16.0,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "4 Cinnamon Buns"
+  },
+  "chocolate muffin": {
+   "price_gbp": 3.7,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Chocolate Muffin"
+  },
+  "sultana scone": {
+   "price_gbp": 2.9,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Sultana Scone"
+  },
+  "soho bun": {
+   "price_gbp": 2.2,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Soho Bun"
+  },
+  "croissant": {
+   "price_gbp": 2.9,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Croissant"
+  },
+  "pain au chocolat": {
+   "price_gbp": 3.3,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Pain au Chocolat"
+  },
+  "cinnamon bun": {
+   "price_gbp": 4.0,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Cinnamon Bun"
+  },
+  "chocolate & almond croissant": {
+   "price_gbp": 4.3,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Chocolate & Almond Croissant"
+  },
+  "chocolate and almond croissant": {
+   "price_gbp": 4.3,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Chocolate And Almond Croissant"
+  },
+  "blueberry muffin": {
+   "price_gbp": 3.7,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Blueberry Muffin"
+  },
+  "almond croissant": {
+   "price_gbp": 4.2,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Almond Croissant"
+  },
+  "daily dose orange juice": {
+   "price_gbp": 4.3,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Daily Dose Orange Juice"
+  },
+  "daily dose super strawb": {
+   "price_gbp": 4.3,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Daily Dose Super Strawb"
+  },
+  "5 burger buns": {
+   "price_gbp": 5.0,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "5 Burger Buns"
+  },
+  "5 mini cream buns": {
+   "price_gbp": 3.0,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "5 Mini Cream Buns"
+  },
+  "lunch box (serves 12)": {
+   "price_gbp": 116.5,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Lunch Box (Serves 12)"
+  },
+  "mini sandwich box": {
+   "price_gbp": 38.0,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Mini Sandwich Box"
+  },
+  "12 mini avocado sandwiches": {
+   "price_gbp": 37.0,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "12 Mini Avocado Sandwiches"
+  },
+  "12 mini avocado challah": {
+   "price_gbp": 37.0,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "12 Mini Avocado Challah"
+  },
+  "cake box": {
+   "price_gbp": 25.0,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Cake Box"
+  },
+  "10 honey cakes": {
+   "price_gbp": 21.0,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "10 Honey Cakes"
+  },
+  "mini cake box (serves 32)": {
+   "price_gbp": 80.0,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Mini Cake Box (Serves 32)"
+  },
+  "biscuit box": {
+   "price_gbp": 37.0,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Biscuit Box"
+  },
+  "6 blueberry & vanilla custard brioches": {
+   "price_gbp": 26.0,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "6 Blueberry & Vanilla Custard Brioches"
+  },
+  "6 blueberry brioche": {
+   "price_gbp": 26.0,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "6 Blueberry Brioche"
+  },
+  "12 mini salami & cornichons": {
+   "price_gbp": 38.0,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "12 Mini Salami & Cornichons"
+  },
+  "12 mini salami": {
+   "price_gbp": 38.0,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "12 Mini Salami"
+  },
+  "12 mini smoked salmon sandwiches": {
+   "price_gbp": 38.0,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "12 Mini Smoked Salmon Sandwiches"
+  },
+  "12 mini salmon": {
+   "price_gbp": 38.0,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "12 Mini Salmon"
+  },
+  "9 borekitas": {
+   "price_gbp": 23.0,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "9 Borekitas"
+  },
+  "savouries box": {
+   "price_gbp": 49.5,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Savouries Box"
+  },
+  "6 ham & cheese croissants": {
+   "price_gbp": 32.0,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "6 Ham & Cheese Croissants"
+  },
+  "6 ham croissant": {
+   "price_gbp": 32.0,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "6 Ham Croissant"
+  },
+  "cream tea kit": {
+   "price_gbp": 26.5,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Cream Tea Kit"
+  },
+  "12 soho buns": {
+   "price_gbp": 26.0,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "12 Soho Buns"
+  },
+  "12 madeleines": {
+   "price_gbp": 16.5,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "12 Madeleines"
+  },
+  "muffin box (serves 9)": {
+   "price_gbp": 33.0,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Muffin Box (Serves 9)"
+  },
+  "6 chocolate & almond croissants": {
+   "price_gbp": 25.5,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "6 Chocolate & Almond Croissants"
+  },
+  "6 choc almond croissant": {
+   "price_gbp": 25.5,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "6 Choc Almond Croissant"
+  },
+  "6 almond croissants": {
+   "price_gbp": 25.0,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "6 Almond Croissants"
+  },
+  "6 almond croissant": {
+   "price_gbp": 25.0,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "6 Almond Croissant"
+  },
+  "6 pain au chocolat": {
+   "price_gbp": 19.5,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "6 Pain au Chocolat"
+  },
+  "6 pain au choc": {
+   "price_gbp": 19.5,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "6 Pain Au Choc"
+  },
+  "6 croissants": {
+   "price_gbp": 17.0,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "6 Croissants"
+  },
+  "pastry heroes box (serves 6)": {
+   "price_gbp": 20.0,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Pastry Heroes Box (Serves 6)"
+  },
+  "breakfast box (serves 12)": {
+   "price_gbp": 96.0,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Breakfast Box (serves 12)"
+  },
+  "10 chocolate & tahini bites": {
+   "price_gbp": 21.0,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "10 Chocolate & Tahini Bites"
+  },
+  "10 chocolate and tahini bites": {
+   "price_gbp": 21.0,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "10 Chocolate And Tahini Bites"
+  },
+  "greek yoghurt with blueberry and blackcurrant compote": {
+   "price_gbp": 4.6,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Greek Yoghurt with Blueberry and Blackcurrant Compote"
+  },
+  "blueberry yoghurt": {
+   "price_gbp": 4.6,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Blueberry Yoghurt"
+  },
+  "potato & rosemary sourdough 650g": {
+   "price_gbp": 5.3,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Potato & Rosemary Sourdough 650g"
+  },
+  "potato rosemary sourdough 650g": {
+   "price_gbp": 5.3,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Potato Rosemary Sourdough 650G"
+  },
+  "waste-less sourdough 750g": {
+   "price_gbp": 5.1,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Waste-Less Sourdough 750g"
+  },
+  "waste-less sourdough": {
+   "price_gbp": 5.1,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Waste-Less Sourdough"
+  },
+  "seeded sourdough 650g": {
+   "price_gbp": 5.1,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Seeded Sourdough 650g"
+  },
+  "seeded sourdough": {
+   "price_gbp": 5.1,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Seeded Sourdough"
+  },
+  "san francisco sourdough 650g": {
+   "price_gbp": 4.9,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "San Francisco Sourdough 650g"
+  },
+  "san francisco sourdough": {
+   "price_gbp": 4.9,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "San Francisco Sourdough"
+  },
+  "mixed olive sourdough 300g": {
+   "price_gbp": 4.2,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Mixed Olive Sourdough 300g"
+  },
+  "mixed olive sourdough": {
+   "price_gbp": 4.2,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Mixed Olive Sourdough"
+  },
+  "baguette 245g": {
+   "price_gbp": 2.9,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Baguette 245g"
+  },
+  "baguette": {
+   "price_gbp": 2.9,
+   "basis": "collection",
+   "store": "GAIL's online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Baguette"
+  }
+ }
+}

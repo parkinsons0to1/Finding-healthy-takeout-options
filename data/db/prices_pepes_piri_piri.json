@@ -1,0 +1,1182 @@
+{
+ "chain_id": "pepes_piri_piri",
+ "fetched_at": "2026-08-08T06:23:20Z",
+ "store": "Pepe's Piri Piri - Sutton",
+ "stores": [
+  "Pepe's Piri Piri - Sutton"
+ ],
+ "basis": "collection",
+ "item_count": 195,
+ "prices": {
+  "fajita wrap - meal": {
+   "price_gbp": 11.09,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Fajita Wrap - Meal"
+  },
+  "hot & spicy quesadilla  - meal": {
+   "price_gbp": 10.59,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Hot & Spicy Quesadilla  - Meal"
+  },
+  "chicken loaded fries - meal": {
+   "price_gbp": 12.09,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Chicken Loaded Fries - Meal"
+  },
+  "prime pitta - meal": {
+   "price_gbp": 10.59,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Prime Pitta - Meal"
+  },
+  "chicken xl - meal": {
+   "price_gbp": 10.59,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Chicken XL - Meal"
+  },
+  "the wrap - meal": {
+   "price_gbp": 10.59,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "The Wrap - Meal"
+  },
+  "chick 'n' rice - meal": {
+   "price_gbp": 12.09,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Chick 'N' Rice - Meal"
+  },
+  "bbq quesadilla - meal": {
+   "price_gbp": 10.59,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "BBQ Quesadilla - Meal"
+  },
+  "chicken & cheese quesadilla - meal": {
+   "price_gbp": 10.59,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Chicken & Cheese Quesadilla - Meal"
+  },
+  "bbq wrap - meal": {
+   "price_gbp": 11.09,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "BBQ Wrap - Meal"
+  },
+  "chicken tasca - meal": {
+   "price_gbp": 11.09,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Chicken Tasca - Meal"
+  },
+  "chicken burrito - meal": {
+   "price_gbp": 11.09,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Chicken Burrito - Meal"
+  },
+  "pepe's 5 tender strips - meal": {
+   "price_gbp": 11.09,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Pepe's 5 Tender Strips - Meal"
+  },
+  "5x pepe's wings - meal": {
+   "price_gbp": 10.59,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "5x Pepe's Wings - Meal"
+  },
+  "korean beef burger - meal": {
+   "price_gbp": 12.59,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Korean Beef Burger - Meal"
+  },
+  "gourmet beef meal": {
+   "price_gbp": 12.09,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Gourmet Beef Meal"
+  },
+  "korean lamb burger - meal": {
+   "price_gbp": 12.59,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Korean Lamb Burger - Meal"
+  },
+  "gourmet lamb meal": {
+   "price_gbp": 12.09,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Gourmet Lamb Meal"
+  },
+  "quarter chicken - meal": {
+   "price_gbp": 10.59,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Quarter Chicken - Meal"
+  },
+  "half chicken - meal": {
+   "price_gbp": 14.09,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Half Chicken - Meal"
+  },
+  "whole chicken - meal": {
+   "price_gbp": 20.29,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Whole Chicken - Meal"
+  },
+  "texan beef meal": {
+   "price_gbp": 12.59,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Texan Beef Meal"
+  },
+  "texan lamb meal": {
+   "price_gbp": 12.59,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Texan Lamb Meal"
+  },
+  "chicken nachos - meal": {
+   "price_gbp": 12.09,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Chicken Nachos - Meal"
+  },
+  "chicken box - meal": {
+   "price_gbp": 12.09,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Chicken Box - Meal"
+  },
+  "chicken salad - meal": {
+   "price_gbp": 11.59,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Chicken Salad - Meal"
+  },
+  "chicken xl": {
+   "price_gbp": 7.79,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Chicken XL"
+  },
+  "prime pitta": {
+   "price_gbp": 7.79,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Prime Pitta"
+  },
+  "the wrap": {
+   "price_gbp": 7.79,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "The Wrap"
+  },
+  "fajita wrap": {
+   "price_gbp": 8.29,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Fajita Wrap"
+  },
+  "chicken fajita wrap": {
+   "price_gbp": 8.29,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Chicken Fajita Wrap"
+  },
+  "hot & spicy quesadilla": {
+   "price_gbp": 7.79,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Hot & Spicy Quesadilla"
+  },
+  "chicken loaded fries": {
+   "price_gbp": 9.29,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Chicken Loaded Fries"
+  },
+  "chick 'n' rice": {
+   "price_gbp": 9.29,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Chick 'N' Rice"
+  },
+  "bbq quesadilla": {
+   "price_gbp": 7.79,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "BBQ Quesadilla"
+  },
+  "chicken & cheese quesadilla": {
+   "price_gbp": 7.79,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Chicken & Cheese Quesadilla"
+  },
+  "chicken quesadilla": {
+   "price_gbp": 7.79,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Chicken Quesadilla"
+  },
+  "bbq wrap.": {
+   "price_gbp": 8.29,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "BBQ Wrap."
+  },
+  "chicken tasca": {
+   "price_gbp": 8.29,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Chicken Tasca"
+  },
+  "chicken burrito": {
+   "price_gbp": 8.29,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Chicken Burrito"
+  },
+  "pepe's 5 tender strips": {
+   "price_gbp": 8.29,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Pepe's 5 Tender Strips"
+  },
+  "tender strips \u2013 5": {
+   "price_gbp": 8.29,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Tender Strips \u2013 5"
+  },
+  "5x pepe's wings": {
+   "price_gbp": 7.79,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "5x Pepe's Wings"
+  },
+  "pepe's wings \u2013 5": {
+   "price_gbp": 7.79,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Pepe's Wings \u2013 5"
+  },
+  "korean beef burger": {
+   "price_gbp": 9.79,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Korean Beef Burger"
+  },
+  "korean beef burger \u2013 single": {
+   "price_gbp": 9.79,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Korean Beef Burger \u2013 Single"
+  },
+  "gourmet beef burger": {
+   "price_gbp": 9.29,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Gourmet Beef Burger"
+  },
+  "gourmet beef burger \u2013 single": {
+   "price_gbp": 9.29,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Gourmet Beef Burger \u2013 Single"
+  },
+  "korean lamb burger": {
+   "price_gbp": 9.79,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Korean Lamb Burger"
+  },
+  "korean lamb burger \u2013 single": {
+   "price_gbp": 9.79,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Korean Lamb Burger \u2013 Single"
+  },
+  "gourmet lamb burger": {
+   "price_gbp": 9.29,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Gourmet Lamb Burger"
+  },
+  "gourmet lamb burger \u2013 single": {
+   "price_gbp": 9.29,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Gourmet Lamb Burger \u2013 Single"
+  },
+  "quarter chicken": {
+   "price_gbp": 7.79,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Quarter Chicken"
+  },
+  "1/4 chicken": {
+   "price_gbp": 7.79,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "1/4 Chicken"
+  },
+  "half chicken": {
+   "price_gbp": 11.29,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Half Chicken"
+  },
+  "1/2 chicken": {
+   "price_gbp": 11.29,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "1/2 Chicken"
+  },
+  "whole chicken": {
+   "price_gbp": 17.49,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Whole Chicken"
+  },
+  "texan beef burger": {
+   "price_gbp": 9.79,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Texan Beef Burger"
+  },
+  "texan beef burger \u2013 single": {
+   "price_gbp": 9.79,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Texan Beef Burger \u2013 Single"
+  },
+  "texan lamb burger": {
+   "price_gbp": 9.79,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Texan Lamb Burger"
+  },
+  "texan lamb burger \u2013 single": {
+   "price_gbp": 9.79,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Texan Lamb Burger \u2013 Single"
+  },
+  "chicken box": {
+   "price_gbp": 9.29,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Chicken Box"
+  },
+  "chicken nachos": {
+   "price_gbp": 9.29,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Chicken Nachos"
+  },
+  "chicken salad": {
+   "price_gbp": 8.79,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Chicken Salad"
+  },
+  "chicken burger meal": {
+   "price_gbp": 6.89,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Chicken Burger Meal"
+  },
+  "chicken nuggets meal": {
+   "price_gbp": 7.19,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Chicken Nuggets Meal"
+  },
+  "chicken burger": {
+   "price_gbp": 4.09,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Chicken Burger"
+  },
+  "chicken nuggets.": {
+   "price_gbp": 4.39,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Chicken Nuggets."
+  },
+  "chicken nuggets \u2013 5": {
+   "price_gbp": 4.39,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Chicken Nuggets \u2013 5"
+  },
+  "paneer loaded fries - meal": {
+   "price_gbp": 12.09,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Paneer Loaded Fries - Meal"
+  },
+  "paneer rice - meal": {
+   "price_gbp": 12.09,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Paneer Rice - Meal"
+  },
+  "paneer nachos - meal": {
+   "price_gbp": 12.09,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Paneer Nachos - Meal"
+  },
+  "paneer wrap - meal": {
+   "price_gbp": 10.59,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Paneer Wrap - Meal"
+  },
+  "feta salad - meal": {
+   "price_gbp": 11.59,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Feta Salad - Meal"
+  },
+  "paneer salad - meal": {
+   "price_gbp": 11.59,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Paneer Salad - Meal"
+  },
+  "paneer burrito - meal": {
+   "price_gbp": 11.09,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Paneer Burrito - Meal"
+  },
+  "veggie burger meal": {
+   "price_gbp": 8.59,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Veggie Burger Meal"
+  },
+  "paneer loaded fries": {
+   "price_gbp": 9.29,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Paneer Loaded Fries"
+  },
+  "paneer rice": {
+   "price_gbp": 9.29,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Paneer Rice"
+  },
+  "paneer nachos": {
+   "price_gbp": 9.29,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Paneer Nachos"
+  },
+  "paneer wrap": {
+   "price_gbp": 7.79,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Paneer Wrap"
+  },
+  "feta salad": {
+   "price_gbp": 8.79,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Feta Salad"
+  },
+  "paneer salad": {
+   "price_gbp": 8.79,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Paneer Salad"
+  },
+  "paneer burrito": {
+   "price_gbp": 8.29,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Paneer Burrito"
+  },
+  "veggie burger": {
+   "price_gbp": 5.79,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Veggie Burger"
+  },
+  "veggie burger \u2013 single": {
+   "price_gbp": 5.79,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Veggie Burger \u2013 Single"
+  },
+  "solo platter": {
+   "price_gbp": 12.69,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Solo Platter"
+  },
+  "solo (serves 1)": {
+   "price_gbp": 12.69,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Solo (Serves 1)"
+  },
+  "18x wings": {
+   "price_gbp": 18.99,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "18x Wings"
+  },
+  "wings x 18 (serves 2)": {
+   "price_gbp": 18.99,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Wings X 18 (Serves 2)"
+  },
+  "28x wings": {
+   "price_gbp": 28.99,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "28x Wings"
+  },
+  "wings x 28 (serves 3)": {
+   "price_gbp": 28.99,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Wings X 28 (Serves 3)"
+  },
+  "combo": {
+   "price_gbp": 19.99,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Combo"
+  },
+  "combo (serves 2-3)": {
+   "price_gbp": 19.99,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Combo (Serves 2-3)"
+  },
+  "mega platter": {
+   "price_gbp": 42.99,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Mega Platter"
+  },
+  "mega (serves 5-6)": {
+   "price_gbp": 42.99,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Mega (Serves 5-6)"
+  },
+  "family platter": {
+   "price_gbp": 26.99,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Family Platter"
+  },
+  "family (serves 3-4)": {
+   "price_gbp": 26.99,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Family (Serves 3-4)"
+  },
+  "kids burger meal": {
+   "price_gbp": 7.29,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Kids Burger Meal"
+  },
+  "kids meal \u2013 chicken burger": {
+   "price_gbp": 7.29,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Kids Meal \u2013 Chicken Burger"
+  },
+  "kids nuggets meal": {
+   "price_gbp": 7.29,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Kids Nuggets Meal"
+  },
+  "kids strips meal": {
+   "price_gbp": 7.29,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Kids Strips Meal"
+  },
+  "plain loaded fries": {
+   "price_gbp": 6.29,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Plain Loaded Fries"
+  },
+  "3x tender strips": {
+   "price_gbp": 5.19,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "3x Tender Strips"
+  },
+  "tender strips \u2013 3": {
+   "price_gbp": 5.19,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Tender Strips \u2013 3"
+  },
+  "3x pepe's wings": {
+   "price_gbp": 4.99,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "3x Pepe's Wings"
+  },
+  "pepe's wings \u2013 3": {
+   "price_gbp": 4.99,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Pepe's Wings \u2013 3"
+  },
+  "corn on cob": {
+   "price_gbp": 3.49,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Corn On Cob"
+  },
+  "piri piri corn on cob": {
+   "price_gbp": 3.99,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Piri Piri Corn On Cob"
+  },
+  "3x mozzarella sticks": {
+   "price_gbp": 3.49,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "3x Mozzarella Sticks"
+  },
+  "mozarella sticks": {
+   "price_gbp": 3.49,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Mozarella Sticks"
+  },
+  "5x crispy onion rings": {
+   "price_gbp": 3.49,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "5x Crispy Onion Rings"
+  },
+  "onion rings": {
+   "price_gbp": 3.49,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Onion Rings"
+  },
+  "pepe's wedges": {
+   "price_gbp": 3.49,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Pepe's Wedges"
+  },
+  "wedges": {
+   "price_gbp": 3.49,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Wedges"
+  },
+  "regular fries": {
+   "price_gbp": 2.19,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Regular Fries"
+  },
+  "large fries": {
+   "price_gbp": 2.99,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Large Fries"
+  },
+  "spicy rice": {
+   "price_gbp": 4.99,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Spicy Rice"
+  },
+  "pepe's side salad": {
+   "price_gbp": 4.99,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Pepe's Side Salad"
+  },
+  "side salad": {
+   "price_gbp": 4.99,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Side Salad"
+  },
+  "steamed mixed veg": {
+   "price_gbp": 4.99,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Steamed Mixed Veg"
+  },
+  "4x chilli cheese nuggets": {
+   "price_gbp": 3.49,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "4x Chilli Cheese Nuggets"
+  },
+  "chilli cheese nuggets": {
+   "price_gbp": 3.49,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Chilli Cheese Nuggets"
+  },
+  "piri piri mayo dip": {
+   "price_gbp": 0.5,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Piri Piri Mayo Dip"
+  },
+  "pepe\u2019s piri piri mayo": {
+   "price_gbp": 0.5,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Pepe\u2019s Piri Piri Mayo"
+  },
+  "garlic mayo dip": {
+   "price_gbp": 0.5,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Garlic Mayo Dip"
+  },
+  "pepe\u2019s garlic mayo": {
+   "price_gbp": 0.5,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Pepe\u2019s Garlic Mayo"
+  },
+  "extra hot dip.": {
+   "price_gbp": 0.5,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Extra Hot Dip."
+  },
+  "pepe\u2019s extra hot sauce": {
+   "price_gbp": 0.5,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Pepe\u2019s Extra Hot Sauce"
+  },
+  "sweet chilli dip": {
+   "price_gbp": 0.5,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Sweet Chilli Dip"
+  },
+  "pepe\u2019s sweet chilli sauce": {
+   "price_gbp": 0.5,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Pepe\u2019s Sweet Chilli Sauce"
+  },
+  "chimichurri mayo dip": {
+   "price_gbp": 0.5,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Chimichurri Mayo Dip"
+  },
+  "pepe\u2019s chimichurri mayo": {
+   "price_gbp": 0.5,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Pepe\u2019s Chimichurri Mayo"
+  },
+  "dark chocolate sauce dip": {
+   "price_gbp": 0.5,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Dark Chocolate Sauce Dip"
+  },
+  "pepe\u2019s dark chocolate sauce": {
+   "price_gbp": 0.5,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Pepe\u2019s Dark Chocolate Sauce"
+  },
+  "pepe\u2019s lemon & herb sauce bottle 250ml": {
+   "price_gbp": 4.29,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Pepe\u2019s Lemon & Herb Sauce Bottle 250ml"
+  },
+  "piri piri sauce \u2013 lemon & herb 250 ml": {
+   "price_gbp": 4.29,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Piri Piri Sauce \u2013 Lemon & Herb 250 ml"
+  },
+  "pepe\u2019s mango & lime sauce bottle 250ml": {
+   "price_gbp": 4.29,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Pepe\u2019s Mango & Lime Sauce Bottle 250ml"
+  },
+  "piri piri sauce \u2013 mango & lime 250 ml": {
+   "price_gbp": 4.29,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Piri Piri Sauce \u2013 Mango & Lime 250 ml"
+  },
+  "pepe\u2019s mild sauce bottle 250ml": {
+   "price_gbp": 4.29,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Pepe\u2019s Mild Sauce Bottle 250ml"
+  },
+  "piri piri sauce \u2013 mild 250 ml": {
+   "price_gbp": 4.29,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Piri Piri Sauce \u2013 Mild 250 ml"
+  },
+  "pepe\u2019s hot sauce bottle 250ml": {
+   "price_gbp": 4.29,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Pepe\u2019s Hot Sauce Bottle 250ml"
+  },
+  "piri piri sauce \u2013 hot 250 ml": {
+   "price_gbp": 4.29,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Piri Piri Sauce \u2013 Hot 250 ml"
+  },
+  "pepe\u2019s extra hot sauce bottle 250ml": {
+   "price_gbp": 4.29,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Pepe\u2019s Extra Hot Sauce Bottle 250ml"
+  },
+  "piri piri sauce \u2013 extra hot 250 ml": {
+   "price_gbp": 4.29,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Piri Piri Sauce \u2013 Extra Hot 250 ml"
+  },
+  "pepe\u2019s extreme sauce bottle 250ml": {
+   "price_gbp": 4.29,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Pepe\u2019s Extreme Sauce Bottle 250ml"
+  },
+  "piri piri sauce \u2013 extreme 250 ml": {
+   "price_gbp": 4.29,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Piri Piri Sauce \u2013 Extreme 250 ml"
+  },
+  "pepe's piri piri salt bottle 135g": {
+   "price_gbp": 3.29,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Pepe's Piri Piri Salt Bottle 135g"
+  },
+  "piri piri salt bottle 135g": {
+   "price_gbp": 3.29,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Piri Piri Salt Bottle 135g"
+  },
+  "pepe's branded ketchup sachets": {
+   "price_gbp": 0.2,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Pepe's Branded Ketchup Sachets"
+  },
+  "pepe's branded mayonnaise sachets": {
+   "price_gbp": 0.2,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Pepe's Branded Mayonnaise Sachets"
+  },
+  "pepe's branded bbq sauce sachets": {
+   "price_gbp": 0.2,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Pepe's Branded BBQ Sauce Sachets"
+  },
+  "pitta bread": {
+   "price_gbp": 1.19,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Pitta Bread"
+  },
+  "piri piri pitta bread": {
+   "price_gbp": 1.69,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Piri Piri Pitta Bread"
+  },
+  "cheese slice": {
+   "price_gbp": 0.6,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Cheese Slice"
+  },
+  "extra hot dip": {
+   "price_gbp": 0.5,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Extra Hot Dip"
+  },
+  "chocolate fudge cake": {
+   "price_gbp": 3.99,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Chocolate Fudge Cake"
+  },
+  "pepe\u2019s chocolate fudge cake": {
+   "price_gbp": 3.99,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Pepe\u2019s Chocolate Fudge Cake"
+  },
+  "strawberry cheesecake": {
+   "price_gbp": 3.99,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Strawberry Cheesecake"
+  },
+  "pepe\u2019s strawberry cheesecake": {
+   "price_gbp": 3.99,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Pepe\u2019s Strawberry Cheesecake"
+  },
+  "carrot cake": {
+   "price_gbp": 3.99,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Carrot Cake"
+  },
+  "pepe\u2019s carrot cake": {
+   "price_gbp": 3.99,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Pepe\u2019s Carrot Cake"
+  },
+  "churros & chocolate dip": {
+   "price_gbp": 3.99,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Churros & Chocolate Dip"
+  },
+  "pepe\u2019s churros": {
+   "price_gbp": 3.99,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Pepe\u2019s Churros"
+  },
+  "ben & jerrys chocolate fudge brownie ice - cream 100ml": {
+   "price_gbp": 3.99,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Ben & Jerrys Chocolate Fudge Brownie Ice - Cream 100ml"
+  },
+  "chocolate fudge brownie (100ml)": {
+   "price_gbp": 3.99,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Chocolate Fudge Brownie (100ml)"
+  },
+  "ben & jerrys cookie dough ice cream 100ml": {
+   "price_gbp": 3.99,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Ben & Jerrys Cookie Dough Ice Cream 100ml"
+  },
+  "cookie dough (100ml)": {
+   "price_gbp": 3.99,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Cookie Dough (100ml)"
+  },
+  "ben & jerrys chocolate fudge brownie ice - cream 465ml": {
+   "price_gbp": 6.99,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Ben & Jerrys Chocolate Fudge Brownie Ice - Cream 465ml"
+  },
+  "chocolate fudge brownie (465ml)": {
+   "price_gbp": 6.99,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Chocolate Fudge Brownie (465ml)"
+  },
+  "ben & jerrys cookie dough ice cream 465ml": {
+   "price_gbp": 6.99,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Ben & Jerrys Cookie Dough Ice Cream 465ml"
+  },
+  "cookie dough (465ml)": {
+   "price_gbp": 6.99,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Cookie Dough (465ml)"
+  },
+  "pepsi": {
+   "price_gbp": 1.99,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Pepsi"
+  },
+  "1.5 ltr pepsi": {
+   "price_gbp": 2.99,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "1.5 Ltr Pepsi"
+  },
+  "pepsi 1.5l": {
+   "price_gbp": 2.99,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Pepsi 1.5L"
+  },
+  "pepsi max": {
+   "price_gbp": 1.89,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Pepsi Max"
+  },
+  "1.5 ltr pepsi max": {
+   "price_gbp": 2.89,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "1.5 Ltr Pepsi Max"
+  },
+  "pepsi max 1.5l": {
+   "price_gbp": 2.89,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Pepsi Max 1.5L"
+  },
+  "7up zero": {
+   "price_gbp": 1.89,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "7UP Zero"
+  },
+  "1.5 ltr 7up zero": {
+   "price_gbp": 2.89,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "1.5 Ltr 7UP Zero"
+  },
+  "7 up free 1.5l": {
+   "price_gbp": 2.89,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "7 Up Free 1.5L"
+  },
+  "tango": {
+   "price_gbp": 1.89,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Tango"
+  },
+  "barr cola": {
+   "price_gbp": 1.99,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Barr Cola"
+  },
+  "water 330ml": {
+   "price_gbp": 1.59,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Water 330ml"
+  },
+  "rubicon mango sparkling": {
+   "price_gbp": 1.99,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Rubicon Mango Sparkling"
+  },
+  "blackcurrant fruitshoot": {
+   "price_gbp": 1.59,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Blackcurrant Fruitshoot"
+  },
+  "fruit shoot \u2013 apple & blackcurrant": {
+   "price_gbp": 1.59,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Fruit Shoot \u2013 Apple & Blackcurrant"
+  },
+  "orange fruitshoot": {
+   "price_gbp": 1.59,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Orange Fruitshoot"
+  },
+  "fruit shoot \u2013 orange": {
+   "price_gbp": 1.59,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Fruit Shoot \u2013 Orange"
+  },
+  "j2o apple & mango": {
+   "price_gbp": 2.49,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "J2O Apple & Mango"
+  },
+  "j2o orange & passion fruit": {
+   "price_gbp": 2.49,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "J2O Orange & Passion Fruit"
+  },
+  "j2o \u2013 orange & passionfruit": {
+   "price_gbp": 2.49,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "J2O \u2013 Orange & Passionfruit"
+  },
+  "red bull": {
+   "price_gbp": 2.79,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Red Bull"
+  },
+  "redbull": {
+   "price_gbp": 2.79,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Redbull"
+  },
+  "red bull sugar free": {
+   "price_gbp": 2.79,
+   "basis": "collection",
+   "store": "Pepe's Piri Piri - Sutton",
+   "name": "Red Bull Sugar Free"
+  }
+ }
+}
