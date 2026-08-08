@@ -1,0 +1,379 @@
+{
+ "chain_id": "krispy_kreme",
+ "fetched_at": "2026-08-08T06:54:49Z",
+ "store": "Krispy Kreme UK online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+ "stores": [
+  "Krispy Kreme UK online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+  "Krispy Kreme UK online shop \u2014 DERIVED per-doughnut price (box price \u00f7 box count; this platform sells no single doughnuts, see krispy_kreme.py's module docstring)"
+ ],
+ "basis": "collection",
+ "item_count": 61,
+ "prices": {
+  "variety bites 24 pack": {
+   "price_gbp": 12.99,
+   "basis": "collection",
+   "store": "Krispy Kreme UK online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Variety Bites 24 Pack"
+  },
+  "doughnut bites - 24 box": {
+   "price_gbp": 11.99,
+   "basis": "collection",
+   "store": "Krispy Kreme UK online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Doughnut Bites - 24 box"
+  },
+  "choose your own dozen": {
+   "price_gbp": 21.99,
+   "basis": "collection",
+   "store": "Krispy Kreme UK online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Choose Your Own Dozen"
+  },
+  "assorted dozen": {
+   "price_gbp": 21.99,
+   "basis": "collection",
+   "store": "Krispy Kreme UK online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Assorted Dozen"
+  },
+  "original glazed\u2122 dozen": {
+   "price_gbp": 14.99,
+   "basis": "collection",
+   "store": "Krispy Kreme UK online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Original Glazed\u2122 Dozen"
+  },
+  "assorted 24 pack": {
+   "price_gbp": 32.98,
+   "basis": "collection",
+   "store": "Krispy Kreme UK online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Assorted 24 Pack"
+  },
+  "original glazed\u2122 24 pack": {
+   "price_gbp": 22.48,
+   "basis": "collection",
+   "store": "Krispy Kreme UK online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Original Glazed\u2122 24 Pack"
+  },
+  "assorted & original glazed\u2122 24 pack": {
+   "price_gbp": 29.48,
+   "basis": "collection",
+   "store": "Krispy Kreme UK online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Assorted & Original Glazed\u2122 24 Pack"
+  },
+  "assorted 48 pack": {
+   "price_gbp": 65.97,
+   "basis": "collection",
+   "store": "Krispy Kreme UK online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Assorted 48 Pack"
+  },
+  "original glazed\u2122 48 pack": {
+   "price_gbp": 44.97,
+   "basis": "collection",
+   "store": "Krispy Kreme UK online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Original Glazed\u2122 48 Pack"
+  },
+  "assorted & original glazed\u2122 48 pack": {
+   "price_gbp": 55.46,
+   "basis": "collection",
+   "store": "Krispy Kreme UK online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Assorted & Original Glazed\u2122 48 Pack"
+  },
+  "original glazed\u2122 vegan dozen": {
+   "price_gbp": 14.99,
+   "basis": "collection",
+   "store": "Krispy Kreme UK online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Original Glazed\u2122 Vegan Dozen"
+  },
+  "original glazed\u2122 vegan 24 pack": {
+   "price_gbp": 22.48,
+   "basis": "collection",
+   "store": "Krispy Kreme UK online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Original Glazed\u2122 Vegan 24 Pack"
+  },
+  "vegan selection dozen": {
+   "price_gbp": 21.99,
+   "basis": "collection",
+   "store": "Krispy Kreme UK online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Vegan Selection Dozen"
+  },
+  "vegan say it with krispy kreme 6 pack": {
+   "price_gbp": 14.95,
+   "basis": "collection",
+   "store": "Krispy Kreme UK online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Vegan Say It With Krispy Kreme 6 Pack"
+  },
+  "vegan selection 24 pack": {
+   "price_gbp": 32.98,
+   "basis": "collection",
+   "store": "Krispy Kreme UK online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Vegan Selection 24 Pack"
+  },
+  "favourites dozen": {
+   "price_gbp": 21.99,
+   "basis": "collection",
+   "store": "Krispy Kreme UK online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Favourites Dozen"
+  },
+  "favourites 24 pack": {
+   "price_gbp": 32.98,
+   "basis": "collection",
+   "store": "Krispy Kreme UK online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Favourites 24 Pack"
+  },
+  "favourites 48 pack": {
+   "price_gbp": 65.97,
+   "basis": "collection",
+   "store": "Krispy Kreme UK online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Favourites 48 Pack"
+  },
+  "chocolatey birthday 6 pack": {
+   "price_gbp": 17.95,
+   "basis": "collection",
+   "store": "Krispy Kreme UK online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Chocolatey Birthday 6 Pack"
+  },
+  "chocolatey birthday dozen": {
+   "price_gbp": 26.49,
+   "basis": "collection",
+   "store": "Krispy Kreme UK online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Chocolatey Birthday Dozen"
+  },
+  "favourites & original glazed 48 pack": {
+   "price_gbp": 55.46,
+   "basis": "collection",
+   "store": "Krispy Kreme UK online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Favourites & Original Glazed 48 Pack"
+  },
+  "birthday celebration dozen": {
+   "price_gbp": 26.49,
+   "basis": "collection",
+   "store": "Krispy Kreme UK online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Birthday Celebration Dozen"
+  },
+  "say it with krispy kreme 6 pack": {
+   "price_gbp": 14.95,
+   "basis": "collection",
+   "store": "Krispy Kreme UK online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Say It With Krispy Kreme 6 Pack"
+  },
+  "personalised happy birthday box original glazed\u2122 dozen": {
+   "price_gbp": 23.95,
+   "basis": "collection",
+   "store": "Krispy Kreme UK online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Personalised Happy Birthday Box Original Glazed\u2122 Dozen"
+  },
+  "personalised happy birthday box favourites dozen": {
+   "price_gbp": 24.99,
+   "basis": "collection",
+   "store": "Krispy Kreme UK online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Personalised Happy Birthday Box Favourites Dozen"
+  },
+  "personalised happy birthday box & celebration dozen": {
+   "price_gbp": 31.48,
+   "basis": "collection",
+   "store": "Krispy Kreme UK online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Personalised Happy Birthday Box & Celebration Dozen"
+  },
+  "personalised congratulations box favourites dozen": {
+   "price_gbp": 24.99,
+   "basis": "collection",
+   "store": "Krispy Kreme UK online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Personalised Congratulations Box Favourites Dozen"
+  },
+  "personalised thank you box favourites dozen": {
+   "price_gbp": 24.99,
+   "basis": "collection",
+   "store": "Krispy Kreme UK online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Personalised Thank You Box Favourites Dozen"
+  },
+  "original glazed": {
+   "price_gbp": 1.25,
+   "basis": "collection",
+   "store": "Krispy Kreme UK online shop \u2014 DERIVED per-doughnut price (box price \u00f7 box count; this platform sells no single doughnuts, see krispy_kreme.py's module docstring)",
+   "name": "Original Glazed"
+  },
+  "vegan original glazed": {
+   "price_gbp": 1.25,
+   "basis": "collection",
+   "store": "Krispy Kreme UK online shop \u2014 DERIVED per-doughnut price (box price \u00f7 box count; this platform sells no single doughnuts, see krispy_kreme.py's module docstring)",
+   "name": "Vegan Original Glazed"
+  },
+  "vegan original glazed (nwd only)": {
+   "price_gbp": 1.25,
+   "basis": "collection",
+   "store": "Krispy Kreme UK online shop \u2014 DERIVED per-doughnut price (box price \u00f7 box count; this platform sells no single doughnuts, see krispy_kreme.py's module docstring)",
+   "name": "Vegan Original Glazed (NWD only)"
+  },
+  "chocolate sprinkles": {
+   "price_gbp": 1.83,
+   "basis": "collection",
+   "store": "Krispy Kreme UK online shop \u2014 DERIVED per-doughnut price (box price \u00f7 box count; this platform sells no single doughnuts, see krispy_kreme.py's module docstring)",
+   "name": "Chocolate Sprinkles"
+  },
+  "biscoff": {
+   "price_gbp": 1.83,
+   "basis": "collection",
+   "store": "Krispy Kreme UK online shop \u2014 DERIVED per-doughnut price (box price \u00f7 box count; this platform sells no single doughnuts, see krispy_kreme.py's module docstring)",
+   "name": "Biscoff"
+  },
+  "nutty chocolatta": {
+   "price_gbp": 1.83,
+   "basis": "collection",
+   "store": "Krispy Kreme UK online shop \u2014 DERIVED per-doughnut price (box price \u00f7 box count; this platform sells no single doughnuts, see krispy_kreme.py's module docstring)",
+   "name": "Nutty Chocolatta"
+  },
+  "strawberry sprinkles": {
+   "price_gbp": 1.83,
+   "basis": "collection",
+   "store": "Krispy Kreme UK online shop \u2014 DERIVED per-doughnut price (box price \u00f7 box count; this platform sells no single doughnuts, see krispy_kreme.py's module docstring)",
+   "name": "Strawberry Sprinkles"
+  },
+  "white marble chocolatta": {
+   "price_gbp": 1.83,
+   "basis": "collection",
+   "store": "Krispy Kreme UK online shop \u2014 DERIVED per-doughnut price (box price \u00f7 box count; this platform sells no single doughnuts, see krispy_kreme.py's module docstring)",
+   "name": "White Marble Chocolatta"
+  },
+  "cookies & kreme": {
+   "price_gbp": 1.83,
+   "basis": "collection",
+   "store": "Krispy Kreme UK online shop \u2014 DERIVED per-doughnut price (box price \u00f7 box count; this platform sells no single doughnuts, see krispy_kreme.py's module docstring)",
+   "name": "Cookies & Kreme"
+  },
+  "strawberry sundae": {
+   "price_gbp": 1.83,
+   "basis": "collection",
+   "store": "Krispy Kreme UK online shop \u2014 DERIVED per-doughnut price (box price \u00f7 box count; this platform sells no single doughnuts, see krispy_kreme.py's module docstring)",
+   "name": "Strawberry Sundae"
+  },
+  "triple choc indulgence": {
+   "price_gbp": 1.83,
+   "basis": "collection",
+   "store": "Krispy Kreme UK online shop \u2014 DERIVED per-doughnut price (box price \u00f7 box count; this platform sells no single doughnuts, see krispy_kreme.py's module docstring)",
+   "name": "Triple Choc Indulgence"
+  },
+  "salted caramel sensation": {
+   "price_gbp": 1.83,
+   "basis": "collection",
+   "store": "Krispy Kreme UK online shop \u2014 DERIVED per-doughnut price (box price \u00f7 box count; this platform sells no single doughnuts, see krispy_kreme.py's module docstring)",
+   "name": "Salted Caramel Sensation"
+  },
+  "glazed raspberry": {
+   "price_gbp": 1.83,
+   "basis": "collection",
+   "store": "Krispy Kreme UK online shop \u2014 DERIVED per-doughnut price (box price \u00f7 box count; this platform sells no single doughnuts, see krispy_kreme.py's module docstring)",
+   "name": "Glazed Raspberry"
+  },
+  "biscoff iced": {
+   "price_gbp": 1.83,
+   "basis": "collection",
+   "store": "Krispy Kreme UK online shop \u2014 DERIVED per-doughnut price (box price \u00f7 box count; this platform sells no single doughnuts, see krispy_kreme.py's module docstring)",
+   "name": "Biscoff Iced"
+  },
+  "double chocolate glaze": {
+   "price_gbp": 1.83,
+   "basis": "collection",
+   "store": "Krispy Kreme UK online shop \u2014 DERIVED per-doughnut price (box price \u00f7 box count; this platform sells no single doughnuts, see krispy_kreme.py's module docstring)",
+   "name": "Double Chocolate Glaze"
+  },
+  "vegan choc orange": {
+   "price_gbp": 1.83,
+   "basis": "collection",
+   "store": "Krispy Kreme UK online shop \u2014 DERIVED per-doughnut price (box price \u00f7 box count; this platform sells no single doughnuts, see krispy_kreme.py's module docstring)",
+   "name": "Vegan Choc Orange"
+  },
+  "brownie biscuit": {
+   "price_gbp": 1.83,
+   "basis": "collection",
+   "store": "Krispy Kreme UK online shop \u2014 DERIVED per-doughnut price (box price \u00f7 box count; this platform sells no single doughnuts, see krispy_kreme.py's module docstring)",
+   "name": "Brownie Biscuit"
+  },
+  "cookie crumble": {
+   "price_gbp": 1.83,
+   "basis": "collection",
+   "store": "Krispy Kreme UK online shop \u2014 DERIVED per-doughnut price (box price \u00f7 box count; this platform sells no single doughnuts, see krispy_kreme.py's module docstring)",
+   "name": "Cookie Crumble"
+  },
+  "choc duo ring": {
+   "price_gbp": 1.83,
+   "basis": "collection",
+   "store": "Krispy Kreme UK online shop \u2014 DERIVED per-doughnut price (box price \u00f7 box count; this platform sells no single doughnuts, see krispy_kreme.py's module docstring)",
+   "name": "Choc Duo Ring"
+  },
+  "chocolate strawberry surprise": {
+   "price_gbp": 1.83,
+   "basis": "collection",
+   "store": "Krispy Kreme UK online shop \u2014 DERIVED per-doughnut price (box price \u00f7 box count; this platform sells no single doughnuts, see krispy_kreme.py's module docstring)",
+   "name": "Chocolate Strawberry Surprise"
+  },
+  "white chocolate kreme": {
+   "price_gbp": 1.83,
+   "basis": "collection",
+   "store": "Krispy Kreme UK online shop \u2014 DERIVED per-doughnut price (box price \u00f7 box count; this platform sells no single doughnuts, see krispy_kreme.py's module docstring)",
+   "name": "White Chocolate Kreme"
+  },
+  "speculoos sensation": {
+   "price_gbp": 1.83,
+   "basis": "collection",
+   "store": "Krispy Kreme UK online shop \u2014 DERIVED per-doughnut price (box price \u00f7 box count; this platform sells no single doughnuts, see krispy_kreme.py's module docstring)",
+   "name": "Speculoos Sensation"
+  },
+  "choco caramel crunch": {
+   "price_gbp": 1.83,
+   "basis": "collection",
+   "store": "Krispy Kreme UK online shop \u2014 DERIVED per-doughnut price (box price \u00f7 box count; this platform sells no single doughnuts, see krispy_kreme.py's module docstring)",
+   "name": "Choco Caramel Crunch"
+  },
+  "party sprinkles": {
+   "price_gbp": 1.83,
+   "basis": "collection",
+   "store": "Krispy Kreme UK online shop \u2014 DERIVED per-doughnut price (box price \u00f7 box count; this platform sells no single doughnuts, see krispy_kreme.py's module docstring)",
+   "name": "Party Sprinkles"
+  },
+  "orange brownie bliss": {
+   "price_gbp": 1.83,
+   "basis": "collection",
+   "store": "Krispy Kreme UK online shop \u2014 DERIVED per-doughnut price (box price \u00f7 box count; this platform sells no single doughnuts, see krispy_kreme.py's module docstring)",
+   "name": "Orange Brownie Bliss"
+  },
+  "strawberry pop": {
+   "price_gbp": 1.83,
+   "basis": "collection",
+   "store": "Krispy Kreme UK online shop \u2014 DERIVED per-doughnut price (box price \u00f7 box count; this platform sells no single doughnuts, see krispy_kreme.py's module docstring)",
+   "name": "Strawberry Pop"
+  },
+  "personalised og": {
+   "price_gbp": 2.0,
+   "basis": "collection",
+   "store": "Krispy Kreme UK online shop \u2014 DERIVED per-doughnut price (box price \u00f7 box count; this platform sells no single doughnuts, see krispy_kreme.py's module docstring)",
+   "name": "Personalised OG"
+  },
+  "personalised original glazed": {
+   "price_gbp": 2.0,
+   "basis": "collection",
+   "store": "Krispy Kreme UK online shop \u2014 DERIVED per-doughnut price (box price \u00f7 box count; this platform sells no single doughnuts, see krispy_kreme.py's module docstring)",
+   "name": "Personalised Original Glazed"
+  },
+  "og bites (1 serving = 2 bites)": {
+   "price_gbp": 1.0,
+   "basis": "collection",
+   "store": "Krispy Kreme UK online shop \u2014 DERIVED per-doughnut price (box price \u00f7 box count; this platform sells no single doughnuts, see krispy_kreme.py's module docstring)",
+   "name": "OG Bites (1 serving = 2 bites)"
+  },
+  "rainbow sprinkle bites (1 serving = 2 bites)": {
+   "price_gbp": 1.08,
+   "basis": "collection",
+   "store": "Krispy Kreme UK online shop \u2014 DERIVED per-doughnut price (box price \u00f7 box count; this platform sells no single doughnuts, see krispy_kreme.py's module docstring)",
+   "name": "Rainbow Sprinkle Bites (1 serving = 2 bites)"
+  },
+  "milk chocolate sprinkle bites (1 serving = 2 bites)": {
+   "price_gbp": 1.08,
+   "basis": "collection",
+   "store": "Krispy Kreme UK online shop \u2014 DERIVED per-doughnut price (box price \u00f7 box count; this platform sells no single doughnuts, see krispy_kreme.py's module docstring)",
+   "name": "Milk Chocolate Sprinkle Bites (1 serving = 2 bites)"
+  },
+  "choc & salted caramel bites (1 serving = 2 bites)": {
+   "price_gbp": 1.08,
+   "basis": "collection",
+   "store": "Krispy Kreme UK online shop \u2014 DERIVED per-doughnut price (box price \u00f7 box count; this platform sells no single doughnuts, see krispy_kreme.py's module docstring)",
+   "name": "Choc & Salted Caramel Bites (1 serving = 2 bites)"
+  }
+ }
+}

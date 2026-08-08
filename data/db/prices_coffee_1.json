@@ -1,0 +1,564 @@
+{
+ "chain_id": "coffee_1",
+ "fetched_at": "2026-08-08T06:54:24Z",
+ "store": "Coffee #1 - Moseley (B13 8HS)",
+ "stores": [
+  "Coffee #1 - Moseley (B13 8HS)"
+ ],
+ "basis": "delivery",
+ "item_count": 92,
+ "prices": {
+  "allergen guide": {
+   "price_gbp": 0.0,
+   "basis": "delivery",
+   "store": "Coffee #1 - Moseley (B13 8HS)",
+   "name": "Allergen Guide"
+  },
+  "iced blueberry latte": {
+   "price_gbp": 5.0,
+   "basis": "delivery",
+   "store": "Coffee #1 - Moseley (B13 8HS)",
+   "name": "Iced Blueberry Latte"
+  },
+  "iced praline latte": {
+   "price_gbp": 5.0,
+   "basis": "delivery",
+   "store": "Coffee #1 - Moseley (B13 8HS)",
+   "name": "Iced Praline Latte"
+  },
+  "dubai iced mocha": {
+   "price_gbp": 5.3,
+   "basis": "delivery",
+   "store": "Coffee #1 - Moseley (B13 8HS)",
+   "name": "Dubai Iced Mocha"
+  },
+  "iced triple chocolate": {
+   "price_gbp": 4.6,
+   "basis": "delivery",
+   "store": "Coffee #1 - Moseley (B13 8HS)",
+   "name": "Iced Triple Chocolate"
+  },
+  "iced blueberry matcha latte": {
+   "price_gbp": 5.35,
+   "basis": "delivery",
+   "store": "Coffee #1 - Moseley (B13 8HS)",
+   "name": "Iced Blueberry Matcha Latte"
+  },
+  "iced strawberry matcha latte": {
+   "price_gbp": 5.35,
+   "basis": "delivery",
+   "store": "Coffee #1 - Moseley (B13 8HS)",
+   "name": "Iced Strawberry Matcha Latte"
+  },
+  "iced vanilla matcha latte": {
+   "price_gbp": 5.35,
+   "basis": "delivery",
+   "store": "Coffee #1 - Moseley (B13 8HS)",
+   "name": "Iced Vanilla Matcha Latte"
+  },
+  "dubai mocha frappe": {
+   "price_gbp": 5.2,
+   "basis": "delivery",
+   "store": "Coffee #1 - Moseley (B13 8HS)",
+   "name": "Dubai Mocha Frappe"
+  },
+  "tropical milkshake": {
+   "price_gbp": 5.2,
+   "basis": "delivery",
+   "store": "Coffee #1 - Moseley (B13 8HS)",
+   "name": "Tropical Milkshake"
+  },
+  "yuzu lemon & ginger": {
+   "price_gbp": 3.8,
+   "basis": "delivery",
+   "store": "Coffee #1 - Moseley (B13 8HS)",
+   "name": "Yuzu Lemon & Ginger"
+  },
+  "mango & passionfruit": {
+   "price_gbp": 3.8,
+   "basis": "delivery",
+   "store": "Coffee #1 - Moseley (B13 8HS)",
+   "name": "Mango & Passionfruit"
+  },
+  "latte": {
+   "price_gbp": 4.45,
+   "basis": "delivery",
+   "store": "Coffee #1 - Moseley (B13 8HS)",
+   "name": "Latte"
+  },
+  "cappuccino": {
+   "price_gbp": 4.45,
+   "basis": "delivery",
+   "store": "Coffee #1 - Moseley (B13 8HS)",
+   "name": "Cappuccino"
+  },
+  "americano": {
+   "price_gbp": 3.75,
+   "basis": "delivery",
+   "store": "Coffee #1 - Moseley (B13 8HS)",
+   "name": "Americano"
+  },
+  "flat white": {
+   "price_gbp": 4.45,
+   "basis": "delivery",
+   "store": "Coffee #1 - Moseley (B13 8HS)",
+   "name": "Flat White"
+  },
+  "mocha": {
+   "price_gbp": 4.75,
+   "basis": "delivery",
+   "store": "Coffee #1 - Moseley (B13 8HS)",
+   "name": "Mocha"
+  },
+  "caramel macchiato": {
+   "price_gbp": 5.0,
+   "basis": "delivery",
+   "store": "Coffee #1 - Moseley (B13 8HS)",
+   "name": "Caramel Macchiato"
+  },
+  "iced latte": {
+   "price_gbp": 4.45,
+   "basis": "delivery",
+   "store": "Coffee #1 - Moseley (B13 8HS)",
+   "name": "Iced Latte"
+  },
+  "iced americano": {
+   "price_gbp": 3.75,
+   "basis": "delivery",
+   "store": "Coffee #1 - Moseley (B13 8HS)",
+   "name": "Iced Americano"
+  },
+  "iced mocha": {
+   "price_gbp": 4.75,
+   "basis": "delivery",
+   "store": "Coffee #1 - Moseley (B13 8HS)",
+   "name": "Iced Mocha"
+  },
+  "cold foam iced cappuccino": {
+   "price_gbp": 4.45,
+   "basis": "delivery",
+   "store": "Coffee #1 - Moseley (B13 8HS)",
+   "name": "Cold Foam Iced Cappuccino"
+  },
+  "cold foam iced flat white": {
+   "price_gbp": 4.45,
+   "basis": "delivery",
+   "store": "Coffee #1 - Moseley (B13 8HS)",
+   "name": "Cold Foam Iced Flat White"
+  },
+  "iced matcha latte": {
+   "price_gbp": 4.8,
+   "basis": "delivery",
+   "store": "Coffee #1 - Moseley (B13 8HS)",
+   "name": "Iced Matcha Latte"
+  },
+  "iced cherry matcha latte": {
+   "price_gbp": 5.35,
+   "basis": "delivery",
+   "store": "Coffee #1 - Moseley (B13 8HS)",
+   "name": "Iced Cherry Matcha Latte"
+  },
+  "milkshake": {
+   "price_gbp": 5.2,
+   "basis": "delivery",
+   "store": "Coffee #1 - Moseley (B13 8HS)",
+   "name": "Milkshake"
+  },
+  "mocha frappe": {
+   "price_gbp": 5.2,
+   "basis": "delivery",
+   "store": "Coffee #1 - Moseley (B13 8HS)",
+   "name": "Mocha Frappe"
+  },
+  "espresso frappe": {
+   "price_gbp": 5.2,
+   "basis": "delivery",
+   "store": "Coffee #1 - Moseley (B13 8HS)",
+   "name": "Espresso Frappe"
+  },
+  "smoothies": {
+   "price_gbp": 4.9,
+   "basis": "delivery",
+   "store": "Coffee #1 - Moseley (B13 8HS)",
+   "name": "Smoothies"
+  },
+  "tea": {
+   "price_gbp": 3.45,
+   "basis": "delivery",
+   "store": "Coffee #1 - Moseley (B13 8HS)",
+   "name": "Tea"
+  },
+  "hot chocolate": {
+   "price_gbp": 4.6,
+   "basis": "delivery",
+   "store": "Coffee #1 - Moseley (B13 8HS)",
+   "name": "Hot Chocolate"
+  },
+  "special latte": {
+   "price_gbp": 4.8,
+   "basis": "delivery",
+   "store": "Coffee #1 - Moseley (B13 8HS)",
+   "name": "Special Latte"
+  },
+  "hot apple & cinnamon": {
+   "price_gbp": 4.3,
+   "basis": "delivery",
+   "store": "Coffee #1 - Moseley (B13 8HS)",
+   "name": "Hot Apple & Cinnamon"
+  },
+  "raspberry iced tea": {
+   "price_gbp": 3.45,
+   "basis": "delivery",
+   "store": "Coffee #1 - Moseley (B13 8HS)",
+   "name": "Raspberry Iced Tea"
+  },
+  "butter croissant": {
+   "price_gbp": 2.35,
+   "basis": "delivery",
+   "store": "Coffee #1 - Moseley (B13 8HS)",
+   "name": "Butter Croissant"
+  },
+  "almond croissant": {
+   "price_gbp": 2.85,
+   "basis": "delivery",
+   "store": "Coffee #1 - Moseley (B13 8HS)",
+   "name": "Almond Croissant"
+  },
+  "pain aux raisin": {
+   "price_gbp": 2.75,
+   "basis": "delivery",
+   "store": "Coffee #1 - Moseley (B13 8HS)",
+   "name": "Pain Aux Raisin"
+  },
+  "portuguese tart": {
+   "price_gbp": 2.55,
+   "basis": "delivery",
+   "store": "Coffee #1 - Moseley (B13 8HS)",
+   "name": "Portuguese Tart"
+  },
+  "pistachio croissant": {
+   "price_gbp": 3.1,
+   "basis": "delivery",
+   "store": "Coffee #1 - Moseley (B13 8HS)",
+   "name": "Pistachio Croissant"
+  },
+  "toast slices": {
+   "price_gbp": 1.45,
+   "basis": "delivery",
+   "store": "Coffee #1 - Moseley (B13 8HS)",
+   "name": "Toast Slices"
+  },
+  "blueberry muffin": {
+   "price_gbp": 3.2,
+   "basis": "delivery",
+   "store": "Coffee #1 - Moseley (B13 8HS)",
+   "name": "Blueberry Muffin"
+  },
+  "cinnamon bun": {
+   "price_gbp": 4.3,
+   "basis": "delivery",
+   "store": "Coffee #1 - Moseley (B13 8HS)",
+   "name": "Cinnamon Bun"
+  },
+  "cardamon & orange bun": {
+   "price_gbp": 4.25,
+   "basis": "delivery",
+   "store": "Coffee #1 - Moseley (B13 8HS)",
+   "name": "Cardamon & Orange Bun"
+  },
+  "tea cake": {
+   "price_gbp": 3.75,
+   "basis": "delivery",
+   "store": "Coffee #1 - Moseley (B13 8HS)",
+   "name": "Tea Cake"
+  },
+  "bacon bap": {
+   "price_gbp": 4.8,
+   "basis": "delivery",
+   "store": "Coffee #1 - Moseley (B13 8HS)",
+   "name": "Bacon Bap"
+  },
+  "sausage bap": {
+   "price_gbp": 4.8,
+   "basis": "delivery",
+   "store": "Coffee #1 - Moseley (B13 8HS)",
+   "name": "Sausage Bap"
+  },
+  "tomato & mozzarella panini": {
+   "price_gbp": 5.85,
+   "basis": "delivery",
+   "store": "Coffee #1 - Moseley (B13 8HS)",
+   "name": "Tomato & Mozzarella Panini"
+  },
+  "tuna melt panini": {
+   "price_gbp": 5.95,
+   "basis": "delivery",
+   "store": "Coffee #1 - Moseley (B13 8HS)",
+   "name": "Tuna Melt Panini"
+  },
+  "chicken sandwich": {
+   "price_gbp": 5.35,
+   "basis": "delivery",
+   "store": "Coffee #1 - Moseley (B13 8HS)",
+   "name": "Chicken Sandwich"
+  },
+  "ham & cheese toastie": {
+   "price_gbp": 5.75,
+   "basis": "delivery",
+   "store": "Coffee #1 - Moseley (B13 8HS)",
+   "name": "Ham & Cheese Toastie"
+  },
+  "mushroom & emmental toastie": {
+   "price_gbp": 5.5,
+   "basis": "delivery",
+   "store": "Coffee #1 - Moseley (B13 8HS)",
+   "name": "Mushroom & Emmental Toastie"
+  },
+  "bbq pulled pork toastie": {
+   "price_gbp": 6.05,
+   "basis": "delivery",
+   "store": "Coffee #1 - Moseley (B13 8HS)",
+   "name": "BBQ Pulled Pork Toastie"
+  },
+  "chicken caesar flatbread": {
+   "price_gbp": 6.05,
+   "basis": "delivery",
+   "store": "Coffee #1 - Moseley (B13 8HS)",
+   "name": "Chicken Caesar Flatbread"
+  },
+  "med veg flatbread": {
+   "price_gbp": 6.05,
+   "basis": "delivery",
+   "store": "Coffee #1 - Moseley (B13 8HS)",
+   "name": "Med Veg Flatbread"
+  },
+  "triple chocolate brownie": {
+   "price_gbp": 3.3,
+   "basis": "delivery",
+   "store": "Coffee #1 - Moseley (B13 8HS)",
+   "name": "Triple Chocolate Brownie"
+  },
+  "caramel shortbread": {
+   "price_gbp": 3.0,
+   "basis": "delivery",
+   "store": "Coffee #1 - Moseley (B13 8HS)",
+   "name": "Caramel Shortbread"
+  },
+  "billionaires rocky road": {
+   "price_gbp": 3.3,
+   "basis": "delivery",
+   "store": "Coffee #1 - Moseley (B13 8HS)",
+   "name": "Billionaires Rocky Road"
+  },
+  "lemon drizzle": {
+   "price_gbp": 3.85,
+   "basis": "delivery",
+   "store": "Coffee #1 - Moseley (B13 8HS)",
+   "name": "Lemon Drizzle"
+  },
+  "victoria sponge": {
+   "price_gbp": 3.85,
+   "basis": "delivery",
+   "store": "Coffee #1 - Moseley (B13 8HS)",
+   "name": "Victoria Sponge"
+  },
+  "salted caramel slice": {
+   "price_gbp": 4.35,
+   "basis": "delivery",
+   "store": "Coffee #1 - Moseley (B13 8HS)",
+   "name": "Salted Caramel Slice"
+  },
+  "strawberry cream slice": {
+   "price_gbp": 4.35,
+   "basis": "delivery",
+   "store": "Coffee #1 - Moseley (B13 8HS)",
+   "name": "Strawberry Cream Slice"
+  },
+  "flapjack": {
+   "price_gbp": 3.25,
+   "basis": "delivery",
+   "store": "Coffee #1 - Moseley (B13 8HS)",
+   "name": "Flapjack"
+  },
+  "blackberry & apple crumblejack": {
+   "price_gbp": 3.3,
+   "basis": "delivery",
+   "store": "Coffee #1 - Moseley (B13 8HS)",
+   "name": "Blackberry & Apple Crumblejack"
+  },
+  "coffee caramel cake": {
+   "price_gbp": 3.85,
+   "basis": "delivery",
+   "store": "Coffee #1 - Moseley (B13 8HS)",
+   "name": "Coffee Caramel Cake"
+  },
+  "raspberry & coconut cake": {
+   "price_gbp": 3.85,
+   "basis": "delivery",
+   "store": "Coffee #1 - Moseley (B13 8HS)",
+   "name": "Raspberry & Coconut Cake"
+  },
+  "carrot cake": {
+   "price_gbp": 3.85,
+   "basis": "delivery",
+   "store": "Coffee #1 - Moseley (B13 8HS)",
+   "name": "Carrot Cake"
+  },
+  "mango passionfruit tart": {
+   "price_gbp": 4.35,
+   "basis": "delivery",
+   "store": "Coffee #1 - Moseley (B13 8HS)",
+   "name": "Mango Passionfruit Tart"
+  },
+  "bakewell tart": {
+   "price_gbp": 4.35,
+   "basis": "delivery",
+   "store": "Coffee #1 - Moseley (B13 8HS)",
+   "name": "Bakewell Tart"
+  },
+  "crisps": {
+   "price_gbp": 1.55,
+   "basis": "delivery",
+   "store": "Coffee #1 - Moseley (B13 8HS)",
+   "name": "Crisps"
+  },
+  "welsh cakes": {
+   "price_gbp": 0.9,
+   "basis": "delivery",
+   "store": "Coffee #1 - Moseley (B13 8HS)",
+   "name": "Welsh Cakes"
+  },
+  "milk chocolate cookie": {
+   "price_gbp": 2.55,
+   "basis": "delivery",
+   "store": "Coffee #1 - Moseley (B13 8HS)",
+   "name": "Milk Chocolate Cookie"
+  },
+  "triple chocolate cookie": {
+   "price_gbp": 2.55,
+   "basis": "delivery",
+   "store": "Coffee #1 - Moseley (B13 8HS)",
+   "name": "Triple Chocolate Cookie"
+  },
+  "gingerbread": {
+   "price_gbp": 2.3,
+   "basis": "delivery",
+   "store": "Coffee #1 - Moseley (B13 8HS)",
+   "name": "Gingerbread"
+  },
+  "shortbread biscuits": {
+   "price_gbp": 2.45,
+   "basis": "delivery",
+   "store": "Coffee #1 - Moseley (B13 8HS)",
+   "name": "Shortbread Biscuits"
+  },
+  "lotus biscoff twin pack": {
+   "price_gbp": 1.75,
+   "basis": "delivery",
+   "store": "Coffee #1 - Moseley (B13 8HS)",
+   "name": "Lotus Biscoff Twin Pack"
+  },
+  "ginger dunkers": {
+   "price_gbp": 2.45,
+   "basis": "delivery",
+   "store": "Coffee #1 - Moseley (B13 8HS)",
+   "name": "Ginger Dunkers"
+  },
+  "sweet & salty popcorn": {
+   "price_gbp": 1.45,
+   "basis": "delivery",
+   "store": "Coffee #1 - Moseley (B13 8HS)",
+   "name": "Sweet & Salty Popcorn"
+  },
+  "toffee waffle": {
+   "price_gbp": 2.2,
+   "basis": "delivery",
+   "store": "Coffee #1 - Moseley (B13 8HS)",
+   "name": "Toffee Waffle"
+  },
+  "gianduja mini chocolate": {
+   "price_gbp": 0.55,
+   "basis": "delivery",
+   "store": "Coffee #1 - Moseley (B13 8HS)",
+   "name": "Gianduja Mini Chocolate"
+  },
+  "caramel jewel bar": {
+   "price_gbp": 2.75,
+   "basis": "delivery",
+   "store": "Coffee #1 - Moseley (B13 8HS)",
+   "name": "Caramel Jewel Bar"
+  },
+  "jammy delight": {
+   "price_gbp": 2.75,
+   "basis": "delivery",
+   "store": "Coffee #1 - Moseley (B13 8HS)",
+   "name": "Jammy Delight"
+  },
+  "coca cola": {
+   "price_gbp": 3.25,
+   "basis": "delivery",
+   "store": "Coffee #1 - Moseley (B13 8HS)",
+   "name": "Coca Cola"
+  },
+  "diet coke": {
+   "price_gbp": 2.95,
+   "basis": "delivery",
+   "store": "Coffee #1 - Moseley (B13 8HS)",
+   "name": "Diet Coke"
+  },
+  "coke zero": {
+   "price_gbp": 2.95,
+   "basis": "delivery",
+   "store": "Coffee #1 - Moseley (B13 8HS)",
+   "name": "Coke Zero"
+  },
+  "still water": {
+   "price_gbp": 2.1,
+   "basis": "delivery",
+   "store": "Coffee #1 - Moseley (B13 8HS)",
+   "name": "Still Water"
+  },
+  "sparkling water": {
+   "price_gbp": 2.1,
+   "basis": "delivery",
+   "store": "Coffee #1 - Moseley (B13 8HS)",
+   "name": "Sparkling Water"
+  },
+  "bensons apple juice": {
+   "price_gbp": 3.05,
+   "basis": "delivery",
+   "store": "Coffee #1 - Moseley (B13 8HS)",
+   "name": "Bensons Apple Juice"
+  },
+  "bensons orange juice": {
+   "price_gbp": 3.15,
+   "basis": "delivery",
+   "store": "Coffee #1 - Moseley (B13 8HS)",
+   "name": "Bensons Orange Juice"
+  },
+  "cawston press apple & pear carton": {
+   "price_gbp": 1.85,
+   "basis": "delivery",
+   "store": "Coffee #1 - Moseley (B13 8HS)",
+   "name": "Cawston Press Apple & Pear Carton"
+  },
+  "cawston press summer berry carton": {
+   "price_gbp": 1.85,
+   "basis": "delivery",
+   "store": "Coffee #1 - Moseley (B13 8HS)",
+   "name": "Cawston Press Summer Berry Carton"
+  },
+  "cawston press elderflower lemonade": {
+   "price_gbp": 2.6,
+   "basis": "delivery",
+   "store": "Coffee #1 - Moseley (B13 8HS)",
+   "name": "Cawston Press Elderflower Lemonade"
+  },
+  "cawston press rhubarb sparkling": {
+   "price_gbp": 2.6,
+   "basis": "delivery",
+   "store": "Coffee #1 - Moseley (B13 8HS)",
+   "name": "Cawston Press Rhubarb Sparkling"
+  }
+ }
+}
