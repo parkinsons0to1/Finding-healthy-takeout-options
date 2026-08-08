@@ -70,6 +70,7 @@ function itemCard(item, i) {
           : item.vegetarian ? '<span class="pill good">Vegetarian</span>' : ''}
         ${item.price_basis === 'estimated' ? '<span class="pill est">Price estimated</span>' : ''}
         ${item.price_basis === 'collection' ? '<span class="pill good">Live collection price</span>' : ''}
+        ${item.price_basis === 'delivery' ? '<span class="pill good" title="Delivery is usually marked up over walking in">Live delivery price</span>' : ''}
         ${item.price_basis === 'unknown' ? '<span class="pill est">No price yet</span>' : ''}
         ${item.is_offer ? '<span class="pill offer">Limited-time deal</span>' : ''}
         ${item.offer_availability === 'app_only' ? '<span class="pill">App only</span>' : ''}
