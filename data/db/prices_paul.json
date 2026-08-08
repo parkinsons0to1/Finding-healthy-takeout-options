@@ -1,0 +1,594 @@
+{
+ "chain_id": "paul",
+ "fetched_at": "2026-08-08T06:28:35Z",
+ "store": "PAUL online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+ "stores": [
+  "PAUL online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)"
+ ],
+ "basis": "collection",
+ "item_count": 97,
+ "prices": {
+  "lavender & honey cake 6-8": {
+   "price_gbp": 46.0,
+   "basis": "collection",
+   "store": "PAUL online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Lavender & Honey Cake 6-8"
+  },
+  "passionfruit & coconut mousse cake 6-8": {
+   "price_gbp": 46.0,
+   "basis": "collection",
+   "store": "PAUL online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Passionfruit & Coconut Mousse Cake 6-8"
+  },
+  "summer fruit cheesecake 6-8": {
+   "price_gbp": 35.0,
+   "basis": "collection",
+   "store": "PAUL online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Summer Fruit Cheesecake 6-8"
+  },
+  "summer berry charlotte": {
+   "price_gbp": 38.0,
+   "basis": "collection",
+   "store": "PAUL online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Summer Berry Charlotte"
+  },
+  "basque cheesecake 6-8": {
+   "price_gbp": 25.0,
+   "basis": "collection",
+   "store": "PAUL online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Basque Cheesecake 6-8"
+  },
+  "tuna & cannellini bean salad platter": {
+   "price_gbp": 35.0,
+   "basis": "collection",
+   "store": "PAUL online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Tuna & Cannellini Bean Salad Platter"
+  },
+  "vegan puy lentil & artichoke salad platter": {
+   "price_gbp": 35.0,
+   "basis": "collection",
+   "store": "PAUL online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Vegan Puy Lentil & Artichoke Salad Platter"
+  },
+  "lentil & artichoke salad platter": {
+   "price_gbp": 35.0,
+   "basis": "collection",
+   "store": "PAUL online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Lentil & Artichoke Salad Platter"
+  },
+  "chicken taco bean salad platter": {
+   "price_gbp": 35.0,
+   "basis": "collection",
+   "store": "PAUL online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Chicken Taco Bean Salad Platter"
+  },
+  "fraisier cake": {
+   "price_gbp": 46.0,
+   "basis": "collection",
+   "store": "PAUL online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Fraisier Cake"
+  },
+  "macaron fraisier cake 7\" for 6-8": {
+   "price_gbp": 56.0,
+   "basis": "collection",
+   "store": "PAUL online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Macaron Fraisier Cake 7\" for 6-8"
+  },
+  "pink fraisier": {
+   "price_gbp": 46.0,
+   "basis": "collection",
+   "store": "PAUL online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Pink Fraisier"
+  },
+  "framboisier cake": {
+   "price_gbp": 46.0,
+   "basis": "collection",
+   "store": "PAUL online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Framboisier Cake"
+  },
+  "craquant 7\" - 14\" for 6-8 to 25-30": {
+   "price_gbp": 46.0,
+   "basis": "collection",
+   "store": "PAUL online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Craquant 7\" - 14\" for 6-8 to 25-30"
+  },
+  "craquant cake": {
+   "price_gbp": 46.0,
+   "basis": "collection",
+   "store": "PAUL online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Craquant Cake"
+  },
+  "millefeuille cake": {
+   "price_gbp": 31.0,
+   "basis": "collection",
+   "store": "PAUL online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Millefeuille Cake"
+  },
+  "mille feuille cake": {
+   "price_gbp": 31.0,
+   "basis": "collection",
+   "store": "PAUL online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Mille Feuille Cake"
+  },
+  "charlotte fraise cake 7\"": {
+   "price_gbp": 35.0,
+   "basis": "collection",
+   "store": "PAUL online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Charlotte Fraise Cake 7\""
+  },
+  "charlotte cake": {
+   "price_gbp": 35.0,
+   "basis": "collection",
+   "store": "PAUL online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Charlotte Cake"
+  },
+  "pistachio cake for 4-6 to 6-8": {
+   "price_gbp": 25.0,
+   "basis": "collection",
+   "store": "PAUL online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Pistachio Cake for 4-6 to 6-8"
+  },
+  "cake au citron for 4-6 to 6-8": {
+   "price_gbp": 20.0,
+   "basis": "collection",
+   "store": "PAUL online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Cake Au Citron for 4-6 to 6-8"
+  },
+  "carrot cake for 4-6 to 6-8": {
+   "price_gbp": 20.0,
+   "basis": "collection",
+   "store": "PAUL online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Carrot Cake for 4-6 to 6-8"
+  },
+  "blackcurrant mousse cake for 4-6 to 6-8": {
+   "price_gbp": 20.0,
+   "basis": "collection",
+   "store": "PAUL online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Blackcurrant Mousse Cake for 4-6 to 6-8"
+  },
+  "strawberry summer cheesecake 7\"": {
+   "price_gbp": 31.0,
+   "basis": "collection",
+   "store": "PAUL online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Strawberry Summer Cheesecake 7\""
+  },
+  "fleur de lys cake 7\"": {
+   "price_gbp": 27.0,
+   "basis": "collection",
+   "store": "PAUL online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Fleur De Lys Cake 7\""
+  },
+  "charlotte framboise cake 7\"": {
+   "price_gbp": 35.0,
+   "basis": "collection",
+   "store": "PAUL online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Charlotte Framboise Cake 7\""
+  },
+  "tarte flan normand 11\"": {
+   "price_gbp": 30.0,
+   "basis": "collection",
+   "store": "PAUL online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Tarte Flan Normand 11\""
+  },
+  "chocolate macaron cake 7\"": {
+   "price_gbp": 50.0,
+   "basis": "collection",
+   "store": "PAUL online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Chocolate Macaron Cake 7\""
+  },
+  "happy birthday cake topper - silver": {
+   "price_gbp": 5.95,
+   "basis": "collection",
+   "store": "PAUL online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Happy Birthday Cake Topper - Silver"
+  },
+  "happy birthday cake topper - gold": {
+   "price_gbp": 5.95,
+   "basis": "collection",
+   "store": "PAUL online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Happy Birthday Cake Topper - Gold"
+  },
+  "gold candles": {
+   "price_gbp": 3.95,
+   "basis": "collection",
+   "store": "PAUL online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Gold Candles"
+  },
+  "silver candles": {
+   "price_gbp": 3.95,
+   "basis": "collection",
+   "store": "PAUL online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Silver Candles"
+  },
+  "vegan sandwich platter - 24 pieces": {
+   "price_gbp": 41.95,
+   "basis": "collection",
+   "store": "PAUL online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Vegan Sandwich Platter - 24 Pieces"
+  },
+  "snack platter bundle serves 30-35": {
+   "price_gbp": 174.85,
+   "basis": "collection",
+   "store": "PAUL online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Snack Platter Bundle Serves 30-35"
+  },
+  "sandwich platter bundle (choose 15-60 people)": {
+   "price_gbp": 104.15,
+   "basis": "collection",
+   "store": "PAUL online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Sandwich Platter Bundle (Choose 15-60 People)"
+  },
+  "chicken sandwich platter": {
+   "price_gbp": 41.95,
+   "basis": "collection",
+   "store": "PAUL online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Chicken Sandwich Platter"
+  },
+  "mini meat sandwich platter x24": {
+   "price_gbp": 41.95,
+   "basis": "collection",
+   "store": "PAUL online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Mini Meat Sandwich Platter x24"
+  },
+  "meat sandwich platter (24 pieces)": {
+   "price_gbp": 41.95,
+   "basis": "collection",
+   "store": "PAUL online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Meat Sandwich Platter (24 Pieces)"
+  },
+  "vegetarian mini sandwich platter x24": {
+   "price_gbp": 41.95,
+   "basis": "collection",
+   "store": "PAUL online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Vegetarian Mini Sandwich Platter x24"
+  },
+  "mixed wrap platter x28 (meat, veg & vegan)": {
+   "price_gbp": 45.95,
+   "basis": "collection",
+   "store": "PAUL online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Mixed Wrap Platter x28 (Meat, Veg & Vegan)"
+  },
+  "vegan falafel wrap platter x28": {
+   "price_gbp": 45.95,
+   "basis": "collection",
+   "store": "PAUL online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Vegan Falafel Wrap Platter x28"
+  },
+  "vegetarian mozzarella & pesto wrap platter x28": {
+   "price_gbp": 45.95,
+   "basis": "collection",
+   "store": "PAUL online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Vegetarian Mozzarella & Pesto Wrap Platter x28"
+  },
+  "chicken wrap platter x28": {
+   "price_gbp": 45.95,
+   "basis": "collection",
+   "store": "PAUL online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Chicken Wrap Platter x28"
+  },
+  "mixed croissant platter (ham & cheese - cheese)": {
+   "price_gbp": 35.95,
+   "basis": "collection",
+   "store": "PAUL online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Mixed Croissant Platter (Ham & Cheese - Cheese)"
+  },
+  "ham & cheese croissant platter": {
+   "price_gbp": 35.95,
+   "basis": "collection",
+   "store": "PAUL online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Ham & Cheese Croissant Platter"
+  },
+  "cheese croissant platter": {
+   "price_gbp": 35.95,
+   "basis": "collection",
+   "store": "PAUL online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Cheese Croissant Platter"
+  },
+  "mini quiches & croques platter - 65 pieces": {
+   "price_gbp": 65.95,
+   "basis": "collection",
+   "store": "PAUL online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Mini Quiches & Croques Platter - 65 Pieces"
+  },
+  "salade fermi\u00e8re platter": {
+   "price_gbp": 35.0,
+   "basis": "collection",
+   "store": "PAUL online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Salade Fermi\u00e8re Platter"
+  },
+  "pastel de nata platter x15": {
+   "price_gbp": 35.95,
+   "basis": "collection",
+   "store": "PAUL online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Pastel De Nata Platter x15"
+  },
+  "mini viennoiserie platter - 26 pieces": {
+   "price_gbp": 42.95,
+   "basis": "collection",
+   "store": "PAUL online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Mini Viennoiserie Platter - 26 Pieces"
+  },
+  "gourmet pastry platter": {
+   "price_gbp": 42.95,
+   "basis": "collection",
+   "store": "PAUL online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Gourmet Pastry Platter"
+  },
+  "large croissant platter - 8 pieces": {
+   "price_gbp": 23.95,
+   "basis": "collection",
+   "store": "PAUL online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Large Croissant Platter - 8 Pieces"
+  },
+  "pain au chocolate & croissant platter": {
+   "price_gbp": 37.95,
+   "basis": "collection",
+   "store": "PAUL online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Pain Au Chocolate & Croissant Platter"
+  },
+  "breakfast platter - pain au chocolat & croissant": {
+   "price_gbp": 37.95,
+   "basis": "collection",
+   "store": "PAUL online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Breakfast Platter - Pain au Chocolat & Croissant"
+  },
+  "pain au chocolat platter - 12 pieces": {
+   "price_gbp": 38.95,
+   "basis": "collection",
+   "store": "PAUL online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Pain Au Chocolat Platter - 12 Pieces"
+  },
+  "mini pain au chocolat platter": {
+   "price_gbp": 40.95,
+   "basis": "collection",
+   "store": "PAUL online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Mini Pain Au Chocolat Platter"
+  },
+  "mini croissants platter": {
+   "price_gbp": 40.95,
+   "basis": "collection",
+   "store": "PAUL online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Mini Croissants Platter"
+  },
+  "overnight oat pot platter x 15": {
+   "price_gbp": 48.95,
+   "basis": "collection",
+   "store": "PAUL online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Overnight Oat Pot Platter x 15"
+  },
+  "yoghurt strawberry granola pot platter x15": {
+   "price_gbp": 49.95,
+   "basis": "collection",
+   "store": "PAUL online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Yoghurt Strawberry Granola Pot Platter x15"
+  },
+  "mini tartelette platter - 56 pieces": {
+   "price_gbp": 62.95,
+   "basis": "collection",
+   "store": "PAUL online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Mini Tartelette Platter - 56 Pieces"
+  },
+  "mini canel\u00e9 platter\u200b x 40": {
+   "price_gbp": 34.95,
+   "basis": "collection",
+   "store": "PAUL online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Mini Canel\u00e9 Platter\u200b x 40"
+  },
+  "a dozen mini macarons": {
+   "price_gbp": 17.0,
+   "basis": "collection",
+   "store": "PAUL online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "A Dozen Mini Macarons"
+  },
+  "paul mini macarons assorted x 36": {
+   "price_gbp": 56.0,
+   "basis": "collection",
+   "store": "PAUL online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "PAUL Mini Macarons Assorted x 36"
+  },
+  "mini chouquettes": {
+   "price_gbp": 16.95,
+   "basis": "collection",
+   "store": "PAUL online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Mini Chouquettes"
+  },
+  "mini chocolat beignets": {
+   "price_gbp": 19.95,
+   "basis": "collection",
+   "store": "PAUL online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Mini Chocolat Beignets"
+  },
+  "mini apple beignets": {
+   "price_gbp": 19.95,
+   "basis": "collection",
+   "store": "PAUL online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Mini Apple Beignets"
+  },
+  "paul crisps - cheddar & caramelised onion chutney": {
+   "price_gbp": 1.35,
+   "basis": "collection",
+   "store": "PAUL online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "PAUL Crisps - Cheddar & Caramelised Onion Chutney"
+  },
+  "paul crisps - natural sea salt": {
+   "price_gbp": 1.35,
+   "basis": "collection",
+   "store": "PAUL online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "PAUL Crisps - Natural Sea Salt"
+  },
+  "paul crisps - chardonnay wine vinegar": {
+   "price_gbp": 1.35,
+   "basis": "collection",
+   "store": "PAUL online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "PAUL Crisps - Chardonnay Wine Vinegar"
+  },
+  "still water": {
+   "price_gbp": 1.9,
+   "basis": "collection",
+   "store": "PAUL online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Still Water"
+  },
+  "sparkling water": {
+   "price_gbp": 1.9,
+   "basis": "collection",
+   "store": "PAUL online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Sparkling Water"
+  },
+  "orange juice 250ml": {
+   "price_gbp": 2.8,
+   "basis": "collection",
+   "store": "PAUL online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Orange Juice 250ml"
+  },
+  "coca cola 330ml": {
+   "price_gbp": 1.95,
+   "basis": "collection",
+   "store": "PAUL online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Coca Cola 330ml"
+  },
+  "mini chouquette (50)": {
+   "price_gbp": 19.95,
+   "basis": "collection",
+   "store": "PAUL online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Mini Chouquette (50)"
+  },
+  "san pellegrino melograno": {
+   "price_gbp": 2.05,
+   "basis": "collection",
+   "store": "PAUL online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "San Pellegrino Melograno"
+  },
+  "san pellegrino limonata": {
+   "price_gbp": 2.05,
+   "basis": "collection",
+   "store": "PAUL online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "San Pellegrino Limonata"
+  },
+  "orangina 420ml": {
+   "price_gbp": 2.5,
+   "basis": "collection",
+   "store": "PAUL online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Orangina 420ml"
+  },
+  "mango & passion fruit smoothie": {
+   "price_gbp": 3.45,
+   "basis": "collection",
+   "store": "PAUL online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Mango & Passion Fruit Smoothie"
+  },
+  "mixed berry smoothie": {
+   "price_gbp": 3.45,
+   "basis": "collection",
+   "store": "PAUL online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Mixed Berry Smoothie"
+  },
+  "diet coca cola 330ml": {
+   "price_gbp": 1.9,
+   "basis": "collection",
+   "store": "PAUL online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Diet Coca Cola 330ml"
+  },
+  "paul all-butter croissants x 4": {
+   "price_gbp": 10.0,
+   "basis": "collection",
+   "store": "PAUL online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "PAUL All-Butter Croissants x 4"
+  },
+  "paul pain au chocolat x 4": {
+   "price_gbp": 10.5,
+   "basis": "collection",
+   "store": "PAUL online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "PAUL Pain Au Chocolat x 4"
+  },
+  "escargot raisins x 4": {
+   "price_gbp": 10.8,
+   "basis": "collection",
+   "store": "PAUL online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Escargot Raisins x 4"
+  },
+  "gourmandise duo": {
+   "price_gbp": 7.0,
+   "basis": "collection",
+   "store": "PAUL online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Gourmandise Duo"
+  },
+  "tartlet & macaron duo summer fruits": {
+   "price_gbp": 8.5,
+   "basis": "collection",
+   "store": "PAUL online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Tartlet & Macaron Duo Summer Fruits"
+  },
+  "strawberry tartlet duo": {
+   "price_gbp": 8.5,
+   "basis": "collection",
+   "store": "PAUL online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Strawberry Tartlet Duo"
+  },
+  "classic baguette duo": {
+   "price_gbp": 4.0,
+   "basis": "collection",
+   "store": "PAUL online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Classic Baguette Duo"
+  },
+  "paul baguette": {
+   "price_gbp": 2.8,
+   "basis": "collection",
+   "store": "PAUL online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Paul Baguette"
+  },
+  "pain two olives 800g": {
+   "price_gbp": 6.0,
+   "basis": "collection",
+   "store": "PAUL online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Pain Two Olives 800G"
+  },
+  "pain ancien 800g": {
+   "price_gbp": 5.4,
+   "basis": "collection",
+   "store": "PAUL online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Pain Ancien 800G"
+  },
+  "pain multigrain 800g": {
+   "price_gbp": 6.0,
+   "basis": "collection",
+   "store": "PAUL online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Pain Multigrain 800G"
+  },
+  "large multigrain bread 800gr": {
+   "price_gbp": 6.0,
+   "basis": "collection",
+   "store": "PAUL online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Large Multigrain Bread 800gr"
+  },
+  "pain de campagne 400g": {
+   "price_gbp": 3.7,
+   "basis": "collection",
+   "store": "PAUL online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Pain De Campagne 400G"
+  },
+  "pain de campagne 400gr": {
+   "price_gbp": 3.7,
+   "basis": "collection",
+   "store": "PAUL online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Pain de Campagne 400gr"
+  },
+  "pain ancien 400g": {
+   "price_gbp": 3.5,
+   "basis": "collection",
+   "store": "PAUL online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Pain Ancien 400G"
+  },
+  "pain multigrain 400g": {
+   "price_gbp": 4.0,
+   "basis": "collection",
+   "store": "PAUL online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Pain Multigrain 400G"
+  },
+  "multigrain bread loaf 400gr": {
+   "price_gbp": 4.0,
+   "basis": "collection",
+   "store": "PAUL online shop (nationwide catalogue price \u2014 no per-branch pricing exists on this platform)",
+   "name": "Multigrain Bread Loaf 400gr"
+  }
+ }
+}
