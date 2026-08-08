@@ -65,6 +65,22 @@ NAME DRIFT — "(Small)"/"(Large)" convention, and the bare name means Medium
     ~30 JE items carry a "NEW!"/"NEW!!" marketing prefix
     (`data/db/tim_hortons.json` never does) — stripped before emitting.
 
+MORE NAME DRIFT, each verified rather than guessed
+    `_BASE_NAME_ALIASES` renames 6 JE item names to their nutrition-table
+    counterpart: "Original Blend"/"Dark Roast" are JE's own item name
+    dropping the word "Coffee" that every one of its own *variation* names
+    still carries; the four Iced Capp® pairings (JE "Iced Capp®" -> nutrition
+    "Original Iced Capp®", "Iced Capp® Supreme Caramel" -> "Caramel Iced
+    Capp®", "Iced Capp® Supreme - Oreo" -> "Oreo® Iced Capp®", "Iced Capp®
+    Supreme Mocha" -> "Mocha Iced Capp®") are each confirmed by an exact
+    kcal match on the Small variation (e.g. 211 kcal on both sides for the
+    first pair). Separately, `_FRAPPE_RE` adds a "Frappe" -> "Frappé" alias
+    (JE's own spelling has no accent; the nutrition table's does) — one fix
+    that resolves 8 drinks x 3 sizes at once, so it's applied as a pattern
+    rather than 24 separate table entries. No "Flat White" exists on this
+    platform at all — checked directly, not merely absent from the alias
+    table.
+
 STORE — Tim Hortons - Manchester Market Street
     No Tim Hortons is listed on Just Eat anywhere near Wimbledon or central
     London (see "NO LONDON BRANCH" above) — Manchester Market Street is the
@@ -101,6 +117,27 @@ _SIZE_WORDS = {
 #: the module docstring's TRAP section), so hunting for the word anywhere
 #: is far more robust than assuming a fixed prefix/suffix position.
 _SIZE_RE = re.compile(r"\b(small|medium|large|sm|md|lg)\b", re.I)
+
+#: JE product name -> `data/db/tim_hortons.json` nutrition-table base name
+#: for the SAME drink. The Iced Capp® pairings verified by an exact kcal
+#: match on the Small variation (e.g. JE "Iced Capp®" Small = 211 kcal =
+#: nutrition "Original Iced Capp® (Small)"); "Original Blend"/"Dark Roast"
+#: are JE's own item name simply omitting the word "Coffee" that every one
+#: of its own variation names *and* the nutrition table both carry.
+_BASE_NAME_ALIASES = {
+    "original blend": "Original Blend Coffee",
+    "dark roast": "Dark Roast Coffee",
+    "iced capp®": "Original Iced Capp®",
+    "iced capp® supreme caramel": "Caramel Iced Capp®",
+    "iced capp® supreme - oreo": "Oreo® Iced Capp®",
+    "iced capp® supreme mocha": "Mocha Iced Capp®",
+}
+
+#: "Frappe" (JE's spelling, no accent) -> "Frappé" (`data/db/tim_hortons.json`'s
+#: spelling) as a whole word — affects 8 drinks x 3 sizes. Not the same as
+#: an accent-stripping normaliser: JE's own text already has no accent, so
+#: the fix is adding one back for the join, not removing one.
+_FRAPPE_RE = re.compile(r"\bFrappe\b")
 
 
 def _get(url: str, referer: str = JE_HOME):
@@ -180,25 +217,20 @@ def _kcal(variation: dict) -> float | None:
     return float(m.group(1)) if m else None
 
 
-def _extract_size(product_name: str, variation_name: str) -> str | None:
-    """"Caramel Iced Latte Small" (product "Caramel Iced Latte") -> "Small".
+def _extract_size(variation_name: str) -> str | None:
+    """"Dark Roast Coffee - Small (Black) UK" -> "Small".
 
-    Strips the product's own name out of the variation name (it can be a
-    prefix, a suffix, or absent), then normalises whatever's left. Returns
-    None if nothing recognisable as a size word remains (the variation name
-    carries no size info at all, or is genuinely a different label).
+    Hunts for a size word anywhere in the variation name (see the module
+    docstring's TRAP section for why position can't be assumed) rather than
+    trying to strip the product's own name back out — the product name on
+    this platform is sometimes itself incomplete ("Dark Roast" the item,
+    "Dark Roast Coffee" in every one of its variation names), so subtracting
+    it is less reliable than just finding the size word directly. Returns
+    None if no recognisable size word is present at all (e.g. "Espresso
+    Shot Single/Double UK" — not a size, a shot count).
     """
-    v = variation_name.strip()
-    p = product_name.strip()
-    low_v, low_p = v.lower(), p.lower()
-    if low_v.startswith(low_p):
-        leftover = v[len(p):]
-    elif low_v.endswith(low_p):
-        leftover = v[:-len(p)]
-    else:
-        leftover = v
-    leftover = re.sub(r"[^a-zA-Z]+", " ", leftover).strip()
-    return _SIZE_WORDS.get(leftover.lower())
+    m = _SIZE_RE.search(variation_name)
+    return _SIZE_WORDS.get(m.group(1).lower()) if m else None
 
 
 def fetch_prices(store_id: str | None = None, basis: str = "delivery",
@@ -259,8 +291,13 @@ def fetch_prices(store_id: str | None = None, basis: str = "delivery",
     for raw_item in raw_items:
         item_id = raw_item.get("Id")
         category = categories.get(item_id)
-        product_name = re.sub(r"\s+", " ",
-                              _NEW_PREFIX_RE.sub("", raw_item.get("Name") or "")).strip()
+        raw_name = re.sub(r"\s+", " ",
+                          _NEW_PREFIX_RE.sub("", raw_item.get("Name") or "")).strip()
+        base_names = [raw_name]
+        base_alias = _BASE_NAME_ALIASES.get(raw_name.lower())
+        if base_alias:
+            base_names.append(base_alias)
+
         variations = [v for v in raw_item.get("Variations") or []
                      if not v.get("DealOnly")]
         multi_sized = len(variations) > 1
@@ -270,33 +307,49 @@ def fetch_prices(store_id: str | None = None, basis: str = "delivery",
             if price is None:
                 continue
             vname = (variation.get("Name") or "").strip()
+            size = _extract_size(vname) if (multi_sized and vname) else None
+            kcal = _kcal(variation)
 
-            if multi_sized and vname:
-                size = _extract_size(product_name, vname)
+            for product_name in base_names:
                 if size == "Medium":
-                    full_name = product_name           # bare name = Medium
+                    full_name = product_name               # bare name = Medium
                 elif size in ("Small", "Large"):
                     full_name = f"{product_name} ({size})"
+                elif vname:
+                    # No recognisable size word — the variation name is real
+                    # extra info (e.g. "Espresso Shot Single UK"), so keep
+                    # it, but strip any leading/trailing repeat of the
+                    # product name first so items don't end up double-named
+                    # ("Espresso Espresso Shot Single UK").
+                    low_v, low_p = vname.lower(), product_name.lower()
+                    if low_v.startswith(low_p):
+                        extra = vname[len(product_name):].strip(" -")
+                    elif low_v.endswith(low_p):
+                        extra = vname[:-len(product_name)].strip(" -")
+                    else:
+                        extra = vname
+                    full_name = (f"{product_name} {extra}".strip()
+                                if extra else product_name)
                 else:
-                    full_name = f"{product_name} {vname}"  # unrecognised, keep raw
-            elif vname:
-                full_name = f"{product_name} {vname}"
-            else:
-                full_name = product_name
+                    full_name = product_name
 
-            kcal = _kcal(variation)
-            key = full_name.lower()
-            if not full_name or key in seen:
-                continue
-            seen.add(key)
-            out.append({
-                "name": full_name,
-                "price_gbp": round(float(price), 2),
-                "basis": basis,
-                "store": label,
-                "category": category,
-                "kcal": kcal,
-            })
+                names = [full_name]
+                if _FRAPPE_RE.search(full_name):
+                    names.append(_FRAPPE_RE.sub("Frappé", full_name))
+
+                for row_name in names:
+                    key = row_name.lower()
+                    if not row_name or key in seen:
+                        continue
+                    seen.add(key)
+                    out.append({
+                        "name": row_name,
+                        "price_gbp": round(float(price), 2),
+                        "basis": basis,
+                        "store": label,
+                        "category": category,
+                        "kcal": kcal,
+                    })
 
     if not out:
         raise RuntimeError(

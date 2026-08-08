@@ -1,30 +1,30 @@
 {
  "chain_id": "tim_hortons",
- "fetched_at": "2026-08-08T06:28:52Z",
+ "fetched_at": "2026-08-08T06:31:16Z",
  "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
  "stores": [
   "Tim Hortons - Manchester Market Street (M1 1NN)"
  ],
  "basis": "delivery",
- "item_count": 341,
+ "item_count": 380,
  "prices": {
-  "iced matcha latte matcha iced latte - small": {
+  "iced matcha latte (small)": {
    "price_gbp": 4.34,
    "basis": "delivery",
    "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
-   "name": "Iced Matcha Latte Matcha Iced Latte - Small"
+   "name": "Iced Matcha Latte (Small)"
   },
-  "iced matcha latte matcha iced latte - medium": {
+  "iced matcha latte": {
    "price_gbp": 4.75,
    "basis": "delivery",
    "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
-   "name": "Iced Matcha Latte Matcha Iced Latte - Medium"
+   "name": "Iced Matcha Latte"
   },
-  "iced matcha latte matcha iced latte - large": {
+  "iced matcha latte (large)": {
    "price_gbp": 5.15,
    "basis": "delivery",
    "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
-   "name": "Iced Matcha Latte Matcha Iced Latte - Large"
+   "name": "Iced Matcha Latte (Large)"
   },
   "matcha latte (small)": {
    "price_gbp": 4.34,
@@ -50,17 +50,35 @@
    "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
    "name": "Matcha Frappe (Small)"
   },
+  "matcha frapp\u00e9 (small)": {
+   "price_gbp": 5.19,
+   "basis": "delivery",
+   "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
+   "name": "Matcha Frapp\u00e9 (Small)"
+  },
   "matcha frappe": {
    "price_gbp": 5.59,
    "basis": "delivery",
    "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
    "name": "Matcha Frappe"
   },
+  "matcha frapp\u00e9": {
+   "price_gbp": 5.59,
+   "basis": "delivery",
+   "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
+   "name": "Matcha Frapp\u00e9"
+  },
   "matcha frappe (large)": {
    "price_gbp": 5.99,
    "basis": "delivery",
    "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
    "name": "Matcha Frappe (Large)"
+  },
+  "matcha frapp\u00e9 (large)": {
+   "price_gbp": 5.99,
+   "basis": "delivery",
+   "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
+   "name": "Matcha Frapp\u00e9 (Large)"
   },
   "pecan and golden sugar latte (small)": {
    "price_gbp": 5.05,
@@ -116,23 +134,23 @@
    "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
    "name": "Pecan and Golden Sugar Hot Chocolate (Large)"
   },
-  "pecan and golden sugar iced capp\u00ae pecan and golden sugar iced capp sm": {
+  "pecan and golden sugar iced capp\u00ae (small)": {
    "price_gbp": 5.19,
    "basis": "delivery",
    "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
-   "name": "Pecan and Golden Sugar Iced Capp\u00ae Pecan and Golden Sugar Iced Capp SM"
+   "name": "Pecan and Golden Sugar Iced Capp\u00ae (Small)"
   },
-  "pecan and golden sugar iced capp\u00ae pecan and golden sugar iced capp md": {
+  "pecan and golden sugar iced capp\u00ae": {
    "price_gbp": 5.59,
    "basis": "delivery",
    "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
-   "name": "Pecan and Golden Sugar Iced Capp\u00ae Pecan and Golden Sugar Iced Capp MD"
+   "name": "Pecan and Golden Sugar Iced Capp\u00ae"
   },
-  "pecan and golden sugar iced capp\u00ae pecan and golden sugar iced capp lg": {
+  "pecan and golden sugar iced capp\u00ae (large)": {
    "price_gbp": 5.99,
    "basis": "delivery",
    "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
-   "name": "Pecan and Golden Sugar Iced Capp\u00ae Pecan and Golden Sugar Iced Capp LG"
+   "name": "Pecan and Golden Sugar Iced Capp\u00ae (Large)"
   },
   "mango and passionfruit swirl frappe (small)": {
    "price_gbp": 5.19,
@@ -140,11 +158,23 @@
    "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
    "name": "Mango and Passionfruit Swirl Frappe (Small)"
   },
+  "mango and passionfruit swirl frapp\u00e9 (small)": {
+   "price_gbp": 5.19,
+   "basis": "delivery",
+   "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
+   "name": "Mango and Passionfruit Swirl Frapp\u00e9 (Small)"
+  },
   "mango and passionfruit swirl frappe": {
    "price_gbp": 5.59,
    "basis": "delivery",
    "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
    "name": "Mango and Passionfruit Swirl Frappe"
+  },
+  "mango and passionfruit swirl frapp\u00e9": {
+   "price_gbp": 5.59,
+   "basis": "delivery",
+   "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
+   "name": "Mango and Passionfruit Swirl Frapp\u00e9"
   },
   "mango and passionfruit swirl frappe (large)": {
    "price_gbp": 5.99,
@@ -152,11 +182,23 @@
    "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
    "name": "Mango and Passionfruit Swirl Frappe (Large)"
   },
+  "mango and passionfruit swirl frapp\u00e9 (large)": {
+   "price_gbp": 5.99,
+   "basis": "delivery",
+   "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
+   "name": "Mango and Passionfruit Swirl Frapp\u00e9 (Large)"
+  },
   "mango matcha swirl frappe (small)": {
    "price_gbp": 5.39,
    "basis": "delivery",
    "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
    "name": "Mango Matcha Swirl Frappe (Small)"
+  },
+  "mango matcha swirl frapp\u00e9 (small)": {
+   "price_gbp": 5.39,
+   "basis": "delivery",
+   "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
+   "name": "Mango Matcha Swirl Frapp\u00e9 (Small)"
   },
   "mango matcha swirl frappe": {
    "price_gbp": 5.79,
@@ -164,11 +206,23 @@
    "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
    "name": "Mango Matcha Swirl Frappe"
   },
+  "mango matcha swirl frapp\u00e9": {
+   "price_gbp": 5.79,
+   "basis": "delivery",
+   "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
+   "name": "Mango Matcha Swirl Frapp\u00e9"
+  },
   "mango matcha swirl frappe (large)": {
    "price_gbp": 6.19,
    "basis": "delivery",
    "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
    "name": "Mango Matcha Swirl Frappe (Large)"
+  },
+  "mango matcha swirl frapp\u00e9 (large)": {
+   "price_gbp": 6.19,
+   "basis": "delivery",
+   "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
+   "name": "Mango Matcha Swirl Frapp\u00e9 (Large)"
   },
   "mango and passionfruit cooler (small)": {
    "price_gbp": 4.38,
@@ -302,29 +356,29 @@
    "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
    "name": "Buffalo Ranch Melt Meal"
   },
-  "latte latte - small uk": {
+  "latte (small)": {
    "price_gbp": 3.95,
    "basis": "delivery",
    "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
-   "name": "Latte Latte - Small UK"
+   "name": "Latte (Small)"
   },
-  "latte latte - medium uk": {
+  "latte": {
    "price_gbp": 4.34,
    "basis": "delivery",
    "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
-   "name": "Latte Latte - Medium UK"
+   "name": "Latte"
   },
-  "latte latte - large uk": {
+  "latte (large)": {
    "price_gbp": 4.65,
    "basis": "delivery",
    "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
-   "name": "Latte Latte - Large UK"
+   "name": "Latte (Large)"
   },
-  "cappuccino cappuccino - small uk": {
+  "cappuccino (small)": {
    "price_gbp": 3.95,
    "basis": "delivery",
    "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
-   "name": "Cappuccino Cappuccino - Small UK"
+   "name": "Cappuccino (Small)"
   },
   "cappuccino": {
    "price_gbp": 4.34,
@@ -338,23 +392,23 @@
    "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
    "name": "Cappuccino (Large)"
   },
-  "french vanilla french vanilla - small uk": {
+  "french vanilla (small)": {
    "price_gbp": 4.38,
    "basis": "delivery",
    "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
-   "name": "French Vanilla French Vanilla - Small UK"
+   "name": "French Vanilla (Small)"
   },
-  "french vanilla french vanilla - medium uk": {
+  "french vanilla": {
    "price_gbp": 4.69,
    "basis": "delivery",
    "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
-   "name": "French Vanilla French Vanilla - Medium UK"
+   "name": "French Vanilla"
   },
-  "french vanilla french vanilla - large uk": {
+  "french vanilla (large)": {
    "price_gbp": 5.19,
    "basis": "delivery",
    "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
-   "name": "French Vanilla French Vanilla - Large UK"
+   "name": "French Vanilla (Large)"
   },
   "french vanilla latte (small)": {
    "price_gbp": 4.49,
@@ -374,23 +428,23 @@
    "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
    "name": "French Vanilla Latte (Large)"
   },
-  "hot chocolate hot chocolate - small uk": {
+  "hot chocolate (small)": {
    "price_gbp": 4.19,
    "basis": "delivery",
    "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
-   "name": "Hot Chocolate Hot Chocolate - Small UK"
+   "name": "Hot Chocolate (Small)"
   },
-  "hot chocolate hot chocolate - medium uk": {
+  "hot chocolate": {
    "price_gbp": 4.49,
    "basis": "delivery",
    "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
-   "name": "Hot Chocolate Hot Chocolate - Medium UK"
+   "name": "Hot Chocolate"
   },
-  "hot chocolate hot chocolate - large uk": {
+  "hot chocolate (large)": {
    "price_gbp": 4.99,
    "basis": "delivery",
    "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
-   "name": "Hot Chocolate Hot Chocolate - Large UK"
+   "name": "Hot Chocolate (Large)"
   },
   "mocha (small)": {
    "price_gbp": 4.49,
@@ -428,71 +482,107 @@
    "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
    "name": "Caramel Macchiato (Large)"
   },
-  "americano americano - small uk": {
+  "americano (small)": {
    "price_gbp": 3.45,
    "basis": "delivery",
    "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
-   "name": "Americano Americano - Small UK"
+   "name": "Americano (Small)"
   },
-  "americano americano - medium uk": {
+  "americano": {
    "price_gbp": 3.75,
    "basis": "delivery",
    "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
-   "name": "Americano Americano - Medium UK"
+   "name": "Americano"
   },
-  "americano americano - large uk": {
+  "americano (large)": {
    "price_gbp": 4.09,
    "basis": "delivery",
    "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
-   "name": "Americano Americano - Large UK"
+   "name": "Americano (Large)"
   },
-  "dark roast dark roast coffee - small (black) uk": {
+  "dark roast (small)": {
    "price_gbp": 3.05,
    "basis": "delivery",
    "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
-   "name": "Dark Roast Dark Roast Coffee - Small (Black) UK"
+   "name": "Dark Roast (Small)"
   },
-  "dark roast dark roast coffee - medium (black) uk": {
-   "price_gbp": 3.45,
-   "basis": "delivery",
-   "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
-   "name": "Dark Roast Dark Roast Coffee - Medium (Black) UK"
-  },
-  "dark roast dark roast coffee - large (black) uk": {
-   "price_gbp": 3.85,
-   "basis": "delivery",
-   "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
-   "name": "Dark Roast Dark Roast Coffee - Large (Black) UK"
-  },
-  "original blend original blend coffee - small (black) uk": {
+  "dark roast coffee (small)": {
    "price_gbp": 3.05,
    "basis": "delivery",
    "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
-   "name": "Original Blend Original Blend Coffee - Small (Black) UK"
+   "name": "Dark Roast Coffee (Small)"
   },
-  "original blend original blend coffee - medium (black) uk": {
+  "dark roast": {
    "price_gbp": 3.45,
    "basis": "delivery",
    "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
-   "name": "Original Blend Original Blend Coffee - Medium (Black) UK"
+   "name": "Dark Roast"
   },
-  "original blend original blend coffee - large (black) uk": {
+  "dark roast coffee": {
+   "price_gbp": 3.45,
+   "basis": "delivery",
+   "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
+   "name": "Dark Roast Coffee"
+  },
+  "dark roast (large)": {
    "price_gbp": 3.85,
    "basis": "delivery",
    "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
-   "name": "Original Blend Original Blend Coffee - Large (Black) UK"
+   "name": "Dark Roast (Large)"
   },
-  "espresso espresso shot single uk": {
+  "dark roast coffee (large)": {
+   "price_gbp": 3.85,
+   "basis": "delivery",
+   "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
+   "name": "Dark Roast Coffee (Large)"
+  },
+  "original blend (small)": {
+   "price_gbp": 3.05,
+   "basis": "delivery",
+   "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
+   "name": "Original Blend (Small)"
+  },
+  "original blend coffee (small)": {
+   "price_gbp": 3.05,
+   "basis": "delivery",
+   "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
+   "name": "Original Blend Coffee (Small)"
+  },
+  "original blend": {
+   "price_gbp": 3.45,
+   "basis": "delivery",
+   "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
+   "name": "Original Blend"
+  },
+  "original blend coffee": {
+   "price_gbp": 3.45,
+   "basis": "delivery",
+   "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
+   "name": "Original Blend Coffee"
+  },
+  "original blend (large)": {
+   "price_gbp": 3.85,
+   "basis": "delivery",
+   "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
+   "name": "Original Blend (Large)"
+  },
+  "original blend coffee (large)": {
+   "price_gbp": 3.85,
+   "basis": "delivery",
+   "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
+   "name": "Original Blend Coffee (Large)"
+  },
+  "espresso shot single uk": {
    "price_gbp": 2.85,
    "basis": "delivery",
    "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
-   "name": "Espresso Espresso Shot Single UK"
+   "name": "Espresso Shot Single UK"
   },
-  "espresso espresso shot double uk": {
+  "espresso shot double uk": {
    "price_gbp": 3.15,
    "basis": "delivery",
    "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
-   "name": "Espresso Espresso Shot Double UK"
+   "name": "Espresso Shot Double UK"
   },
   "breakfast tea (small)": {
    "price_gbp": 3.05,
@@ -500,11 +590,11 @@
    "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
    "name": "Breakfast Tea (Small)"
   },
-  "breakfast tea breakfast  tea medium": {
+  "breakfast tea": {
    "price_gbp": 3.45,
    "basis": "delivery",
    "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
-   "name": "Breakfast Tea Breakfast  Tea Medium"
+   "name": "Breakfast Tea"
   },
   "breakfast tea (large)": {
    "price_gbp": 3.85,
@@ -512,23 +602,23 @@
    "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
    "name": "Breakfast Tea (Large)"
   },
-  "green tea green tea - small uk (new)": {
+  "green tea (small)": {
    "price_gbp": 3.05,
    "basis": "delivery",
    "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
-   "name": "Green Tea Green Tea - Small UK (new)"
+   "name": "Green Tea (Small)"
   },
-  "green tea green tea - medium uk (new)": {
+  "green tea": {
    "price_gbp": 3.45,
    "basis": "delivery",
    "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
-   "name": "Green Tea Green Tea - Medium UK (new)"
+   "name": "Green Tea"
   },
-  "green tea green tea - large uk (new)": {
+  "green tea (large)": {
    "price_gbp": 3.85,
    "basis": "delivery",
    "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
-   "name": "Green Tea Green Tea - Large UK (new)"
+   "name": "Green Tea (Large)"
   },
   "peppermint tea (small)": {
    "price_gbp": 3.05,
@@ -602,113 +692,185 @@
    "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
    "name": "Iced French Vanilla (Large)"
   },
-  "iced capp\u00ae iced capp - small uk": {
+  "iced capp\u00ae (small)": {
    "price_gbp": 4.79,
    "basis": "delivery",
    "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
-   "name": "Iced Capp\u00ae Iced Capp - Small UK"
+   "name": "Iced Capp\u00ae (Small)"
   },
-  "iced capp\u00ae iced capp - medium uk": {
-   "price_gbp": 5.19,
-   "basis": "delivery",
-   "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
-   "name": "Iced Capp\u00ae Iced Capp - Medium UK"
-  },
-  "iced capp\u00ae iced capp - large uk": {
-   "price_gbp": 5.59,
-   "basis": "delivery",
-   "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
-   "name": "Iced Capp\u00ae Iced Capp - Large UK"
-  },
-  "iced capp\u00ae supreme caramel iced capp supreme caramel - small uk": {
-   "price_gbp": 4.99,
-   "basis": "delivery",
-   "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
-   "name": "Iced Capp\u00ae Supreme Caramel Iced Capp Supreme Caramel - Small UK"
-  },
-  "iced capp\u00ae supreme caramel iced capp supreme caramel - medium uk": {
-   "price_gbp": 5.39,
-   "basis": "delivery",
-   "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
-   "name": "Iced Capp\u00ae Supreme Caramel Iced Capp Supreme Caramel - Medium UK"
-  },
-  "iced capp\u00ae supreme caramel iced capp supreme caramel - large uk": {
-   "price_gbp": 5.79,
-   "basis": "delivery",
-   "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
-   "name": "Iced Capp\u00ae Supreme Caramel Iced Capp Supreme Caramel - Large UK"
-  },
-  "iced capp\u00ae supreme - oreo iced capp supreme oreo - small uk": {
-   "price_gbp": 4.99,
-   "basis": "delivery",
-   "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
-   "name": "Iced Capp\u00ae Supreme - Oreo Iced Capp Supreme Oreo - Small UK"
-  },
-  "iced capp\u00ae supreme - oreo iced capp supreme oreo - medium uk": {
-   "price_gbp": 5.39,
-   "basis": "delivery",
-   "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
-   "name": "Iced Capp\u00ae Supreme - Oreo Iced Capp Supreme Oreo - Medium UK"
-  },
-  "iced capp\u00ae supreme - oreo iced capp supreme oreo - large uk": {
-   "price_gbp": 5.79,
-   "basis": "delivery",
-   "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
-   "name": "Iced Capp\u00ae Supreme - Oreo Iced Capp Supreme Oreo - Large UK"
-  },
-  "iced capp\u00ae supreme mocha iced cappuccino supreme - small (mocha)": {
-   "price_gbp": 4.99,
-   "basis": "delivery",
-   "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
-   "name": "Iced Capp\u00ae Supreme Mocha Iced Cappuccino Supreme - Small (Mocha)"
-  },
-  "iced capp\u00ae supreme mocha iced cappuccino supreme - medium (mocha)": {
-   "price_gbp": 5.39,
-   "basis": "delivery",
-   "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
-   "name": "Iced Capp\u00ae Supreme Mocha Iced Cappuccino Supreme - Medium (Mocha)"
-  },
-  "iced capp\u00ae supreme mocha iced cappuccino supreme - large (mocha)": {
-   "price_gbp": 5.79,
-   "basis": "delivery",
-   "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
-   "name": "Iced Capp\u00ae Supreme Mocha Iced Cappuccino Supreme - Large (Mocha)"
-  },
-  "iced capp\u00ae light iced capp  lite - small uk": {
+  "original iced capp\u00ae (small)": {
    "price_gbp": 4.79,
    "basis": "delivery",
    "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
-   "name": "Iced Capp\u00ae Light Iced Capp  Lite - Small UK"
+   "name": "Original Iced Capp\u00ae (Small)"
   },
-  "iced capp\u00ae light iced capp lite - medium uk": {
+  "iced capp\u00ae": {
    "price_gbp": 5.19,
    "basis": "delivery",
    "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
-   "name": "Iced Capp\u00ae Light Iced Capp Lite - Medium UK"
+   "name": "Iced Capp\u00ae"
   },
-  "iced capp\u00ae light iced capp lite- large uk": {
+  "original iced capp\u00ae": {
+   "price_gbp": 5.19,
+   "basis": "delivery",
+   "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
+   "name": "Original Iced Capp\u00ae"
+  },
+  "iced capp\u00ae (large)": {
    "price_gbp": 5.59,
    "basis": "delivery",
    "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
-   "name": "Iced Capp\u00ae Light Iced Capp Lite- Large UK"
+   "name": "Iced Capp\u00ae (Large)"
   },
-  "iced capp\u00ae coconut iced capp coconut - small uk": {
+  "original iced capp\u00ae (large)": {
+   "price_gbp": 5.59,
+   "basis": "delivery",
+   "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
+   "name": "Original Iced Capp\u00ae (Large)"
+  },
+  "iced capp\u00ae supreme caramel (small)": {
+   "price_gbp": 4.99,
+   "basis": "delivery",
+   "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
+   "name": "Iced Capp\u00ae Supreme Caramel (Small)"
+  },
+  "caramel iced capp\u00ae (small)": {
+   "price_gbp": 4.99,
+   "basis": "delivery",
+   "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
+   "name": "Caramel Iced Capp\u00ae (Small)"
+  },
+  "iced capp\u00ae supreme caramel": {
+   "price_gbp": 5.39,
+   "basis": "delivery",
+   "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
+   "name": "Iced Capp\u00ae Supreme Caramel"
+  },
+  "caramel iced capp\u00ae": {
+   "price_gbp": 5.39,
+   "basis": "delivery",
+   "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
+   "name": "Caramel Iced Capp\u00ae"
+  },
+  "iced capp\u00ae supreme caramel (large)": {
+   "price_gbp": 5.79,
+   "basis": "delivery",
+   "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
+   "name": "Iced Capp\u00ae Supreme Caramel (Large)"
+  },
+  "caramel iced capp\u00ae (large)": {
+   "price_gbp": 5.79,
+   "basis": "delivery",
+   "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
+   "name": "Caramel Iced Capp\u00ae (Large)"
+  },
+  "iced capp\u00ae supreme - oreo (small)": {
+   "price_gbp": 4.99,
+   "basis": "delivery",
+   "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
+   "name": "Iced Capp\u00ae Supreme - Oreo (Small)"
+  },
+  "oreo\u00ae iced capp\u00ae (small)": {
+   "price_gbp": 4.99,
+   "basis": "delivery",
+   "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
+   "name": "Oreo\u00ae Iced Capp\u00ae (Small)"
+  },
+  "iced capp\u00ae supreme - oreo": {
+   "price_gbp": 5.39,
+   "basis": "delivery",
+   "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
+   "name": "Iced Capp\u00ae Supreme - Oreo"
+  },
+  "oreo\u00ae iced capp\u00ae": {
+   "price_gbp": 5.39,
+   "basis": "delivery",
+   "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
+   "name": "Oreo\u00ae Iced Capp\u00ae"
+  },
+  "iced capp\u00ae supreme - oreo (large)": {
+   "price_gbp": 5.79,
+   "basis": "delivery",
+   "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
+   "name": "Iced Capp\u00ae Supreme - Oreo (Large)"
+  },
+  "oreo\u00ae iced capp\u00ae (large)": {
+   "price_gbp": 5.79,
+   "basis": "delivery",
+   "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
+   "name": "Oreo\u00ae Iced Capp\u00ae (Large)"
+  },
+  "iced capp\u00ae supreme mocha (small)": {
+   "price_gbp": 4.99,
+   "basis": "delivery",
+   "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
+   "name": "Iced Capp\u00ae Supreme Mocha (Small)"
+  },
+  "mocha iced capp\u00ae (small)": {
+   "price_gbp": 4.99,
+   "basis": "delivery",
+   "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
+   "name": "Mocha Iced Capp\u00ae (Small)"
+  },
+  "iced capp\u00ae supreme mocha": {
+   "price_gbp": 5.39,
+   "basis": "delivery",
+   "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
+   "name": "Iced Capp\u00ae Supreme Mocha"
+  },
+  "mocha iced capp\u00ae": {
+   "price_gbp": 5.39,
+   "basis": "delivery",
+   "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
+   "name": "Mocha Iced Capp\u00ae"
+  },
+  "iced capp\u00ae supreme mocha (large)": {
+   "price_gbp": 5.79,
+   "basis": "delivery",
+   "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
+   "name": "Iced Capp\u00ae Supreme Mocha (Large)"
+  },
+  "mocha iced capp\u00ae (large)": {
+   "price_gbp": 5.79,
+   "basis": "delivery",
+   "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
+   "name": "Mocha Iced Capp\u00ae (Large)"
+  },
+  "iced capp\u00ae light (small)": {
    "price_gbp": 4.79,
    "basis": "delivery",
    "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
-   "name": "Iced Capp\u00ae Coconut Iced Capp Coconut - Small UK"
+   "name": "Iced Capp\u00ae Light (Small)"
   },
-  "iced capp\u00ae coconut iced capp coconut - medium uk": {
+  "iced capp\u00ae light": {
    "price_gbp": 5.19,
    "basis": "delivery",
    "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
-   "name": "Iced Capp\u00ae Coconut Iced Capp Coconut - Medium UK"
+   "name": "Iced Capp\u00ae Light"
   },
-  "iced capp\u00ae coconut iced capp coconut - large uk": {
+  "iced capp\u00ae light (large)": {
    "price_gbp": 5.59,
    "basis": "delivery",
    "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
-   "name": "Iced Capp\u00ae Coconut Iced Capp Coconut - Large UK"
+   "name": "Iced Capp\u00ae Light (Large)"
+  },
+  "iced capp\u00ae coconut (small)": {
+   "price_gbp": 4.79,
+   "basis": "delivery",
+   "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
+   "name": "Iced Capp\u00ae Coconut (Small)"
+  },
+  "iced capp\u00ae coconut": {
+   "price_gbp": 5.19,
+   "basis": "delivery",
+   "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
+   "name": "Iced Capp\u00ae Coconut"
+  },
+  "iced capp\u00ae coconut (large)": {
+   "price_gbp": 5.59,
+   "basis": "delivery",
+   "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
+   "name": "Iced Capp\u00ae Coconut (Large)"
   },
   "iced caramel macchiato (small)": {
    "price_gbp": 4.79,
@@ -788,11 +950,23 @@
    "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
    "name": "Oreo\u00ae Cookies & Cream Frappe (Small)"
   },
+  "oreo\u00ae cookies & cream frapp\u00e9 (small)": {
+   "price_gbp": 4.99,
+   "basis": "delivery",
+   "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
+   "name": "Oreo\u00ae Cookies & Cream Frapp\u00e9 (Small)"
+  },
   "oreo\u00ae cookies & cream frappe": {
    "price_gbp": 5.39,
    "basis": "delivery",
    "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
    "name": "Oreo\u00ae Cookies & Cream Frappe"
+  },
+  "oreo\u00ae cookies & cream frapp\u00e9": {
+   "price_gbp": 5.39,
+   "basis": "delivery",
+   "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
+   "name": "Oreo\u00ae Cookies & Cream Frapp\u00e9"
   },
   "oreo\u00ae cookies & cream frappe (large)": {
    "price_gbp": 5.79,
@@ -800,23 +974,47 @@
    "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
    "name": "Oreo\u00ae Cookies & Cream Frappe (Large)"
   },
-  "strawberry frappe strawberries & cream frappe - small": {
-   "price_gbp": 4.99,
-   "basis": "delivery",
-   "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
-   "name": "Strawberry Frappe Strawberries & Cream Frappe - Small"
-  },
-  "strawberry frappe strawberries & cream frappe - medium": {
-   "price_gbp": 5.39,
-   "basis": "delivery",
-   "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
-   "name": "Strawberry Frappe Strawberries & Cream Frappe - Medium"
-  },
-  "strawberry frappe strawberries & cream frappe - large": {
+  "oreo\u00ae cookies & cream frapp\u00e9 (large)": {
    "price_gbp": 5.79,
    "basis": "delivery",
    "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
-   "name": "Strawberry Frappe Strawberries & Cream Frappe - Large"
+   "name": "Oreo\u00ae Cookies & Cream Frapp\u00e9 (Large)"
+  },
+  "strawberry frappe (small)": {
+   "price_gbp": 4.99,
+   "basis": "delivery",
+   "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
+   "name": "Strawberry Frappe (Small)"
+  },
+  "strawberry frapp\u00e9 (small)": {
+   "price_gbp": 4.99,
+   "basis": "delivery",
+   "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
+   "name": "Strawberry Frapp\u00e9 (Small)"
+  },
+  "strawberry frappe": {
+   "price_gbp": 5.39,
+   "basis": "delivery",
+   "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
+   "name": "Strawberry Frappe"
+  },
+  "strawberry frapp\u00e9": {
+   "price_gbp": 5.39,
+   "basis": "delivery",
+   "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
+   "name": "Strawberry Frapp\u00e9"
+  },
+  "strawberry frappe (large)": {
+   "price_gbp": 5.79,
+   "basis": "delivery",
+   "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
+   "name": "Strawberry Frappe (Large)"
+  },
+  "strawberry frapp\u00e9 (large)": {
+   "price_gbp": 5.79,
+   "basis": "delivery",
+   "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
+   "name": "Strawberry Frapp\u00e9 (Large)"
   },
   "caramel frappe (small)": {
    "price_gbp": 4.99,
@@ -824,11 +1022,23 @@
    "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
    "name": "Caramel Frappe (Small)"
   },
+  "caramel frapp\u00e9 (small)": {
+   "price_gbp": 4.99,
+   "basis": "delivery",
+   "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
+   "name": "Caramel Frapp\u00e9 (Small)"
+  },
   "caramel frappe": {
    "price_gbp": 5.39,
    "basis": "delivery",
    "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
    "name": "Caramel Frappe"
+  },
+  "caramel frapp\u00e9": {
+   "price_gbp": 5.39,
+   "basis": "delivery",
+   "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
+   "name": "Caramel Frapp\u00e9"
   },
   "caramel frappe (large)": {
    "price_gbp": 5.79,
@@ -836,11 +1046,23 @@
    "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
    "name": "Caramel Frappe (Large)"
   },
+  "caramel frapp\u00e9 (large)": {
+   "price_gbp": 5.79,
+   "basis": "delivery",
+   "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
+   "name": "Caramel Frapp\u00e9 (Large)"
+  },
   "chocolate frappe (small)": {
    "price_gbp": 4.99,
    "basis": "delivery",
    "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
    "name": "Chocolate Frappe (Small)"
+  },
+  "chocolate frapp\u00e9 (small)": {
+   "price_gbp": 4.99,
+   "basis": "delivery",
+   "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
+   "name": "Chocolate Frapp\u00e9 (Small)"
   },
   "chocolate frappe": {
    "price_gbp": 5.39,
@@ -848,83 +1070,95 @@
    "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
    "name": "Chocolate Frappe"
   },
+  "chocolate frapp\u00e9": {
+   "price_gbp": 5.39,
+   "basis": "delivery",
+   "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
+   "name": "Chocolate Frapp\u00e9"
+  },
   "chocolate frappe (large)": {
    "price_gbp": 5.79,
    "basis": "delivery",
    "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
    "name": "Chocolate Frappe (Large)"
   },
-  "chocolate brownie shake tims shakes - brownie small": {
+  "chocolate frapp\u00e9 (large)": {
+   "price_gbp": 5.79,
+   "basis": "delivery",
+   "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
+   "name": "Chocolate Frapp\u00e9 (Large)"
+  },
+  "chocolate brownie shake (small)": {
    "price_gbp": 5.19,
    "basis": "delivery",
    "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
-   "name": "Chocolate Brownie Shake Tims Shakes - Brownie Small"
+   "name": "Chocolate Brownie Shake (Small)"
   },
-  "chocolate brownie shake tims shakes - brownie medium": {
+  "chocolate brownie shake": {
    "price_gbp": 5.59,
    "basis": "delivery",
    "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
-   "name": "Chocolate Brownie Shake Tims Shakes - Brownie Medium"
+   "name": "Chocolate Brownie Shake"
   },
-  "chocolate brownie shake tims shakes - brownie large": {
+  "chocolate brownie shake (large)": {
    "price_gbp": 5.99,
    "basis": "delivery",
    "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
-   "name": "Chocolate Brownie Shake Tims Shakes - Brownie Large"
+   "name": "Chocolate Brownie Shake (Large)"
   },
-  "chocolate shake tims shakes - chocolate small": {
+  "chocolate shake (small)": {
    "price_gbp": 4.99,
    "basis": "delivery",
    "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
-   "name": "Chocolate Shake Tims Shakes - Chocolate Small"
+   "name": "Chocolate Shake (Small)"
   },
-  "chocolate shake tims shakes - chocolate medium": {
+  "chocolate shake": {
    "price_gbp": 5.39,
    "basis": "delivery",
    "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
-   "name": "Chocolate Shake Tims Shakes - Chocolate Medium"
+   "name": "Chocolate Shake"
   },
-  "chocolate shake tims shakes - chocolate large": {
+  "chocolate shake (large)": {
    "price_gbp": 5.79,
    "basis": "delivery",
    "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
-   "name": "Chocolate Shake Tims Shakes - Chocolate Large"
+   "name": "Chocolate Shake (Large)"
   },
-  "strawberry shake tims shakes - strawberry small": {
+  "strawberry shake (small)": {
    "price_gbp": 4.99,
    "basis": "delivery",
    "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
-   "name": "Strawberry Shake Tims Shakes - Strawberry Small"
+   "name": "Strawberry Shake (Small)"
   },
-  "strawberry shake tims shakes - strawberry medium": {
+  "strawberry shake": {
    "price_gbp": 5.39,
    "basis": "delivery",
    "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
-   "name": "Strawberry Shake Tims Shakes - Strawberry Medium"
+   "name": "Strawberry Shake"
   },
-  "strawberry shake tims shakes - strawberry large": {
+  "strawberry shake (large)": {
    "price_gbp": 5.79,
    "basis": "delivery",
    "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
-   "name": "Strawberry Shake Tims Shakes - Strawberry Large"
+   "name": "Strawberry Shake (Large)"
   },
-  "cherry crush cooler cherry cooler - small": {
+  "cherry crush cooler (small)": {
    "price_gbp": 4.38,
    "basis": "delivery",
    "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
-   "name": "Cherry Crush Cooler Cherry Cooler - Small"
+   "name": "Cherry Crush Cooler (Small)"
   },
-  "cherry crush cooler cherry cooler  - medium": {
+  "cherry crush cooler": {
    "price_gbp": 4.69,
    "basis": "delivery",
    "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
-   "name": "Cherry Crush Cooler Cherry Cooler  - Medium"
+   "name": "Cherry Crush Cooler"
   },
-  "cherry crush cooler cherry cooler - large": {
+  "cherry crush cooler (large)": {
    "price_gbp": 4.99,
    "basis": "delivery",
    "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
-   "name": "Cherry Crush Cooler Cherry Cooler - Large"
+   "name": "Cherry Crush Cooler (Large)"
   },
   "tropical cooler (small)": {
    "price_gbp": 4.38,
@@ -944,23 +1178,23 @@
    "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
    "name": "Tropical Cooler (Large)"
   },
-  "strawberry lemon refresher strawberry lemonade refresher- small": {
+  "strawberry lemon refresher (small)": {
    "price_gbp": 4.09,
    "basis": "delivery",
    "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
-   "name": "Strawberry Lemon Refresher Strawberry Lemonade Refresher- Small"
+   "name": "Strawberry Lemon Refresher (Small)"
   },
-  "strawberry lemon refresher strawberry lemonade refresher - medium": {
+  "strawberry lemon refresher": {
    "price_gbp": 4.38,
    "basis": "delivery",
    "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
-   "name": "Strawberry Lemon Refresher Strawberry Lemonade Refresher - Medium"
+   "name": "Strawberry Lemon Refresher"
   },
-  "strawberry lemon refresher strawberry lemonade refresher - large": {
+  "strawberry lemon refresher (large)": {
    "price_gbp": 4.88,
    "basis": "delivery",
    "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
-   "name": "Strawberry Lemon Refresher Strawberry Lemonade Refresher - Large"
+   "name": "Strawberry Lemon Refresher (Large)"
   },
   "blt chicken wrap": {
    "price_gbp": 6.39,
@@ -1436,41 +1670,41 @@
    "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
    "name": "Diet Coke (Bottle)"
   },
-  "coca cola coke mix md": {
+  "coca cola": {
    "price_gbp": 2.71,
    "basis": "delivery",
    "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
-   "name": "Coca Cola Coke Mix MD"
+   "name": "Coca Cola"
   },
-  "coca cola coke mix lg": {
+  "coca cola (large)": {
    "price_gbp": 3.04,
    "basis": "delivery",
    "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
-   "name": "Coca Cola Coke Mix LG"
+   "name": "Coca Cola (Large)"
   },
-  "coke zero coke zero mix md": {
+  "coke zero": {
    "price_gbp": 2.59,
    "basis": "delivery",
    "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
-   "name": "Coke Zero Coke Zero Mix MD"
+   "name": "Coke Zero"
   },
-  "coke zero coke zero mix lg": {
+  "coke zero (large)": {
    "price_gbp": 2.89,
    "basis": "delivery",
    "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
-   "name": "Coke Zero Coke Zero Mix LG"
+   "name": "Coke Zero (Large)"
   },
-  "diet coke diet coke mix md": {
+  "diet coke": {
    "price_gbp": 2.59,
    "basis": "delivery",
    "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
-   "name": "Diet Coke Diet Coke Mix MD"
+   "name": "Diet Coke"
   },
-  "diet coke diet coke mix lg": {
+  "diet coke (large)": {
    "price_gbp": 2.89,
    "basis": "delivery",
    "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
-   "name": "Diet Coke Diet Coke Mix LG"
+   "name": "Diet Coke (Large)"
   },
   "fanta zero (bottle)": {
    "price_gbp": 2.59,
@@ -1478,17 +1712,17 @@
    "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
    "name": "Fanta Zero (Bottle)"
   },
-  "fanta zero fanta zero mix md": {
+  "fanta zero": {
    "price_gbp": 2.59,
    "basis": "delivery",
    "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
-   "name": "Fanta Zero Fanta Zero Mix MD"
+   "name": "Fanta Zero"
   },
-  "fanta zero fanta zero mix lg": {
+  "fanta zero (large)": {
    "price_gbp": 2.89,
    "basis": "delivery",
    "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
-   "name": "Fanta Zero Fanta Zero Mix LG"
+   "name": "Fanta Zero (Large)"
   },
   "sprite zero (bottle)": {
    "price_gbp": 2.59,
@@ -1496,29 +1730,29 @@
    "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
    "name": "Sprite Zero (Bottle)"
   },
-  "sprite zero sprite zero mix md": {
+  "sprite zero": {
    "price_gbp": 2.59,
    "basis": "delivery",
    "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
-   "name": "Sprite Zero Sprite Zero Mix MD"
+   "name": "Sprite Zero"
   },
-  "sprite zero sprite zero mix lg": {
+  "sprite zero (large)": {
    "price_gbp": 2.89,
    "basis": "delivery",
    "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
-   "name": "Sprite Zero Sprite Zero Mix LG"
+   "name": "Sprite Zero (Large)"
   },
-  "dr pepper dr pepper zero mix md": {
+  "dr pepper": {
    "price_gbp": 2.59,
    "basis": "delivery",
    "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
-   "name": "Dr Pepper Dr Pepper Zero Mix MD"
+   "name": "Dr Pepper"
   },
-  "dr pepper dr pepper zero mix lg": {
+  "dr pepper (large)": {
    "price_gbp": 2.89,
    "basis": "delivery",
    "store": "Tim Hortons - Manchester Market Street (M1 1NN)",
-   "name": "Dr Pepper Dr Pepper Zero Mix LG"
+   "name": "Dr Pepper (Large)"
   },
   "dr pepper (bottle)": {
    "price_gbp": 2.59,
