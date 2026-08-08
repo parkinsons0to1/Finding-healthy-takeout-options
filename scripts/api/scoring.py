@@ -110,6 +110,19 @@ def passes_diet(item: ScoredItem, diet: set[str], strict_halal: bool = True) -> 
     strict: unverified is excluded, because showing a maybe-halal item to
     someone filtering for halal is the failure mode that matters. Users who
     would rather see them and ask in store can relax it.
+
+    `kosher` has no equivalent architecture yet for fast-food chains — unlike
+    halal, which has an evidence-tiered resolver, or vegetarian/vegan, which
+    are backfilled from real per-item sources chain by chain, `ScoredItem`
+    carries no kosher signal at all here (only the separate supermarket
+    meal-deal pipeline has one, via Open Food Facts labels). The web UI has
+    had a Kosher checkbox since the first version of this filter, and until
+    this fix it did nothing: `"kosher" in diet` matched no branch, so
+    checking it silently returned the SAME unfiltered results as leaving it
+    unchecked — the worst possible failure mode for a dietary filter, since
+    it looks like it worked. Excluding everything is the honest behaviour
+    until real per-chain kosher data exists to check against; it must never
+    silently pass every item through instead.
     """
     if "vegetarian" in diet and not item.vegetarian:
         return False
@@ -120,6 +133,8 @@ def passes_diet(item: ScoredItem, diet: set[str], strict_halal: bool = True) -> 
             return False
         if strict_halal and item.halal_tier in ("", "none"):
             return False
+    if "kosher" in diet:
+        return False
     return True
 
 

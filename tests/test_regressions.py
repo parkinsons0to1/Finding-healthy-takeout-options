@@ -451,6 +451,24 @@ def test_stale_discounts_are_withheld():
         "a discount with no verification date was served, not withheld"
 
 
+def test_kosher_filter_excludes_rather_than_silently_ignoring():
+    """The web UI has had a Kosher checkbox since the first version of this
+    filter, but ScoredItem carries no kosher signal at all — unlike halal
+    (an evidence-tiered resolver) or vegetarian/vegan (backfilled per chain),
+    there is no kosher architecture for fast-food chains yet. Before this
+    fix, `passes_diet` had no branch for it at all, so checking "Kosher"
+    silently returned the SAME unfiltered results as leaving it unchecked —
+    the worst failure mode for a dietary filter, since it looks like it
+    worked. It must exclude everything instead, honestly, until real kosher
+    data exists to check against."""
+    i = ScoredItem("Real", "kfc", "KFC", 0.1, 300, 30, 3.0, 3.0, None,
+                   "halal", "brand_per_outlet", True, True, "", "high",
+                   "estimated")
+    from scripts.api.scoring import passes_diet
+    assert not passes_diet(i, {"kosher"})
+    assert passes_diet(i, set())
+
+
 def _run_all() -> int:
     failures = 0
     for name, fn in sorted(globals().items()):
