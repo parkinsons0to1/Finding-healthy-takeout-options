@@ -1,5 +1,8 @@
 requests>=2.31
 pdfplumber>=0.11
+pypdf>=6.0    # wetherspoons.py needs its linear (content-stream-order) text
+              # extraction — pdfplumber's coordinate-based reconstruction
+              # jumbles the pub menu PDFs' two-column layout, see that module
 cffi>=1.16
 # optional, for the Firestore sink:
 # firebase-admin>=6.5
