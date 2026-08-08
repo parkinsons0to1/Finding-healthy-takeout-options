@@ -64,6 +64,22 @@
    "chain_id": "pret",
    "postcode": "SM1 1EX",
    "name": "Pret A Manger"
+  },
+  "mcdonalds|SM12NB|mcdonalds": {
+   "status": "not_halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786169605.1908696,
+   "chain_id": "mcdonalds",
+   "postcode": "SM1 2NB",
+   "name": "McDonalds"
+  },
+  "nandos|SM12NB|nando's": {
+   "status": "halal",
+   "tier": "brand_per_outlet",
+   "stored_at": 1786169611.7523844,
+   "chain_id": "nandos",
+   "postcode": "SM1 2NB",
+   "name": "Nando's"
   }
  }
 }
