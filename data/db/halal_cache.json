@@ -352,6 +352,38 @@
    "chain_id": "kfc",
    "postcode": "CR4 3NH",
    "name": "KFC"
+  },
+  "pret|SW197NH|pret a manger ltd": {
+   "status": "not_halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786286796.8073905,
+   "chain_id": "pret",
+   "postcode": "SW19 7NH",
+   "name": "Pret a Manger Ltd"
+  },
+  "mcdonalds|SW191PS|mcdonald's": {
+   "status": "not_halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786286800.6602063,
+   "chain_id": "mcdonalds",
+   "postcode": "SW19 1PS",
+   "name": "McDonald's"
+  },
+  "popeyes|SW191PS|popeyes": {
+   "status": "halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786286804.7924795,
+   "chain_id": "popeyes",
+   "postcode": "SW19 1PS",
+   "name": "Popeyes"
+  },
+  "nandos|SW191QN|nandos": {
+   "status": "not_halal",
+   "tier": "brand_per_outlet",
+   "stored_at": 1786286818.7924662,
+   "chain_id": "nandos",
+   "postcode": "SW19 1QN",
+   "name": "Nandos"
   }
  }
 }
