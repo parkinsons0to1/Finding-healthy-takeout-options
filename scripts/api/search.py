@@ -98,6 +98,78 @@ _NOT_A_PURCHASE_RE = re.compile(
     r"|^\s*TEST\b",
     re.I)
 
+#: **Unambiguous pork markers.** An outlet's halal status is resolved once
+#: per branch and stamped onto every item that branch sells — correct for a
+#: chain whose whole menu shares one animal (Popeyes' chicken, Tortilla's
+#: beef/chicken/pork protein pots), wrong the moment that branch also sells
+#: pork on the side. Popeyes' own chain policy already documents "shares
+#: fryers with non-halal items (e.g. pork bacon)" as a caveat — but nothing
+#: enforced it: "Bacon Roll with Cajun Ketchup" was still being labelled
+#: halal_status="halal" for every halal-chain-wide branch, and the same
+#: bug would have hit Tortilla's "Pork Carnitas" the moment its chicken was
+#: correctly added as chain-wide halal. This is not a case for the same
+#: "only guess in the safe direction" discipline vegetarian/vegan flags use
+#: — there the danger was a false True, so the safe move was to stay silent.
+#: Here the danger runs the other way: a MISSED pork item stays wrongly
+#: labelled halal, so this list is deliberately broad rather than narrow.
+#: Kept to words that are essentially always pork in UK food service —
+#: never words that are sometimes-pork (e.g. "pepperoni", frequently beef in
+#: UK chains — see dominos.json/prices, which sells it as a plain topping).
+_PORK_RE = re.compile(
+    r"\bpork\b|\bbacon\b|\bham\b|\bgammon\b|\bchorizo\b|\bpancetta\b"
+    r"|\bprosciutto\b|\bsalami\b|\black pudding\b|\blardons?\b"
+    r"|\bpepperoni\b",  # UK pepperoni is traditionally pork; only Domino's
+                        # (own beef pepperoni, verified separately) is exempt
+    re.I)
+
+#: Domino's UK sells pepperoni as beef, not pork (their own allergen/recipe
+#: data has no pork mention on pepperoni items) — the one chain this project
+#: currently ingests where "pepperoni" would otherwise be a false pork flag.
+_PEPPERONI_EXEMPT_CHAINS = {"dominos"}
+
+
+def _contains_pork(chain_id: str, name: str) -> bool:
+    if not _PORK_RE.search(name):
+        return False
+    if chain_id in _PEPPERONI_EXEMPT_CHAINS \
+            and re.search(r"\bpepperoni\b", name, re.I) \
+            and not re.search(r"\bpork\b|\bbacon\b|\bham\b|\bgammon\b|"
+                              r"\bchorizo\b|\bpancetta\b|\bprosciutto\b|"
+                              r"\bsalami\b|\black pudding\b|\blardons?\b",
+                              name, re.I):
+        return False
+    return True
+
+
+#: **Protein-scoped halal claims.** A handful of chains have a brand
+#: statement confirming ONE protein's supplier is halal-certified, on a menu
+#: that also sells other proteins the statement says nothing about —
+#: Tortilla confirms HFA-certified chicken (their own tweet), but also sells
+#: beef and pork. `chain_policy.py`'s POLICIES dict can only express one
+#: verdict per outlet, so a chain like this can't go there without either
+#: wrongly clearing the beef/pork too, or wrongly denying the chicken. This
+#: is the item-level equivalent instead: promotes to halal only when the
+#: name confirms the certified protein AND contains no other named protein
+#: that would make the dish something other than a plain example of it.
+_PROTEIN_HALAL = {
+    "tortilla": {
+        "protein": re.compile(r"\bchicken\b", re.I),
+        "other_proteins": re.compile(
+            r"\bbeef\b|\bpork\b|\bbarbacoa\b|\bcarnitas\b|\bveg(an|etarian)\b",
+            re.I),
+        "url": "https://x.com/tortillauk/status/1620436428588220416",
+    },
+}
+
+
+def _protein_halal_override(chain_id: str, name: str) -> bool:
+    rule = _PROTEIN_HALAL.get(chain_id)
+    if not rule:
+        return False
+    return bool(rule["protein"].search(name)) \
+        and not rule["other_proteins"].search(name)
+
+
 #: Menu sections that are explicitly components, whatever the item is called.
 #: PizzaExpress files toppings under "Extra Toppings" and Wasabi files
 #: condiments under "optional sauce & dressing" — a bare "Chicken" row there is
@@ -301,6 +373,23 @@ def search(postcode: str | None = None, lat: float | None = None,
                 final = (round(quote.price_gbp * (1 - disc.percent / 100), 2)
                          if disc else quote.price_gbp)
                 price_basis = quote.basis
+            # An outlet's halal status is resolved once per branch, which is
+            # wrong the instant that branch also sells pork alongside an
+            # otherwise-halal range — see _PORK_RE above. This item-level
+            # override fires regardless of how confidently "halal" the
+            # branch itself is; pork is never halal no matter who else in
+            # the kitchen is.
+            item_halal_status, item_halal_tier = halal_status, halal_tier
+            if halal_status == "halal" and _contains_pork(chain_id, item["name"]):
+                item_halal_status = "not_halal"
+            elif halal_status != "halal" \
+                    and _protein_halal_override(chain_id, item["name"]):
+                # The inverse case: a per-outlet status of unverified/none is
+                # correct for the branch as a whole (no chain-wide policy
+                # exists — see _PROTEIN_HALAL above for why one can't), but
+                # this specific item is a plain example of the one protein
+                # that IS confirmed, so it can be promoted on its own.
+                item_halal_status, item_halal_tier = "halal", "brand_chain_wide"
             scored.append(ScoredItem(
                 name=item["name"], chain_id=chain_id,
                 outlet_name=outlet["business_name"],
@@ -308,7 +397,7 @@ def search(postcode: str | None = None, lat: float | None = None,
                 kcal=float(item["kcal"]), protein_g=float(item["protein_g"]),
                 list_price_gbp=list_price, final_price_gbp=final,
                 discount_label=disc.label if disc else None,
-                halal_status=halal_status, halal_tier=halal_tier,
+                halal_status=item_halal_status, halal_tier=item_halal_tier,
                 vegetarian=bool(item.get("vegetarian")),
                 vegan=bool(item.get("vegan")),
                 nutrition_source=item.get("source", ""),

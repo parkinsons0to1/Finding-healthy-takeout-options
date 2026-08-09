@@ -48,9 +48,23 @@ POLICIES: dict[str, dict] = {
                "non-halal suppliers; a 2013 trial was never revived",
         url="https://www.greggs.com/", last_verified="2026-07-28"),
     "taco_bell": dict(
-        status=Status.NOT_HALAL, exhaustive=True,
-        detail="Taco Bell UK: no halal-certified UK locations or supply chain",
-        url="https://www.tacobell.co.uk/", last_verified="2026-07-28"),
+        status=Status.NOT_HALAL, exhaustive=False,
+        detail="No chain-wide halal certification or supply chain, but this is "
+               "NOT a blanket no: individual branches (reported in London, "
+               "Birmingham, Manchester, High Wycombe, Cambridge, Northampton) "
+               "serve halal-certified chicken at that specific location. A "
+               "specific branch therefore needs its own check — this entry "
+               "must never resolve a branch to not_halal on its own",
+        url="https://www.tacobell.co.uk/", last_verified="2026-08-09"),
+    # Tortilla is deliberately NOT listed here. Their own statement confirms
+    # HFA-certified halal chicken, chain-wide — but Tortilla's menu is a
+    # build-your-own of several proteins (chicken/beef/pork), and this
+    # POLICIES dict can only express one verdict for an entire outlet. A
+    # blanket HALAL entry here would apply to "Beef Barbacoa" and "Pork
+    # Carnitas" just as much as "Chicken Asado" — the exact over-generalised
+    # mistake this dict exists to prevent, just aimed the other way from the
+    # usual one. See `api.search._PROTEIN_HALAL` for how this chain's
+    # chicken-only signal is applied at item level instead.
     "pret": dict(
         status=Status.NOT_HALAL, exhaustive=True,
         detail="Pret A Manger: meat incl. chicken is not halal-slaughtered; no "
