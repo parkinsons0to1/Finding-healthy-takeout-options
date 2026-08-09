@@ -43,7 +43,7 @@ def _unescape(html: str) -> str:
 def fetch_halal_slugs(session) -> tuple[set[str], str | None]:
     """Slugs of every branch Nando's lists as halal."""
     try:
-        r = session.get(HALAL_URL, timeout=40)
+        r = session.get(HALAL_URL, timeout=8)
         r.raise_for_status()
     except Exception:
         return set(), None
@@ -60,7 +60,7 @@ def fetch_halal_slugs(session) -> tuple[set[str], str | None]:
 def fetch_estate_slugs(session) -> set[str]:
     """Slugs of every Nando's branch, halal or not."""
     try:
-        r = session.get(ESTATE_URL, timeout=60)
+        r = session.get(ESTATE_URL, timeout=8)
         r.raise_for_status()
     except Exception:
         return set()

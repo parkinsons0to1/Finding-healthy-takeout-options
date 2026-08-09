@@ -36,7 +36,11 @@ def search(session, lat: float, lng: float, distance_miles: int = 5) -> list[dic
     params = {"q": f"{lat},{lng}", "lat": lat, "lang": lng,
               "distance": distance_miles, "cat": 0}
     try:
-        r = session.get(SEARCH_URL, params=params, timeout=40)
+        # 8s, not the 40s this used to be: this runs live, per user search,
+        # for every nearby outlet with no cached verdict, often many at once
+        # — a single slow source no longer needs to hang the whole search
+        # for tens of seconds before the "no match" fallback below kicks in.
+        r = session.get(SEARCH_URL, params=params, timeout=8)
         r.raise_for_status()
     except Exception:
         return []

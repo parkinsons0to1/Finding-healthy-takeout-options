@@ -32,7 +32,9 @@ can_prove_negative = False
 def fetch_restaurants(session, postcode: str) -> tuple[list[dict], str | None]:
     url = API.format(postcode=postcode.replace(" ", "").upper())
     try:
-        r = session.get(url, headers={"Accept": "application/json"}, timeout=40)
+        # 8s, not the 40s this used to be — see hmc_registry.py's identical
+        # note; this runs live per search, often for dozens of outlets.
+        r = session.get(url, headers={"Accept": "application/json"}, timeout=8)
         r.raise_for_status()
     except Exception:
         return [], None

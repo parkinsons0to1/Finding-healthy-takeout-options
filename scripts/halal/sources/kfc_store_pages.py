@@ -48,7 +48,7 @@ can_prove_negative = True
 
 def list_store_slugs(session) -> list[str]:
     """Every KFC UK store slug, from their sitemap."""
-    xml = session.get(SITEMAP_URL, timeout=40).text
+    xml = session.get(SITEMAP_URL, timeout=8).text
     slugs = re.findall(r"<loc>https://www\.kfc\.co\.uk/kfc-near-me/([^<]+)</loc>", xml)
     # 'lab*' entries are KFC's internal test stores, not real outlets.
     return sorted({s for s in slugs if not s.startswith("lab")})
@@ -57,7 +57,7 @@ def list_store_slugs(session) -> list[str]:
 def check_slug(session, slug: str) -> Evidence:
     url = STORE_URL.format(slug=slug)
     try:
-        r = session.get(url, timeout=30)
+        r = session.get(url, timeout=8)
     except Exception as e:
         return unverified(SOURCE, url, f"fetch failed: {e}")
     if r.status_code != 200:
