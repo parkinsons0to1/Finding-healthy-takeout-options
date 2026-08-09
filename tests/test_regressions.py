@@ -491,6 +491,89 @@ def test_dedupe_prefers_the_halal_branch_over_the_nearer_one():
     assert len(kept) == 1 and kept[0].outlet_name == "KFC Far"
 
 
+def test_outlet_discovery_paginates_the_fhrs_register():
+    """find_outlets() used to fetch only page 1 (250 rows) of FSA's national
+    register per business type. FSA does not sort by distance — the first
+    250 rows of a Wimbledon "restaurant_cafe" query mix 0.1mi and 3mi
+    entries with no pattern — so whichever real, nearby chain outlets
+    happened to land past row 250 (Wimbledon has 1,142 total in that one
+    category) were silently invisible to every search, regardless of true
+    distance. Popeyes, Taco Bell and Tortilla — all genuinely ~0.1mi from
+    Wimbledon station — were among them. A fake paginated session proves
+    every page gets fetched rather than asserting against the live API."""
+    from scripts.geo.location import _fhrs_establishments
+
+    pages = {
+        1: {"establishments": [{"BusinessName": f"Shop {i}"} for i in range(250)],
+            "meta": {"totalPages": 3}},
+        2: {"establishments": [{"BusinessName": f"Shop {i}"} for i in range(250, 500)],
+            "meta": {"totalPages": 3}},
+        3: {"establishments": [{"BusinessName": "Popeyes"}],
+            "meta": {"totalPages": 3}},
+    }
+
+    class _Resp:
+        def __init__(self, payload):
+            self._payload = payload
+        def raise_for_status(self):
+            pass
+        def json(self):
+            return self._payload
+
+    class _Session:
+        def get(self, url, headers=None, params=None, timeout=None):
+            return _Resp(pages[params["pageNumber"]])
+
+    result = _fhrs_establishments(_Session(), 51.4, -0.2, 1.0, "restaurant_cafe")
+    names = [e["BusinessName"] for e in result]
+    assert len(result) == 501, f"expected all 3 pages fetched, got {len(result)} rows"
+    assert "Popeyes" in names, "page 3 (where the real match lives) was never fetched"
+
+
+def test_outlet_halal_status_is_never_blanket_applied_to_pork_items():
+    """An outlet's halal status is resolved once per branch and stamped onto
+    every item that branch sells — correct when the whole menu is one
+    protein (Popeyes' chicken), wrong the moment that branch also sells
+    pork. Popeyes' own chain policy documents "shares fryers with non-halal
+    items (e.g. pork bacon)" as a caveat, but nothing enforced it before
+    this fix: "Bacon Roll with Cajun Ketchup" was labelled halal_status=
+    "halal" for every halal-chain-wide branch — a dangerous false positive,
+    not a missing-data gap."""
+    from scripts.api.search import _contains_pork
+
+    for name in ["Bacon Roll with Cajun Ketchup", "Double Bacon, Egg and "
+                "Cheese Muffin", "Pork Carnitas (protein pots)",
+                "Honey Roast Ham Sandwich", "Chorizo Hash"]:
+        assert _contains_pork("popeyes", name), name
+
+    for name in ["6 Piece Signature Louisiana Chicken",
+                "Chicken Asado (protein pots)", "Beef Barbacoa"]:
+        assert not _contains_pork("popeyes", name), name
+
+    # Domino's own beef pepperoni is the one verified exception to treating
+    # "pepperoni" as a pork word.
+    assert not _contains_pork("dominos", "Pepperoni Passion")
+    assert _contains_pork("pizza_hut", "Pepperoni Pizza")
+
+
+def test_protein_scoped_halal_claims_never_cover_the_whole_menu():
+    """Tortilla's own statement confirms HFA-certified halal chicken, but
+    the menu also sells beef and pork that statement says nothing about. A
+    blanket chain-wide HALAL policy entry would have cleared "Beef Barbacoa"
+    and "Pork Carnitas" right alongside "Chicken Asado" — caught while
+    building the fix above, before it shipped: the first version of this
+    fix did exactly that. The correct behaviour is item-level promotion,
+    scoped to the one confirmed protein only."""
+    from scripts.api.search import _protein_halal_override
+
+    assert _protein_halal_override("tortilla", "Chicken Asado (protein pots)")
+    assert not _protein_halal_override("tortilla", "Beef Barbacoa (protein pots)")
+    assert not _protein_halal_override("tortilla", "Pork Carnitas (protein pots)")
+    assert not _protein_halal_override("tortilla", "Vegan Chilli (protein pots)")
+    # A chain with no scoped entry must never silently promote anything.
+    assert not _protein_halal_override("nandos", "Grilled Chicken Breast")
+
+
 def _run_all() -> int:
     failures = 0
     for name, fn in sorted(globals().items()):
