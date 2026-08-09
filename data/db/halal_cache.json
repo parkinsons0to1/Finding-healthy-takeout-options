@@ -264,6 +264,94 @@
    "chain_id": "pret",
    "postcode": "M1 5EL",
    "name": "Pret A Manger"
+  },
+  "greggs|SW197NL|greggs plc": {
+   "status": "not_halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786286346.5441213,
+   "chain_id": "greggs",
+   "postcode": "SW19 7NL",
+   "name": "Greggs PLC"
+  },
+  "greggs|SW197NH|greggs": {
+   "status": "not_halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786286349.766362,
+   "chain_id": "greggs",
+   "postcode": "SW19 7NH",
+   "name": "Greggs"
+  },
+  "pret||pret a manger": {
+   "status": "not_halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786286350.967243,
+   "chain_id": "pret",
+   "postcode": "",
+   "name": "Pret A Manger"
+  },
+  "kfc|SW191QE|kfc": {
+   "status": "not_halal",
+   "tier": "brand_per_outlet",
+   "stored_at": 1786286360.2474968,
+   "chain_id": "kfc",
+   "postcode": "SW19 1QE",
+   "name": "KFC"
+  },
+  "greggs|SW200LA|greggs": {
+   "status": "not_halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786286425.7037456,
+   "chain_id": "greggs",
+   "postcode": "SW20 0LA",
+   "name": "Greggs"
+  },
+  "greggs|SW185LS|greggs bakeries": {
+   "status": "not_halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786286437.1627614,
+   "chain_id": "greggs",
+   "postcode": "SW18 5LS",
+   "name": "Greggs Bakeries"
+  },
+  "kfc|SW184SR|kfc": {
+   "status": "halal",
+   "tier": "brand_per_outlet",
+   "stored_at": 1786286440.0291836,
+   "chain_id": "kfc",
+   "postcode": "SW18 4SR",
+   "name": "KFC"
+  },
+  "greggs|SW179PB|greggs": {
+   "status": "not_halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786286444.269407,
+   "chain_id": "greggs",
+   "postcode": "SW17 9PB",
+   "name": "Greggs"
+  },
+  "kfc|SW179PB|kfc": {
+   "status": "halal",
+   "tier": "brand_per_outlet",
+   "stored_at": 1786286446.749855,
+   "chain_id": "kfc",
+   "postcode": "SW17 9PB",
+   "name": "KFC"
+  },
+  "greggs|CR43NA|greggs": {
+   "status": "not_halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786286453.5347757,
+   "chain_id": "greggs",
+   "postcode": "CR4 3NA",
+   "name": "Greggs"
+  },
+  "kfc|CR43NH|kfc": {
+   "status": "not_halal",
+   "tier": "brand_per_outlet",
+   "stored_at": 1786286455.6083539,
+   "chain_id": "kfc",
+   "postcode": "CR4 3NH",
+   "name": "KFC"
   }
  }
 }
