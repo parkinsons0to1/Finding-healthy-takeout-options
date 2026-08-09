@@ -384,6 +384,3670 @@
    "chain_id": "nandos",
    "postcode": "SW19 1QN",
    "name": "Nandos"
+  },
+  "caffe_nero|SW197NL|caffe nero express": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786287973.8099973,
+   "chain_id": "caffe_nero",
+   "postcode": "SW19 7NL",
+   "name": "Caffe Nero Express"
+  },
+  "leon|SW197NF|leon restaurants": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786287975.1230977,
+   "chain_id": "leon",
+   "postcode": "SW19 7NF",
+   "name": "Leon Restaurants"
+  },
+  "starbucks|SW197NS|starbucks": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786287976.456056,
+   "chain_id": "starbucks",
+   "postcode": "SW19 7NS",
+   "name": "Starbucks"
+  },
+  "subway|SW193TA|subway": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786287977.7082148,
+   "chain_id": "subway",
+   "postcode": "SW19 3TA",
+   "name": "Subway"
+  },
+  "itsu|SW193RU|itsu": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786287978.9754074,
+   "chain_id": "itsu",
+   "postcode": "SW19 3RU",
+   "name": "Itsu"
+  },
+  "caffe_nero|SW191RF|caffe nero": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786287980.3900063,
+   "chain_id": "caffe_nero",
+   "postcode": "SW19 1RF",
+   "name": "Caffe Nero"
+  },
+  "costa|SW198ND|costa coffee": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786287981.7120275,
+   "chain_id": "costa",
+   "postcode": "SW19 8ND",
+   "name": "Costa Coffee"
+  },
+  "gails|SW191QB|gails": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786287982.972212,
+   "chain_id": "gails",
+   "postcode": "SW19 1QB",
+   "name": "Gails"
+  },
+  "taco_bell|SW191RF|taco bell": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786287984.3230796,
+   "chain_id": "taco_bell",
+   "postcode": "SW19 1RF",
+   "name": "Taco Bell"
+  },
+  "tortilla|SW191RE|tortilla": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786287985.5825748,
+   "chain_id": "tortilla",
+   "postcode": "SW19 1RE",
+   "name": "Tortilla"
+  },
+  "wagamama|SW197PA|wagamama": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786287986.8502269,
+   "chain_id": "wagamama",
+   "postcode": "SW19 7PA",
+   "name": "Wagamama"
+  },
+  "five_guys|SW191RQ|five guys": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786287988.0906692,
+   "chain_id": "five_guys",
+   "postcode": "SW19 1RQ",
+   "name": "Five Guys"
+  },
+  "pizza_hut|SW191QE|pizza hut": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786287989.5464988,
+   "chain_id": "pizza_hut",
+   "postcode": "SW19 1QE",
+   "name": "Pizza Hut"
+  },
+  "pizza_express|SW191RH|pizza express": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786287990.8003354,
+   "chain_id": "pizza_express",
+   "postcode": "SW19 1RH",
+   "name": "Pizza Express"
+  },
+  "gails|SW195DX|gails bakery": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786287992.0348735,
+   "chain_id": "gails",
+   "postcode": "SW19 5DX",
+   "name": "Gails Bakery"
+  },
+  "pizza_express|SW195EG|pizza express": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786287993.294567,
+   "chain_id": "pizza_express",
+   "postcode": "SW19 5EG",
+   "name": "Pizza Express"
+  },
+  "dominos|SW191LA|domino's pizza": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786287994.5993764,
+   "chain_id": "dominos",
+   "postcode": "SW19 1LA",
+   "name": "Domino's Pizza"
+  },
+  "starbucks|SW193DB|starbucks coffee company": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786287996.1595116,
+   "chain_id": "starbucks",
+   "postcode": "SW19 3DB",
+   "name": "Starbucks Coffee Company"
+  },
+  "costa|SW208JX|costa coffee": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786287997.4234774,
+   "chain_id": "costa",
+   "postcode": "SW20 8JX",
+   "name": "Costa Coffee"
+  },
+  "subway|M12AG|subway piccadilly gardens": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288093.5683763,
+   "chain_id": "subway",
+   "postcode": "M1 2AG",
+   "name": "Subway Piccadilly Gardens"
+  },
+  "costa|M13BE|costa coffee": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288093.5683994,
+   "chain_id": "costa",
+   "postcode": "M1 3BE",
+   "name": "Costa Coffee"
+  },
+  "nandos|M11LU|nando's": {
+   "status": "not_halal",
+   "tier": "brand_per_outlet",
+   "stored_at": 1786288094.5354142,
+   "chain_id": "nandos",
+   "postcode": "M1 1LU",
+   "name": "Nando's"
+  },
+  "zizzi|M11LU|zizzi": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288094.5354369,
+   "chain_id": "zizzi",
+   "postcode": "M1 1LU",
+   "name": "Zizzi"
+  },
+  "dominos|M94DH|domino's pizza": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288094.5354435,
+   "chain_id": "dominos",
+   "postcode": "M9 4DH",
+   "name": "Domino's Pizza"
+  },
+  "five_guys|M11LS|five guys": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288094.535451,
+   "chain_id": "five_guys",
+   "postcode": "M1 1LS",
+   "name": "Five Guys"
+  },
+  "mcdonalds|M11LY|mcdonald's": {
+   "status": "not_halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786288094.5354571,
+   "chain_id": "mcdonalds",
+   "postcode": "M1 1LY",
+   "name": "McDonald's"
+  },
+  "starbucks|M11LZ|starbucks coffee": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288094.5354946,
+   "chain_id": "starbucks",
+   "postcode": "M1 1LZ",
+   "name": "Starbucks Coffee"
+  },
+  "wingstop|M11LY|wingstop": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288094.5355027,
+   "chain_id": "wingstop",
+   "postcode": "M1 1LY",
+   "name": "Wingstop"
+  },
+  "ask_italian|M11RG|ask italian": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288094.5355084,
+   "chain_id": "ask_italian",
+   "postcode": "M1 1RG",
+   "name": "Ask Italian"
+  },
+  "leon|M12GH|leon manchester piccadilly": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288094.5355153,
+   "chain_id": "leon",
+   "postcode": "M1 2GH",
+   "name": "Leon Manchester Piccadilly"
+  },
+  "leon|M12GH|leon restaurant": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288094.5355225,
+   "chain_id": "leon",
+   "postcode": "M1 2GH",
+   "name": "Leon Restaurant"
+  },
+  "popeyes|M12GH|popeyes": {
+   "status": "halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786288094.535535,
+   "chain_id": "popeyes",
+   "postcode": "M1 2GH",
+   "name": "Popeyes"
+  },
+  "starbucks|M12GH|starbucks coffee company": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288094.5355408,
+   "chain_id": "starbucks",
+   "postcode": "M1 2GH",
+   "name": "Starbucks Coffee Company"
+  },
+  "chopstix|M12GH|chopstix": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288094.5355465,
+   "chain_id": "chopstix",
+   "postcode": "M1 2GH",
+   "name": "Chopstix"
+  },
+  "subway|M12GH|subway piccadilly approach": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288094.5355523,
+   "chain_id": "subway",
+   "postcode": "M1 2GH",
+   "name": "Subway Piccadilly Approach"
+  },
+  "greggs|M12GH|greggs": {
+   "status": "not_halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786288095.922594,
+   "chain_id": "greggs",
+   "postcode": "M1 2GH",
+   "name": "Greggs"
+  },
+  "tim_hortons|M11NN|tim hortons": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288095.922631,
+   "chain_id": "tim_hortons",
+   "postcode": "M1 1NN",
+   "name": "Tim Hortons"
+  },
+  "starbucks|M14BT|starbucks": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288095.9226453,
+   "chain_id": "starbucks",
+   "postcode": "M1 4BT",
+   "name": "Starbucks"
+  },
+  "greggs|M14BT|greggs": {
+   "status": "not_halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786288095.922663,
+   "chain_id": "greggs",
+   "postcode": "M1 4BT",
+   "name": "Greggs"
+  },
+  "caffe_nero|M43AJ|caffe nero": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288095.9226704,
+   "chain_id": "caffe_nero",
+   "postcode": "M4 3AJ",
+   "name": "Caffe Nero"
+  },
+  "five_guys|M43AJ|five guys": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288095.9620264,
+   "chain_id": "five_guys",
+   "postcode": "M4 3AJ",
+   "name": "Five Guys"
+  },
+  "nandos|M42BS|nando's": {
+   "status": "halal",
+   "tier": "brand_per_outlet",
+   "stored_at": 1786288097.3293366,
+   "chain_id": "nandos",
+   "postcode": "M4 2BS",
+   "name": "Nando's"
+  },
+  "slim_chickens|M43AQ|slim chickens": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288097.3293543,
+   "chain_id": "slim_chickens",
+   "postcode": "M4 3AQ",
+   "name": "Slim Chickens"
+  },
+  "wagamama|M42BS|wagamama": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288097.329363,
+   "chain_id": "wagamama",
+   "postcode": "M4 2BS",
+   "name": "Wagamama"
+  },
+  "chopstix|M41AZ|chopstix noodle bar": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288097.3293698,
+   "chain_id": "chopstix",
+   "postcode": "M4 1AZ",
+   "name": "Chopstix Noodle Bar"
+  },
+  "costa|M43AB|costa coffee": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288097.3293762,
+   "chain_id": "costa",
+   "postcode": "M4 3AB",
+   "name": "Costa Coffee"
+  },
+  "krispy_kreme|M42HU|krispy kreme": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288097.329383,
+   "chain_id": "krispy_kreme",
+   "postcode": "M4 2HU",
+   "name": "Krispy Kreme"
+  },
+  "pizza_hut|M43AQ|pizza hut express": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288097.3683307,
+   "chain_id": "pizza_hut",
+   "postcode": "M4 3AQ",
+   "name": "Pizza Hut Express"
+  },
+  "subway|M43AQ|subway": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288098.188509,
+   "chain_id": "subway",
+   "postcode": "M4 3AQ",
+   "name": "Subway"
+  },
+  "tortilla|M43AQ|tortilla mexican grill plc": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288097.6793878,
+   "chain_id": "tortilla",
+   "postcode": "M4 3AQ",
+   "name": "Tortilla Mexican Grill PLC"
+  },
+  "subway|M43AB|subway": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288098.1885295,
+   "chain_id": "subway",
+   "postcode": "M4 3AB",
+   "name": "Subway"
+  },
+  "starbucks|M42HU|starbucks coffee": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288098.1885412,
+   "chain_id": "starbucks",
+   "postcode": "M4 2HU",
+   "name": "Starbucks Coffee"
+  },
+  "krispy_kreme|M43AQ|krispy kreme": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288098.4481528,
+   "chain_id": "krispy_kreme",
+   "postcode": "M4 3AQ",
+   "name": "Krispy Kreme"
+  },
+  "pret|M43AQ|pret a manger": {
+   "status": "not_halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786288098.4481697,
+   "chain_id": "pret",
+   "postcode": "M4 3AQ",
+   "name": "Pret a Manger"
+  },
+  "dominos|M47DB|domino's pizza": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288098.748491,
+   "chain_id": "dominos",
+   "postcode": "M4 7DB",
+   "name": "Domino's Pizza"
+  },
+  "krispy_kreme|M12BN|krispy kreme": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288098.8751276,
+   "chain_id": "krispy_kreme",
+   "postcode": "M1 2BN",
+   "name": "Krispy Kreme"
+  },
+  "starbucks|M43AQ|starbucks coffee": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288098.901231,
+   "chain_id": "starbucks",
+   "postcode": "M4 3AQ",
+   "name": "Starbucks Coffee"
+  },
+  "wingstop|M43AQ|wingstop uk": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288098.9012485,
+   "chain_id": "wingstop",
+   "postcode": "M4 3AQ",
+   "name": "Wingstop UK"
+  },
+  "tortilla|M607RA|tortilla": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288099.4653642,
+   "chain_id": "tortilla",
+   "postcode": "M60 7RA",
+   "name": "Tortilla"
+  },
+  "burger_king|M12BN|burger king": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288099.6443627,
+   "chain_id": "burger_king",
+   "postcode": "M1 2BN",
+   "name": "Burger King"
+  },
+  "caffe_nero|M12BN|caffe nero": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288099.6489651,
+   "chain_id": "caffe_nero",
+   "postcode": "M1 2BN",
+   "name": "Caffe Nero"
+  },
+  "pizza_hut|M43AG|pizza hut restaurants - dine in": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288099.7625244,
+   "chain_id": "pizza_hut",
+   "postcode": "M4 3AG",
+   "name": "Pizza Hut Restaurants - Dine In"
+  },
+  "starbucks|M12BN|starbucks": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288099.835875,
+   "chain_id": "starbucks",
+   "postcode": "M1 2BN",
+   "name": "Starbucks"
+  },
+  "yo_to_go|M11PW|yo! to go!": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288100.2673874,
+   "chain_id": "yo_to_go",
+   "postcode": "M1 1PW",
+   "name": "Yo! To Go!"
+  },
+  "costa|M47DB|costa coffee - sim trava": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288100.267407,
+   "chain_id": "costa",
+   "postcode": "M4 7DB",
+   "name": "Costa Coffee - Sim Trava"
+  },
+  "kfc|M43AT|kentucky fried chicken": {
+   "status": "halal",
+   "tier": "brand_per_outlet",
+   "stored_at": 1786288102.4127688,
+   "chain_id": "kfc",
+   "postcode": "M4 3AT",
+   "name": "Kentucky Fried Chicken"
+  },
+  "mcdonalds|M21NP|mcdonalds restaurant": {
+   "status": "not_halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786288102.4127932,
+   "chain_id": "mcdonalds",
+   "postcode": "M2 1NP",
+   "name": "McDonalds Restaurant"
+  },
+  "nandos|M43AB|nando's": {
+   "status": "not_halal",
+   "tier": "brand_per_outlet",
+   "stored_at": 1786288102.412802,
+   "chain_id": "nandos",
+   "postcode": "M4 3AB",
+   "name": "Nando's"
+  },
+  "starbucks|M31NX|starbucks coffee": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288102.4128106,
+   "chain_id": "starbucks",
+   "postcode": "M3 1NX",
+   "name": "Starbucks Coffee"
+  },
+  "costa|M211AQ|costa": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288102.412818,
+   "chain_id": "costa",
+   "postcode": "M21 1AQ",
+   "name": "Costa"
+  },
+  "popeyes|M43AQ|popeyes": {
+   "status": "halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786288102.4128253,
+   "chain_id": "popeyes",
+   "postcode": "M4 3AQ",
+   "name": "Popeyes"
+  },
+  "pizza_express|M43TR|pizza express": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288102.4128315,
+   "chain_id": "pizza_express",
+   "postcode": "M4 3TR",
+   "name": "Pizza Express"
+  },
+  "zizzi|M43TR|zizzi": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288102.4128394,
+   "chain_id": "zizzi",
+   "postcode": "M4 3TR",
+   "name": "Zizzi"
+  },
+  "miller_carter|M24LQ|miller & carter": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288102.4128466,
+   "chain_id": "miller_carter",
+   "postcode": "M2 4LQ",
+   "name": "Miller & Carter"
+  },
+  "pizza_express|M24WQ|pizza express": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288102.4128525,
+   "chain_id": "pizza_express",
+   "postcode": "M2 4WQ",
+   "name": "Pizza Express"
+  },
+  "caffe_nero|M27HQ|caffe nero": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288102.767673,
+   "chain_id": "caffe_nero",
+   "postcode": "M2 7HQ",
+   "name": "Caffe Nero"
+  },
+  "wagamama|M23AA|wagamama": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288103.2473333,
+   "chain_id": "wagamama",
+   "postcode": "M2 3AA",
+   "name": "Wagamama"
+  },
+  "gails|M26AG|gail's - king street": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288103.247352,
+   "chain_id": "gails",
+   "postcode": "M2 6AG",
+   "name": "Gail's - King Street"
+  },
+  "papa_johns|M15AZ|papa john's manchester central": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288103.2473586,
+   "chain_id": "papa_johns",
+   "postcode": "M1 5AZ",
+   "name": "Papa John's Manchester Central"
+  },
+  "wingstop|M126AE|wingstop uk": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288103.4827325,
+   "chain_id": "wingstop",
+   "postcode": "M12 6AE",
+   "name": "Wingstop UK"
+  },
+  "pizza_express|M16FQ|pizza express": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288103.5727215,
+   "chain_id": "pizza_express",
+   "postcode": "M1 6FQ",
+   "name": "Pizza Express"
+  },
+  "caffe_nero|M16FQ|caffe nero": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288103.7949386,
+   "chain_id": "caffe_nero",
+   "postcode": "M1 6FQ",
+   "name": "Caffe Nero"
+  },
+  "mcdonalds|M15EJ|mcdonalds restaurant": {
+   "status": "not_halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786288104.1997874,
+   "chain_id": "mcdonalds",
+   "postcode": "M1 5EJ",
+   "name": "McDonalds Restaurant"
+  },
+  "starbucks|M25NT|starbucks coffee": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288104.1998072,
+   "chain_id": "starbucks",
+   "postcode": "M2 5NT",
+   "name": "Starbucks Coffee"
+  },
+  "tortilla|M15EJ|tortilla mexican grill plc": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288104.2163837,
+   "chain_id": "tortilla",
+   "postcode": "M1 5EJ",
+   "name": "Tortilla Mexican Grill PLC"
+  },
+  "burger_king|M15EJ|burger king uk": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288104.4311569,
+   "chain_id": "burger_king",
+   "postcode": "M1 5EJ",
+   "name": "Burger King UK"
+  },
+  "chopstix|M15EJ|chopstix noodle bar": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288104.6711762,
+   "chain_id": "chopstix",
+   "postcode": "M1 5EJ",
+   "name": "Chopstix Noodle Bar"
+  },
+  "dominos|M31NN|dominos pizza": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288104.6711895,
+   "chain_id": "dominos",
+   "postcode": "M3 1NN",
+   "name": "Dominos Pizza"
+  },
+  "caffe_nero|M33RW|caffe nero": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288104.9218857,
+   "chain_id": "caffe_nero",
+   "postcode": "M3 3RW",
+   "name": "Caffe Nero"
+  },
+  "itsu|M33AP|itsu": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288105.3902037,
+   "chain_id": "itsu",
+   "postcode": "M3 3AP",
+   "name": "Itsu"
+  },
+  "costa|M16FU|costa": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288105.577195,
+   "chain_id": "costa",
+   "postcode": "M1 6FU",
+   "name": "Costa"
+  },
+  "costa|M33BZ|costa coffee": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288105.5772166,
+   "chain_id": "costa",
+   "postcode": "M3 3BZ",
+   "name": "Costa Coffee"
+  },
+  "gdk|M15QA|german doner kebab": {
+   "status": "halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786288105.622974,
+   "chain_id": "gdk",
+   "postcode": "M1 5QA",
+   "name": "German Doner Kebab"
+  },
+  "subway|M15QA|subway oxford road": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288106.098254,
+   "chain_id": "subway",
+   "postcode": "M1 5QA",
+   "name": "Subway Oxford Road"
+  },
+  "nandos|M33HF|nando's": {
+   "status": "not_halal",
+   "tier": "brand_per_outlet",
+   "stored_at": 1786288107.130476,
+   "chain_id": "nandos",
+   "postcode": "M3 3HF",
+   "name": "Nando's"
+  },
+  "nandos|M15QS|nando's": {
+   "status": "halal",
+   "tier": "brand_per_outlet",
+   "stored_at": 1786288107.981677,
+   "chain_id": "nandos",
+   "postcode": "M1 5QS",
+   "name": "Nando's"
+  },
+  "starbucks|M33HN|starbucks coffee": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288107.9817,
+   "chain_id": "starbucks",
+   "postcode": "M3 3HN",
+   "name": "Starbucks Coffee"
+  },
+  "pret|M33EB|pret a manger": {
+   "status": "not_halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786288107.9817088,
+   "chain_id": "pret",
+   "postcode": "M3 3EB",
+   "name": "Pret A Manger"
+  },
+  "pret|M126JZ|pret a manger": {
+   "status": "not_halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786288107.9817152,
+   "chain_id": "pret",
+   "postcode": "M12 6JZ",
+   "name": "Pret a Manger"
+  },
+  "pizza_hut|M17DY|pizza hut delivery": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288107.9817212,
+   "chain_id": "pizza_hut",
+   "postcode": "M1 7DY",
+   "name": "Pizza Hut Delivery"
+  },
+  "subway|M35FS|subway": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288107.9817276,
+   "chain_id": "subway",
+   "postcode": "M3 5FS",
+   "name": "Subway"
+  },
+  "costa|M88EP|costa coffee": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288107.9817338,
+   "chain_id": "costa",
+   "postcode": "M8 8EP",
+   "name": "Costa Coffee"
+  },
+  "starbucks|M88EP|starbucks": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288107.9817388,
+   "chain_id": "starbucks",
+   "postcode": "M8 8EP",
+   "name": "Starbucks"
+  },
+  "five_guys|M88EP|five guys": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288107.9817455,
+   "chain_id": "five_guys",
+   "postcode": "M8 8EP",
+   "name": "Five Guys"
+  },
+  "krispy_kreme|B24QA|krispy kreme": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288179.003798,
+   "chain_id": "krispy_kreme",
+   "postcode": "B2 4QA",
+   "name": "Krispy Kreme"
+  },
+  "popeyes|B24QA|popeyes": {
+   "status": "halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786288185.6100175,
+   "chain_id": "popeyes",
+   "postcode": "B2 4QA",
+   "name": "Popeyes"
+  },
+  "taco_bell|B24QA|taco bell": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288185.61004,
+   "chain_id": "taco_bell",
+   "postcode": "B2 4QA",
+   "name": "Taco Bell"
+  },
+  "greggs|B24QE|greggs": {
+   "status": "not_halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786288185.6100483,
+   "chain_id": "greggs",
+   "postcode": "B2 4QE",
+   "name": "Greggs"
+  },
+  "burger_king|B24QE|burger king": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288185.6100554,
+   "chain_id": "burger_king",
+   "postcode": "B2 4QE",
+   "name": "Burger King"
+  },
+  "caffe_nero|B24QE|caffe nero": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288185.610063,
+   "chain_id": "caffe_nero",
+   "postcode": "B2 4QE",
+   "name": "Caffe Nero"
+  },
+  "five_guys|B24QE|five guys jv ltd": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288187.0951393,
+   "chain_id": "five_guys",
+   "postcode": "B2 4QE",
+   "name": "Five Guys JV Ltd"
+  },
+  "leon|B24QE|leon birmingham new street station": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288187.095173,
+   "chain_id": "leon",
+   "postcode": "B2 4QE",
+   "name": "Leon Birmingham New Street Station"
+  },
+  "pret|B24QE|pret a manger": {
+   "status": "not_halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786288187.095183,
+   "chain_id": "pret",
+   "postcode": "B2 4QE",
+   "name": "Pret A Manger"
+  },
+  "wasabi|B24QE|wasabi": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288187.0951917,
+   "chain_id": "wasabi",
+   "postcode": "B2 4QE",
+   "name": "Wasabi"
+  },
+  "starbucks|B24ND|starbucks": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288187.0952005,
+   "chain_id": "starbucks",
+   "postcode": "B2 4ND",
+   "name": "Starbucks"
+  },
+  "costa|B24BF|costa": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288187.095209,
+   "chain_id": "costa",
+   "postcode": "B2 4BF",
+   "name": "Costa"
+  },
+  "nandos|B24BF|nandos": {
+   "status": "not_halal",
+   "tier": "brand_per_outlet",
+   "stored_at": 1786288187.0952172,
+   "chain_id": "nandos",
+   "postcode": "B2 4BF",
+   "name": "Nandos"
+  },
+  "slim_chickens|B24BF|slim chicken": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288187.095224,
+   "chain_id": "slim_chickens",
+   "postcode": "B2 4BF",
+   "name": "Slim Chicken"
+  },
+  "tortilla|B24BQ|tortilla": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288187.1924212,
+   "chain_id": "tortilla",
+   "postcode": "B2 4BQ",
+   "name": "Tortilla"
+  },
+  "yo_sushi|B24BQ|yo! sushi": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288187.1924365,
+   "chain_id": "yo_sushi",
+   "postcode": "B2 4BQ",
+   "name": "Yo! Sushi"
+  },
+  "mcdonalds|B24PY|mcdonald's": {
+   "status": "not_halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786288187.1924458,
+   "chain_id": "mcdonalds",
+   "postcode": "B2 4PY",
+   "name": "McDonald's"
+  },
+  "subway|B54LJ|subway unit 6": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288187.1924558,
+   "chain_id": "subway",
+   "postcode": "B5 4LJ",
+   "name": "Subway Unit 6"
+  },
+  "pizza_hut|B24NS|pizza hut": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288187.1924644,
+   "chain_id": "pizza_hut",
+   "postcode": "B2 4NS",
+   "name": "Pizza Hut"
+  },
+  "starbucks|B24JH|starbucks": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288187.1924913,
+   "chain_id": "starbucks",
+   "postcode": "B2 4JH",
+   "name": "Starbucks"
+  },
+  "costa|B24BS|costa": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288187.1925,
+   "chain_id": "costa",
+   "postcode": "B2 4BS",
+   "name": "Costa"
+  },
+  "gails|B24EG|gail's birmingham new street": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288187.1925101,
+   "chain_id": "gails",
+   "postcode": "B2 4EG",
+   "name": "GAIL's Birmingham New Street"
+  },
+  "tim_hortons|B24EU|tim hortons": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288187.1925225,
+   "chain_id": "tim_hortons",
+   "postcode": "B2 4EU",
+   "name": "Tim Hortons"
+  },
+  "pizza_hut|B54BA|pizza hut": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288187.1925418,
+   "chain_id": "pizza_hut",
+   "postcode": "B5 4BA",
+   "name": "Pizza Hut"
+  },
+  "greggs|B54BA|greggs": {
+   "status": "not_halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786288187.1925502,
+   "chain_id": "greggs",
+   "postcode": "B5 4BA",
+   "name": "Greggs"
+  },
+  "subway|B54BE|subway": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288187.1925566,
+   "chain_id": "subway",
+   "postcode": "B5 4BE",
+   "name": "Subway"
+  },
+  "five_guys|B54BE|five guys": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288187.1925642,
+   "chain_id": "five_guys",
+   "postcode": "B5 4BE",
+   "name": "Five Guys"
+  },
+  "nandos|B54BA|nandos": {
+   "status": "not_halal",
+   "tier": "brand_per_outlet",
+   "stored_at": 1786288187.1925707,
+   "chain_id": "nandos",
+   "postcode": "B5 4BA",
+   "name": "Nandos"
+  },
+  "pret|B24EG|pret a manger": {
+   "status": "not_halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786288187.192577,
+   "chain_id": "pret",
+   "postcode": "B2 4EG",
+   "name": "Pret A Manger"
+  },
+  "starbucks|B54BE|starbucks": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288187.1925824,
+   "chain_id": "starbucks",
+   "postcode": "B5 4BE",
+   "name": "Starbucks"
+  },
+  "wingstop|B54BE|wingstop bullring": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288187.1925893,
+   "chain_id": "wingstop",
+   "postcode": "B5 4BE",
+   "name": "Wingstop Bullring"
+  },
+  "wagamama|B24HS|wagamama ltd": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288187.1925964,
+   "chain_id": "wagamama",
+   "postcode": "B2 4HS",
+   "name": "Wagamama Ltd"
+  },
+  "pizza_express|B54BF|pizza express": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288187.1926029,
+   "chain_id": "pizza_express",
+   "postcode": "B5 4BF",
+   "name": "Pizza Express"
+  },
+  "wagamama|B54BU|wagamama": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288187.19261,
+   "chain_id": "wagamama",
+   "postcode": "B5 4BU",
+   "name": "Wagamama"
+  },
+  "greggs|B47SL|greggs": {
+   "status": "not_halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786288187.1926167,
+   "chain_id": "greggs",
+   "postcode": "B4 7SL",
+   "name": "Greggs"
+  },
+  "kfc|B24DU|kfc": {
+   "status": "halal",
+   "tier": "brand_per_outlet",
+   "stored_at": 1786288188.324346,
+   "chain_id": "kfc",
+   "postcode": "B2 4DU",
+   "name": "KFC"
+  },
+  "popeyes|B24DU|popeyes": {
+   "status": "halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786288188.3243668,
+   "chain_id": "popeyes",
+   "postcode": "B2 4DU",
+   "name": "Popeyes"
+  },
+  "starbucks|B54EN|starbucks": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288188.3243752,
+   "chain_id": "starbucks",
+   "postcode": "B5 4EN",
+   "name": "Starbucks"
+  },
+  "wingstop|B24DU|wingstop": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288188.324385,
+   "chain_id": "wingstop",
+   "postcode": "B2 4DU",
+   "name": "WINGSTOP"
+  },
+  "chopstix|B24DU|chopstix noodle bar": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288188.324394,
+   "chain_id": "chopstix",
+   "postcode": "B2 4DU",
+   "name": "CHOPSTIX NOODLE BAR"
+  },
+  "subway|B54AA|subway unit 4": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288188.324403,
+   "chain_id": "subway",
+   "postcode": "B5 4AA",
+   "name": "Subway Unit 4"
+  },
+  "burger_king|B47TA|burger king": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288188.324409,
+   "chain_id": "burger_king",
+   "postcode": "B4 7TA",
+   "name": "Burger King"
+  },
+  "caffe_nero|B24BA|caffe nero": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288188.3244245,
+   "chain_id": "caffe_nero",
+   "postcode": "B2 4BA",
+   "name": "Caffe Nero"
+  },
+  "gdk|B24DU|german doner kebab": {
+   "status": "halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786288188.5551317,
+   "chain_id": "gdk",
+   "postcode": "B2 4DU",
+   "name": "German Doner Kebab"
+  },
+  "mcdonalds|B25AL|mcdonalds restaurants ltd": {
+   "status": "not_halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786288188.9619071,
+   "chain_id": "mcdonalds",
+   "postcode": "B2 5AL",
+   "name": "McDonalds Restaurants Ltd"
+  },
+  "greggs|B25AL|greggs": {
+   "status": "not_halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786288188.9619262,
+   "chain_id": "greggs",
+   "postcode": "B2 5AL",
+   "name": "Greggs"
+  },
+  "beefeater|B25PG|beefeater bar & block": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288189.3031058,
+   "chain_id": "beefeater",
+   "postcode": "B2 5PG",
+   "name": "Beefeater Bar & Block"
+  },
+  "greggs|B24BA|greggs": {
+   "status": "not_halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786288189.308079,
+   "chain_id": "greggs",
+   "postcode": "B2 4BA",
+   "name": "Greggs"
+  },
+  "nandos|B24DU|nando's": {
+   "status": "halal",
+   "tier": "brand_per_outlet",
+   "stored_at": 1786288190.376487,
+   "chain_id": "nandos",
+   "postcode": "B2 4DU",
+   "name": "Nando's"
+  },
+  "tortilla|B24BA|tortilla": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288190.3765051,
+   "chain_id": "tortilla",
+   "postcode": "B2 4BA",
+   "name": "Tortilla"
+  },
+  "caffe_nero|B24UQ|caffe nero": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288190.3765113,
+   "chain_id": "caffe_nero",
+   "postcode": "B2 4UQ",
+   "name": "Caffe Nero"
+  },
+  "chopstix|B47AA|chopstix": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288190.3765173,
+   "chain_id": "chopstix",
+   "postcode": "B4 7AA",
+   "name": "Chopstix"
+  },
+  "kfc|B47AA|kfc martineau place": {
+   "status": "halal",
+   "tier": "brand_per_outlet",
+   "stored_at": 1786288192.6507087,
+   "chain_id": "kfc",
+   "postcode": "B4 7AA",
+   "name": "KFC Martineau Place"
+  },
+  "starbucks|B33AU|starbucks coffee company ltd": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288192.6507273,
+   "chain_id": "starbucks",
+   "postcode": "B3 3AU",
+   "name": "Starbucks Coffee Company Ltd"
+  },
+  "greggs|B25HU|greggs": {
+   "status": "not_halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786288192.6507351,
+   "chain_id": "greggs",
+   "postcode": "B2 5HU",
+   "name": "Greggs"
+  },
+  "pret|B33NH|pret a manger": {
+   "status": "not_halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786288192.6507423,
+   "chain_id": "pret",
+   "postcode": "B3 3NH",
+   "name": "Pret A Manger"
+  },
+  "pret|B32QD|pret a manger - unit 2": {
+   "status": "not_halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786288192.6507494,
+   "chain_id": "pret",
+   "postcode": "B3 2QD",
+   "name": "Pret A Manger - Unit 2"
+  },
+  "nandos|B11RF|nandos": {
+   "status": "not_halal",
+   "tier": "brand_per_outlet",
+   "stored_at": 1786288192.650757,
+   "chain_id": "nandos",
+   "postcode": "B1 1RF",
+   "name": "Nandos"
+  },
+  "zizzi|B11RL|zizzi": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288192.6507628,
+   "chain_id": "zizzi",
+   "postcode": "B1 1RL",
+   "name": "Zizzi"
+  },
+  "costa|B32BJ|costa coffee (whitbread)": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288192.650768,
+   "chain_id": "costa",
+   "postcode": "B3 2BJ",
+   "name": "Costa Coffee (Whitbread)"
+  },
+  "pepes_piri_piri|B46PH|pepe's piri piri": {
+   "status": "halal",
+   "tier": "certifier_registry",
+   "stored_at": 1786288192.6507745,
+   "chain_id": "pepes_piri_piri",
+   "postcode": "B4 6PH",
+   "name": "Pepe's Piri Piri"
+  },
+  "miller_carter|B11RN|miller & carter": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288192.6507814,
+   "chain_id": "miller_carter",
+   "postcode": "B1 1RN",
+   "name": "Miller & Carter"
+  },
+  "mcdonalds|B47NJ|mcdonald's exchange square": {
+   "status": "not_halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786288192.753726,
+   "chain_id": "mcdonalds",
+   "postcode": "B4 7NJ",
+   "name": "McDonald's Exchange Square"
+  },
+  "greggs|B47LR|greggs": {
+   "status": "not_halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786288192.7537446,
+   "chain_id": "greggs",
+   "postcode": "B4 7LR",
+   "name": "Greggs"
+  },
+  "papa_johns|B55JE|papa john's birmingham central": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288192.7537522,
+   "chain_id": "papa_johns",
+   "postcode": "B5 5JE",
+   "name": "Papa John's Birmingham Central"
+  },
+  "starbucks|B56DB|starbucks": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288193.239941,
+   "chain_id": "starbucks",
+   "postcode": "B5 6DB",
+   "name": "Starbucks"
+  },
+  "subway|B55JR|subway": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288193.6266975,
+   "chain_id": "subway",
+   "postcode": "B5 5JR",
+   "name": "Subway"
+  },
+  "pizza_express|B12EA|pizzaexpress": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288193.6267214,
+   "chain_id": "pizza_express",
+   "postcode": "B1 2EA",
+   "name": "PizzaExpress"
+  },
+  "starbucks|B12EA|starbucks": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288193.6267297,
+   "chain_id": "starbucks",
+   "postcode": "B1 2EA",
+   "name": "Starbucks"
+  },
+  "subway|B12EA|subway": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288194.0168803,
+   "chain_id": "subway",
+   "postcode": "B1 2EA",
+   "name": "Subway"
+  },
+  "wagamama|B12HL|wagamama": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288194.8974879,
+   "chain_id": "wagamama",
+   "postcode": "B1 2HL",
+   "name": "Wagamama"
+  },
+  "greggs|B47DA|greggs unit 2": {
+   "status": "not_halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786288194.8975089,
+   "chain_id": "greggs",
+   "postcode": "B4 7DA",
+   "name": "Greggs Unit 2"
+  },
+  "costa|B12JB|costa coffee": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288194.8975172,
+   "chain_id": "costa",
+   "postcode": "B1 2JB",
+   "name": "Costa Coffee"
+  },
+  "zizzi|B12JB|zizzi": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288194.8975255,
+   "chain_id": "zizzi",
+   "postcode": "B1 2JB",
+   "name": "Zizzi"
+  },
+  "costa|B47UH|costa coffee": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288195.0347269,
+   "chain_id": "costa",
+   "postcode": "B4 7UH",
+   "name": "Costa Coffee"
+  },
+  "caffe_nero|B12JB|caffe nero": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288195.5058684,
+   "chain_id": "caffe_nero",
+   "postcode": "B1 2JB",
+   "name": "Caffe Nero"
+  },
+  "pret|B12JB|pret a manger": {
+   "status": "not_halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786288195.5903745,
+   "chain_id": "pret",
+   "postcode": "B1 2JB",
+   "name": "Pret a Manger"
+  },
+  "greggs|B152DZ|greggs": {
+   "status": "not_halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786288195.6535003,
+   "chain_id": "greggs",
+   "postcode": "B15 2DZ",
+   "name": "Greggs"
+  },
+  "costa|B47ET|costa coffee": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288195.6535213,
+   "chain_id": "costa",
+   "postcode": "B4 7ET",
+   "name": "Costa Coffee"
+  },
+  "five_guys|B151DA|five guys": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288195.9226573,
+   "chain_id": "five_guys",
+   "postcode": "B15 1DA",
+   "name": "Five Guys"
+  },
+  "dominos|B193JS|domino's pizza": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288196.404906,
+   "chain_id": "dominos",
+   "postcode": "B19 3JS",
+   "name": "Domino's Pizza"
+  },
+  "popeyes|B193QU|popeyes": {
+   "status": "halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786288196.4397464,
+   "chain_id": "popeyes",
+   "postcode": "B19 3QU",
+   "name": "Popeyes"
+  },
+  "mcdonalds|B57TT|mcdonalds restaurants ltd": {
+   "status": "not_halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786288196.4978325,
+   "chain_id": "mcdonalds",
+   "postcode": "B5 7TT",
+   "name": "Mcdonalds Restaurants Ltd"
+  },
+  "wingstop|B193QU|wingstop uk": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288197.0189455,
+   "chain_id": "wingstop",
+   "postcode": "B19 3QU",
+   "name": "Wingstop UK"
+  },
+  "subway|B13HN|subway": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288197.4727418,
+   "chain_id": "subway",
+   "postcode": "B1 3HN",
+   "name": "Subway"
+  },
+  "costa|B13HH|costa coffee": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288197.4743083,
+   "chain_id": "costa",
+   "postcode": "B1 3HH",
+   "name": "Costa Coffee"
+  },
+  "greggs|B186NG|greggs": {
+   "status": "not_halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786288197.590566,
+   "chain_id": "greggs",
+   "postcode": "B18 6NG",
+   "name": "Greggs"
+  },
+  "greggs|B120XR|greggs": {
+   "status": "not_halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786288197.699526,
+   "chain_id": "greggs",
+   "postcode": "B12 0XR",
+   "name": "Greggs"
+  },
+  "burger_king|B94HF|burger king waterlinks": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288197.999843,
+   "chain_id": "burger_king",
+   "postcode": "B9 4HF",
+   "name": "Burger King Waterlinks"
+  },
+  "subway|B94HF|mfg subway waterlinks": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288198.07146,
+   "chain_id": "subway",
+   "postcode": "B9 4HF",
+   "name": "MFG Subway Waterlinks"
+  },
+  "greggs|LS14DT|greggs plc": {
+   "status": "not_halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786288294.467447,
+   "chain_id": "greggs",
+   "postcode": "LS1 4DT",
+   "name": "Greggs PLC"
+  },
+  "leon|LS14DT|leon": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288294.4674706,
+   "chain_id": "leon",
+   "postcode": "LS1 4DT",
+   "name": "Leon"
+  },
+  "mcdonalds|LS14DT|mcdonalds (city station)": {
+   "status": "not_halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786288294.4674816,
+   "chain_id": "mcdonalds",
+   "postcode": "LS1 4DT",
+   "name": "McDonalds (City Station)"
+  },
+  "starbucks|LS14DT|starbucks (city station)": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288294.4674928,
+   "chain_id": "starbucks",
+   "postcode": "LS1 4DT",
+   "name": "Starbucks (City Station)"
+  },
+  "caffe_nero|LS14DT|caffe nero": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288297.4497743,
+   "chain_id": "caffe_nero",
+   "postcode": "LS1 4DT",
+   "name": "Caffe Nero"
+  },
+  "gdk|LS16HW|gdk - boar lane": {
+   "status": "halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786288297.4497998,
+   "chain_id": "gdk",
+   "postcode": "LS1 6HW",
+   "name": "GDK - Boar Lane"
+  },
+  "wingstop|LS16HW|wingstop": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288297.4498093,
+   "chain_id": "wingstop",
+   "postcode": "LS1 6HW",
+   "name": "Wingstop"
+  },
+  "subway|LS15EQ|subway (boar lane)": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288297.4498248,
+   "chain_id": "subway",
+   "postcode": "LS1 5EQ",
+   "name": "Subway (Boar Lane)"
+  },
+  "greggs|LS15EQ|greggs": {
+   "status": "not_halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786288297.4498348,
+   "chain_id": "greggs",
+   "postcode": "LS1 5EQ",
+   "name": "Greggs"
+  },
+  "caffe_nero|LS14ER|caffe nero": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288297.4498432,
+   "chain_id": "caffe_nero",
+   "postcode": "LS1 4ER",
+   "name": "Caffe Nero"
+  },
+  "wasabi|LS16HX|wasabi sushi & bento": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288297.4498527,
+   "chain_id": "wasabi",
+   "postcode": "LS1 6HX",
+   "name": "Wasabi Sushi & Bento"
+  },
+  "caffe_nero|LS16HW|caffe nero (boar lane)": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288298.1233888,
+   "chain_id": "caffe_nero",
+   "postcode": "LS1 6HW",
+   "name": "Caffe Nero (Boar Lane)"
+  },
+  "greggs|LS15AT|greggs plc": {
+   "status": "not_halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786288298.12341,
+   "chain_id": "greggs",
+   "postcode": "LS1 5AT",
+   "name": "Greggs PLC"
+  },
+  "tortilla|LS15AY|tortilla": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288298.123419,
+   "chain_id": "tortilla",
+   "postcode": "LS1 5AY",
+   "name": "Tortilla"
+  },
+  "burger_king|LS16HW|burger king (boar lane)": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288298.1234288,
+   "chain_id": "burger_king",
+   "postcode": "LS1 6HW",
+   "name": "Burger King (Boar Lane)"
+  },
+  "krispy_kreme|LS15AT|krispy kreme": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288298.1234376,
+   "chain_id": "krispy_kreme",
+   "postcode": "LS1 5AT",
+   "name": "Krispy Kreme"
+  },
+  "greggs|LS15BQ|greggs": {
+   "status": "not_halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786288298.1234457,
+   "chain_id": "greggs",
+   "postcode": "LS1 5BQ",
+   "name": "Greggs"
+  },
+  "pret|LS12JP|pret a manger (infirmary street)": {
+   "status": "not_halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786288298.1234531,
+   "chain_id": "pret",
+   "postcode": "LS1 2JP",
+   "name": "Pret A Manger (Infirmary Street)"
+  },
+  "tortilla|LS15BQ|tortilla mexican grill plc": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288298.123462,
+   "chain_id": "tortilla",
+   "postcode": "LS1 5BQ",
+   "name": "Tortilla Mexican Grill PLC"
+  },
+  "itsu|LS16EX|itsu": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288298.1234703,
+   "chain_id": "itsu",
+   "postcode": "LS1 6EX",
+   "name": "Itsu"
+  },
+  "mcdonalds|LS16HD|mcdonalds (briggate)": {
+   "status": "not_halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786288298.1234798,
+   "chain_id": "mcdonalds",
+   "postcode": "LS1 6HD",
+   "name": "McDonalds (Briggate)"
+  },
+  "nandos|LS16DL|nandos (briggate)": {
+   "status": "not_halal",
+   "tier": "brand_per_outlet",
+   "stored_at": 1786288298.2408445,
+   "chain_id": "nandos",
+   "postcode": "LS1 6DL",
+   "name": "Nandos (Briggate)"
+  },
+  "popeyes|LS16AL|popeyes": {
+   "status": "halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786288298.2408657,
+   "chain_id": "popeyes",
+   "postcode": "LS1 6AL",
+   "name": "Popeyes"
+  },
+  "greggs|LS16DX|greggs": {
+   "status": "not_halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786288298.2408748,
+   "chain_id": "greggs",
+   "postcode": "LS1 6DX",
+   "name": "Greggs"
+  },
+  "pizza_express|LS16JL|pizza express": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288298.240882,
+   "chain_id": "pizza_express",
+   "postcode": "LS1 6JL",
+   "name": "Pizza Express"
+  },
+  "pret|LS16AW|pret a manger lands lane": {
+   "status": "not_halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786288298.2408895,
+   "chain_id": "pret",
+   "postcode": "LS1 6AW",
+   "name": "Pret A Manger Lands Lane"
+  },
+  "caffe_nero|LS16JS|caffe nero (albion place)": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288298.2408984,
+   "chain_id": "caffe_nero",
+   "postcode": "LS1 6JS",
+   "name": "Caffe Nero (Albion Place)"
+  },
+  "five_guys|LS15AY|five guys": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288298.2409055,
+   "chain_id": "five_guys",
+   "postcode": "LS1 5AY",
+   "name": "Five Guys"
+  },
+  "nandos|LS15AY|nandos (trinity)": {
+   "status": "not_halal",
+   "tier": "brand_per_outlet",
+   "stored_at": 1786288299.49631,
+   "chain_id": "nandos",
+   "postcode": "LS1 5AY",
+   "name": "Nandos (Trinity)"
+  },
+  "slim_chickens|LS15AY|slim chickens": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288299.4963307,
+   "chain_id": "slim_chickens",
+   "postcode": "LS1 5AY",
+   "name": "Slim Chickens"
+  },
+  "starbucks|LS115QS|starbucks coffee company.": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288299.4963398,
+   "chain_id": "starbucks",
+   "postcode": "LS11 5QS",
+   "name": "Starbucks Coffee Company."
+  },
+  "wagamama|LS15AY|wagamama": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288299.496348,
+   "chain_id": "wagamama",
+   "postcode": "LS1 5AY",
+   "name": "Wagamama"
+  },
+  "yo_sushi|LS15AY|yo sushi": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288299.4963567,
+   "chain_id": "yo_sushi",
+   "postcode": "LS1 5AY",
+   "name": "Yo Sushi"
+  },
+  "costa|LS15AY|costa (trinity)": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288299.4963653,
+   "chain_id": "costa",
+   "postcode": "LS1 5AY",
+   "name": "Costa (Trinity)"
+  },
+  "costa|LS16LB|costa": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288299.4963722,
+   "chain_id": "costa",
+   "postcode": "LS1 6LB",
+   "name": "Costa"
+  },
+  "starbucks|LS12JG|starbucks": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288299.4963784,
+   "chain_id": "starbucks",
+   "postcode": "LS1 2JG",
+   "name": "Starbucks"
+  },
+  "greggs|LS16BY|greggs (kirkgate)": {
+   "status": "not_halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786288299.4963868,
+   "chain_id": "greggs",
+   "postcode": "LS1 6BY",
+   "name": "Greggs (Kirkgate)"
+  },
+  "starbucks|LS16LH|starbucks": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288299.496393,
+   "chain_id": "starbucks",
+   "postcode": "LS1 6LH",
+   "name": "Starbucks"
+  },
+  "greggs|LS14JY|greggs  (wellington street)": {
+   "status": "not_halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786288299.4963999,
+   "chain_id": "greggs",
+   "postcode": "LS1 4JY",
+   "name": "Greggs  (Wellington Street)"
+  },
+  "caffe_nero|LS15JW|caffe nero (the headrow)": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288299.4964085,
+   "chain_id": "caffe_nero",
+   "postcode": "LS1 5JW",
+   "name": "Caffe Nero (The Headrow)"
+  },
+  "caffe_nero|LS16LR|caffe nero": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288299.4964147,
+   "chain_id": "caffe_nero",
+   "postcode": "LS1 6LR",
+   "name": "Caffe Nero"
+  },
+  "caffe_nero|LS14DL|caffe nero": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288299.496421,
+   "chain_id": "caffe_nero",
+   "postcode": "LS1 4DL",
+   "name": "Caffe Nero"
+  },
+  "greggs|LS16LR|greggs (the headrow)": {
+   "status": "not_halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786288299.4964306,
+   "chain_id": "greggs",
+   "postcode": "LS1 6LR",
+   "name": "Greggs (The Headrow)"
+  },
+  "costa|LS18EQ|compass (costa coffee - broad gate)": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288299.496437,
+   "chain_id": "costa",
+   "postcode": "LS1 8EQ",
+   "name": "Compass (Costa Coffee - Broad Gate)"
+  },
+  "greggs|LS18EQ|greggs (the light)": {
+   "status": "not_halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786288299.5515609,
+   "chain_id": "greggs",
+   "postcode": "LS1 8EQ",
+   "name": "Greggs (The Light)"
+  },
+  "nandos|LS18TL|nandos (the light)": {
+   "status": "not_halal",
+   "tier": "brand_per_outlet",
+   "stored_at": 1786288299.7245805,
+   "chain_id": "nandos",
+   "postcode": "LS1 8TL",
+   "name": "Nandos (The Light)"
+  },
+  "pret|LS14AP|pret a manger wellington place": {
+   "status": "not_halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786288299.7245991,
+   "chain_id": "pret",
+   "postcode": "LS1 4AP",
+   "name": "Pret A Manger Wellington Place"
+  },
+  "starbucks|LS18TL|starbucks": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288301.388736,
+   "chain_id": "starbucks",
+   "postcode": "LS1 8TL",
+   "name": "Starbucks"
+  },
+  "zizzi|LS18TL|zizzi/coco di mama": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288301.388754,
+   "chain_id": "zizzi",
+   "postcode": "LS1 8TL",
+   "name": "Zizzi/Coco Di Mama"
+  },
+  "greggs|LS28DY|greggs (albion street)": {
+   "status": "not_halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786288301.3887615,
+   "chain_id": "greggs",
+   "postcode": "LS2 8DY",
+   "name": "Greggs (Albion Street)"
+  },
+  "burger_king|LS28LQ|burger king": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288301.3887696,
+   "chain_id": "burger_king",
+   "postcode": "LS2 8LQ",
+   "name": "Burger King"
+  },
+  "caffe_nero|LS17JH|caffe nero": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288301.3887749,
+   "chain_id": "caffe_nero",
+   "postcode": "LS1 7JH",
+   "name": "Caffe Nero"
+  },
+  "caffe_nero|LS14AP|caffe nero": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288301.3887804,
+   "chain_id": "caffe_nero",
+   "postcode": "LS1 4AP",
+   "name": "Caffe Nero"
+  },
+  "subway|LS17JH|subway": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288301.3887885,
+   "chain_id": "subway",
+   "postcode": "LS1 7JH",
+   "name": "Subway"
+  },
+  "taco_bell|LS28LQ|taco bell": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288301.388794,
+   "chain_id": "taco_bell",
+   "postcode": "LS2 8LQ",
+   "name": "Taco Bell"
+  },
+  "mcdonalds|LS28LQ|mcdonalds (st johns centre)": {
+   "status": "not_halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786288301.3887987,
+   "chain_id": "mcdonalds",
+   "postcode": "LS2 8LQ",
+   "name": "McDonalds (St Johns Centre)"
+  },
+  "pret|LS27AR|pret a manger": {
+   "status": "not_halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786288301.3888044,
+   "chain_id": "pret",
+   "postcode": "LS2 7AR",
+   "name": "Pret A Manger"
+  },
+  "kfc|LS28LW|kfc (merrion centre)": {
+   "status": "halal",
+   "tier": "brand_per_outlet",
+   "stored_at": 1786288303.5649729,
+   "chain_id": "kfc",
+   "postcode": "LS2 8LW",
+   "name": "KFC (Merrion Centre)"
+  },
+  "greggs|LS28LW|greggs (merrion street)": {
+   "status": "not_halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786288303.5649865,
+   "chain_id": "greggs",
+   "postcode": "LS2 8LW",
+   "name": "Greggs (Merrion Street)"
+  },
+  "greggs|LS13BB|greggs (great george street)": {
+   "status": "not_halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786288303.5649915,
+   "chain_id": "greggs",
+   "postcode": "LS1 3BB",
+   "name": "Greggs (Great George Street)"
+  },
+  "costa||costa coffee (merrion centre)": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288303.5649962,
+   "chain_id": "costa",
+   "postcode": "",
+   "name": "Costa Coffee (Merrion Centre)"
+  },
+  "dominos|LS28NJ|domino's pizza": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288303.5650008,
+   "chain_id": "dominos",
+   "postcode": "LS2 8NJ",
+   "name": "Domino's Pizza"
+  },
+  "greggs|LS27HU|greggs (central bus station)": {
+   "status": "not_halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786288303.5650043,
+   "chain_id": "greggs",
+   "postcode": "LS2 7HU",
+   "name": "Greggs (Central Bus Station)"
+  },
+  "greggs|LS28NG|greggs plc (merrion centre)": {
+   "status": "not_halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786288303.5650084,
+   "chain_id": "greggs",
+   "postcode": "LS2 8NG",
+   "name": "Greggs PLC (Merrion Centre)"
+  },
+  "burger_king|LS28BT|burger king": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288303.5650125,
+   "chain_id": "burger_king",
+   "postcode": "LS2 8BT",
+   "name": "Burger King"
+  },
+  "caffe_nero|LS13HQ|caffe nero": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288303.5650165,
+   "chain_id": "caffe_nero",
+   "postcode": "LS1 3HQ",
+   "name": "Caffe Nero"
+  },
+  "costa|LS101ET|costa coffee (hunslet)": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288303.5650206,
+   "chain_id": "costa",
+   "postcode": "LS10 1ET",
+   "name": "Costa Coffee (Hunslet)"
+  },
+  "costa|LS28BT|costa ltd": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288303.565033,
+   "chain_id": "costa",
+   "postcode": "LS2 8BT",
+   "name": "Costa Ltd"
+  },
+  "starbucks|LS28BT|starbucks coffee company": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288303.5650284,
+   "chain_id": "starbucks",
+   "postcode": "LS2 8BT",
+   "name": "Starbucks Coffee Company"
+  },
+  "pizza_express|LS28BT|pizzaexpress": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288303.6074648,
+   "chain_id": "pizza_express",
+   "postcode": "LS2 8BT",
+   "name": "PizzaExpress"
+  },
+  "subway|LS101ET|crown point subway": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288304.0448189,
+   "chain_id": "subway",
+   "postcode": "LS10 1ET",
+   "name": "Crown Point Subway"
+  },
+  "starbucks|LS101ET|starbucks coffee company": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288304.0876288,
+   "chain_id": "starbucks",
+   "postcode": "LS10 1ET",
+   "name": "Starbucks Coffee Company"
+  },
+  "caffe_nero|LS13EY|caffe nero": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288304.5194616,
+   "chain_id": "caffe_nero",
+   "postcode": "LS1 3EY",
+   "name": "Caffe Nero"
+  },
+  "subway|LS28AR|subway": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288304.5194802,
+   "chain_id": "subway",
+   "postcode": "LS2 8AR",
+   "name": "Subway"
+  },
+  "caffe_nero||caffe nero": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288304.5194871,
+   "chain_id": "caffe_nero",
+   "postcode": "",
+   "name": "Caffe Nero"
+  },
+  "pizza_express|LS101LU|pizza express": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288305.0217826,
+   "chain_id": "pizza_express",
+   "postcode": "LS10 1LU",
+   "name": "Pizza Express"
+  },
+  "dominos|LS31JG|domino's pizza": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288305.021806,
+   "chain_id": "dominos",
+   "postcode": "LS3 1JG",
+   "name": "Domino's Pizza"
+  },
+  "costa|EH11BB|costa coffee": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288433.3505602,
+   "chain_id": "costa",
+   "postcode": "EH1  1BB",
+   "name": "Costa Coffee"
+  },
+  "pret|EH11BB|pret a manger": {
+   "status": "not_halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786288433.3505833,
+   "chain_id": "pret",
+   "postcode": "EH1 1BB",
+   "name": "Pret a Manger"
+  },
+  "kfc|EH11BQ|kentucky fried chicken": {
+   "status": "not_halal",
+   "tier": "brand_per_outlet",
+   "stored_at": 1786288433.3505929,
+   "chain_id": "kfc",
+   "postcode": "EH1 1BQ",
+   "name": "Kentucky Fried Chicken"
+  },
+  "starbucks|EH11BQ|starbucks": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288433.3506014,
+   "chain_id": "starbucks",
+   "postcode": "EH1 1BQ",
+   "name": "Starbucks"
+  },
+  "subway|EH11BQ|subway": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288434.5445342,
+   "chain_id": "subway",
+   "postcode": "EH1 1BQ",
+   "name": "Subway"
+  },
+  "burger_king|EH11BQ|burger king": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288434.5445561,
+   "chain_id": "burger_king",
+   "postcode": "EH1  1BQ",
+   "name": "Burger King"
+  },
+  "chopstix|EH11BQ|chopstix noodle bar": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288434.5445657,
+   "chain_id": "chopstix",
+   "postcode": "EH1 1BQ",
+   "name": "Chopstix Noodle Bar"
+  },
+  "costa|EH11BQ|costa coffee": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288434.5445826,
+   "chain_id": "costa",
+   "postcode": "EH1 1BQ",
+   "name": "Costa Coffee"
+  },
+  "gdk|EH11BQ|german doner kebabs": {
+   "status": "halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786288434.5445914,
+   "chain_id": "gdk",
+   "postcode": "EH1 1BQ",
+   "name": "German Doner Kebabs"
+  },
+  "mcdonalds|EH11BQ|mcdonald's": {
+   "status": "not_halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786288434.9822776,
+   "chain_id": "mcdonalds",
+   "postcode": "EH1 1BQ",
+   "name": "McDonald's"
+  },
+  "caffe_nero|EH11BQ|caffe nero": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288434.9823,
+   "chain_id": "caffe_nero",
+   "postcode": "EH1 1BQ",
+   "name": "Caffe Nero"
+  },
+  "greggs|EH11BQ|greggs of scotland": {
+   "status": "not_halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786288434.9823086,
+   "chain_id": "greggs",
+   "postcode": "EH1 1BQ",
+   "name": "Greggs of Scotland"
+  },
+  "pret|EH11QG|pret a manger": {
+   "status": "not_halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786288434.9823172,
+   "chain_id": "pret",
+   "postcode": "EH1 1QG",
+   "name": "Pret A Manger"
+  },
+  "mcdonalds|EH22AU|mcdonalds": {
+   "status": "not_halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786288435.5479307,
+   "chain_id": "mcdonalds",
+   "postcode": "EH2 2AU",
+   "name": "McDonalds"
+  },
+  "kfc|EH22AU|kentucky fried chicken": {
+   "status": "halal",
+   "tier": "brand_per_outlet",
+   "stored_at": 1786288435.54795,
+   "chain_id": "kfc",
+   "postcode": "EH2 2AU",
+   "name": "Kentucky Fried Chicken"
+  },
+  "pizza_express|EH11SB|pizzaexpress": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288435.5479596,
+   "chain_id": "pizza_express",
+   "postcode": "EH1 1SB",
+   "name": "PizzaExpress"
+  },
+  "wagamama|EH22BD|wagamama": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288435.5479681,
+   "chain_id": "wagamama",
+   "postcode": "EH2 2BD",
+   "name": "Wagamama"
+  },
+  "krispy_kreme|EH13AE|krispy kreme": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288436.171388,
+   "chain_id": "krispy_kreme",
+   "postcode": "EH1 3AE",
+   "name": "Krispy Kreme"
+  },
+  "starbucks|EH11QS|starbucks coffee": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288436.1714096,
+   "chain_id": "starbucks",
+   "postcode": "EH1 1QS",
+   "name": "STARBUCKS COFFEE"
+  },
+  "costa|EH22AD|costa coffee": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288436.1714196,
+   "chain_id": "costa",
+   "postcode": "EH2 2AD",
+   "name": "Costa Coffee"
+  },
+  "starbucks|EH13AT|starbucks": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288436.1714287,
+   "chain_id": "starbucks",
+   "postcode": "EH1 3AT",
+   "name": "Starbucks"
+  },
+  "subway|EH11LL|subway sandwiches": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288436.1714387,
+   "chain_id": "subway",
+   "postcode": "EH1 1LL",
+   "name": "Subway Sandwiches"
+  },
+  "wingstop|EH13SR|wingstop": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288436.171448,
+   "chain_id": "wingstop",
+   "postcode": "EH1 3SR",
+   "name": "Wingstop"
+  },
+  "caffe_nero|EH11RW|caffe nero": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288436.1714642,
+   "chain_id": "caffe_nero",
+   "postcode": "EH1 1RW",
+   "name": "Caffe Nero"
+  },
+  "starbucks|EH13SS|starbucks": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288436.1714714,
+   "chain_id": "starbucks",
+   "postcode": "EH1 3SS",
+   "name": "Starbucks"
+  },
+  "five_guys|EH13SR|five guys": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288436.1714783,
+   "chain_id": "five_guys",
+   "postcode": "EH1 3SR",
+   "name": "Five Guys"
+  },
+  "tortilla|EH13AD|tortilla": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288436.1714857,
+   "chain_id": "tortilla",
+   "postcode": "EH1 3AD",
+   "name": "Tortilla"
+  },
+  "gdk|EH13AD|german doner kebab": {
+   "status": "halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786288436.1714933,
+   "chain_id": "gdk",
+   "postcode": "EH1 3AD",
+   "name": "German Doner Kebab"
+  },
+  "costa|EH11HN|costa coffee": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288436.1715002,
+   "chain_id": "costa",
+   "postcode": "EH1 1HN",
+   "name": "Costa Coffee"
+  },
+  "caffe_nero|EH13DQ|caffe nero": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288436.1715071,
+   "chain_id": "caffe_nero",
+   "postcode": "EH1 3DQ",
+   "name": "Caffe Nero"
+  },
+  "costa|EH88FR|costa coffee": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288436.171513,
+   "chain_id": "costa",
+   "postcode": "EH8 8FR",
+   "name": "Costa Coffee"
+  },
+  "greggs|EH11LL|greggs of edinburgh": {
+   "status": "not_halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786288436.5066936,
+   "chain_id": "greggs",
+   "postcode": "EH1  1LL",
+   "name": "GREGGS OF EDINBURGH"
+  },
+  "pret|EH22PJ|pret a manger": {
+   "status": "not_halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786288436.506732,
+   "chain_id": "pret",
+   "postcode": "EH2 2PJ",
+   "name": "Pret A Manger"
+  },
+  "pizza_express|EH12JL|pizzaexpress": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288436.5067413,
+   "chain_id": "pizza_express",
+   "postcode": "EH1 2JL",
+   "name": "PizzaExpress"
+  },
+  "pizza_hut|EH22DR|pizza hut restaurant - dine in": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288436.5067477,
+   "chain_id": "pizza_hut",
+   "postcode": "EH2 2DR",
+   "name": "Pizza Hut Restaurant - Dine In"
+  },
+  "starbucks|EH22PA|starbucks coffee": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288436.5067534,
+   "chain_id": "starbucks",
+   "postcode": "EH2  2PA",
+   "name": "STARBUCKS COFFEE"
+  },
+  "costa|EH22ER|costa coffee": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288436.5067587,
+   "chain_id": "costa",
+   "postcode": "EH2 2ER",
+   "name": "Costa Coffee"
+  },
+  "nandos|EH11HU|nando's": {
+   "status": "not_halal",
+   "tier": "brand_per_outlet",
+   "stored_at": 1786288436.5067654,
+   "chain_id": "nandos",
+   "postcode": "EH1 1HU",
+   "name": "Nando's"
+  },
+  "burger_king|EH22ER|burger king": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288436.5067704,
+   "chain_id": "burger_king",
+   "postcode": "EH2 2ER",
+   "name": "Burger King"
+  },
+  "caffe_nero|EH11LS|caffe nero": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288436.5067763,
+   "chain_id": "caffe_nero",
+   "postcode": "EH1  1LS",
+   "name": "Caffe Nero"
+  },
+  "nandos|EH13AU|nando's": {
+   "status": "not_halal",
+   "tier": "brand_per_outlet",
+   "stored_at": 1786288436.5067816,
+   "chain_id": "nandos",
+   "postcode": "EH1 3AU",
+   "name": "Nando's"
+  },
+  "taco_bell|EH13JT|taco bell": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288436.5067863,
+   "chain_id": "taco_bell",
+   "postcode": "EH1 3JT",
+   "name": "Taco Bell"
+  },
+  "pepes_piri_piri|EH11LS|pepes piri piri": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288437.1070247,
+   "chain_id": "pepes_piri_piri",
+   "postcode": "EH1 1LS",
+   "name": "Pepes Piri Piri"
+  },
+  "subway|EH12QH|subway": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288437.1070447,
+   "chain_id": "subway",
+   "postcode": "EH1 2QH",
+   "name": "Subway"
+  },
+  "five_guys|EH22HB|five guys": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288437.1070535,
+   "chain_id": "five_guys",
+   "postcode": "EH2 2HB",
+   "name": "Five Guys"
+  },
+  "tortilla|EH12QN|tortilla mexican grill": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288437.1070611,
+   "chain_id": "tortilla",
+   "postcode": "EH1 2QN",
+   "name": "Tortilla Mexican Grill"
+  },
+  "greggs|EH12QP|greggs": {
+   "status": "not_halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786288437.10707,
+   "chain_id": "greggs",
+   "postcode": "EH1 2QP",
+   "name": "GREGGS"
+  },
+  "kfc|EH89DT|kentucky fried chicken": {
+   "status": "not_halal",
+   "tier": "brand_per_outlet",
+   "stored_at": 1786288437.1070776,
+   "chain_id": "kfc",
+   "postcode": "EH8 9DT",
+   "name": "Kentucky Fried Chicken"
+  },
+  "starbucks|EH23DF|starbucks coffee": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288437.1070857,
+   "chain_id": "starbucks",
+   "postcode": "EH2 3DF",
+   "name": "STARBUCKS COFFEE"
+  },
+  "costa|EH23AH|costa coffee": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288437.4450119,
+   "chain_id": "costa",
+   "postcode": "EH2 3AH",
+   "name": "Costa Coffee"
+  },
+  "greggs|EH23AH|greggs": {
+   "status": "not_halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786288438.2231915,
+   "chain_id": "greggs",
+   "postcode": "EH2 3AH",
+   "name": "Greggs"
+  },
+  "pret|EH23DN|pret a manger": {
+   "status": "not_halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786288438.2232106,
+   "chain_id": "pret",
+   "postcode": "EH2 3DN",
+   "name": "Pret A Manger"
+  },
+  "starbucks|EH24AA|starbucks": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288438.2232182,
+   "chain_id": "starbucks",
+   "postcode": "EH2 4AA",
+   "name": "Starbucks"
+  },
+  "greggs|EH89DT|greggs": {
+   "status": "not_halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786288438.3782904,
+   "chain_id": "greggs",
+   "postcode": "EH8 9DT",
+   "name": "Greggs"
+  },
+  "caffe_nero|EH89BY|caffe nero": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288438.665839,
+   "chain_id": "caffe_nero",
+   "postcode": "EH8 9BY",
+   "name": "Caffe Nero"
+  },
+  "dominos|EH89BY|domino's pizzas": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288438.6658587,
+   "chain_id": "dominos",
+   "postcode": "EH8 9BY",
+   "name": "Domino's Pizzas"
+  },
+  "greggs|EH74AA|greggs of edinburgh": {
+   "status": "not_halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786288438.665866,
+   "chain_id": "greggs",
+   "postcode": "EH7 4AA",
+   "name": "GREGGS OF EDINBURGH"
+  },
+  "starbucks|EH39GG|starbucks": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288438.994113,
+   "chain_id": "starbucks",
+   "postcode": "EH3  9GG",
+   "name": "Starbucks"
+  },
+  "caffe_nero|EH39GL|caffe nero": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288438.994136,
+   "chain_id": "caffe_nero",
+   "postcode": "EH3 9GL",
+   "name": "Caffe Nero"
+  },
+  "popeyes|EH24AH|popeyes": {
+   "status": "halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786288439.229449,
+   "chain_id": "popeyes",
+   "postcode": "EH2 4AH",
+   "name": "Popeyes"
+  },
+  "kfc|EH24AN|kentucky fried chicken": {
+   "status": "not_halal",
+   "tier": "brand_per_outlet",
+   "stored_at": 1786288439.2294688,
+   "chain_id": "kfc",
+   "postcode": "EH2 4AN",
+   "name": "Kentucky Fried Chicken"
+  },
+  "starbucks|EH89EH|starbucks": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288439.3580163,
+   "chain_id": "starbucks",
+   "postcode": "EH8 9EH",
+   "name": "Starbucks"
+  },
+  "pepes_piri_piri|EH74AH|pepe's piri piri": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288439.542781,
+   "chain_id": "pepes_piri_piri",
+   "postcode": "EH7 4AH",
+   "name": "Pepe's Piri Piri"
+  },
+  "pret|EH24BL|pret a manger": {
+   "status": "not_halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786288439.8578312,
+   "chain_id": "pret",
+   "postcode": "EH2 4BL",
+   "name": "Pret A Manger"
+  },
+  "wagamama|EH12DP|wagamama": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288439.8578498,
+   "chain_id": "wagamama",
+   "postcode": "EH1 2DP",
+   "name": "Wagamama"
+  },
+  "mcdonalds|EH24BL|mcdonald's": {
+   "status": "not_halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786288439.926962,
+   "chain_id": "mcdonalds",
+   "postcode": "EH2 4BL",
+   "name": "McDonald's"
+  },
+  "caffe_nero|EH12DJ|caffe nero": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288440.2093942,
+   "chain_id": "caffe_nero",
+   "postcode": "EH1 2DJ",
+   "name": "Caffe Nero"
+  },
+  "gdk|EH39AW|german doner kebabs": {
+   "status": "halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786288440.429597,
+   "chain_id": "gdk",
+   "postcode": "EH3 9AW",
+   "name": "German Doner Kebabs"
+  },
+  "zizzi|EH24RA|zizzi": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288440.429623,
+   "chain_id": "zizzi",
+   "postcode": "EH2 4RA",
+   "name": "Zizzi"
+  },
+  "greggs|EH24RN|greggs": {
+   "status": "not_halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786288440.43084,
+   "chain_id": "greggs",
+   "postcode": "EH2 4RN",
+   "name": "Greggs"
+  },
+  "pret|EH39BE|pret a manger": {
+   "status": "not_halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786288441.101988,
+   "chain_id": "pret",
+   "postcode": "EH3 9BE",
+   "name": "Pret A Manger"
+  },
+  "ask_italian|EH24RG|ask italian restaurant": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288441.1020083,
+   "chain_id": "ask_italian",
+   "postcode": "EH2 4RG",
+   "name": "ASK Italian Restaurant"
+  },
+  "pepes_piri_piri|EH39BE|pepes piri piri": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288441.4317691,
+   "chain_id": "pepes_piri_piri",
+   "postcode": "EH3 9BE",
+   "name": "Pepes Piri Piri"
+  },
+  "taco_bell|EH24RG|taco bell": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288441.4317865,
+   "chain_id": "taco_bell",
+   "postcode": "EH2 4RG",
+   "name": "Taco Bell"
+  },
+  "subway|EH39BG|subway": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288442.1253061,
+   "chain_id": "subway",
+   "postcode": "EH3 9BG",
+   "name": "Subway"
+  },
+  "pizza_express|EH24QS|pizzaexpress": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288442.1253233,
+   "chain_id": "pizza_express",
+   "postcode": "EH2 4QS",
+   "name": "PizzaExpress"
+  },
+  "greggs|EH39BG|greggs": {
+   "status": "not_halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786288442.1253304,
+   "chain_id": "greggs",
+   "postcode": "EH3 9BG",
+   "name": "Greggs"
+  },
+  "greggs|EH39BG|greggs plc": {
+   "status": "not_halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786288442.1253366,
+   "chain_id": "greggs",
+   "postcode": "EH3 9BG",
+   "name": "Greggs PLC"
+  },
+  "starbucks|EH36SY|starbucks coffee": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288442.5923312,
+   "chain_id": "starbucks",
+   "postcode": "EH3 6SY",
+   "name": "STARBUCKS COFFEE"
+  },
+  "starbucks|EH24RT|starbucks": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288442.5923514,
+   "chain_id": "starbucks",
+   "postcode": "EH2 4RT",
+   "name": "Starbucks"
+  },
+  "greggs|EH89JD|greggs": {
+   "status": "not_halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786288442.8852074,
+   "chain_id": "greggs",
+   "postcode": "EH8 9JD",
+   "name": "GREGGS"
+  },
+  "caffe_nero|EH36SZ|caffe nero": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288443.1168091,
+   "chain_id": "caffe_nero",
+   "postcode": "EH3 6SZ",
+   "name": "Caffe Nero"
+  },
+  "subway|EH39LZ|subway": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288443.368591,
+   "chain_id": "subway",
+   "postcode": "EH3 9LZ",
+   "name": "Subway"
+  },
+  "yo_to_go|EH74EW|yo! to go!": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288443.5634964,
+   "chain_id": "yo_to_go",
+   "postcode": "EH7 4EW",
+   "name": "Yo! To Go!"
+  },
+  "caffe_nero|EH37AU|caffe nero": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288443.7615523,
+   "chain_id": "caffe_nero",
+   "postcode": "EH3 7AU",
+   "name": "Caffe Nero"
+  },
+  "costa|EH74EW|costa coffee @ tesco": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288444.0191705,
+   "chain_id": "costa",
+   "postcode": "EH7 4EW",
+   "name": "Costa Coffee @ Tesco"
+  },
+  "pret|EH74FQ|pret a manger": {
+   "status": "not_halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786288444.3174691,
+   "chain_id": "pret",
+   "postcode": "EH7 4FQ",
+   "name": "Pret A Manger"
+  },
+  "starbucks|EH74PA|starbucks": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288444.6184652,
+   "chain_id": "starbucks",
+   "postcode": "EH7 4PA",
+   "name": "Starbucks"
+  },
+  "papa_johns|EH89PR|papa johns": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288444.67269,
+   "chain_id": "papa_johns",
+   "postcode": "EH8 9PR",
+   "name": "Papa Johns"
+  },
+  "pepes_piri_piri|EH39NB|pepe's piri piri": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288446.5641675,
+   "chain_id": "pepes_piri_piri",
+   "postcode": "EH3 9NB",
+   "name": "Pepe's Piri Piri"
+  },
+  "greggs|EH75RH|greggs of edinburgh": {
+   "status": "not_halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786288446.5641901,
+   "chain_id": "greggs",
+   "postcode": "EH7 5RH",
+   "name": "Greggs Of Edinburgh"
+  },
+  "dominos|EH41HU|domino's pizzas": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288446.5641985,
+   "chain_id": "dominos",
+   "postcode": "EH4 1HU",
+   "name": "Domino's Pizzas"
+  },
+  "subway|EH41HU|subway": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288446.5642068,
+   "chain_id": "subway",
+   "postcode": "EH4 1HU",
+   "name": "Subway"
+  },
+  "greggs|EH41HU|greggs of edinburgh": {
+   "status": "not_halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786288446.564214,
+   "chain_id": "greggs",
+   "postcode": "EH4 1HU",
+   "name": "Greggs of Edinburgh"
+  },
+  "costa|EH41HL|costa coffee": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288446.5642211,
+   "chain_id": "costa",
+   "postcode": "EH4  1HL",
+   "name": "Costa Coffee"
+  },
+  "miller_carter|BS15TA|miller & carter steakhouse & restaurant": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288533.9716666,
+   "chain_id": "miller_carter",
+   "postcode": "BS1 5TA",
+   "name": "Miller & Carter Steakhouse & Restaurant"
+  },
+  "starbucks|BS14UL|starbucks coffee": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288534.2426004,
+   "chain_id": "starbucks",
+   "postcode": "BS1 4UL",
+   "name": "Starbucks Coffee"
+  },
+  "pizza_express|BS15TY|pizza express limited": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288534.2426183,
+   "chain_id": "pizza_express",
+   "postcode": "BS1 5TY",
+   "name": "Pizza Express Limited"
+  },
+  "costa|BS15LW|costa coffee": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288534.2426257,
+   "chain_id": "costa",
+   "postcode": "BS1 5LW",
+   "name": "Costa Coffee"
+  },
+  "nandos|BS15NT|nando's chickenland limited": {
+   "status": "not_halal",
+   "tier": "brand_per_outlet",
+   "stored_at": 1786288534.4079974,
+   "chain_id": "nandos",
+   "postcode": "BS1 5NT",
+   "name": "Nando's Chickenland Limited"
+  },
+  "kfc|BS12DF|kfc bristol union street": {
+   "status": "halal",
+   "tier": "brand_per_outlet",
+   "stored_at": 1786288535.6292257,
+   "chain_id": "kfc",
+   "postcode": "BS1 2DF",
+   "name": "KFC Bristol Union Street"
+  },
+  "subway|BS16AH|subway": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288538.484579,
+   "chain_id": "subway",
+   "postcode": "BS1 6AH",
+   "name": "Subway"
+  },
+  "costa|BS81QE|costa": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288538.4846115,
+   "chain_id": "costa",
+   "postcode": "BS8 1QE",
+   "name": "Costa"
+  },
+  "chopstix|BS13DT|chopstix noodle bar": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288538.4846222,
+   "chain_id": "chopstix",
+   "postcode": "BS1 3DT",
+   "name": "Chopstix Noodle bar"
+  },
+  "pret|BS81QE|pret a manger": {
+   "status": "not_halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786288538.6029866,
+   "chain_id": "pret",
+   "postcode": "BS8 1QE",
+   "name": "Pret a Manger"
+  },
+  "burger_king|BS13XE|burger king": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288538.6030085,
+   "chain_id": "burger_king",
+   "postcode": "BS1 3XE",
+   "name": "Burger King"
+  },
+  "caffe_nero|BS13XD|caffe nero": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288538.6030183,
+   "chain_id": "caffe_nero",
+   "postcode": "BS1 3XD",
+   "name": "Caffe Nero"
+  },
+  "popeyes|BS12DL|popeyes": {
+   "status": "halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786288538.6030269,
+   "chain_id": "popeyes",
+   "postcode": "BS1 2DL",
+   "name": "Popeyes"
+  },
+  "greggs|BS13XD|greggs": {
+   "status": "not_halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786288539.2585588,
+   "chain_id": "greggs",
+   "postcode": "BS1 3XD",
+   "name": "Greggs"
+  },
+  "coffee_1|BS12DL|coffee#1 ltd": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288540.2211502,
+   "chain_id": "coffee_1",
+   "postcode": "BS1 2DL",
+   "name": "Coffee#1 Ltd"
+  },
+  "greggs|BS13DR|greggs plc": {
+   "status": "not_halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786288540.2211735,
+   "chain_id": "greggs",
+   "postcode": "BS1 3DR",
+   "name": "Greggs PLC"
+  },
+  "greggs|BS13BB|greggs plc": {
+   "status": "not_halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786288540.221182,
+   "chain_id": "greggs",
+   "postcode": "BS1 3BB",
+   "name": "Greggs PLC"
+  },
+  "costa|BS28HW|costa coffee for compass group": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288540.2211907,
+   "chain_id": "costa",
+   "postcode": "BS2 8HW",
+   "name": "Costa Coffee for Compass Group"
+  },
+  "greggs|BS13LH|greggs bakery": {
+   "status": "not_halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786288540.221199,
+   "chain_id": "greggs",
+   "postcode": "BS1 3LH",
+   "name": "Greggs Bakery"
+  },
+  "burger_king|BS13JE|burger king": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288540.2212076,
+   "chain_id": "burger_king",
+   "postcode": "BS1 3JE",
+   "name": "Burger King"
+  },
+  "five_guys|BS81QL|five guys": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288540.221215,
+   "chain_id": "five_guys",
+   "postcode": "BS8 1QL",
+   "name": "Five Guys"
+  },
+  "dominos|BS34HL|domino's pizza": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288540.2212648,
+   "chain_id": "dominos",
+   "postcode": "BS3 4HL",
+   "name": "Domino's Pizza"
+  },
+  "greggs|BS34JY|greggs": {
+   "status": "not_halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786288540.2212722,
+   "chain_id": "greggs",
+   "postcode": "BS3 4JY",
+   "name": "Greggs"
+  },
+  "mcdonalds|BS34JY|mcdonalds": {
+   "status": "not_halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786288540.2212803,
+   "chain_id": "mcdonalds",
+   "postcode": "BS3 4JY",
+   "name": "McDonalds"
+  },
+  "taco_bell|BS81RE|taco bell": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288540.2212875,
+   "chain_id": "taco_bell",
+   "postcode": "BS8 1RE",
+   "name": "Taco Bell"
+  },
+  "subway|BS81QU|subway": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288540.2212954,
+   "chain_id": "subway",
+   "postcode": "BS8 1QU",
+   "name": "Subway"
+  },
+  "caffe_nero|BS81QU|caffe nero": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288540.2213025,
+   "chain_id": "caffe_nero",
+   "postcode": "BS8 1QU",
+   "name": "Caffe Nero"
+  },
+  "itsu|BS13HH|itsu": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288540.2213106,
+   "chain_id": "itsu",
+   "postcode": "BS1 3HH",
+   "name": "ITSU"
+  },
+  "subway|BS28NY|subway": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288540.221318,
+   "chain_id": "subway",
+   "postcode": "BS2 8NY",
+   "name": "Subway"
+  },
+  "greggs|BS16DG|greggs plc": {
+   "status": "not_halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786288540.2213242,
+   "chain_id": "greggs",
+   "postcode": "BS1 6DG",
+   "name": "Greggs PLC"
+  },
+  "mcdonalds|BS13JR|mcdonalds restaurants limited": {
+   "status": "not_halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786288540.221331,
+   "chain_id": "mcdonalds",
+   "postcode": "BS1 3JR",
+   "name": "McDonalds Restaurants Limited"
+  },
+  "starbucks|BS16DG|starbucks coffee": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288540.2213378,
+   "chain_id": "starbucks",
+   "postcode": "BS1 6DG",
+   "name": "Starbucks Coffee"
+  },
+  "kfc|BS13BQ|kfc - bristol cabot circus": {
+   "status": "not_halal",
+   "tier": "brand_per_outlet",
+   "stored_at": 1786288540.2213452,
+   "chain_id": "kfc",
+   "postcode": "BS1 3BQ",
+   "name": "KFC - Bristol Cabot Circus"
+  },
+  "pizza_express|BS13BQ|pizza express": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288540.2213533,
+   "chain_id": "pizza_express",
+   "postcode": "BS1 3BQ",
+   "name": "Pizza Express"
+  },
+  "wingstop|BS13BA|wingstop": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288540.221361,
+   "chain_id": "wingstop",
+   "postcode": "BS1 3BA",
+   "name": "Wingstop"
+  },
+  "krispy_kreme|BS13BA|krispy kreme": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288540.221367,
+   "chain_id": "krispy_kreme",
+   "postcode": "BS1 3BA",
+   "name": "Krispy Kreme"
+  },
+  "greggs|BS34JD|greggs": {
+   "status": "not_halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786288540.221374,
+   "chain_id": "greggs",
+   "postcode": "BS3 4JD",
+   "name": "Greggs"
+  },
+  "gdk|BS13BX|german doner kebab": {
+   "status": "halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786288540.2213812,
+   "chain_id": "gdk",
+   "postcode": "BS1 3BX",
+   "name": "German Doner Kebab"
+  },
+  "tortilla|BS13BF|tortilla": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288540.2213879,
+   "chain_id": "tortilla",
+   "postcode": "BS1 3BF",
+   "name": "Tortilla"
+  },
+  "nandos|BS13BX|nandos": {
+   "status": "not_halal",
+   "tier": "brand_per_outlet",
+   "stored_at": 1786288540.2213948,
+   "chain_id": "nandos",
+   "postcode": "BS1 3BX",
+   "name": "Nandos"
+  },
+  "slim_chickens|BS13BX|slim chickens": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288540.221402,
+   "chain_id": "slim_chickens",
+   "postcode": "BS1 3BX",
+   "name": "Slim Chickens"
+  },
+  "wagamama|BS13BX|wagamama": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288540.2279847,
+   "chain_id": "wagamama",
+   "postcode": "BS1 3BX",
+   "name": "Wagamama"
+  },
+  "zizzi|BS13BX|zizzi ristorante": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288541.0272238,
+   "chain_id": "zizzi",
+   "postcode": "BS1 3BX",
+   "name": "Zizzi Ristorante"
+  },
+  "frankie_bennys|BS13BX|frankie & benny's": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288541.1385195,
+   "chain_id": "frankie_bennys",
+   "postcode": "BS1 3BX",
+   "name": "Frankie & Benny's"
+  },
+  "gails|BS84HG|gail's clifton village": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288541.138541,
+   "chain_id": "gails",
+   "postcode": "BS8 4HG",
+   "name": "GAIL's Clifton Village"
+  },
+  "mcdonalds|BS34EG|mcdonalds": {
+   "status": "not_halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786288541.1385481,
+   "chain_id": "mcdonalds",
+   "postcode": "BS3 4EG",
+   "name": "McDonalds"
+  },
+  "pizza_hut|BS31JN|pizza hut delivery": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288541.138556,
+   "chain_id": "pizza_hut",
+   "postcode": "BS3 1JN",
+   "name": "Pizza Hut Delivery"
+  },
+  "coffee_1|BS31JN|coffee # 1": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288541.2615514,
+   "chain_id": "coffee_1",
+   "postcode": "BS3 1JN",
+   "name": "Coffee # 1"
+  },
+  "caffe_nero|BS82NS|caff\u00e8 nero": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288541.8516188,
+   "chain_id": "caffe_nero",
+   "postcode": "BS8 2NS",
+   "name": "Caff\u00e8 Nero"
+  },
+  "caffe_nero|NG16HL|caffe nero": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288566.7734027,
+   "chain_id": "caffe_nero",
+   "postcode": "NG1 6HL",
+   "name": "Caffe Nero"
+  },
+  "nandos|NG16HL|nando's": {
+   "status": "not_halal",
+   "tier": "brand_per_outlet",
+   "stored_at": 1786288566.7734222,
+   "chain_id": "nandos",
+   "postcode": "NG1 6HL",
+   "name": "Nando's"
+  },
+  "taco_bell|NG16HL|taco bell": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288567.549951,
+   "chain_id": "taco_bell",
+   "postcode": "NG1 6HL",
+   "name": "Taco Bell"
+  },
+  "pepes_piri_piri|NG16JE|pepe's piri piri": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288570.663126,
+   "chain_id": "pepes_piri_piri",
+   "postcode": "NG1 6JE",
+   "name": "Pepe's Piri Piri"
+  },
+  "kfc|NG16JB|kfc": {
+   "status": "not_halal",
+   "tier": "brand_per_outlet",
+   "stored_at": 1786288570.6631472,
+   "chain_id": "kfc",
+   "postcode": "NG1 6JB",
+   "name": "KFC"
+  },
+  "caffe_nero|NG12NB|caffe nero": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288570.6631553,
+   "chain_id": "caffe_nero",
+   "postcode": "NG1 2NB",
+   "name": "Caffe Nero"
+  },
+  "starbucks|NG12JS|starbucks coffee": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288572.1890297,
+   "chain_id": "starbucks",
+   "postcode": "NG1 2JS",
+   "name": "Starbucks Coffee"
+  },
+  "subway||subway": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288572.8074882,
+   "chain_id": "subway",
+   "postcode": "",
+   "name": "Subway"
+  },
+  "five_guys|NG12DR|five guys burger restaurant": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288572.18908,
+   "chain_id": "five_guys",
+   "postcode": "NG1 2DR",
+   "name": "Five Guys Burger Restaurant"
+  },
+  "slim_chickens|NG12DR|slim chickens": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288572.1890922,
+   "chain_id": "slim_chickens",
+   "postcode": "NG1 2DR",
+   "name": "Slim Chickens"
+  },
+  "burger_king|NG12NX|burger king": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288572.1891005,
+   "chain_id": "burger_king",
+   "postcode": "NG1 2NX",
+   "name": "Burger King"
+  },
+  "wingstop|NG12NX|wingstop uk": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288572.1891096,
+   "chain_id": "wingstop",
+   "postcode": "NG1 2NX",
+   "name": "Wingstop UK"
+  },
+  "costa|NG15JS|costa ltd": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288572.1891177,
+   "chain_id": "costa",
+   "postcode": "NG1 5JS",
+   "name": "Costa Ltd"
+  },
+  "pizza_express|NG12AS|pizza express": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288572.1891258,
+   "chain_id": "pizza_express",
+   "postcode": "NG1 2AS",
+   "name": "Pizza Express"
+  },
+  "zizzi|NG12AS|zizzi nottingham": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288572.1891341,
+   "chain_id": "zizzi",
+   "postcode": "NG1 2AS",
+   "name": "Zizzi Nottingham"
+  },
+  "gdk|NG12AG|german doner kebab": {
+   "status": "halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786288572.189142,
+   "chain_id": "gdk",
+   "postcode": "NG1 2AG",
+   "name": "German Doner Kebab"
+  },
+  "costa|NG12DZ|costa ltd": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288572.18915,
+   "chain_id": "costa",
+   "postcode": "NG1 2DZ",
+   "name": "Costa Ltd"
+  },
+  "pret|NG12ET|pret a manger": {
+   "status": "not_halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786288572.1891637,
+   "chain_id": "pret",
+   "postcode": "NG1 2ET",
+   "name": "Pret A Manger"
+  },
+  "wingstop|NG14DB|wingstop": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288572.1891742,
+   "chain_id": "wingstop",
+   "postcode": "NG1 4DB",
+   "name": "Wingstop"
+  },
+  "subway|NG14DB|subway": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288572.189182,
+   "chain_id": "subway",
+   "postcode": "NG1 4DB",
+   "name": "Subway"
+  },
+  "nandos|NG14DB|nando's chickenland ltd": {
+   "status": "halal",
+   "tier": "brand_per_outlet",
+   "stored_at": 1786288572.1899743,
+   "chain_id": "nandos",
+   "postcode": "NG1 4DB",
+   "name": "Nando's Chickenland Ltd"
+  },
+  "wagamama|NG14DB|wagamama": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288572.8074222,
+   "chain_id": "wagamama",
+   "postcode": "NG1 4DB",
+   "name": "Wagamama"
+  },
+  "coffee_1|NG17FH|coffee#1": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288572.8074448,
+   "chain_id": "coffee_1",
+   "postcode": "NG1 7FH",
+   "name": "Coffee#1"
+  },
+  "greggs|NG13GA|greggs": {
+   "status": "not_halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786288572.8074548,
+   "chain_id": "greggs",
+   "postcode": "NG1 3GA",
+   "name": "Greggs"
+  },
+  "popeyes|NG12AD|popeyes": {
+   "status": "halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786288572.8074632,
+   "chain_id": "popeyes",
+   "postcode": "NG1 2AD",
+   "name": "Popeyes"
+  },
+  "yo_sushi|NG12GB|yo sushi": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288572.807472,
+   "chain_id": "yo_sushi",
+   "postcode": "NG1 2GB",
+   "name": "Yo Sushi"
+  },
+  "kfc|NG13EN|kfc milton street": {
+   "status": "not_halal",
+   "tier": "brand_per_outlet",
+   "stored_at": 1786288572.8074794,
+   "chain_id": "kfc",
+   "postcode": "NG1 3EN",
+   "name": "KFC Milton Street"
+  },
+  "costa||costa ltd": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288572.807498,
+   "chain_id": "costa",
+   "postcode": "",
+   "name": "Costa Ltd"
+  },
+  "mcdonalds||mcdonalds": {
+   "status": "not_halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786288572.8075075,
+   "chain_id": "mcdonalds",
+   "postcode": "",
+   "name": "McDonalds"
+  },
+  "starbucks|NG23AJ|starbucks": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288572.8075151,
+   "chain_id": "starbucks",
+   "postcode": "NG2 3AJ",
+   "name": "Starbucks"
+  },
+  "mcdonalds|NG13QF|mcdonalds restaurants": {
+   "status": "not_halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786288572.8075223,
+   "chain_id": "mcdonalds",
+   "postcode": "NG1 3QF",
+   "name": "McDonalds Restaurants"
+  },
+  "starbucks|NG13QP|starbucks": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288572.8075292,
+   "chain_id": "starbucks",
+   "postcode": "NG1 3QP",
+   "name": "Starbucks"
+  },
+  "taco_bell|NG13QF|taco bell": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288572.807536,
+   "chain_id": "taco_bell",
+   "postcode": "NG1 3QF",
+   "name": "Taco Bell"
+  },
+  "tortilla|NG13QF|tortilla": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288572.8075435,
+   "chain_id": "tortilla",
+   "postcode": "NG1 3QF",
+   "name": "Tortilla"
+  },
+  "pret|NG23AQ|pret a manger": {
+   "status": "not_halal",
+   "tier": "brand_chain_wide",
+   "stored_at": 1786288572.8075502,
+   "chain_id": "pret",
+   "postcode": "NG2 3AQ",
+   "name": "Pret A Manger"
+  },
+  "costa|NG23AQ|costa": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288572.8075569,
+   "chain_id": "costa",
+   "postcode": "NG2 3AQ",
+   "name": "Costa"
+  },
+  "krispy_kreme|NG13QE|krispy kreme nottingham": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288572.8075638,
+   "chain_id": "krispy_kreme",
+   "postcode": "NG1 3QE",
+   "name": "Krispy Kreme Nottingham"
+  },
+  "papa_johns|NG73JL|papa johns": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288572.8075712,
+   "chain_id": "papa_johns",
+   "postcode": "NG7 3JL",
+   "name": "Papa Johns"
+  },
+  "yo_to_go|NG13QE|yo! to go!": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288572.807578,
+   "chain_id": "yo_to_go",
+   "postcode": "NG1 3QE",
+   "name": "Yo! To Go!"
+  },
+  "starbucks|NG21AL|starbucks": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288573.0200584,
+   "chain_id": "starbucks",
+   "postcode": "NG2 1AL",
+   "name": "Starbucks"
+  },
+  "costa|NG71GX|costa": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288573.3553216,
+   "chain_id": "costa",
+   "postcode": "NG7 1GX",
+   "name": "Costa"
+  },
+  "pizza_hut|NG71GX|pizza hut restaurants \u2013 dine in": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288573.3802722,
+   "chain_id": "pizza_hut",
+   "postcode": "NG7 1GX",
+   "name": "Pizza Hut Restaurants \u2013 Dine In"
+  },
+  "pizza_express|NG73NW|tops pizza express tops peri peri chicken": {
+   "status": "unverified",
+   "tier": "none",
+   "stored_at": 1786288573.4836721,
+   "chain_id": "pizza_express",
+   "postcode": "NG7 3NW",
+   "name": "Tops Pizza Express Tops Peri Peri Chicken"
   }
  }
 }
