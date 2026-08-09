@@ -21,9 +21,11 @@ reviewer can re-check by hand.
 """
 from __future__ import annotations
 
+import concurrent.futures
 import dataclasses
 
 from ..chains import store_index
+from ..scrapers.base import session as _fresh_session
 from .evidence import Evidence, Status, Tier
 from .sources import (chain_policy, hmc_registry, just_eat, kfc_store_pages,
                       nandos_halal_list)
@@ -95,18 +97,39 @@ def resolve(session, outlet: dict) -> Resolution:
     evidence: list[Evidence] = []
 
     per_outlet = PER_OUTLET_SOURCES.get(chain_id)
+    ev = None
     if per_outlet:
         ev = per_outlet(session, outlet)
         if ev:
             evidence.append(ev)
 
-    if outlet.get("lat") is not None and outlet.get("lng") is not None:
-        evidence.append(hmc_registry.check_outlet(
-            session, name, outlet["lat"], outlet["lng"]))
-
-    if outlet.get("postcode"):
-        evidence.append(just_eat.check_outlet(
-            session, name, outlet["postcode"], outlet.get("address", "")))
+    # A per-outlet source is Tier.BRAND_PER_OUTLET — the strongest tier that
+    # exists. Nothing hmc_registry or just_eat could return would ever
+    # outrank it in the tie-break below, so querying them anyway is pure
+    # wasted sequential network time: this used to run up to three live
+    # fetches back to back for a single outlet (each with its own timeout),
+    # which is why KFC/Nando's outlets were consistently the slowest in a
+    # search even after other latency fixes. Skip straight to chain_policy
+    # (free — no network) once the strongest possible answer is in hand.
+    if not (ev and ev.is_actionable and ev.tier is Tier.BRAND_PER_OUTLET):
+        # These two used to run sequentially — two independent ~8s-timeout
+        # network calls back to back, so a merely-slow (not even timed-out)
+        # response from either one added directly to the other's wait. They
+        # share nothing, so there's no reason not to fire them together.
+        # Each gets its own session — requests.Session isn't documented as
+        # safe for concurrent use from multiple threads.
+        jobs = {}
+        with concurrent.futures.ThreadPoolExecutor(max_workers=2) as pool:
+            if outlet.get("lat") is not None and outlet.get("lng") is not None:
+                jobs["hmc"] = pool.submit(
+                    hmc_registry.check_outlet, _fresh_session(),
+                    name, outlet["lat"], outlet["lng"])
+            if outlet.get("postcode"):
+                jobs["just_eat"] = pool.submit(
+                    just_eat.check_outlet, _fresh_session(),
+                    name, outlet["postcode"], outlet.get("address", ""))
+            for fut in jobs.values():
+                evidence.append(fut.result())
 
     evidence.append(chain_policy.check_chain(chain_id))
 
