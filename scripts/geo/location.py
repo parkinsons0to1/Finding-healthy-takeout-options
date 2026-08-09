@@ -338,6 +338,50 @@ def search_pois(query: str, s=None, limit: int = 6) -> list[dict]:
     return candidates[:limit]
 
 
+#: Hard ceiling on pages fetched per business type, per call. A UK town
+#: centre's "restaurant_cafe" category alone can span 1,000+ establishments
+#: (Wimbledon: 1,142) across 5+ pages of 250; this bounds worst-case latency
+#: without silently reintroducing the truncation bug below for any area a
+#: real search would plausibly hit.
+_FHRS_MAX_PAGES = 12
+
+
+def _fhrs_establishments(s, lat: float, lng: float, radius_miles: float,
+                         type_name: str) -> list[dict]:
+    """Every establishment FSA has for one business type near a point.
+
+    FSA's `maxDistanceLimit` is a coarse pre-filter, not a hard cut — plenty
+    of returned rows sit well outside it (`find_outlets` re-filters by the
+    caller's actual radius afterward) — and results are NOT sorted by
+    distance: the first page of a Wimbledon query mixes 0.1mi and 3mi rows
+    with no pattern. Fetching only page 1, as this used to do, meant that in
+    any area with more matches than one page holds, which page happens to
+    hold a real, nearby chain outlet down to the whims of the API's internal
+    ordering. Wimbledon's restaurant_cafe category alone is 1,142 rows across
+    5 pages — Popeyes, Taco Bell and Tortilla, all genuinely ~0.1mi away,
+    were sitting on pages the app never asked for.
+    """
+    out: list[dict] = []
+    page = 1
+    while page <= _FHRS_MAX_PAGES:
+        params = {"latitude": lat, "longitude": lng,
+                  "maxDistanceLimit": radius_miles, "pageSize": 250,
+                  "pageNumber": page, "businessTypeId": FHRS_TYPES[type_name]}
+        try:
+            r = s.get(FHRS_API, headers=FHRS_HEADERS, params=params, timeout=40)
+            r.raise_for_status()
+            payload = r.json()
+        except Exception:
+            break
+        batch = payload.get("establishments", [])
+        out.extend(batch)
+        total_pages = (payload.get("meta") or {}).get("totalPages", 1)
+        if page >= total_pages or not batch:
+            break
+        page += 1
+    return out
+
+
 def find_outlets(lat: float, lng: float, radius_miles: float = 1.0,
                  s=None, types: list[str] | None = None) -> list[dict]:
     """Every food outlet near a point, from the national FHRS register."""
@@ -346,15 +390,7 @@ def find_outlets(lat: float, lng: float, radius_miles: float = 1.0,
     seen: set[tuple] = set()
     out: list[dict] = []
     for type_name in wanted:
-        params = {"latitude": lat, "longitude": lng,
-                  "maxDistanceLimit": radius_miles, "pageSize": 250,
-                  "businessTypeId": FHRS_TYPES[type_name]}
-        try:
-            r = s.get(FHRS_API, headers=FHRS_HEADERS, params=params, timeout=40)
-            r.raise_for_status()
-            establishments = r.json().get("establishments", [])
-        except Exception:
-            continue
+        establishments = _fhrs_establishments(s, lat, lng, radius_miles, type_name)
         for e in establishments:
             name = (e.get("BusinessName") or "").strip()
             key = (name.lower(), (e.get("AddressLine1") or "").lower())
