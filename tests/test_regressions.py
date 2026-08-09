@@ -574,6 +574,86 @@ def test_protein_scoped_halal_claims_never_cover_the_whole_menu():
     assert not _protein_halal_override("nandos", "Grilled Chicken Breast")
 
 
+def test_resolver_skips_redundant_sources_once_a_strong_answer_exists():
+    """resolve() used to always query hmc_registry AND just_eat for every
+    outlet, even when a per-outlet source (KFC/Nando's own store page —
+    Tier.BRAND_PER_OUTLET, the strongest tier that exists) had already given
+    an actionable answer nothing else could ever outrank. That meant up to
+    three sequential live network calls, each with its own timeout, for a
+    single outlet — measured as the reason KFC/Nando's outlets were
+    consistently the slowest in a search even after other latency fixes,
+    turning a search meant to feel instantaneous into 30+ seconds."""
+    import scripts.halal.resolver as resolver_mod
+    from scripts.halal.evidence import Evidence, Tier, Status
+
+    calls = {"hmc": 0, "just_eat": 0}
+
+    def _fake_hmc(*a, **k):
+        calls["hmc"] += 1
+        from scripts.halal.evidence import unverified
+        return unverified("hmc", "", "not called for this test")
+
+    def _fake_je(*a, **k):
+        calls["just_eat"] += 1
+        from scripts.halal.evidence import unverified
+        return unverified("just_eat", "", "not called for this test")
+
+    orig_hmc = resolver_mod.hmc_registry.check_outlet
+    orig_je = resolver_mod.just_eat.check_outlet
+    orig_sources = dict(resolver_mod.PER_OUTLET_SOURCES)
+    try:
+        resolver_mod.hmc_registry.check_outlet = _fake_hmc
+        resolver_mod.just_eat.check_outlet = _fake_je
+
+        # A chain whose per-outlet source gives a strong, actionable answer.
+        resolver_mod.PER_OUTLET_SOURCES["_test_strong"] = lambda s, o: Evidence(
+            Status.HALAL, Tier.BRAND_PER_OUTLET, "test", "", "test", "")
+        resolver_mod.resolve(object(), {
+            "name": "Test", "chain_id": "_test_strong",
+            "lat": 51.4, "lng": -0.2, "postcode": "SM1 1AA"})
+        assert calls == {"hmc": 0, "just_eat": 0}, \
+            f"redundant sources were queried anyway: {calls}"
+
+        # A chain with no per-outlet source at all must still fall through
+        # to both — the short-circuit must never suppress real evidence.
+        resolver_mod.resolve(object(), {
+            "name": "Test", "chain_id": "_test_none",
+            "lat": 51.4, "lng": -0.2, "postcode": "SM1 1AA"})
+        assert calls == {"hmc": 1, "just_eat": 1}, \
+            f"fallback sources were wrongly skipped: {calls}"
+    finally:
+        resolver_mod.hmc_registry.check_outlet = orig_hmc
+        resolver_mod.just_eat.check_outlet = orig_je
+        resolver_mod.PER_OUTLET_SOURCES.clear()
+        resolver_mod.PER_OUTLET_SOURCES.update(orig_sources)
+
+
+def test_halal_cache_now_stores_unverified_with_a_short_ttl():
+    """Unverified used to never be cached at all, on the reasoning that
+    freezing a transient failure for the normal 14-day TTL would be worse
+    than no cache. True, but the alternative — literally never caching it —
+    has its own cost: most chain outlets in a dense area resolve unverified
+    (no certifier listing, no per-outlet source), so every one of them
+    re-ran its full live network cascade on every single search, forever.
+    Measured at Wimbledon station: a warm search dropped from 29.6s to 3.8s
+    once unverified got a real, if short, TTL instead of none at all."""
+    import tempfile
+    import pathlib
+    from scripts.halal.cache import HalalCache
+
+    with tempfile.TemporaryDirectory() as tmp:
+        cache = HalalCache(path=pathlib.Path(tmp) / "cache.json",
+                           ttl=1000, unverified_ttl=1000)
+        cache.put("kfc", "SM1 1AA", "KFC Test", "unverified", "none")
+        assert cache.get("kfc", "SM1 1AA", "KFC Test") == ("unverified", "none"), \
+            "unverified was not cached at all"
+
+        expired = HalalCache(path=pathlib.Path(tmp) / "cache.json",
+                             ttl=1000, unverified_ttl=-1)
+        assert expired.get("kfc", "SM1 1AA", "KFC Test") is None, \
+            "an expired unverified entry was served anyway"
+
+
 def _run_all() -> int:
     failures = 0
     for name, fn in sorted(globals().items()):
