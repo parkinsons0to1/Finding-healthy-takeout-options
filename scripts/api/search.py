@@ -311,9 +311,19 @@ def search(postcode: str | None = None, lat: float | None = None,
 
     unranked_chains: dict[str, dict] = {}
 
-    for outlet in chain_outlets:
+    # Pass 1 — menu lookup and cache reads only, no network. Splits outlets
+    # into "already know the halal status" and "needs a live resolution",
+    # the latter resolved together in pass 2 rather than one by one here.
+    # Cold-cache halal resolution used to dominate wall-clock time for a
+    # dense area: ~1-2s of live requests per outlet, run sequentially,
+    # turned a single search at a busy location into 30+ seconds — the
+    # opposite of the "feels instantaneous" a hungry user actually wants.
+    ready: dict[int, tuple[str, str]] = {}
+    pending: list[dict] = []
+    outlet_menus: dict[int, list[dict]] = {}
+    for i, outlet in enumerate(chain_outlets):
         chain_id = outlet["chain_id"]
-        menu = [i for i in load_menu(chain_id) if _is_orderable(i)]
+        menu = [it for it in load_menu(chain_id) if _is_orderable(it)]
         if not menu:
             # A chain we recognise but haven't scraped yet (Papa John's,
             # Domino's, Costa…). Say so rather than dropping it: "we know it's
@@ -325,26 +335,60 @@ def search(postcode: str | None = None, lat: float | None = None,
                     "chain_id": chain_id, "name": outlet["business_name"],
                     "distance_miles": outlet["distance_miles"]}
             continue
+        outlet_menus[i] = menu
 
         cache_key = (chain_id, outlet.get("postcode"), outlet["business_name"])
         persisted = _DISK_CACHE.get(chain_id, outlet.get("postcode"),
                                     outlet["business_name"])
         if cache_key in halal_cache:
-            halal_status, halal_tier = halal_cache[cache_key]
+            ready[i] = halal_cache[cache_key]
         elif persisted:
-            halal_status, halal_tier = persisted
+            ready[i] = persisted
             halal_cache[cache_key] = persisted
         elif resolve_halal_live:
-            res = resolve_halal(s, {
-                "name": outlet["business_name"], "chain_id": chain_id,
+            pending.append({"index": i, "outlet": outlet, "cache_key": cache_key})
+        else:
+            ready[i] = ("unverified", "none")
+
+    # Pass 2 — the actual network calls, concurrently. Each worker gets its
+    # own session; requests.Session isn't documented as safe to share across
+    # threads, and correctness here matters more than saving a few sockets.
+    if pending:
+        import concurrent.futures
+
+        def _resolve_one(task: dict) -> tuple[int, str, str]:
+            worker_session = session()
+            outlet = task["outlet"]
+            res = resolve_halal(worker_session, {
+                "name": outlet["business_name"], "chain_id": outlet["chain_id"],
                 "lat": outlet["lat"], "lng": outlet["lng"],
                 "postcode": outlet["postcode"], "address": outlet["address"]})
-            halal_status, halal_tier = str(res.status), res.tier.name.lower()
-            halal_cache[cache_key] = (halal_status, halal_tier)
-            _DISK_CACHE.put(chain_id, outlet.get("postcode"),
-                            outlet["business_name"], halal_status, halal_tier)
-        else:
-            halal_status, halal_tier = "unverified", "none"
+            return task["index"], str(res.status), res.tier.name.lower()
+
+        by_index = {task["index"]: task for task in pending}
+        # Each task hits a different chain's own servers (or a shared
+        # third-party registry a handful of times at most), not one shared
+        # host repeatedly — there's no single endpoint here to be polite to
+        # by capping concurrency low. The real ceiling is how many sockets
+        # this process should reasonably hold open at once, not politeness.
+        with concurrent.futures.ThreadPoolExecutor(
+                max_workers=min(40, len(pending))) as pool:
+            for i, status, tier in pool.map(_resolve_one, pending):
+                ready[i] = (status, tier)
+                task = by_index[i]
+                halal_cache[task["cache_key"]] = (status, tier)
+                _DISK_CACHE.put(task["outlet"]["chain_id"],
+                                task["outlet"].get("postcode"),
+                                task["outlet"]["business_name"], status, tier)
+
+    # Pass 3 — build the scored rows now that every outlet's halal status is
+    # known, exactly as a single sequential pass used to.
+    for i, outlet in enumerate(chain_outlets):
+        if i not in outlet_menus:
+            continue
+        chain_id = outlet["chain_id"]
+        menu = outlet_menus[i]
+        halal_status, halal_tier = ready[i]
 
         outlets_used.append({**outlet, "halal_status": halal_status,
                              "halal_tier": halal_tier, "menu_items": len(menu)})
